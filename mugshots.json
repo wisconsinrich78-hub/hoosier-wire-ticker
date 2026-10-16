@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-16T11:31:52+00:00",
+ "updated": "2026-10-16T12:32:51+00:00",
  "items": [
+  {
+   "key": "ALL_MALONE_JEVAL_2026-10-16",
+   "name": "Jeval Malone",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1792153888,
+   "photo": "photos/ALL_MALONE_JEVAL_2026-10-16.jpg"
+  },
   {
    "key": "VAN_LERCHE_LUCAS_2026-10-16",
    "name": "Lucas Matthew Lerche",
@@ -363,17 +374,6 @@
    "more": 2,
    "ts": 1792063899,
    "photo": "photos/ALL_HUDELSON_ISAIAH_2026-10-15.jpg"
-  },
-  {
-   "key": "ALL_ROBY_TRISHA_2026-10-15",
-   "name": "Trisha Roby",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Placement Of 911Call Prohibited Purpose",
-   "more": 2,
-   "ts": 1792053094,
-   "photo": "photos/ALL_ROBY_TRISHA_2026-10-15.jpg"
   }
  ]
 }
