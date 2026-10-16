@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-16T22:31:51+00:00",
+ "updated": "2026-10-16T23:32:06+00:00",
  "items": [
+  {
+   "key": "MAD_BUTCHER_DATHANIEL_2026-10-16",
+   "name": "Dathaniel Lee Butcher",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1792193503,
+   "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-10-16.jpg"
+  },
+  {
+   "key": "MAD_BAIR_JONAH_2026-10-16",
+   "name": "Jonah R Bair",
+   "age": "53",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1792193500,
+   "photo": null
+  },
+  {
+   "key": "POR_CONROY_MICHAEL_2026-10-16",
+   "name": "Michael Patrick Conroy",
+   "age": "69",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792193499,
+   "photo": "photos/POR_CONROY_MICHAEL_2026-10-16.jpg"
+  },
+  {
+   "key": "POR_BARNES_ANTINO_2026-10-16",
+   "name": "Antino Deonte Barnes",
+   "age": "50",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792193498,
+   "photo": "photos/POR_BARNES_ANTINO_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_RILEY_CREGG_2026-10-16",
+   "name": "Cregg Riley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1792193493,
+   "photo": "photos/ALL_RILEY_CREGG_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_MCARDLE_ARIAL_2026-10-16",
+   "name": "Arial Mcardle",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 4,
+   "ts": 1792193491,
+   "photo": "photos/ALL_MCARDLE_ARIAL_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_BEAVER_JESSICA_2026-10-16",
+   "name": "Jessica Beaver",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Neglect Of Dependent",
+   "more": 1,
+   "ts": 1792193489,
+   "photo": "photos/ALL_BEAVER_JESSICA_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_ANDERSON_NYLA_2026-10-16",
+   "name": "Nyla Anderson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792193487,
+   "photo": "photos/ALL_ANDERSON_NYLA_2026-10-16.jpg"
+  },
   {
    "key": "MAD_MATTHEWS_JONATHAN_2026-10-16",
    "name": "Jonathan Jason Matthews",
@@ -266,28 +354,6 @@
    "photo": null
   },
   {
-   "key": "ALL_WIMES_TONY_2026-10-16",
-   "name": "Tony Wimes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun - Prior Conv Within 15 Yrs",
-   "more": 1,
-   "ts": 1792168308,
-   "photo": "photos/ALL_WIMES_TONY_2026-10-16.jpg"
-  },
-  {
-   "key": "ALL_KING_TRAVIS_2026-10-16",
-   "name": "Travis King",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt Of Court-Civil",
-   "more": 0,
-   "ts": 1792168303,
-   "photo": "photos/ALL_KING_TRAVIS_2026-10-16.jpg"
-  },
-  {
    "key": "MAD_GREENLEE_CLAUD_2026-10-16",
    "name": "Claud Talbert Second Greenlee",
    "age": "59",
@@ -308,28 +374,6 @@
    "more": 0,
    "ts": 1792164722,
    "photo": "photos/MAD_FLIEHMAN_STEPHANEE_2026-10-16.jpg"
-  },
-  {
-   "key": "ALL_SINGH_SATWINDER_2026-10-16",
-   "name": "Satwinder Singh",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 3,
-   "ts": 1792164704,
-   "photo": "photos/ALL_SINGH_SATWINDER_2026-10-16.jpg"
-  },
-  {
-   "key": "ALL_COLBURN_AISLINN_2026-10-16",
-   "name": "Aislinn Colburn",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1792164696,
-   "photo": "photos/ALL_COLBURN_AISLINN_2026-10-16.jpg"
   },
   {
    "key": "VAN_JACKSON_SIRENA_2026-10-16",
@@ -483,28 +527,6 @@
    "charge": "Petition To Revoke Probation",
    "more": 1,
    "ts": 1792125087,
-   "photo": null
-  },
-  {
-   "key": "VAN_HAWKINS_JOSEPH_2026-10-15",
-   "name": "Joseph Tucker Hawkins",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792121500,
-   "photo": "photos/VAN_HAWKINS_JOSEPH_2026-10-15.jpg"
-  },
-  {
-   "key": "VAN_BUTTRUM_JASON_2026-10-15",
-   "name": "Jason Michael Buttrum",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Unlawfull Encroachment On A Law Enforcement Officer / Mc",
-   "more": 0,
-   "ts": 1792121500,
    "photo": null
   }
  ]
