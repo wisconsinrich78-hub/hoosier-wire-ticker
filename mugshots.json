@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-16T20:32:16+00:00",
+ "updated": "2026-10-16T21:31:53+00:00",
  "items": [
+  {
+   "key": "ALL_BATES_JEREMIAH_2026-10-16",
+   "name": "Jeremiah Bates",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery Result In Bodily Injury",
+   "more": 0,
+   "ts": 1792186287,
+   "photo": "photos/ALL_BATES_JEREMIAH_2026-10-16.jpg"
+  },
   {
    "key": "ALL_WHITEHEAD_JOSHUA_2026-10-16",
    "name": "Joshua Whitehead",
@@ -451,17 +462,6 @@
    "more": 0,
    "ts": 1792121500,
    "photo": null
-  },
-  {
-   "key": "ALL_PERRIN_AMBER_2026-10-15",
-   "name": "Amber Perrin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 2,
-   "ts": 1792121495,
-   "photo": "photos/ALL_PERRIN_AMBER_2026-10-15.jpg"
   },
   {
    "key": "VAN_SMITH_MARY_2026-10-15",
