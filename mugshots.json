@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-16T13:33:57+00:00",
+ "updated": "2026-10-16T14:33:04+00:00",
  "items": [
+  {
+   "key": "MAD_THOMAS_AMYA_2026-10-16",
+   "name": "Amya Annmarie Thomas",
+   "age": "22",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-adult knowing presence of child less than 16 years ol",
+   "more": 0,
+   "ts": 1792161169,
+   "photo": "photos/MAD_THOMAS_AMYA_2026-10-16.jpg"
+  },
+  {
+   "key": "POR_FLORES_DEAN_2026-10-16",
+   "name": "Dean Justin Flores",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 3,
+   "ts": 1792161089,
+   "photo": "photos/POR_FLORES_DEAN_2026-10-16.jpg"
+  },
   {
    "key": "MAD_STINES_DUSTIN_2026-10-16",
    "name": "Dustin Joe Stines",
