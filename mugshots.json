@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-16T16:33:21+00:00",
+ "updated": "2026-10-16T17:31:55+00:00",
  "items": [
+  {
+   "key": "MAD_RIDDELL_JOHN_2026-10-16",
+   "name": "John F Junior Riddell",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1792171906,
+   "photo": "photos/MAD_RIDDELL_JOHN_2026-10-16.jpg"
+  },
+  {
+   "key": "VAN_BEASLEY_SHERRY_2026-10-16",
+   "name": "Sherry Denise Beasley",
+   "age": "63",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Racketeer- Corrupt Business Influence",
+   "more": 0,
+   "ts": 1792171891,
+   "photo": null
+  },
+  {
+   "key": "ALL_ZACHERY_JUNEW_2026-10-16",
+   "name": "Junew Zachery",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 4,
+   "ts": 1792171890,
+   "photo": "photos/ALL_ZACHERY_JUNEW_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_DRAY_AUSTEN_2026-10-16",
+   "name": "Austen Dray",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery To Public Safety Official Causing Bodily Injury",
+   "more": 0,
+   "ts": 1792171889,
+   "photo": "photos/ALL_DRAY_AUSTEN_2026-10-16.jpg"
+  },
   {
    "key": "POR_HOLLEY_JASON_2026-10-16",
    "name": "Jason Richard Holley",
@@ -420,17 +464,6 @@
    "photo": "photos/ALL_SARTAIN_CHRISTOPHER_2026-10-15.jpg"
   },
   {
-   "key": "ALL_FLORES_AARON_2026-10-15",
-   "name": "Aaron Flores",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 1,
-   "ts": 1792103485,
-   "photo": "photos/ALL_FLORES_AARON_2026-10-15.jpg"
-  },
-  {
    "key": "VAN_KEMPF_JUSTIN_2026-10-15",
    "name": "Justin Charles Kempf",
    "age": "41",
@@ -440,28 +473,6 @@
    "more": 0,
    "ts": 1792103481,
    "photo": null
-  },
-  {
-   "key": "VAN_PAGE_TIMOTHY_2026-10-15",
-   "name": "Timothy Ray Page",
-   "age": "55",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1792099888,
-   "photo": "photos/VAN_PAGE_TIMOTHY_2026-10-15.jpg"
-  },
-  {
-   "key": "ALL_WICKER_CHRISTOPHER_2026-10-15",
-   "name": "Christopher Wicker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Burglary - Dwelling",
-   "more": 1,
-   "ts": 1792092709,
-   "photo": "photos/ALL_WICKER_CHRISTOPHER_2026-10-15.jpg"
   }
  ]
 }
