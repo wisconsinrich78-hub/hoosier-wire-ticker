@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-16T21:31:53+00:00",
+ "updated": "2026-10-16T22:31:51+00:00",
  "items": [
+  {
+   "key": "MAD_MATTHEWS_JONATHAN_2026-10-16",
+   "name": "Jonathan Jason Matthews",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1792189904,
+   "photo": "photos/MAD_MATTHEWS_JONATHAN_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_WHITLOW_QUASHI_2026-10-16",
+   "name": "Quashi Whitlow",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 3,
+   "ts": 1792189900,
+   "photo": null
+  },
+  {
+   "key": "ALL_SOMMER_MAEANNA_2026-10-16",
+   "name": "Maeanna Sommer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement / Injury, Deadly Weapon, Vehicle W/ Risk Of ",
+   "more": 3,
+   "ts": 1792189898,
+   "photo": "photos/ALL_SOMMER_MAEANNA_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_HARRIS_ANTHONY_2026-10-16",
+   "name": "Anthony Harris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1792189896,
+   "photo": "photos/ALL_HARRIS_ANTHONY_2026-10-16.jpg"
+  },
+  {
+   "key": "VAN_HOOPS_ANDREW_2026-10-16",
+   "name": "Andrew Michael Hoops",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1792189894,
+   "photo": "photos/VAN_HOOPS_ANDREW_2026-10-16.jpg"
+  },
+  {
+   "key": "VAN_LEWIS_DARRELL_2026-10-16",
+   "name": "Darrell Deven Lewis",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792189893,
+   "photo": null
+  },
+  {
+   "key": "VAN_DENTON_JUDITH_2026-10-16",
+   "name": "Judith Ann Denton",
+   "age": "65",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 2,
+   "ts": 1792189893,
+   "photo": "photos/VAN_DENTON_JUDITH_2026-10-16.jpg"
+  },
   {
    "key": "ALL_BATES_JEREMIAH_2026-10-16",
    "name": "Jeremiah Bates",
@@ -321,17 +398,6 @@
    "photo": "photos/POR_PROUD_MARIJO_2026-10-16.jpg"
   },
   {
-   "key": "ALL_MALONE_JEVAL_2026-10-16",
-   "name": "Jeval Malone",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1792153888,
-   "photo": "photos/ALL_MALONE_JEVAL_2026-10-16.jpg"
-  },
-  {
    "key": "VAN_LERCHE_LUCAS_2026-10-16",
    "name": "Lucas Matthew Lerche",
    "age": "48",
@@ -365,17 +431,6 @@
    "photo": "photos/VAN_MARTINEZ_GABRIELA_2026-10-16.jpg"
   },
   {
-   "key": "ALL_BRANGMAN_DAJA_2026-10-16",
-   "name": "Daja Brangman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery To Public Safety Official (Includes Bodily Fluid/Waste)",
-   "more": 1,
-   "ts": 1792139487,
-   "photo": "photos/ALL_BRANGMAN_DAJA_2026-10-16.jpg"
-  },
-  {
    "key": "MAD_RAINEY_JORDAN_2026-10-16",
    "name": "Jordan Maurice Rainey",
    "age": "31",
@@ -396,17 +451,6 @@
    "more": 2,
    "ts": 1792135564,
    "photo": "photos/POR_SCHUBERT_AMBER_2026-10-16.jpg"
-  },
-  {
-   "key": "ALL_WEDLAKE_RICHARD_2026-10-16",
-   "name": "Richard Wedlake",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Fleeing",
-   "more": 4,
-   "ts": 1792132291,
-   "photo": "photos/ALL_WEDLAKE_RICHARD_2026-10-16.jpg"
   },
   {
    "key": "VAN_FAIRCHILD_NATALEE_2026-10-15",
@@ -461,39 +505,6 @@
    "charge": "Unlawfull Encroachment On A Law Enforcement Officer / Mc",
    "more": 0,
    "ts": 1792121500,
-   "photo": null
-  },
-  {
-   "key": "VAN_SMITH_MARY_2026-10-15",
-   "name": "Mary Elizabeth Smith",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792117892,
-   "photo": "photos/VAN_SMITH_MARY_2026-10-15.jpg"
-  },
-  {
-   "key": "VAN_BARFIELD_HEATHER_2026-10-15",
-   "name": "Heather Renee Barfield",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792114304,
-   "photo": "photos/VAN_BARFIELD_HEATHER_2026-10-15.jpg"
-  },
-  {
-   "key": "VAN_BURCHFIELD_JEREMIAH_2026-10-15",
-   "name": "Jeremiah Lee Burchfield",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1792110695,
    "photo": null
   }
  ]
