@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-16T07:30:46+00:00",
+ "updated": "2026-10-16T08:31:36+00:00",
  "items": [
+  {
+   "key": "ALL_BRANGMAN_DAJA_2026-10-16",
+   "name": "Daja Brangman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery To Public Safety Official (Includes Bodily Fluid/Waste)",
+   "more": 1,
+   "ts": 1792139487,
+   "photo": "photos/ALL_BRANGMAN_DAJA_2026-10-16.jpg"
+  },
   {
    "key": "MAD_RAINEY_JORDAN_2026-10-16",
    "name": "Jordan Maurice Rainey",
@@ -363,17 +374,6 @@
    "more": 2,
    "ts": 1792053094,
    "photo": "photos/ALL_ROBY_TRISHA_2026-10-15.jpg"
-  },
-  {
-   "key": "ALL_TANER_SHANE_2026-10-15",
-   "name": "Shane Taner",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1792045884,
-   "photo": "photos/ALL_TANER_SHANE_2026-10-15.jpg"
   }
  ]
 }
