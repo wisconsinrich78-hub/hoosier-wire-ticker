@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-16T10:32:50+00:00",
+ "updated": "2026-10-16T11:31:52+00:00",
  "items": [
+  {
+   "key": "VAN_LERCHE_LUCAS_2026-10-16",
+   "name": "Lucas Matthew Lerche",
+   "age": "48",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery - Against Public Safety Official Engaged In Official",
+   "more": 3,
+   "ts": 1792150285,
+   "photo": null
+  },
   {
    "key": "VAN_WHEELER_BEATRICE_2026-10-16",
    "name": "Beatrice Jean Wheeler",
@@ -294,17 +305,6 @@
    "county": "Vanderburgh County",
    "region": "south",
    "charge": "Child Support - Writ Of Attachment",
-   "more": 0,
-   "ts": 1792099885,
-   "photo": null
-  },
-  {
-   "key": "VAN_GIBSON_AUDREY_2026-10-15",
-   "name": "Audrey Leigh Gibson",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
    "more": 0,
    "ts": 1792099885,
    "photo": null
