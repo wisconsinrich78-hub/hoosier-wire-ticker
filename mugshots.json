@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-16T14:33:04+00:00",
+ "updated": "2026-10-16T15:33:23+00:00",
  "items": [
+  {
+   "key": "MAD_GREENLEE_CLAUD_2026-10-16",
+   "name": "Claud Talbert Second Greenlee",
+   "age": "59",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792164726,
+   "photo": "photos/MAD_GREENLEE_CLAUD_2026-10-16.jpg"
+  },
+  {
+   "key": "MAD_FLIEHMAN_STEPHANEE_2026-10-16",
+   "name": "Stephanee Marie Fliehman",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1792164722,
+   "photo": "photos/MAD_FLIEHMAN_STEPHANEE_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_SINGH_SATWINDER_2026-10-16",
+   "name": "Satwinder Singh",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 3,
+   "ts": 1792164704,
+   "photo": "photos/ALL_SINGH_SATWINDER_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_COLBURN_AISLINN_2026-10-16",
+   "name": "Aislinn Colburn",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1792164696,
+   "photo": "photos/ALL_COLBURN_AISLINN_2026-10-16.jpg"
+  },
+  {
+   "key": "VAN_JACKSON_SIRENA_2026-10-16",
+   "name": "Sirena Kay Jackson",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Mischief [Bm]",
+   "more": 0,
+   "ts": 1792164693,
+   "photo": "photos/VAN_JACKSON_SIRENA_2026-10-16.jpg"
+  },
+  {
+   "key": "POR_SHERMAN_MICHAEL_2026-10-16",
+   "name": "Michael James Sherman",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Intimidation",
+   "more": 0,
+   "ts": 1792164692,
+   "photo": "photos/POR_SHERMAN_MICHAEL_2026-10-16.jpg"
+  },
   {
    "key": "MAD_THOMAS_AMYA_2026-10-16",
    "name": "Amya Annmarie Thomas",
@@ -354,17 +420,6 @@
    "photo": "photos/VAN_PAGE_TIMOTHY_2026-10-15.jpg"
   },
   {
-   "key": "VAN_LITT_OBERA_2026-10-15",
-   "name": "Obera Laneal Litt",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Child Support - Writ Of Attachment",
-   "more": 0,
-   "ts": 1792099885,
-   "photo": null
-  },
-  {
    "key": "ALL_WICKER_CHRISTOPHER_2026-10-15",
    "name": "Christopher Wicker",
    "age": "",
@@ -396,28 +451,6 @@
    "more": 1,
    "ts": 1792092701,
    "photo": "photos/ALL_COOPER_JOHN_2026-10-15.jpg"
-  },
-  {
-   "key": "ALL_RAMOS_ELIZABETH_2026-10-15",
-   "name": "Elizabeth Ramos",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1792085499,
-   "photo": "photos/ALL_RAMOS_ELIZABETH_2026-10-15.jpg"
-  },
-  {
-   "key": "ALL_HUDELSON_ISAIAH_2026-10-15",
-   "name": "Isaiah Hudelson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1792063899,
-   "photo": "photos/ALL_HUDELSON_ISAIAH_2026-10-15.jpg"
   }
  ]
 }
