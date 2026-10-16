@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-16T12:32:51+00:00",
+ "updated": "2026-10-16T13:33:57+00:00",
  "items": [
+  {
+   "key": "MAD_STINES_DUSTIN_2026-10-16",
+   "name": "Dustin Joe Stines",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Public indecency- voyeurism",
+   "more": 1,
+   "ts": 1792157600,
+   "photo": null
+  },
+  {
+   "key": "POR_PROUD_MARIJO_2026-10-16",
+   "name": "Marijo Ellen Proud",
+   "age": "53",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 0,
+   "ts": 1792157527,
+   "photo": "photos/POR_PROUD_MARIJO_2026-10-16.jpg"
+  },
   {
    "key": "ALL_MALONE_JEVAL_2026-10-16",
    "name": "Jeval Malone",
