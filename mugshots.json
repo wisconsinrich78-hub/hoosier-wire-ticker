@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-16T18:32:16+00:00",
+ "updated": "2026-10-16T19:32:21+00:00",
  "items": [
+  {
+   "key": "VAN_MESSIC_JOSHUA_2026-10-16",
+   "name": "Joshua Keith Messic",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 1,
+   "ts": 1792179093,
+   "photo": null
+  },
+  {
+   "key": "ALL_FRANKLIN_OCTAVIUS_2026-10-16",
+   "name": "Octavius Franklin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sexual Misconduct With A Minor/Intercourse",
+   "more": 1,
+   "ts": 1792179092,
+   "photo": "photos/ALL_FRANKLIN_OCTAVIUS_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_BODHIN_SA_2026-10-16",
+   "name": "Sa Bodhin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery On A Person Less Than 14 Years Old",
+   "more": 0,
+   "ts": 1792179090,
+   "photo": "photos/ALL_BODHIN_SA_2026-10-16.jpg"
+  },
   {
    "key": "MAD_KIMMERLING_ANTHONY_2026-10-16",
    "name": "Anthony Bryant Kimmerling",
@@ -453,17 +486,6 @@
    "photo": "photos/ALL_MAYS_JACQUELINE_2026-10-15.jpg"
   },
   {
-   "key": "ALL_FRANZ_CHRISTOPHER_2026-10-15",
-   "name": "Christopher Franz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1792114291,
-   "photo": "photos/ALL_FRANZ_CHRISTOPHER_2026-10-15.jpg"
-  },
-  {
    "key": "VAN_BURCHFIELD_JEREMIAH_2026-10-15",
    "name": "Jeremiah Lee Burchfield",
    "age": "40",
@@ -473,28 +495,6 @@
    "more": 1,
    "ts": 1792110695,
    "photo": null
-  },
-  {
-   "key": "VAN_KING_CORTEZ_2026-10-15",
-   "name": "Cortez King",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 3,
-   "ts": 1792107096,
-   "photo": "photos/VAN_KING_CORTEZ_2026-10-15.jpg"
-  },
-  {
-   "key": "ALL_DENNIS_JOSEPH_2026-10-15",
-   "name": "Joseph Dennis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 1,
-   "ts": 1792107092,
-   "photo": "photos/ALL_DENNIS_JOSEPH_2026-10-15.jpg"
   }
  ]
 }
