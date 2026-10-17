@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-17T01:31:59+00:00",
+ "updated": "2026-10-17T02:32:05+00:00",
  "items": [
+  {
+   "key": "POR_FRANKLIN_ELLIOT_2026-10-16",
+   "name": "Elliot James Franklin",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792204293,
+   "photo": "photos/POR_FRANKLIN_ELLIOT_2026-10-16.jpg"
+  },
+  {
+   "key": "VAN_MARTINEZ_JUAN_2026-10-16",
+   "name": "Juan Santos Martinez",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 0,
+   "ts": 1792204289,
+   "photo": "photos/VAN_MARTINEZ_JUAN_2026-10-16.jpg"
+  },
   {
    "key": "MAD_RICHARDSON_JOE_2026-10-16",
    "name": "Joe Junior Richardson",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792143084,
    "photo": "photos/VAN_MARTINEZ_GABRIELA_2026-10-16.jpg"
-  },
-  {
-   "key": "MAD_RAINEY_JORDAN_2026-10-16",
-   "name": "Jordan Maurice Rainey",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792135676,
-   "photo": "photos/MAD_RAINEY_JORDAN_2026-10-16.jpg"
-  },
-  {
-   "key": "POR_SCHUBERT_AMBER_2026-10-16",
-   "name": "Amber Thea Katherine Schubert",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1792135564,
-   "photo": "photos/POR_SCHUBERT_AMBER_2026-10-16.jpg"
   }
  ]
 }
