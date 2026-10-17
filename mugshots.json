@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-17T09:32:02+00:00",
+ "updated": "2026-10-17T10:31:54+00:00",
  "items": [
+  {
+   "key": "MAD_JOHNSON_DARNELL_2026-10-17",
+   "name": "Darnell Levon Johnson",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792233102,
+   "photo": "photos/MAD_JOHNSON_DARNELL_2026-10-17.jpg"
+  },
   {
    "key": "POR_WHEELER_CASSANDRA_2026-10-17",
    "name": "Cassandra Kaye Wheeler",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792175502,
    "photo": "photos/VAN_GRIFFIN_DUSTIN_2026-10-16.jpg"
-  },
-  {
-   "key": "MAD_RIDDELL_JOHN_2026-10-16",
-   "name": "John F Junior Riddell",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1792171906,
-   "photo": "photos/MAD_RIDDELL_JOHN_2026-10-16.jpg"
   }
  ]
 }
