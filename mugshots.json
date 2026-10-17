@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-17T17:32:18+00:00",
+ "updated": "2026-10-17T19:32:14+00:00",
  "items": [
+  {
+   "key": "MAD_WHETSEL_JERMEY_2026-10-17",
+   "name": "Jermey Allen Whetsel",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession paraphernalia",
+   "more": 2,
+   "ts": 1792265515,
+   "photo": "photos/MAD_WHETSEL_JERMEY_2026-10-17.jpg"
+  },
+  {
+   "key": "ALL_PESINA_ESPERANZA_2026-10-17",
+   "name": "Esperanza Pesina",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 1,
+   "ts": 1792265499,
+   "photo": "photos/ALL_PESINA_ESPERANZA_2026-10-17.jpg"
+  },
+  {
+   "key": "ALL_JONES_LARRY_2026-10-17",
+   "name": "Larry Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1792265497,
+   "photo": "photos/ALL_JONES_LARRY_2026-10-17.jpg"
+  },
   {
    "key": "MAD_JONES_CIARA_2026-10-17",
    "name": "Ciara Jones",
@@ -475,28 +508,6 @@
    "photo": "photos/ALL_MCARDLE_ARIAL_2026-10-16.jpg"
   },
   {
-   "key": "ALL_BEAVER_JESSICA_2026-10-16",
-   "name": "Jessica Beaver",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Neglect Of Dependent",
-   "more": 1,
-   "ts": 1792193489,
-   "photo": "photos/ALL_BEAVER_JESSICA_2026-10-16.jpg"
-  },
-  {
-   "key": "ALL_ANDERSON_NYLA_2026-10-16",
-   "name": "Nyla Anderson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792193487,
-   "photo": "photos/ALL_ANDERSON_NYLA_2026-10-16.jpg"
-  },
-  {
    "key": "MAD_MATTHEWS_JONATHAN_2026-10-16",
    "name": "Jonathan Jason Matthews",
    "age": "35",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792189894,
    "photo": "photos/VAN_HOOPS_ANDREW_2026-10-16.jpg"
-  },
-  {
-   "key": "VAN_LEWIS_DARRELL_2026-10-16",
-   "name": "Darrell Deven Lewis",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792189893,
-   "photo": null
   }
  ]
 }
