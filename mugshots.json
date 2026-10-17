@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-16T23:32:06+00:00",
+ "updated": "2026-10-17T00:32:07+00:00",
  "items": [
+  {
+   "key": "ALL_SMITH_TROY_2026-10-16",
+   "name": "Troy Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
+   "more": 0,
+   "ts": 1792197089,
+   "photo": "photos/ALL_SMITH_TROY_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_PARKER_ALESHA_2026-10-16",
+   "name": "Alesha Parker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1792197087,
+   "photo": null
+  },
+  {
+   "key": "ALL_CAUDILL_DUSTIN_2026-10-16",
+   "name": "Dustin Caudill",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Habitual Traffic Violator",
+   "more": 0,
+   "ts": 1792197085,
+   "photo": null
+  },
   {
    "key": "MAD_BUTCHER_DATHANIEL_2026-10-16",
    "name": "Dathaniel Lee Butcher",
@@ -288,17 +321,6 @@
    "photo": "photos/VAN_GRIFFIN_DUSTIN_2026-10-16.jpg"
   },
   {
-   "key": "ALL_HATFIELD_BARRY_2026-10-16",
-   "name": "Barry Hatfield",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail To Register - Prior",
-   "more": 0,
-   "ts": 1792175500,
-   "photo": "photos/ALL_HATFIELD_BARRY_2026-10-16.jpg"
-  },
-  {
    "key": "MAD_RIDDELL_JOHN_2026-10-16",
    "name": "John F Junior Riddell",
    "age": "46",
@@ -319,28 +341,6 @@
    "more": 0,
    "ts": 1792171891,
    "photo": null
-  },
-  {
-   "key": "ALL_ZACHERY_JUNEW_2026-10-16",
-   "name": "Junew Zachery",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 4,
-   "ts": 1792171890,
-   "photo": "photos/ALL_ZACHERY_JUNEW_2026-10-16.jpg"
-  },
-  {
-   "key": "ALL_DRAY_AUSTEN_2026-10-16",
-   "name": "Austen Dray",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery To Public Safety Official Causing Bodily Injury",
-   "more": 0,
-   "ts": 1792171889,
-   "photo": "photos/ALL_DRAY_AUSTEN_2026-10-16.jpg"
   },
   {
    "key": "POR_HOLLEY_JASON_2026-10-16",
