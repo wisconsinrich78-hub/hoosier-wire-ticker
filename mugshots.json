@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-17T03:32:03+00:00",
+ "updated": "2026-10-17T04:32:13+00:00",
  "items": [
+  {
+   "key": "POR_DURFEY_MADISON_2026-10-16",
+   "name": "Madison Lynne Durfey",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Strangulation (Simple)- Def. Applies Pressure To Throat Or Neck Or Obs",
+   "more": 2,
+   "ts": 1792211503,
+   "photo": null
+  },
+  {
+   "key": "VAN_BASHAM_CHRISTOPHER_2026-10-16",
+   "name": "Christopher Allen Basham",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 5,
+   "ts": 1792211500,
+   "photo": null
+  },
+  {
+   "key": "ALL_SHIPBAUGH_JEFFREY_2026-10-16",
+   "name": "Jeffrey Shipbaugh",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1792211499,
+   "photo": "photos/ALL_SHIPBAUGH_JEFFREY_2026-10-16.jpg"
+  },
+  {
+   "key": "ALL_KIPENDO_SETH_2026-10-16",
+   "name": "Seth Kipendo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1792211497,
+   "photo": "photos/ALL_KIPENDO_SETH_2026-10-16.jpg"
+  },
   {
    "key": "MAD_WALLACE_DANIEL_2026-10-16",
    "name": "Daniel Bailey Wallace",
@@ -321,17 +365,6 @@
    "photo": "photos/ALL_GULLEY_STEPHANIE_2026-10-16.jpg"
   },
   {
-   "key": "ALL_AMOS_WILLIE_2026-10-16",
-   "name": "Willie Amos",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1792182688,
-   "photo": "photos/ALL_AMOS_WILLIE_2026-10-16.jpg"
-  },
-  {
    "key": "VAN_MESSIC_JOSHUA_2026-10-16",
    "name": "Joshua Keith Messic",
    "age": "44",
@@ -341,17 +374,6 @@
    "more": 1,
    "ts": 1792179093,
    "photo": null
-  },
-  {
-   "key": "ALL_FRANKLIN_OCTAVIUS_2026-10-16",
-   "name": "Octavius Franklin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sexual Misconduct With A Minor/Intercourse",
-   "more": 1,
-   "ts": 1792179092,
-   "photo": "photos/ALL_FRANKLIN_OCTAVIUS_2026-10-16.jpg"
   },
   {
    "key": "MAD_KIMMERLING_ANTHONY_2026-10-16",
@@ -505,28 +527,6 @@
    "charge": "Public indecency- voyeurism",
    "more": 1,
    "ts": 1792157600,
-   "photo": null
-  },
-  {
-   "key": "POR_PROUD_MARIJO_2026-10-16",
-   "name": "Marijo Ellen Proud",
-   "age": "53",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 0,
-   "ts": 1792157527,
-   "photo": "photos/POR_PROUD_MARIJO_2026-10-16.jpg"
-  },
-  {
-   "key": "VAN_LERCHE_LUCAS_2026-10-16",
-   "name": "Lucas Matthew Lerche",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery - Against Public Safety Official Engaged In Official",
-   "more": 3,
-   "ts": 1792150285,
    "photo": null
   }
  ]
