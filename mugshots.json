@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-17T05:32:17+00:00",
+ "updated": "2026-10-17T06:32:08+00:00",
  "items": [
+  {
+   "key": "MAD_REYNOLDS_MELISSA_2026-10-17",
+   "name": "Melissa Ann Reynolds",
+   "age": "54",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1792218718,
+   "photo": "photos/MAD_REYNOLDS_MELISSA_2026-10-17.jpg"
+  },
+  {
+   "key": "MAD_GOINS_ISAIAH_2026-10-17",
+   "name": "Isaiah Ryan Goins",
+   "age": "21",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated",
+   "more": 3,
+   "ts": 1792218709,
+   "photo": null
+  },
+  {
+   "key": "ALL_MORRIS_DEON_2026-10-17",
+   "name": "Deon Morris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1792218699,
+   "photo": "photos/ALL_MORRIS_DEON_2026-10-17.jpg"
+  },
+  {
+   "key": "ALL_GROCE_CASSANDRA_2026-10-17",
+   "name": "Cassandra Groce",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine",
+   "more": 2,
+   "ts": 1792218696,
+   "photo": "photos/ALL_GROCE_CASSANDRA_2026-10-17.jpg"
+  },
   {
    "key": "MAD_CONN_GARY_2026-10-17",
    "name": "Gary Mckee Third Conn",
@@ -332,17 +376,6 @@
    "photo": "photos/ALL_SOMMER_MAEANNA_2026-10-16.jpg"
   },
   {
-   "key": "ALL_HARRIS_ANTHONY_2026-10-16",
-   "name": "Anthony Harris",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1792189896,
-   "photo": "photos/ALL_HARRIS_ANTHONY_2026-10-16.jpg"
-  },
-  {
    "key": "VAN_HOOPS_ANDREW_2026-10-16",
    "name": "Andrew Michael Hoops",
    "age": "35",
@@ -374,17 +407,6 @@
    "more": 2,
    "ts": 1792189893,
    "photo": "photos/VAN_DENTON_JUDITH_2026-10-16.jpg"
-  },
-  {
-   "key": "ALL_BATES_JEREMIAH_2026-10-16",
-   "name": "Jeremiah Bates",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery Result In Bodily Injury",
-   "more": 0,
-   "ts": 1792186287,
-   "photo": "photos/ALL_BATES_JEREMIAH_2026-10-16.jpg"
   },
   {
    "key": "VAN_MESSIC_JOSHUA_2026-10-16",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792164693,
    "photo": "photos/VAN_JACKSON_SIRENA_2026-10-16.jpg"
-  },
-  {
-   "key": "POR_SHERMAN_MICHAEL_2026-10-16",
-   "name": "Michael James Sherman",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Intimidation",
-   "more": 0,
-   "ts": 1792164692,
-   "photo": "photos/POR_SHERMAN_MICHAEL_2026-10-16.jpg"
-  },
-  {
-   "key": "MAD_THOMAS_AMYA_2026-10-16",
-   "name": "Amya Annmarie Thomas",
-   "age": "22",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery-adult knowing presence of child less than 16 years ol",
-   "more": 0,
-   "ts": 1792161169,
-   "photo": "photos/MAD_THOMAS_AMYA_2026-10-16.jpg"
   }
  ]
 }
