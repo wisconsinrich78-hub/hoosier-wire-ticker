@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-17T06:32:08+00:00",
+ "updated": "2026-10-17T07:32:16+00:00",
  "items": [
+  {
+   "key": "VAN_CARMAN_NAOMI_2026-10-17",
+   "name": "Naomi Ann Nicole Carman",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
+   "more": 2,
+   "ts": 1792222294,
+   "photo": "photos/VAN_CARMAN_NAOMI_2026-10-17.jpg"
+  },
+  {
+   "key": "ALL_FREEMAN_CHARLES_2026-10-17",
+   "name": "Charles Freeman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > Or = To .15%",
+   "more": 1,
+   "ts": 1792222293,
+   "photo": "photos/ALL_FREEMAN_CHARLES_2026-10-17.jpg"
+  },
+  {
+   "key": "ALL_ANDERSON_DELEON_2026-10-17",
+   "name": "Deleon Anderson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 0,
+   "ts": 1792222291,
+   "photo": "photos/ALL_ANDERSON_DELEON_2026-10-17.jpg"
+  },
   {
    "key": "MAD_REYNOLDS_MELISSA_2026-10-17",
    "name": "Melissa Ann Reynolds",
@@ -354,28 +387,6 @@
    "photo": "photos/MAD_MATTHEWS_JONATHAN_2026-10-16.jpg"
   },
   {
-   "key": "ALL_WHITLOW_QUASHI_2026-10-16",
-   "name": "Quashi Whitlow",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 3,
-   "ts": 1792189900,
-   "photo": null
-  },
-  {
-   "key": "ALL_SOMMER_MAEANNA_2026-10-16",
-   "name": "Maeanna Sommer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement / Injury, Deadly Weapon, Vehicle W/ Risk Of ",
-   "more": 3,
-   "ts": 1792189898,
-   "photo": "photos/ALL_SOMMER_MAEANNA_2026-10-16.jpg"
-  },
-  {
    "key": "VAN_HOOPS_ANDREW_2026-10-16",
    "name": "Andrew Michael Hoops",
    "age": "35",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792164722,
    "photo": "photos/MAD_FLIEHMAN_STEPHANEE_2026-10-16.jpg"
-  },
-  {
-   "key": "VAN_JACKSON_SIRENA_2026-10-16",
-   "name": "Sirena Kay Jackson",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Mischief [Bm]",
-   "more": 0,
-   "ts": 1792164693,
-   "photo": "photos/VAN_JACKSON_SIRENA_2026-10-16.jpg"
   }
  ]
 }
