@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-17T07:32:16+00:00",
+ "updated": "2026-10-17T08:32:16+00:00",
  "items": [
+  {
+   "key": "POR_BARNETT_DEREK_2026-10-17",
+   "name": "Derek Zachery Barnett",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft",
+   "more": 0,
+   "ts": 1792225892,
+   "photo": "photos/POR_BARNETT_DEREK_2026-10-17.jpg"
+  },
   {
    "key": "VAN_CARMAN_NAOMI_2026-10-17",
    "name": "Naomi Ann Nicole Carman",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792164726,
    "photo": "photos/MAD_GREENLEE_CLAUD_2026-10-16.jpg"
-  },
-  {
-   "key": "MAD_FLIEHMAN_STEPHANEE_2026-10-16",
-   "name": "Stephanee Marie Fliehman",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1792164722,
-   "photo": "photos/MAD_FLIEHMAN_STEPHANEE_2026-10-16.jpg"
   }
  ]
 }
