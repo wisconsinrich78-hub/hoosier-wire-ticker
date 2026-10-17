@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-17T00:32:07+00:00",
+ "updated": "2026-10-17T01:31:59+00:00",
  "items": [
+  {
+   "key": "MAD_RICHARDSON_JOE_2026-10-16",
+   "name": "Joe Junior Richardson",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1792200704,
+   "photo": null
+  },
+  {
+   "key": "VAN_SAUER_JENNIFER_2026-10-16",
+   "name": "Jennifer Aline Sauer",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 2,
+   "ts": 1792200686,
+   "photo": "photos/VAN_SAUER_JENNIFER_2026-10-16.jpg"
+  },
+  {
+   "key": "VAN_STJUSTE_DEE_2026-10-16",
+   "name": "Dee St Juste",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1792200685,
+   "photo": null
+  },
   {
    "key": "ALL_SMITH_TROY_2026-10-16",
    "name": "Troy Smith",
@@ -495,39 +528,6 @@
    "more": 2,
    "ts": 1792135564,
    "photo": "photos/POR_SCHUBERT_AMBER_2026-10-16.jpg"
-  },
-  {
-   "key": "VAN_FAIRCHILD_NATALEE_2026-10-15",
-   "name": "Natalee Sue Fairchild",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Racketeer- Corrupt Business Influence",
-   "more": 0,
-   "ts": 1792132288,
-   "photo": "photos/VAN_FAIRCHILD_NATALEE_2026-10-15.jpg"
-  },
-  {
-   "key": "VAN_SANDERS_JOSHUA_2026-10-15",
-   "name": "Joshua Michael Sanders",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Simple Assault - Nibrs",
-   "more": 0,
-   "ts": 1792128690,
-   "photo": "photos/VAN_SANDERS_JOSHUA_2026-10-15.jpg"
-  },
-  {
-   "key": "VAN_CLARK_ANDREW_2026-10-15",
-   "name": "Andrew Thomas Earl Clark",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 1,
-   "ts": 1792125087,
-   "photo": null
   }
  ]
 }
