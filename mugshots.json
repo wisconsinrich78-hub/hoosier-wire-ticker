@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-17T02:32:05+00:00",
+ "updated": "2026-10-17T03:32:03+00:00",
  "items": [
+  {
+   "key": "MAD_WALLACE_DANIEL_2026-10-16",
+   "name": "Daniel Bailey Wallace",
+   "age": "30",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792207917,
+   "photo": "photos/MAD_WALLACE_DANIEL_2026-10-16.jpg"
+  },
+  {
+   "key": "MAD_WATKINS_CALEB_2026-10-16",
+   "name": "Caleb Ruben Watkins",
+   "age": "33",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792207917,
+   "photo": null
+  },
+  {
+   "key": "ALL_COBB_DAVID_2026-10-16",
+   "name": "David Cobb",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish - Prior Drug Offense Conviction",
+   "more": 1,
+   "ts": 1792207888,
+   "photo": "photos/ALL_COBB_DAVID_2026-10-16.jpg"
+  },
   {
    "key": "POR_FRANKLIN_ELLIOT_2026-10-16",
    "name": "Elliot James Franklin",
@@ -321,17 +354,6 @@
    "photo": "photos/ALL_FRANKLIN_OCTAVIUS_2026-10-16.jpg"
   },
   {
-   "key": "ALL_BODHIN_SA_2026-10-16",
-   "name": "Sa Bodhin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery On A Person Less Than 14 Years Old",
-   "more": 0,
-   "ts": 1792179090,
-   "photo": "photos/ALL_BODHIN_SA_2026-10-16.jpg"
-  },
-  {
    "key": "MAD_KIMMERLING_ANTHONY_2026-10-16",
    "name": "Anthony Bryant Kimmerling",
    "age": "35",
@@ -506,28 +528,6 @@
    "more": 3,
    "ts": 1792150285,
    "photo": null
-  },
-  {
-   "key": "VAN_WHEELER_BEATRICE_2026-10-16",
-   "name": "Beatrice Jean Wheeler",
-   "age": "57",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Prior",
-   "more": 1,
-   "ts": 1792146689,
-   "photo": "photos/VAN_WHEELER_BEATRICE_2026-10-16.jpg"
-  },
-  {
-   "key": "VAN_MARTINEZ_GABRIELA_2026-10-16",
-   "name": "Gabriela Yeyssi Marie Martinez",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Family Offense- Neglect Of Dependant/Child Violations",
-   "more": 0,
-   "ts": 1792143084,
-   "photo": "photos/VAN_MARTINEZ_GABRIELA_2026-10-16.jpg"
   }
  ]
 }
