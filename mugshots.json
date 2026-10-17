@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-17T04:32:13+00:00",
+ "updated": "2026-10-17T05:32:17+00:00",
  "items": [
+  {
+   "key": "MAD_CONN_GARY_2026-10-17",
+   "name": "Gary Mckee Third Conn",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792215100,
+   "photo": "photos/MAD_CONN_GARY_2026-10-17.jpg"
+  },
+  {
+   "key": "VAN_HANCOCK_THOMAS_2026-10-16",
+   "name": "Thomas Wayne Hancock",
+   "age": "61",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
+   "more": 3,
+   "ts": 1792215093,
+   "photo": null
+  },
+  {
+   "key": "ALL_BUTCHERBARLAG_DANIEL_2026-10-17",
+   "name": "Daniel Butcherbarlag",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Reckless Driving / Unreasonable High Or Low Speed",
+   "more": 1,
+   "ts": 1792215091,
+   "photo": "photos/ALL_BUTCHERBARLAG_DANIEL_2026-10-17.jpg"
+  },
+  {
+   "key": "ALL_BLACK_RANDY_2026-10-17",
+   "name": "Randy Black",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1792215088,
+   "photo": "photos/ALL_BLACK_RANDY_2026-10-17.jpg"
+  },
   {
    "key": "POR_DURFEY_MADISON_2026-10-16",
    "name": "Madison Lynne Durfey",
@@ -343,28 +387,6 @@
    "photo": "photos/ALL_BATES_JEREMIAH_2026-10-16.jpg"
   },
   {
-   "key": "ALL_WHITEHEAD_JOSHUA_2026-10-16",
-   "name": "Joshua Whitehead",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Burglary",
-   "more": 1,
-   "ts": 1792182692,
-   "photo": "photos/ALL_WHITEHEAD_JOSHUA_2026-10-16.jpg"
-  },
-  {
-   "key": "ALL_GULLEY_STEPHANIE_2026-10-16",
-   "name": "Stephanie Gulley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Burglary",
-   "more": 0,
-   "ts": 1792182690,
-   "photo": "photos/ALL_GULLEY_STEPHANIE_2026-10-16.jpg"
-  },
-  {
    "key": "VAN_MESSIC_JOSHUA_2026-10-16",
    "name": "Joshua Keith Messic",
    "age": "44",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792161169,
    "photo": "photos/MAD_THOMAS_AMYA_2026-10-16.jpg"
-  },
-  {
-   "key": "POR_FLORES_DEAN_2026-10-16",
-   "name": "Dean Justin Flores",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 3,
-   "ts": 1792161089,
-   "photo": "photos/POR_FLORES_DEAN_2026-10-16.jpg"
-  },
-  {
-   "key": "MAD_STINES_DUSTIN_2026-10-16",
-   "name": "Dustin Joe Stines",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Public indecency- voyeurism",
-   "more": 1,
-   "ts": 1792157600,
-   "photo": null
   }
  ]
 }
