@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T09:32:06+00:00",
+ "updated": "2026-10-18T10:32:39+00:00",
  "items": [
+  {
+   "key": "POR_CORTES_DYLAN_2026-10-18",
+   "name": "Dylan Curtis Cortes",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 2,
+   "ts": 1792319501,
+   "photo": "photos/POR_CORTES_DYLAN_2026-10-18.jpg"
+  },
+  {
+   "key": "POR_SPARKS_JOSEPH_2026-10-18",
+   "name": "Joseph David Sparks",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 1,
+   "ts": 1792319499,
+   "photo": null
+  },
   {
    "key": "MAD_STADICK_JOSEPH_2026-10-18",
    "name": "Joseph A Stadick",
@@ -506,28 +528,6 @@
    "more": 2,
    "ts": 1792265497,
    "photo": "photos/ALL_JONES_LARRY_2026-10-17.jpg"
-  },
-  {
-   "key": "MAD_JONES_CIARA_2026-10-17",
-   "name": "Ciara Jones",
-   "age": "21",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792258315,
-   "photo": null
-  },
-  {
-   "key": "MAD_WILLIAMS_SIERRA_2026-10-17",
-   "name": "Sierra Michelle Williams",
-   "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1792254719,
-   "photo": "photos/MAD_WILLIAMS_SIERRA_2026-10-17.jpg"
   }
  ]
 }
