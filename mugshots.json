@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-18T04:31:53+00:00",
+ "updated": "2026-10-18T04:33:41+00:00",
  "items": [
+  {
+   "key": "MAD_MERLINYSILVA_BRYAN_2026-10-17",
+   "name": "Bryan Merliny Silva",
+   "age": "30",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1792297922,
+   "photo": "photos/MAD_MERLINYSILVA_BRYAN_2026-10-17.jpg"
+  },
   {
    "key": "POR_MILLER_KATHRINE_2026-10-17",
    "name": "Kathrine Theresa Miller",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792207917,
    "photo": null
-  },
-  {
-   "key": "POR_FRANKLIN_ELLIOT_2026-10-16",
-   "name": "Elliot James Franklin",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792204293,
-   "photo": "photos/POR_FRANKLIN_ELLIOT_2026-10-16.jpg"
   }
  ]
 }
