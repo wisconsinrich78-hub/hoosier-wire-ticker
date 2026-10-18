@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-18T01:32:35+00:00",
+ "updated": "2026-10-18T02:32:40+00:00",
  "items": [
+  {
+   "key": "POR_WILCOX_TAMIKA_2026-10-17",
+   "name": "Tamika Kristine Wilcox",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Leaving The Scene Of A Crash- Injury Crash",
+   "more": 0,
+   "ts": 1792290706,
+   "photo": "photos/POR_WILCOX_TAMIKA_2026-10-17.jpg"
+  },
+  {
+   "key": "VAN_BELL_QUATREZ_2026-10-17",
+   "name": "Quatrez Devontae Bell",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor",
+   "more": 0,
+   "ts": 1792290694,
+   "photo": null
+  },
+  {
+   "key": "VAN_FULKS_JASON_2026-10-17",
+   "name": "Jason Duane Fulks",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Racketeer- Corrupt Business Influence",
+   "more": 0,
+   "ts": 1792290694,
+   "photo": "photos/VAN_FULKS_JASON_2026-10-17.jpg"
+  },
   {
    "key": "POR_AKERS_TERRY_2026-10-17",
    "name": "Terry Eugene Akers",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792193503,
    "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-10-16.jpg"
-  },
-  {
-   "key": "MAD_BAIR_JONAH_2026-10-16",
-   "name": "Jonah R Bair",
-   "age": "53",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery (A/M) Simple",
-   "more": 0,
-   "ts": 1792193500,
-   "photo": null
-  },
-  {
-   "key": "POR_CONROY_MICHAEL_2026-10-16",
-   "name": "Michael Patrick Conroy",
-   "age": "69",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792193499,
-   "photo": "photos/POR_CONROY_MICHAEL_2026-10-16.jpg"
-  },
-  {
-   "key": "POR_BARNES_ANTINO_2026-10-16",
-   "name": "Antino Deonte Barnes",
-   "age": "50",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792193498,
-   "photo": "photos/POR_BARNES_ANTINO_2026-10-16.jpg"
   }
  ]
 }
