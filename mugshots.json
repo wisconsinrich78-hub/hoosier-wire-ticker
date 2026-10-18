@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-18T15:32:05+00:00",
+ "updated": "2026-10-18T16:32:33+00:00",
  "items": [
+  {
+   "key": "MAD_BUENA_ANDREA_2026-10-18",
+   "name": "Andrea Carla Buena",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792341108,
+   "photo": null
+  },
+  {
+   "key": "POR_WILICHOWSKI_AMANDA_2026-10-18",
+   "name": "Amanda J Wilichowski",
+   "age": "46",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1792341105,
+   "photo": null
+  },
+  {
+   "key": "ALL_HARMON_ADRIAN_2026-10-18",
+   "name": "Adrian Harmon",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1792341100,
+   "photo": "photos/ALL_HARMON_ADRIAN_2026-10-18.jpg"
+  },
+  {
+   "key": "ALL_DAGUE_MICHAEL_2026-10-18",
+   "name": "Michael Dague",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1792341099,
+   "photo": "photos/ALL_DAGUE_MICHAEL_2026-10-18.jpg"
+  },
   {
    "key": "VAN_FLORESMORALES_YESENIA_2026-10-18",
    "name": "Yesenia Yamileth Flores Morales",
@@ -475,17 +519,6 @@
    "photo": "photos/ALL_GOMEZ_CARLOS_2026-10-17.jpg"
   },
   {
-   "key": "POR_WILCOX_TAMIKA_2026-10-17",
-   "name": "Tamika Kristine Wilcox",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Leaving The Scene Of A Crash- Injury Crash",
-   "more": 0,
-   "ts": 1792290706,
-   "photo": "photos/POR_WILCOX_TAMIKA_2026-10-17.jpg"
-  },
-  {
    "key": "VAN_BELL_QUATREZ_2026-10-17",
    "name": "Quatrez Devontae Bell",
    "age": "34",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792290694,
    "photo": null
-  },
-  {
-   "key": "VAN_FULKS_JASON_2026-10-17",
-   "name": "Jason Duane Fulks",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Racketeer- Corrupt Business Influence",
-   "more": 0,
-   "ts": 1792290694,
-   "photo": "photos/VAN_FULKS_JASON_2026-10-17.jpg"
-  },
-  {
-   "key": "VAN_MILLER_SHERRY_2026-10-17",
-   "name": "Sherry Lavonn Miller",
-   "age": "65",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792287100,
-   "photo": "photos/VAN_MILLER_SHERRY_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_SMITH_VANTONIO_2026-10-17",
-   "name": "Vantonio Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Machine Gun",
-   "more": 0,
-   "ts": 1792283494,
-   "photo": "photos/ALL_SMITH_VANTONIO_2026-10-17.jpg"
   }
  ]
 }
