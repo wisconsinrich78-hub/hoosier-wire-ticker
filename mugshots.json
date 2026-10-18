@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T11:32:05+00:00",
+ "updated": "2026-10-18T12:32:03+00:00",
  "items": [
+  {
+   "key": "ALL_SUMMERS_DARION_2026-10-18",
+   "name": "Darion Summers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Firearm Without A License By Convicted Felon",
+   "more": 1,
+   "ts": 1792326693,
+   "photo": "photos/ALL_SUMMERS_DARION_2026-10-18.jpg"
+  },
+  {
+   "key": "ALL_CROY_PAXTON_2026-10-18",
+   "name": "Paxton Croy",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 4,
+   "ts": 1792326691,
+   "photo": "photos/ALL_CROY_PAXTON_2026-10-18.jpg"
+  },
   {
    "key": "ALL_WOODS_SCOTT_2026-10-18",
    "name": "Scott Woods",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792269096,
    "photo": "photos/ALL_CHARLTON_DARIN_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_CANNON_SEANKERIAN_2026-10-17",
-   "name": "Seankerian Cannon",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 1,
-   "ts": 1792269094,
-   "photo": "photos/ALL_CANNON_SEANKERIAN_2026-10-17.jpg"
-  },
-  {
-   "key": "MAD_WHETSEL_JERMEY_2026-10-17",
-   "name": "Jermey Allen Whetsel",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession paraphernalia",
-   "more": 2,
-   "ts": 1792265515,
-   "photo": "photos/MAD_WHETSEL_JERMEY_2026-10-17.jpg"
   }
  ]
 }
