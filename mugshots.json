@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-18T08:32:03+00:00",
+ "updated": "2026-10-18T09:32:06+00:00",
  "items": [
+  {
+   "key": "MAD_STADICK_JOSEPH_2026-10-18",
+   "name": "Joseph A Stadick",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792315916,
+   "photo": null
+  },
+  {
+   "key": "MAD_RAMIREZNICOLAS_MIGUEL_2026-10-18",
+   "name": "Miguel Ramirez-Nicolas",
+   "age": "27",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792315911,
+   "photo": null
+  },
+  {
+   "key": "ALL_KINGMCELEVENE_SAMYIONN_2026-10-18",
+   "name": "Samyionn Kingmcelevene",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Machine Gun",
+   "more": 0,
+   "ts": 1792315894,
+   "photo": "photos/ALL_KINGMCELEVENE_SAMYIONN_2026-10-18.jpg"
+  },
+  {
+   "key": "ALL_GONZALEZ_ERIKA_2026-10-18",
+   "name": "Erika Gonzalez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1792315892,
+   "photo": "photos/ALL_GONZALEZ_ERIKA_2026-10-18.jpg"
+  },
   {
    "key": "MAD_RUDE_AUSTIN_2026-10-18",
    "name": "Austin Taylor Rude",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1792254719,
    "photo": "photos/MAD_WILLIAMS_SIERRA_2026-10-17.jpg"
-  },
-  {
-   "key": "POR_MCMILLON_JAMYCE_2026-10-17",
-   "name": "Jamyce J Mcmillon",
-   "age": "20",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
-   "more": 0,
-   "ts": 1792251098,
-   "photo": "photos/POR_MCMILLON_JAMYCE_2026-10-17.jpg"
-  },
-  {
-   "key": "POR_WILLIAMS_RAYJEAN_2026-10-17",
-   "name": "Rayjean Jeanna Williams",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 0,
-   "ts": 1792251097,
-   "photo": "photos/POR_WILLIAMS_RAYJEAN_2026-10-17.jpg"
-  },
-  {
-   "key": "VAN_MCCURTY_KAYVELL_2026-10-17",
-   "name": "Kayvell Keshay Mccurty",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
-   "more": 1,
-   "ts": 1792247498,
-   "photo": "photos/VAN_MCCURTY_KAYVELL_2026-10-17.jpg"
-  },
-  {
-   "key": "VAN_VANCE_KRISTAN_2026-10-17",
-   "name": "Kristan Mckenna Vance",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1792236692,
-   "photo": "photos/VAN_VANCE_KRISTAN_2026-10-17.jpg"
   }
  ]
 }
