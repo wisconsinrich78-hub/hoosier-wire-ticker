@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-18T20:32:15+00:00",
+ "updated": "2026-10-18T21:32:09+00:00",
  "items": [
+  {
+   "key": "ALL_SMITH_JAROD_2026-10-18",
+   "name": "Jarod Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
+   "more": 0,
+   "ts": 1792359094,
+   "photo": "photos/ALL_SMITH_JAROD_2026-10-18.jpg"
+  },
   {
    "key": "ALL_STANLEY_MARTIN_2026-10-18",
    "name": "Martin Stanley",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792294311,
    "photo": "photos/ALL_GRIFFITH_MICHAEL_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_GOMEZ_CARLOS_2026-10-17",
-   "name": "Carlos Gomez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Habitual Traffic Violator",
-   "more": 1,
-   "ts": 1792294309,
-   "photo": "photos/ALL_GOMEZ_CARLOS_2026-10-17.jpg"
   }
  ]
 }
