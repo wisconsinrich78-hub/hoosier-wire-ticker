@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-18T12:32:03+00:00",
+ "updated": "2026-10-18T14:32:38+00:00",
  "items": [
+  {
+   "key": "POR_MCGUIRE_EDWARD_2026-10-18",
+   "name": "Edward Earl Mcguire",
+   "age": "66",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1792333920,
+   "photo": "photos/POR_MCGUIRE_EDWARD_2026-10-18.jpg"
+  },
+  {
+   "key": "VAN_CHOATE_WILLIAM_2026-10-18",
+   "name": "William David Choate",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1792333917,
+   "photo": null
+  },
+  {
+   "key": "ALL_SRIPENG_SATAWAT_2026-10-18",
+   "name": "Satawat Sripeng",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > .08% And < .15%",
+   "more": 1,
+   "ts": 1792333915,
+   "photo": "photos/ALL_SRIPENG_SATAWAT_2026-10-18.jpg"
+  },
   {
    "key": "ALL_SUMMERS_DARION_2026-10-18",
    "name": "Darion Summers",
@@ -464,17 +497,6 @@
    "photo": "photos/VAN_FULKS_JASON_2026-10-17.jpg"
   },
   {
-   "key": "POR_AKERS_TERRY_2026-10-17",
-   "name": "Terry Eugene Akers",
-   "age": "67",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Leaving The Scene Of A Crash- Property Damage Crash",
-   "more": 2,
-   "ts": 1792287105,
-   "photo": "photos/POR_AKERS_TERRY_2026-10-17.jpg"
-  },
-  {
    "key": "VAN_MILLER_SHERRY_2026-10-17",
    "name": "Sherry Lavonn Miller",
    "age": "65",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792283491,
    "photo": "photos/ALL_JONES_IVAN_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_STONER_KRISTOPHER_2026-10-17",
-   "name": "Kristopher Stoner",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1792279889,
-   "photo": "photos/ALL_STONER_KRISTOPHER_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_CHARLTON_DARIN_2026-10-17",
-   "name": "Darin Charlton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1792269096,
-   "photo": "photos/ALL_CHARLTON_DARIN_2026-10-17.jpg"
   }
  ]
 }
