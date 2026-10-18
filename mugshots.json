@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T00:32:01+00:00",
+ "updated": "2026-10-18T01:32:35+00:00",
  "items": [
+  {
+   "key": "POR_AKERS_TERRY_2026-10-17",
+   "name": "Terry Eugene Akers",
+   "age": "67",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Leaving The Scene Of A Crash- Property Damage Crash",
+   "more": 2,
+   "ts": 1792287105,
+   "photo": "photos/POR_AKERS_TERRY_2026-10-17.jpg"
+  },
+  {
+   "key": "VAN_MILLER_SHERRY_2026-10-17",
+   "name": "Sherry Lavonn Miller",
+   "age": "65",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1792287100,
+   "photo": "photos/VAN_MILLER_SHERRY_2026-10-17.jpg"
+  },
   {
    "key": "ALL_SMITH_VANTONIO_2026-10-17",
    "name": "Vantonio Smith",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792193498,
    "photo": "photos/POR_BARNES_ANTINO_2026-10-16.jpg"
-  },
-  {
-   "key": "MAD_MATTHEWS_JONATHAN_2026-10-16",
-   "name": "Jonathan Jason Matthews",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1792189904,
-   "photo": "photos/MAD_MATTHEWS_JONATHAN_2026-10-16.jpg"
-  },
-  {
-   "key": "VAN_HOOPS_ANDREW_2026-10-16",
-   "name": "Andrew Michael Hoops",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 1,
-   "ts": 1792189894,
-   "photo": "photos/VAN_HOOPS_ANDREW_2026-10-16.jpg"
   }
  ]
 }
