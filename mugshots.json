@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-18T07:32:14+00:00",
+ "updated": "2026-10-18T08:32:03+00:00",
  "items": [
+  {
+   "key": "MAD_RUDE_AUSTIN_2026-10-18",
+   "name": "Austin Taylor Rude",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 1,
+   "ts": 1792312311,
+   "photo": "photos/MAD_RUDE_AUSTIN_2026-10-18.jpg"
+  },
+  {
+   "key": "POR_BLAKEMAN_KAETLIN_2026-10-18",
+   "name": "Kaetlin R Blakeman",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1792312294,
+   "photo": null
+  },
+  {
+   "key": "VAN_WATSON_JAQUARIOUS_2026-10-18",
+   "name": "Jaquarious Raymone Watson",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Leaving The Scene Of A Crash- Injury Crash",
+   "more": 0,
+   "ts": 1792312291,
+   "photo": "photos/VAN_WATSON_JAQUARIOUS_2026-10-18.jpg"
+  },
+  {
+   "key": "VAN_PLAZASOTO_ALEXIS_2026-10-18",
+   "name": "Alexis Plaza Soto",
+   "age": "18",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Minor Provide False Statement Of Age",
+   "more": 1,
+   "ts": 1792312291,
+   "photo": "photos/VAN_PLAZASOTO_ALEXIS_2026-10-18.jpg"
+  },
+  {
+   "key": "ALL_WILMS_CASSONDRA_2026-10-18",
+   "name": "Cassondra Wilms",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792312289,
+   "photo": "photos/ALL_WILMS_CASSONDRA_2026-10-18.jpg"
+  },
   {
    "key": "MAD_HORN_CONNOR_2026-10-18",
    "name": "Connor David Horn",
@@ -473,61 +528,6 @@
    "more": 0,
    "ts": 1792236692,
    "photo": "photos/VAN_VANCE_KRISTAN_2026-10-17.jpg"
-  },
-  {
-   "key": "MAD_JOHNSON_DARNELL_2026-10-17",
-   "name": "Darnell Levon Johnson",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792233102,
-   "photo": "photos/MAD_JOHNSON_DARNELL_2026-10-17.jpg"
-  },
-  {
-   "key": "POR_WHEELER_CASSANDRA_2026-10-17",
-   "name": "Cassandra Kaye Wheeler",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1792229490,
-   "photo": "photos/POR_WHEELER_CASSANDRA_2026-10-17.jpg"
-  },
-  {
-   "key": "VAN_MORRIS_ERIC_2026-10-17",
-   "name": "Eric Joseph Morris",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/",
-   "more": 2,
-   "ts": 1792229486,
-   "photo": null
-  },
-  {
-   "key": "VAN_CARMAN_NAOMI_2026-10-17",
-   "name": "Naomi Ann Nicole Carman",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
-   "more": 2,
-   "ts": 1792222294,
-   "photo": "photos/VAN_CARMAN_NAOMI_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_FREEMAN_CHARLES_2026-10-17",
-   "name": "Charles Freeman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > Or = To .15%",
-   "more": 1,
-   "ts": 1792222293,
-   "photo": "photos/ALL_FREEMAN_CHARLES_2026-10-17.jpg"
   }
  ]
 }
