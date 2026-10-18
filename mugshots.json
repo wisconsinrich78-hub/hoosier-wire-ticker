@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-18T21:32:09+00:00",
+ "updated": "2026-10-18T22:32:28+00:00",
  "items": [
+  {
+   "key": "ALL_COLE_RODRECO_2026-10-18",
+   "name": "Rodreco Cole",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlicense Driver",
+   "more": 1,
+   "ts": 1792362705,
+   "photo": "photos/ALL_COLE_RODRECO_2026-10-18.jpg"
+  },
+  {
+   "key": "VAN_GREENFIELD_SUNNY_2026-10-18",
+   "name": "Sunny Dawn Greenfield",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 1,
+   "ts": 1792362704,
+   "photo": "photos/VAN_GREENFIELD_SUNNY_2026-10-18.jpg"
+  },
+  {
+   "key": "VAN_GEIL_NATHAN_2026-10-18",
+   "name": "Nathan Alan Geil",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Auto Theft - Where Intent Is To Deprive Owner Of Value Or",
+   "more": 3,
+   "ts": 1792362703,
+   "photo": null
+  },
   {
    "key": "ALL_SMITH_JAROD_2026-10-18",
    "name": "Jarod Smith",
@@ -495,39 +528,6 @@
    "more": 3,
    "ts": 1792297903,
    "photo": null
-  },
-  {
-   "key": "VAN_SALLEE_JOSEPH_2026-10-17",
-   "name": "Joseph Loren Sallee",
-   "age": "57",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 1,
-   "ts": 1792297900,
-   "photo": "photos/VAN_SALLEE_JOSEPH_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_CLARK_KONNER_2026-10-17",
-   "name": "Konner Clark",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery Result In Serious Bodily Injury",
-   "more": 0,
-   "ts": 1792297898,
-   "photo": "photos/ALL_CLARK_KONNER_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_GRIFFITH_MICHAEL_2026-10-17",
-   "name": "Michael Griffith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1792294311,
-   "photo": "photos/ALL_GRIFFITH_MICHAEL_2026-10-17.jpg"
   }
  ]
 }
