@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-18T05:32:00+00:00",
+ "updated": "2026-10-18T06:32:25+00:00",
  "items": [
+  {
+   "key": "POR_MARTINEZ_STACEY_2026-10-18",
+   "name": "Stacey Lynn Martinez",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Prior Conviction",
+   "more": 3,
+   "ts": 1792305114,
+   "photo": "photos/POR_MARTINEZ_STACEY_2026-10-18.jpg"
+  },
+  {
+   "key": "VAN_EBERHARDT_DEVON_2026-10-17",
+   "name": "Devon Demitrius Eberhardt",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 2,
+   "ts": 1792305110,
+   "photo": null
+  },
+  {
+   "key": "VAN_TUCKER_ZACHARY_2026-10-18",
+   "name": "Zachary Andrew Tucker",
+   "age": "18",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 2,
+   "ts": 1792305109,
+   "photo": "photos/VAN_TUCKER_ZACHARY_2026-10-18.jpg"
+  },
   {
    "key": "MAD_BRUNCK_NATHAN_2026-10-18",
    "name": "Nathan Scott Brunck",
@@ -494,39 +527,6 @@
    "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
    "more": 3,
    "ts": 1792215093,
-   "photo": null
-  },
-  {
-   "key": "ALL_BUTCHERBARLAG_DANIEL_2026-10-17",
-   "name": "Daniel Butcherbarlag",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Reckless Driving / Unreasonable High Or Low Speed",
-   "more": 1,
-   "ts": 1792215091,
-   "photo": "photos/ALL_BUTCHERBARLAG_DANIEL_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_BLACK_RANDY_2026-10-17",
-   "name": "Randy Black",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1792215088,
-   "photo": "photos/ALL_BLACK_RANDY_2026-10-17.jpg"
-  },
-  {
-   "key": "POR_DURFEY_MADISON_2026-10-16",
-   "name": "Madison Lynne Durfey",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Strangulation (Simple)- Def. Applies Pressure To Throat Or Neck Or Obs",
-   "more": 2,
-   "ts": 1792211503,
    "photo": null
   }
  ]
