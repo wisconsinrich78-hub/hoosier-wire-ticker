@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T02:32:40+00:00",
+ "updated": "2026-10-18T03:33:26+00:00",
  "items": [
+  {
+   "key": "ALL_GRIFFITH_MICHAEL_2026-10-17",
+   "name": "Michael Griffith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1792294311,
+   "photo": "photos/ALL_GRIFFITH_MICHAEL_2026-10-17.jpg"
+  },
+  {
+   "key": "ALL_GOMEZ_CARLOS_2026-10-17",
+   "name": "Carlos Gomez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Habitual Traffic Violator",
+   "more": 1,
+   "ts": 1792294309,
+   "photo": "photos/ALL_GOMEZ_CARLOS_2026-10-17.jpg"
+  },
   {
    "key": "POR_WILCOX_TAMIKA_2026-10-17",
    "name": "Tamika Kristine Wilcox",
@@ -420,17 +442,6 @@
    "photo": "photos/ALL_SHIPBAUGH_JEFFREY_2026-10-16.jpg"
   },
   {
-   "key": "ALL_KIPENDO_SETH_2026-10-16",
-   "name": "Seth Kipendo",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1792211497,
-   "photo": "photos/ALL_KIPENDO_SETH_2026-10-16.jpg"
-  },
-  {
    "key": "MAD_WALLACE_DANIEL_2026-10-16",
    "name": "Daniel Bailey Wallace",
    "age": "30",
@@ -451,17 +462,6 @@
    "more": 0,
    "ts": 1792207917,
    "photo": null
-  },
-  {
-   "key": "ALL_COBB_DAVID_2026-10-16",
-   "name": "David Cobb",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish - Prior Drug Offense Conviction",
-   "more": 1,
-   "ts": 1792207888,
-   "photo": "photos/ALL_COBB_DAVID_2026-10-16.jpg"
   },
   {
    "key": "POR_FRANKLIN_ELLIOT_2026-10-16",
