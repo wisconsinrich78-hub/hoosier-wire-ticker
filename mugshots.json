@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-18T06:32:25+00:00",
+ "updated": "2026-10-18T07:32:14+00:00",
  "items": [
+  {
+   "key": "MAD_HORN_CONNOR_2026-10-18",
+   "name": "Connor David Horn",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792308707,
+   "photo": "photos/MAD_HORN_CONNOR_2026-10-18.jpg"
+  },
+  {
+   "key": "MAD_CARRINGTON_AUTUMN_2026-10-18",
+   "name": "Autumn Kay Carrington",
+   "age": "30",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792308703,
+   "photo": null
+  },
+  {
+   "key": "POR_VANSCHOYCK_GAGE_2026-10-18",
+   "name": "Gage Allen Vanschoyck",
+   "age": "25",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 3,
+   "ts": 1792308699,
+   "photo": null
+  },
+  {
+   "key": "POR_MARTINEZ_GRACE_2026-10-18",
+   "name": "Grace Raquel Martinez",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 0,
+   "ts": 1792308698,
+   "photo": null
+  },
+  {
+   "key": "POR_KRANTZ_MATTHEW_2026-10-18",
+   "name": "Matthew Ryan Krantz",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
+   "more": 3,
+   "ts": 1792308698,
+   "photo": null
+  },
+  {
+   "key": "POR_RICHARDSON_JORDAN_2026-10-18",
+   "name": "Jordan Isaiah Richardson",
+   "age": "21",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating Vehicle With Suspended Or Revoked Registration/Knowingly Per",
+   "more": 0,
+   "ts": 1792308698,
+   "photo": null
+  },
+  {
+   "key": "POR_TILLEY_VERONICA_2026-10-18",
+   "name": "Veronica Monique Tilley",
+   "age": "44",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 2,
+   "ts": 1792308697,
+   "photo": null
+  },
+  {
+   "key": "VAN_HOBGOOD_AUSTIN_2026-10-18",
+   "name": "Austin Cole Hobgood",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 4,
+   "ts": 1792308695,
+   "photo": "photos/VAN_HOBGOOD_AUSTIN_2026-10-18.jpg"
+  },
+  {
+   "key": "ALL_SANDOVAL_MAGALI_2026-10-18",
+   "name": "Magali Sandoval",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1792308693,
+   "photo": "photos/ALL_SANDOVAL_MAGALI_2026-10-18.jpg"
+  },
   {
    "key": "POR_MARTINEZ_STACEY_2026-10-18",
    "name": "Stacey Lynn Martinez",
@@ -398,17 +497,6 @@
    "photo": "photos/POR_WHEELER_CASSANDRA_2026-10-17.jpg"
   },
   {
-   "key": "POR_SOTO_ISAIAH_2026-10-17",
-   "name": "Isaiah Matthew Soto",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1792229489,
-   "photo": "photos/POR_SOTO_ISAIAH_2026-10-17.jpg"
-  },
-  {
    "key": "VAN_MORRIS_ERIC_2026-10-17",
    "name": "Eric Joseph Morris",
    "age": "33",
@@ -418,17 +506,6 @@
    "more": 2,
    "ts": 1792229486,
    "photo": null
-  },
-  {
-   "key": "POR_BARNETT_DEREK_2026-10-17",
-   "name": "Derek Zachery Barnett",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft",
-   "more": 0,
-   "ts": 1792225892,
-   "photo": "photos/POR_BARNETT_DEREK_2026-10-17.jpg"
   },
   {
    "key": "VAN_CARMAN_NAOMI_2026-10-17",
@@ -451,83 +528,6 @@
    "more": 1,
    "ts": 1792222293,
    "photo": "photos/ALL_FREEMAN_CHARLES_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_ANDERSON_DELEON_2026-10-17",
-   "name": "Deleon Anderson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 0,
-   "ts": 1792222291,
-   "photo": "photos/ALL_ANDERSON_DELEON_2026-10-17.jpg"
-  },
-  {
-   "key": "MAD_REYNOLDS_MELISSA_2026-10-17",
-   "name": "Melissa Ann Reynolds",
-   "age": "54",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1792218718,
-   "photo": "photos/MAD_REYNOLDS_MELISSA_2026-10-17.jpg"
-  },
-  {
-   "key": "MAD_GOINS_ISAIAH_2026-10-17",
-   "name": "Isaiah Ryan Goins",
-   "age": "21",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated",
-   "more": 3,
-   "ts": 1792218709,
-   "photo": null
-  },
-  {
-   "key": "ALL_MORRIS_DEON_2026-10-17",
-   "name": "Deon Morris",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1792218699,
-   "photo": "photos/ALL_MORRIS_DEON_2026-10-17.jpg"
-  },
-  {
-   "key": "ALL_GROCE_CASSANDRA_2026-10-17",
-   "name": "Cassandra Groce",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine",
-   "more": 2,
-   "ts": 1792218696,
-   "photo": "photos/ALL_GROCE_CASSANDRA_2026-10-17.jpg"
-  },
-  {
-   "key": "MAD_CONN_GARY_2026-10-17",
-   "name": "Gary Mckee Third Conn",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792215100,
-   "photo": "photos/MAD_CONN_GARY_2026-10-17.jpg"
-  },
-  {
-   "key": "VAN_HANCOCK_THOMAS_2026-10-16",
-   "name": "Thomas Wayne Hancock",
-   "age": "61",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
-   "more": 3,
-   "ts": 1792215093,
-   "photo": null
   }
  ]
 }
