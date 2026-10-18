@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-17T23:31:45+00:00",
+ "updated": "2026-10-18T00:32:01+00:00",
  "items": [
+  {
+   "key": "ALL_SMITH_VANTONIO_2026-10-17",
+   "name": "Vantonio Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Machine Gun",
+   "more": 0,
+   "ts": 1792283494,
+   "photo": "photos/ALL_SMITH_VANTONIO_2026-10-17.jpg"
+  },
+  {
+   "key": "ALL_JONES_IVAN_2026-10-17",
+   "name": "Ivan Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
+   "more": 0,
+   "ts": 1792283491,
+   "photo": "photos/ALL_JONES_IVAN_2026-10-17.jpg"
+  },
   {
    "key": "ALL_STONER_KRISTOPHER_2026-10-17",
    "name": "Kristopher Stoner",
@@ -439,28 +461,6 @@
    "charge": "Public Administration- Fail To Appear",
    "more": 0,
    "ts": 1792200685,
-   "photo": null
-  },
-  {
-   "key": "ALL_SMITH_TROY_2026-10-16",
-   "name": "Troy Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
-   "more": 0,
-   "ts": 1792197089,
-   "photo": "photos/ALL_SMITH_TROY_2026-10-16.jpg"
-  },
-  {
-   "key": "ALL_PARKER_ALESHA_2026-10-16",
-   "name": "Alesha Parker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
-   "more": 0,
-   "ts": 1792197087,
    "photo": null
   },
   {
