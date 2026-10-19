@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-19T11:32:06+00:00",
+ "updated": "2026-10-19T12:31:57+00:00",
  "items": [
+  {
+   "key": "ALL_VASQUEZ_EDWARD_2026-10-19",
+   "name": "Edward Vasquez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 0,
+   "ts": 1792413086,
+   "photo": "photos/ALL_VASQUEZ_EDWARD_2026-10-19.jpg"
+  },
   {
    "key": "VAN_FARMBOROUGH_ANTHONY_2026-10-19",
    "name": "Anthony David Farmborough",
@@ -484,17 +495,6 @@
    "more": 4,
    "ts": 1792326691,
    "photo": "photos/ALL_CROY_PAXTON_2026-10-18.jpg"
-  },
-  {
-   "key": "ALL_WOODS_SCOTT_2026-10-18",
-   "name": "Scott Woods",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 0,
-   "ts": 1792323092,
-   "photo": "photos/ALL_WOODS_SCOTT_2026-10-18.jpg"
   },
   {
    "key": "POR_CORTES_DYLAN_2026-10-18",
