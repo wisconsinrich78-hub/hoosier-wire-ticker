@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-19T03:32:14+00:00",
+ "updated": "2026-10-19T04:32:24+00:00",
  "items": [
+  {
+   "key": "POR_TINTOR_DALIBOR_2026-10-18",
+   "name": "Dalibor Tintor",
+   "age": "31",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Reckless Driving",
+   "more": 0,
+   "ts": 1792384299,
+   "photo": null
+  },
+  {
+   "key": "POR_SNIDER_JAYDEN_2026-10-18",
+   "name": "Jayden Taylor Snider",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft- All Other Larceny -Nibrs",
+   "more": 0,
+   "ts": 1792384298,
+   "photo": "photos/POR_SNIDER_JAYDEN_2026-10-18.jpg"
+  },
+  {
+   "key": "POR_RUSSELL_MELISSA_2026-10-18",
+   "name": "Melissa Diane Russell",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 2,
+   "ts": 1792384298,
+   "photo": "photos/POR_RUSSELL_MELISSA_2026-10-18.jpg"
+  },
+  {
+   "key": "ALL_MAXWELL_MIKOBE_2026-10-18",
+   "name": "Mikobe Maxwell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 2,
+   "ts": 1792384292,
+   "photo": "photos/ALL_MAXWELL_MIKOBE_2026-10-18.jpg"
+  },
   {
    "key": "POR_WOLAK_JAYANA_2026-10-18",
    "name": "Jayana Brooklyn Wolak",
@@ -431,17 +475,6 @@
    "photo": "photos/VAN_PLAZASOTO_ALEXIS_2026-10-18.jpg"
   },
   {
-   "key": "ALL_WILMS_CASSONDRA_2026-10-18",
-   "name": "Cassondra Wilms",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792312289,
-   "photo": "photos/ALL_WILMS_CASSONDRA_2026-10-18.jpg"
-  },
-  {
    "key": "MAD_HORN_CONNOR_2026-10-18",
    "name": "Connor David Horn",
    "age": "26",
@@ -495,39 +528,6 @@
    "more": 3,
    "ts": 1792308698,
    "photo": null
-  },
-  {
-   "key": "POR_RICHARDSON_JORDAN_2026-10-18",
-   "name": "Jordan Isaiah Richardson",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating Vehicle With Suspended Or Revoked Registration/Knowingly Per",
-   "more": 0,
-   "ts": 1792308698,
-   "photo": null
-  },
-  {
-   "key": "POR_TILLEY_VERONICA_2026-10-18",
-   "name": "Veronica Monique Tilley",
-   "age": "44",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1792308697,
-   "photo": null
-  },
-  {
-   "key": "VAN_HOBGOOD_AUSTIN_2026-10-18",
-   "name": "Austin Cole Hobgood",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 4,
-   "ts": 1792308695,
-   "photo": "photos/VAN_HOBGOOD_AUSTIN_2026-10-18.jpg"
   }
  ]
 }
