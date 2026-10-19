@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-19T00:32:13+00:00",
+ "updated": "2026-10-19T02:32:34+00:00",
  "items": [
+  {
+   "key": "MAD_BLAKLEY_SANDRA_2026-10-18",
+   "name": "Sandra Sue Blakley",
+   "age": "68",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792377106,
+   "photo": "photos/MAD_BLAKLEY_SANDRA_2026-10-18.jpg"
+  },
+  {
+   "key": "POR_RODRIGUEZ_MARIAH_2026-10-18",
+   "name": "Mariah Michelle Rodriguez",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 0,
+   "ts": 1792377106,
+   "photo": "photos/POR_RODRIGUEZ_MARIAH_2026-10-18.jpg"
+  },
   {
    "key": "POR_GARZA_ANGELO_2026-10-18",
    "name": "Angelo Miguel Garza",
@@ -506,28 +528,6 @@
    "more": 2,
    "ts": 1792305110,
    "photo": null
-  },
-  {
-   "key": "VAN_TUCKER_ZACHARY_2026-10-18",
-   "name": "Zachary Andrew Tucker",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
-   "more": 2,
-   "ts": 1792305109,
-   "photo": "photos/VAN_TUCKER_ZACHARY_2026-10-18.jpg"
-  },
-  {
-   "key": "MAD_BRUNCK_NATHAN_2026-10-18",
-   "name": "Nathan Scott Brunck",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated",
-   "more": 0,
-   "ts": 1792301493,
-   "photo": "photos/MAD_BRUNCK_NATHAN_2026-10-18.jpg"
   }
  ]
 }
