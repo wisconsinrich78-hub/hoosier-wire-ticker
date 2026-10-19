@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-19T04:32:24+00:00",
+ "updated": "2026-10-19T05:32:15+00:00",
  "items": [
+  {
+   "key": "MAD_VILLANUEVA_GERARDO_2026-10-19",
+   "name": "Gerardo Manuel Nicolas Villanueva",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792387921,
+   "photo": null
+  },
+  {
+   "key": "MAD_HEATHSCOTT_JAMES_2026-10-19",
+   "name": "James Lee Heathscott",
+   "age": "58",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1792387912,
+   "photo": "photos/MAD_HEATHSCOTT_JAMES_2026-10-19.jpg"
+  },
+  {
+   "key": "POR_HARMON_WYATT_2026-10-18",
+   "name": "Wyatt Travis Harmon",
+   "age": "18",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 1,
+   "ts": 1792387903,
+   "photo": "photos/POR_HARMON_WYATT_2026-10-18.jpg"
+  },
+  {
+   "key": "VAN_WELDON_PAUL_2026-10-18",
+   "name": "Paul Anthony Weldon",
+   "age": "62",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1792387897,
+   "photo": "photos/VAN_WELDON_PAUL_2026-10-18.jpg"
+  },
+  {
+   "key": "ALL_SIMPSON_SANTARIO_2026-10-19",
+   "name": "Santario Simpson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 3,
+   "ts": 1792387888,
+   "photo": "photos/ALL_SIMPSON_SANTARIO_2026-10-19.jpg"
+  },
+  {
+   "key": "ALL_MARTIN_MARCUS_2026-10-19",
+   "name": "Marcus Martin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1792387887,
+   "photo": "photos/ALL_MARTIN_MARCUS_2026-10-19.jpg"
+  },
   {
    "key": "POR_TINTOR_DALIBOR_2026-10-18",
    "name": "Dalibor Tintor",
@@ -409,28 +475,6 @@
    "photo": null
   },
   {
-   "key": "ALL_KINGMCELEVENE_SAMYIONN_2026-10-18",
-   "name": "Samyionn Kingmcelevene",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Machine Gun",
-   "more": 0,
-   "ts": 1792315894,
-   "photo": "photos/ALL_KINGMCELEVENE_SAMYIONN_2026-10-18.jpg"
-  },
-  {
-   "key": "ALL_GONZALEZ_ERIKA_2026-10-18",
-   "name": "Erika Gonzalez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1792315892,
-   "photo": "photos/ALL_GONZALEZ_ERIKA_2026-10-18.jpg"
-  },
-  {
    "key": "MAD_RUDE_AUSTIN_2026-10-18",
    "name": "Austin Taylor Rude",
    "age": "31",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1792308707,
    "photo": "photos/MAD_HORN_CONNOR_2026-10-18.jpg"
-  },
-  {
-   "key": "MAD_CARRINGTON_AUTUMN_2026-10-18",
-   "name": "Autumn Kay Carrington",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792308703,
-   "photo": null
-  },
-  {
-   "key": "POR_VANSCHOYCK_GAGE_2026-10-18",
-   "name": "Gage Allen Vanschoyck",
-   "age": "25",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 3,
-   "ts": 1792308699,
-   "photo": null
-  },
-  {
-   "key": "POR_MARTINEZ_GRACE_2026-10-18",
-   "name": "Grace Raquel Martinez",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 0,
-   "ts": 1792308698,
-   "photo": null
-  },
-  {
-   "key": "POR_KRANTZ_MATTHEW_2026-10-18",
-   "name": "Matthew Ryan Krantz",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 3,
-   "ts": 1792308698,
-   "photo": null
   }
  ]
 }
