@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-19T07:31:57+00:00",
+ "updated": "2026-10-19T09:32:30+00:00",
  "items": [
+  {
+   "key": "VAN_VANDIVIER_BRADLEY_2026-10-19",
+   "name": "Bradley Micheal Vandivier",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 0,
+   "ts": 1792402292,
+   "photo": "photos/VAN_VANDIVIER_BRADLEY_2026-10-19.jpg"
+  },
+  {
+   "key": "ALL_SALEM_SUBAH_2026-10-19",
+   "name": "Subah Salem",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1792402290,
+   "photo": "photos/ALL_SALEM_SUBAH_2026-10-19.jpg"
+  },
   {
    "key": "VAN_CARTER_KEYOSHA_2026-10-19",
    "name": "Keyosha D Carter",
@@ -464,17 +486,6 @@
    "photo": "photos/ALL_WOODS_SCOTT_2026-10-18.jpg"
   },
   {
-   "key": "ALL_MOORE_NEVARIEON_2026-10-18",
-   "name": "Nevarieon Moore",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Firearm Without A License By Convicted Felon",
-   "more": 0,
-   "ts": 1792323090,
-   "photo": "photos/ALL_MOORE_NEVARIEON_2026-10-18.jpg"
-  },
-  {
    "key": "POR_CORTES_DYLAN_2026-10-18",
    "name": "Dylan Curtis Cortes",
    "age": "23",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792315911,
    "photo": null
-  },
-  {
-   "key": "MAD_RUDE_AUSTIN_2026-10-18",
-   "name": "Austin Taylor Rude",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 1,
-   "ts": 1792312311,
-   "photo": "photos/MAD_RUDE_AUSTIN_2026-10-18.jpg"
   }
  ]
 }
