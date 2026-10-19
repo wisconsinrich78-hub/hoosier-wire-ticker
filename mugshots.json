@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-19T12:31:57+00:00",
+ "updated": "2026-10-19T13:32:37+00:00",
  "items": [
+  {
+   "key": "ALL_HTUN_HAN_2026-10-19",
+   "name": "Han Htun",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1792416710,
+   "photo": "photos/ALL_HTUN_HAN_2026-10-19.jpg"
+  },
   {
    "key": "ALL_VASQUEZ_EDWARD_2026-10-19",
    "name": "Edward Vasquez",
@@ -484,17 +495,6 @@
    "more": 1,
    "ts": 1792326693,
    "photo": "photos/ALL_SUMMERS_DARION_2026-10-18.jpg"
-  },
-  {
-   "key": "ALL_CROY_PAXTON_2026-10-18",
-   "name": "Paxton Croy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 4,
-   "ts": 1792326691,
-   "photo": "photos/ALL_CROY_PAXTON_2026-10-18.jpg"
   },
   {
    "key": "POR_CORTES_DYLAN_2026-10-18",
