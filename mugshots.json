@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-19T06:32:16+00:00",
+ "updated": "2026-10-19T07:31:57+00:00",
  "items": [
+  {
+   "key": "VAN_CARTER_KEYOSHA_2026-10-19",
+   "name": "Keyosha D Carter",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1792395086,
+   "photo": "photos/VAN_CARTER_KEYOSHA_2026-10-19.jpg"
+  },
+  {
+   "key": "VAN_CLARK_WALTER_2026-10-19",
+   "name": "Walter Sherrod Clark",
+   "age": "51",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Habitual Traffic Violator- Lifetime",
+   "more": 0,
+   "ts": 1792395086,
+   "photo": "photos/VAN_CLARK_WALTER_2026-10-19.jpg"
+  },
   {
    "key": "POR_FOSTER_JOSEPH_2026-10-19",
    "name": "Joseph Gordon Foster",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1792312311,
    "photo": "photos/MAD_RUDE_AUSTIN_2026-10-18.jpg"
-  },
-  {
-   "key": "POR_BLAKEMAN_KAETLIN_2026-10-18",
-   "name": "Kaetlin R Blakeman",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1792312294,
-   "photo": null
-  },
-  {
-   "key": "VAN_WATSON_JAQUARIOUS_2026-10-18",
-   "name": "Jaquarious Raymone Watson",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Leaving The Scene Of A Crash- Injury Crash",
-   "more": 0,
-   "ts": 1792312291,
-   "photo": "photos/VAN_WATSON_JAQUARIOUS_2026-10-18.jpg"
   }
  ]
 }
