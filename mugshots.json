@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-19T22:32:23+00:00",
+ "updated": "2026-10-19T23:32:14+00:00",
  "items": [
+  {
+   "key": "POR_MILLER_MATTHEW_2026-10-19",
+   "name": "Matthew Christopher Miller",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792452699,
+   "photo": "photos/POR_MILLER_MATTHEW_2026-10-19.jpg"
+  },
+  {
+   "key": "VAN_PATTON_NATHANIEL_2026-10-19",
+   "name": "Nathaniel Rashon Patton",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792452696,
+   "photo": "photos/VAN_PATTON_NATHANIEL_2026-10-19.jpg"
+  },
+  {
+   "key": "ALL_VILLARREAL_JANET_2026-10-19",
+   "name": "Janet Villarreal",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine",
+   "more": 1,
+   "ts": 1792452694,
+   "photo": "photos/ALL_VILLARREAL_JANET_2026-10-19.jpg"
+  },
+  {
+   "key": "ALL_MILLER_JORDAN_2026-10-19",
+   "name": "Jordan Miller",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1792452693,
+   "photo": "photos/ALL_MILLER_JORDAN_2026-10-19.jpg"
+  },
   {
    "key": "MAD_GRAHAM_TOMMY_2026-10-19",
    "name": "Tommy Allen Graham",
@@ -475,17 +519,6 @@
    "photo": "photos/POR_DUDLEY_VAN_2026-10-19.jpg"
   },
   {
-   "key": "POR_RODRIGUEZ_JOEL_2026-10-19",
-   "name": "Joel Micah Rodriguez",
-   "age": "54",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1792420454,
-   "photo": "photos/POR_RODRIGUEZ_JOEL_2026-10-19.jpg"
-  },
-  {
    "key": "ALL_HTUN_HAN_2026-10-19",
    "name": "Han Htun",
    "age": "",
@@ -495,39 +528,6 @@
    "more": 1,
    "ts": 1792416710,
    "photo": "photos/ALL_HTUN_HAN_2026-10-19.jpg"
-  },
-  {
-   "key": "ALL_VASQUEZ_EDWARD_2026-10-19",
-   "name": "Edward Vasquez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1792413086,
-   "photo": "photos/ALL_VASQUEZ_EDWARD_2026-10-19.jpg"
-  },
-  {
-   "key": "VAN_FARMBOROUGH_ANTHONY_2026-10-19",
-   "name": "Anthony David Farmborough",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 2,
-   "ts": 1792409488,
-   "photo": "photos/VAN_FARMBOROUGH_ANTHONY_2026-10-19.jpg"
-  },
-  {
-   "key": "VAN_VANDIVIER_BRADLEY_2026-10-19",
-   "name": "Bradley Micheal Vandivier",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Registration Violation",
-   "more": 0,
-   "ts": 1792402292,
-   "photo": "photos/VAN_VANDIVIER_BRADLEY_2026-10-19.jpg"
   }
  ]
 }
