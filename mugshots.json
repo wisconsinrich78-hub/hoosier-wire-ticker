@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-19T18:40:43+00:00",
+ "updated": "2026-10-19T19:38:10+00:00",
  "items": [
+  {
+   "key": "POR_SCHIESS_CHRISTOPHER_2026-10-19",
+   "name": "Christopher Michael Schiess",
+   "age": "21",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Comply",
+   "more": 0,
+   "ts": 1792438364,
+   "photo": "photos/POR_SCHIESS_CHRISTOPHER_2026-10-19.jpg"
+  },
+  {
+   "key": "POR_SHEARRY_CARL_2026-10-19",
+   "name": "Carl Edward Shearry",
+   "age": "62",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1792438363,
+   "photo": "photos/POR_SHEARRY_CARL_2026-10-19.jpg"
+  },
+  {
+   "key": "POR_ARCE_CAMILO_2026-10-19",
+   "name": "Camilo Arce",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1792438363,
+   "photo": "photos/POR_ARCE_CAMILO_2026-10-19.jpg"
+  },
+  {
+   "key": "POR_PAPPAS_HANNA_2026-10-19",
+   "name": "Hanna Marie Pappas",
+   "age": "24",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Revocation Of Probation",
+   "more": 0,
+   "ts": 1792438361,
+   "photo": "photos/POR_PAPPAS_HANNA_2026-10-19.jpg"
+  },
+  {
+   "key": "POR_RAMIREZ_CHRISTOPHER_2026-10-19",
+   "name": "Christopher Joseph Ramirez",
+   "age": "44",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 1,
+   "ts": 1792438360,
+   "photo": "photos/POR_RAMIREZ_CHRISTOPHER_2026-10-19.jpg"
+  },
+  {
+   "key": "POR_MOORE_KEYVON_2026-10-19",
+   "name": "Keyvon Moore",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1792438360,
+   "photo": null
+  },
+  {
+   "key": "POR_JENKINS_MICHAEL_2026-10-19",
+   "name": "Michael Jenkins",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792438359,
+   "photo": null
+  },
+  {
+   "key": "VAN_LANT_TAMATHA_2026-10-19",
+   "name": "Tamatha Renee Lant",
+   "age": "54",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792438355,
+   "photo": null
+  },
+  {
+   "key": "ALL_TROTTER_RODERICK_2026-10-19",
+   "name": "Roderick Trotter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 1,
+   "ts": 1792438354,
+   "photo": "photos/ALL_TROTTER_RODERICK_2026-10-19.jpg"
+  },
+  {
+   "key": "ALL_COLLIER_MRTEJAH_2026-10-19",
+   "name": "Mrtejah Collier",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1792438352,
+   "photo": "photos/ALL_COLLIER_MRTEJAH_2026-10-19.jpg"
+  },
   {
    "key": "MAD_HARRISON_STEVEN_2026-10-19",
    "name": "Steven Ray Harrison",
@@ -387,17 +497,6 @@
    "photo": "photos/ALL_MAXWELL_MIKOBE_2026-10-18.jpg"
   },
   {
-   "key": "POR_WOLAK_JAYANA_2026-10-18",
-   "name": "Jayana Brooklyn Wolak",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Family Offense- Invasion Of Privacy",
-   "more": 0,
-   "ts": 1792380696,
-   "photo": "photos/POR_WOLAK_JAYANA_2026-10-18.jpg"
-  },
-  {
    "key": "ALL_MCATEE_PAIGE_2026-10-18",
    "name": "Paige Mcatee",
    "age": "",
@@ -429,105 +528,6 @@
    "more": 0,
    "ts": 1792377106,
    "photo": "photos/MAD_BLAKLEY_SANDRA_2026-10-18.jpg"
-  },
-  {
-   "key": "POR_RODRIGUEZ_MARIAH_2026-10-18",
-   "name": "Mariah Michelle Rodriguez",
-   "age": "28",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1792377106,
-   "photo": "photos/POR_RODRIGUEZ_MARIAH_2026-10-18.jpg"
-  },
-  {
-   "key": "POR_GARZA_ANGELO_2026-10-18",
-   "name": "Angelo Miguel Garza",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 0,
-   "ts": 1792369897,
-   "photo": "photos/POR_GARZA_ANGELO_2026-10-18.jpg"
-  },
-  {
-   "key": "POR_TAYLOR_WILLIAM_2026-10-18",
-   "name": "William Charles Taylor",
-   "age": "57",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792369896,
-   "photo": "photos/POR_TAYLOR_WILLIAM_2026-10-18.jpg"
-  },
-  {
-   "key": "VAN_CARTER_ELEXANDER_2026-10-18",
-   "name": "Elexander Davis Carter",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1792369893,
-   "photo": null
-  },
-  {
-   "key": "ALL_KUNDERD_EDWARD_2026-10-18",
-   "name": "Edward Kunderd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 0,
-   "ts": 1792369892,
-   "photo": "photos/ALL_KUNDERD_EDWARD_2026-10-18.jpg"
-  },
-  {
-   "key": "MAD_CERVANTES_JAMES_2026-10-18",
-   "name": "James Cervantes",
-   "age": "33",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Leaving the scene of a crash- property damage",
-   "more": 3,
-   "ts": 1792366302,
-   "photo": null
-  },
-  {
-   "key": "VAN_COLEMAN_PATRICIA_2026-10-18",
-   "name": "Patricia Marie Coleman",
-   "age": "62",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792366294,
-   "photo": null
-  },
-  {
-   "key": "VAN_MOORE_ANDREW_2026-10-18",
-   "name": "Andrew Joseph Moore",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 3,
-   "ts": 1792366294,
-   "photo": null
-  },
-  {
-   "key": "ALL_COLE_RODRECO_2026-10-18",
-   "name": "Rodreco Cole",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlicense Driver",
-   "more": 1,
-   "ts": 1792362705,
-   "photo": "photos/ALL_COLE_RODRECO_2026-10-18.jpg"
   }
  ]
 }
