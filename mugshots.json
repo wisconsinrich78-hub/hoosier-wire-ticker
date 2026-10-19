@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-19T05:32:15+00:00",
+ "updated": "2026-10-19T06:32:16+00:00",
  "items": [
+  {
+   "key": "POR_FOSTER_JOSEPH_2026-10-19",
+   "name": "Joseph Gordon Foster",
+   "age": "51",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 1,
+   "ts": 1792391493,
+   "photo": "photos/POR_FOSTER_JOSEPH_2026-10-19.jpg"
+  },
+  {
+   "key": "VAN_KUHNEL_TANNER_2026-10-19",
+   "name": "Tanner Austin Kuhnel",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1792391490,
+   "photo": "photos/VAN_KUHNEL_TANNER_2026-10-19.jpg"
+  },
   {
    "key": "MAD_VILLANUEVA_GERARDO_2026-10-19",
    "name": "Gerardo Manuel Nicolas Villanueva",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792312291,
    "photo": "photos/VAN_WATSON_JAQUARIOUS_2026-10-18.jpg"
-  },
-  {
-   "key": "VAN_PLAZASOTO_ALEXIS_2026-10-18",
-   "name": "Alexis Plaza Soto",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Minor Provide False Statement Of Age",
-   "more": 1,
-   "ts": 1792312291,
-   "photo": "photos/VAN_PLAZASOTO_ALEXIS_2026-10-18.jpg"
-  },
-  {
-   "key": "MAD_HORN_CONNOR_2026-10-18",
-   "name": "Connor David Horn",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792308707,
-   "photo": "photos/MAD_HORN_CONNOR_2026-10-18.jpg"
   }
  ]
 }
