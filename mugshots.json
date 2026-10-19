@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-19T16:33:29+00:00",
+ "updated": "2026-10-19T17:39:11+00:00",
  "items": [
+  {
+   "key": "VAN_LANGLEY_JAYDEN_2026-10-19",
+   "name": "Jayden Ray Langley",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792431321,
+   "photo": "photos/VAN_LANGLEY_JAYDEN_2026-10-19.jpg"
+  },
+  {
+   "key": "VAN_STAMBUSH_OVA_2026-10-19",
+   "name": "Ova C Stambush",
+   "age": "71",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792431320,
+   "photo": null
+  },
+  {
+   "key": "VAN_REED_JETTIA_2026-10-19",
+   "name": "Jettia Brishai Reed",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Writ Of Attachment",
+   "more": 0,
+   "ts": 1792431320,
+   "photo": null
+  },
   {
    "key": "POR_PICKETT_FREDERIC_2026-10-19",
    "name": "Frederic Avery Pickett",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792359094,
    "photo": "photos/ALL_SMITH_JAROD_2026-10-18.jpg"
-  },
-  {
-   "key": "ALL_STANLEY_MARTIN_2026-10-18",
-   "name": "Martin Stanley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1792355489,
-   "photo": "photos/ALL_STANLEY_MARTIN_2026-10-18.jpg"
-  },
-  {
-   "key": "MAD_BUENA_ANDREA_2026-10-18",
-   "name": "Andrea Carla Buena",
-   "age": "42",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792341108,
-   "photo": null
-  },
-  {
-   "key": "POR_WILICHOWSKI_AMANDA_2026-10-18",
-   "name": "Amanda J Wilichowski",
-   "age": "46",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1792341105,
-   "photo": null
   }
  ]
 }
