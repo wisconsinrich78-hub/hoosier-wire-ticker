@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-19T09:32:30+00:00",
+ "updated": "2026-10-19T11:32:06+00:00",
  "items": [
+  {
+   "key": "VAN_FARMBOROUGH_ANTHONY_2026-10-19",
+   "name": "Anthony David Farmborough",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 2,
+   "ts": 1792409488,
+   "photo": "photos/VAN_FARMBOROUGH_ANTHONY_2026-10-19.jpg"
+  },
   {
    "key": "VAN_VANDIVIER_BRADLEY_2026-10-19",
    "name": "Bradley Micheal Vandivier",
@@ -516,17 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792315916,
-   "photo": null
-  },
-  {
-   "key": "MAD_RAMIREZNICOLAS_MIGUEL_2026-10-18",
-   "name": "Miguel Ramirez-Nicolas",
-   "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792315911,
    "photo": null
   }
  ]
