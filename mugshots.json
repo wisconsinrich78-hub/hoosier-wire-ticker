@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-19T02:32:34+00:00",
+ "updated": "2026-10-19T03:32:14+00:00",
  "items": [
+  {
+   "key": "POR_WOLAK_JAYANA_2026-10-18",
+   "name": "Jayana Brooklyn Wolak",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Family Offense- Invasion Of Privacy",
+   "more": 0,
+   "ts": 1792380696,
+   "photo": "photos/POR_WOLAK_JAYANA_2026-10-18.jpg"
+  },
+  {
+   "key": "ALL_MCATEE_PAIGE_2026-10-18",
+   "name": "Paige Mcatee",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1792380692,
+   "photo": "photos/ALL_MCATEE_PAIGE_2026-10-18.jpg"
+  },
+  {
+   "key": "ALL_BURNISTON_RYAN_2026-10-18",
+   "name": "Ryan Burniston",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1792380691,
+   "photo": "photos/ALL_BURNISTON_RYAN_2026-10-18.jpg"
+  },
   {
    "key": "MAD_BLAKLEY_SANDRA_2026-10-18",
    "name": "Sandra Sue Blakley",
@@ -495,39 +528,6 @@
    "more": 4,
    "ts": 1792308695,
    "photo": "photos/VAN_HOBGOOD_AUSTIN_2026-10-18.jpg"
-  },
-  {
-   "key": "ALL_SANDOVAL_MAGALI_2026-10-18",
-   "name": "Magali Sandoval",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1792308693,
-   "photo": "photos/ALL_SANDOVAL_MAGALI_2026-10-18.jpg"
-  },
-  {
-   "key": "POR_MARTINEZ_STACEY_2026-10-18",
-   "name": "Stacey Lynn Martinez",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Prior Conviction",
-   "more": 3,
-   "ts": 1792305114,
-   "photo": "photos/POR_MARTINEZ_STACEY_2026-10-18.jpg"
-  },
-  {
-   "key": "VAN_EBERHARDT_DEVON_2026-10-17",
-   "name": "Devon Demitrius Eberhardt",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 2,
-   "ts": 1792305110,
-   "photo": null
   }
  ]
 }
