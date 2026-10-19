@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-19T20:33:24+00:00",
+ "updated": "2026-10-19T21:32:07+00:00",
  "items": [
+  {
+   "key": "POR_GAGNA_PHILIP_2026-10-19",
+   "name": "Philip Wayne Gagna",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1792445496,
+   "photo": "photos/POR_GAGNA_PHILIP_2026-10-19.jpg"
+  },
+  {
+   "key": "POR_SCHREIBER_KENNETH_2026-10-19",
+   "name": "Kenneth Schreiber",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792445494,
+   "photo": null
+  },
+  {
+   "key": "VAN_TERRY_AYRYAN_2026-10-19",
+   "name": "Ayryan Jayshon Terry",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Child Support - Writ Of Attachment",
+   "more": 0,
+   "ts": 1792445491,
+   "photo": "photos/VAN_TERRY_AYRYAN_2026-10-19.jpg"
+  },
+  {
+   "key": "VAN_GRIGSBY_DYLAN_2026-10-19",
+   "name": "Dylan Lloyd Grigsby",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792445491,
+   "photo": "photos/VAN_GRIGSBY_DYLAN_2026-10-19.jpg"
+  },
+  {
+   "key": "ALL_FIELDS_BRYAN_2026-10-19",
+   "name": "Bryan Fields",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Residential Entry",
+   "more": 1,
+   "ts": 1792445489,
+   "photo": "photos/ALL_FIELDS_BRYAN_2026-10-19.jpg"
+  },
   {
    "key": "MAD_LAY_MARLEE_2026-10-19",
    "name": "Marlee Patrice Lay",
@@ -453,17 +508,6 @@
    "photo": "photos/VAN_CLARK_WALTER_2026-10-19.jpg"
   },
   {
-   "key": "POR_FOSTER_JOSEPH_2026-10-19",
-   "name": "Joseph Gordon Foster",
-   "age": "51",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1792391493,
-   "photo": "photos/POR_FOSTER_JOSEPH_2026-10-19.jpg"
-  },
-  {
    "key": "VAN_KUHNEL_TANNER_2026-10-19",
    "name": "Tanner Austin Kuhnel",
    "age": "25",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1792387921,
    "photo": null
-  },
-  {
-   "key": "MAD_HEATHSCOTT_JAMES_2026-10-19",
-   "name": "James Lee Heathscott",
-   "age": "58",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1792387912,
-   "photo": "photos/MAD_HEATHSCOTT_JAMES_2026-10-19.jpg"
-  },
-  {
-   "key": "POR_HARMON_WYATT_2026-10-18",
-   "name": "Wyatt Travis Harmon",
-   "age": "18",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Public Administration- Resisting Law Enforcement",
-   "more": 1,
-   "ts": 1792387903,
-   "photo": "photos/POR_HARMON_WYATT_2026-10-18.jpg"
-  },
-  {
-   "key": "VAN_WELDON_PAUL_2026-10-18",
-   "name": "Paul Anthony Weldon",
-   "age": "62",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792387897,
-   "photo": "photos/VAN_WELDON_PAUL_2026-10-18.jpg"
-  },
-  {
-   "key": "ALL_SIMPSON_SANTARIO_2026-10-19",
-   "name": "Santario Simpson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 3,
-   "ts": 1792387888,
-   "photo": "photos/ALL_SIMPSON_SANTARIO_2026-10-19.jpg"
   }
  ]
 }
