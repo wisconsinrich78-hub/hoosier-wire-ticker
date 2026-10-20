@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-20T06:32:02+00:00",
+ "updated": "2026-10-20T07:32:06+00:00",
  "items": [
+  {
+   "key": "MAD_WILLHOITE_TRENITY_2026-10-20",
+   "name": "Trenity Persayiss Willhoite",
+   "age": "20",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery- bodily injury - A/M",
+   "more": 0,
+   "ts": 1792481519,
+   "photo": "photos/MAD_WILLHOITE_TRENITY_2026-10-20.jpg"
+  },
+  {
+   "key": "VAN_KING_CAMERON_2026-10-20",
+   "name": "Cameron Malik King",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792481499,
+   "photo": "photos/VAN_KING_CAMERON_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_ESPINOZA_ARTURO_2026-10-20",
+   "name": "Arturo Espinoza",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1792481493,
+   "photo": "photos/ALL_ESPINOZA_ARTURO_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_BLAIR_ISAIAH_2026-10-20",
+   "name": "Isaiah Blair",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 0,
+   "ts": 1792481492,
+   "photo": "photos/ALL_BLAIR_ISAIAH_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_ARMSTRONG_ATOYA_2026-10-20",
+   "name": "Atoya Armstrong",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "False Identity Statement",
+   "more": 1,
+   "ts": 1792481490,
+   "photo": "photos/ALL_ARMSTRONG_ATOYA_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_ABDIRAHMAN_ANTHONY_2026-10-20",
+   "name": "Anthony Abdirahman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 1,
+   "ts": 1792481489,
+   "photo": "photos/ALL_ABDIRAHMAN_ANTHONY_2026-10-20.jpg"
+  },
   {
    "key": "POR_GASKIN_DAVID_2026-10-20",
    "name": "David William Gaskin",
@@ -332,17 +398,6 @@
    "photo": "photos/ALL_JENKINS_MARVIN_2026-10-19.jpg"
   },
   {
-   "key": "ALL_ANDERSON_OLIVIA_2026-10-19",
-   "name": "Olivia Anderson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 2,
-   "ts": 1792449102,
-   "photo": "photos/ALL_ANDERSON_OLIVIA_2026-10-19.jpg"
-  },
-  {
    "key": "POR_GAGNA_PHILIP_2026-10-19",
    "name": "Philip Wayne Gagna",
    "age": "47",
@@ -385,17 +440,6 @@
    "more": 0,
    "ts": 1792445491,
    "photo": "photos/VAN_GRIGSBY_DYLAN_2026-10-19.jpg"
-  },
-  {
-   "key": "ALL_FIELDS_BRYAN_2026-10-19",
-   "name": "Bryan Fields",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Residential Entry",
-   "more": 1,
-   "ts": 1792445489,
-   "photo": "photos/ALL_FIELDS_BRYAN_2026-10-19.jpg"
   },
   {
    "key": "MAD_LAY_MARLEE_2026-10-19",
@@ -464,28 +508,6 @@
    "photo": null
   },
   {
-   "key": "ALL_PAYTON_ZACHARY_2026-10-19",
-   "name": "Zachary Payton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1792441911,
-   "photo": "photos/ALL_PAYTON_ZACHARY_2026-10-19.jpg"
-  },
-  {
-   "key": "ALL_ENGEL_DEXTER_2026-10-19",
-   "name": "Dexter Engel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 0,
-   "ts": 1792441910,
-   "photo": "photos/ALL_ENGEL_DEXTER_2026-10-19.jpg"
-  },
-  {
    "key": "POR_SCHIESS_CHRISTOPHER_2026-10-19",
    "name": "Christopher Michael Schiess",
    "age": "21",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792438363,
    "photo": "photos/POR_SHEARRY_CARL_2026-10-19.jpg"
-  },
-  {
-   "key": "POR_ARCE_CAMILO_2026-10-19",
-   "name": "Camilo Arce",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1792438363,
-   "photo": "photos/POR_ARCE_CAMILO_2026-10-19.jpg"
-  },
-  {
-   "key": "POR_PAPPAS_HANNA_2026-10-19",
-   "name": "Hanna Marie Pappas",
-   "age": "24",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Revocation Of Probation",
-   "more": 0,
-   "ts": 1792438361,
-   "photo": "photos/POR_PAPPAS_HANNA_2026-10-19.jpg"
   }
  ]
 }
