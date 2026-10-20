@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-20T01:33:07+00:00",
+ "updated": "2026-10-20T02:32:39+00:00",
  "items": [
+  {
+   "key": "POR_BAUGHMAN_CLARK_2026-10-19",
+   "name": "Clark Dean Baughman",
+   "age": "59",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1792463505,
+   "photo": "photos/POR_BAUGHMAN_CLARK_2026-10-19.jpg"
+  },
+  {
+   "key": "VAN_LISBOAPEREZ_ANGEL_2026-10-19",
+   "name": "Angel Manuel Lisboa Perez",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1792463502,
+   "photo": null
+  },
   {
    "key": "ALL_HARRIS_DOUGLAS_2026-10-19",
    "name": "Douglas Harris",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792427496,
    "photo": null
-  },
-  {
-   "key": "MAD_THOMPSON_CHRISTOPHER_2026-10-19",
-   "name": "Christopher Neil Thompson",
-   "age": "54",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1792423993,
-   "photo": "photos/MAD_THOMPSON_CHRISTOPHER_2026-10-19.jpg"
-  },
-  {
-   "key": "MAD_ALLGOOD_MADONNA_2026-10-19_2026-00003796",
-   "name": "Madonna Renee Allgood",
-   "age": "57",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792423976,
-   "photo": "photos/MAD_ALLGOOD_MADONNA_2026-10-19_2026-00003796.jpg"
   }
  ]
 }
