@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-20T16:32:46+00:00",
+ "updated": "2026-10-20T17:32:23+00:00",
  "items": [
+  {
+   "key": "POR_HATCHETT_RODNEY_2026-10-20",
+   "name": "Rodney Michael Hatchett",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft",
+   "more": 0,
+   "ts": 1792517509,
+   "photo": "photos/POR_HATCHETT_RODNEY_2026-10-20.jpg"
+  },
+  {
+   "key": "POR_EYTCHESON_CODY_2026-10-20",
+   "name": "Cody Eytcheson",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Comply",
+   "more": 0,
+   "ts": 1792517508,
+   "photo": "photos/POR_EYTCHESON_CODY_2026-10-20.jpg"
+  },
+  {
+   "key": "VAN_BROWN_CHELSIE_2026-10-20",
+   "name": "Chelsie Marie Brown",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 1,
+   "ts": 1792517502,
+   "photo": "photos/VAN_BROWN_CHELSIE_2026-10-20.jpg"
+  },
+  {
+   "key": "VAN_STUM_DAVIN_2026-10-20",
+   "name": "Davin Maurice Stum",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Parole Violation",
+   "more": 3,
+   "ts": 1792517502,
+   "photo": "photos/VAN_STUM_DAVIN_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_MILLS_JOSEPH_2026-10-20",
+   "name": "Joseph Mills",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sex / Violent Offender - Fail To Register - Prior",
+   "more": 0,
+   "ts": 1792517498,
+   "photo": "photos/ALL_MILLS_JOSEPH_2026-10-20.jpg"
+  },
   {
    "key": "POR_LONEY_JENNIFER_2026-10-20",
    "name": "Jennifer Leeanne Loney",
@@ -398,17 +453,6 @@
    "photo": "photos/POR_SWISHER_GEORGE_2026-10-19.jpg"
   },
   {
-   "key": "ALL_KELLY_KEVIN_2026-10-19",
-   "name": "Kevin Kelly",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1792470694,
-   "photo": "photos/ALL_KELLY_KEVIN_2026-10-19.jpg"
-  },
-  {
    "key": "VAN_BRADLEY_VICTORIA_2026-10-19",
    "name": "Victoria Diana Bradley",
    "age": "26",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1792456293,
    "photo": "photos/VAN_DAVIS_TROY_2026-10-19.jpg"
-  },
-  {
-   "key": "POR_MILLER_MATTHEW_2026-10-19",
-   "name": "Matthew Christopher Miller",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792452699,
-   "photo": "photos/POR_MILLER_MATTHEW_2026-10-19.jpg"
-  },
-  {
-   "key": "VAN_PATTON_NATHANIEL_2026-10-19",
-   "name": "Nathaniel Rashon Patton",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792452696,
-   "photo": "photos/VAN_PATTON_NATHANIEL_2026-10-19.jpg"
-  },
-  {
-   "key": "MAD_GRAHAM_TOMMY_2026-10-19",
-   "name": "Tommy Allen Graham",
-   "age": "57",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792449116,
-   "photo": "photos/MAD_GRAHAM_TOMMY_2026-10-19.jpg"
-  },
-  {
-   "key": "VAN_RICE_JESSICA_2026-10-19",
-   "name": "Jessica Yvonne Rice",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Shoplifting - Nibrs",
-   "more": 1,
-   "ts": 1792449105,
-   "photo": null
   }
  ]
 }
