@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-20T22:32:34+00:00",
+ "updated": "2026-10-20T23:32:55+00:00",
  "items": [
+  {
+   "key": "POR_ECHOLS_RASHEEDAH_2026-10-20",
+   "name": "Rasheedah Zaire Echols",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "False Informing",
+   "more": 0,
+   "ts": 1792539128,
+   "photo": "photos/POR_ECHOLS_RASHEEDAH_2026-10-20.jpg"
+  },
+  {
+   "key": "POR_WHITE_ADRIAN_2026-10-20",
+   "name": "Adrian M White",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "False Informing",
+   "more": 0,
+   "ts": 1792539127,
+   "photo": null
+  },
+  {
+   "key": "POR_YOUNG_IZIAH_2026-10-20",
+   "name": "Iziah Donterrius Young",
+   "age": "25",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 1,
+   "ts": 1792539126,
+   "photo": "photos/POR_YOUNG_IZIAH_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_TYRRELL_LEAH_2026-10-20",
+   "name": "Leah Tyrrell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Extradition",
+   "more": 1,
+   "ts": 1792539121,
+   "photo": "photos/ALL_TYRRELL_LEAH_2026-10-20.jpg"
+  },
   {
    "key": "MAD_SMITH_JEFFREY_2026-10-20",
    "name": "Jeffrey Champ Smith",
@@ -420,17 +464,6 @@
    "photo": "photos/ALL_NULL_STEVEN_2026-10-20.jpg"
   },
   {
-   "key": "ALL_MCELVENE_RASHEEM_2026-10-20",
-   "name": "Rasheem Mcelvene",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Firearm Without A License By Convicted Felon",
-   "more": 1,
-   "ts": 1792488689,
-   "photo": "photos/ALL_MCELVENE_RASHEEM_2026-10-20.jpg"
-  },
-  {
    "key": "POR_KIMBROUGH_KIONNA_2026-10-20",
    "name": "Kionna A. Kimbrough",
    "age": "19",
@@ -494,39 +527,6 @@
    "charge": "Communication- Intimidation",
    "more": 0,
    "ts": 1792477889,
-   "photo": null
-  },
-  {
-   "key": "MAD_NEWTON_SHANNON_2026-10-20",
-   "name": "Shannon Randall Newton",
-   "age": "53",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Parole Violation - Jail Booking",
-   "more": 1,
-   "ts": 1792474326,
-   "photo": "photos/MAD_NEWTON_SHANNON_2026-10-20.jpg"
-  },
-  {
-   "key": "VAN_HIBBS_ANGEL_2026-10-19",
-   "name": "Angel Benjamin Hibbs",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
-   "more": 1,
-   "ts": 1792474307,
-   "photo": "photos/VAN_HIBBS_ANGEL_2026-10-19.jpg"
-  },
-  {
-   "key": "VAN_FOSTER_SHIENKITA_2026-10-19",
-   "name": "Shienkita Camille Foster",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
-   "more": 3,
-   "ts": 1792474306,
    "photo": null
   }
  ]
