@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-20T04:32:00+00:00",
+ "updated": "2026-10-20T05:32:41+00:00",
  "items": [
+  {
+   "key": "MAD_NEWTON_SHANNON_2026-10-20",
+   "name": "Shannon Randall Newton",
+   "age": "53",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Parole Violation - Jail Booking",
+   "more": 1,
+   "ts": 1792474326,
+   "photo": "photos/MAD_NEWTON_SHANNON_2026-10-20.jpg"
+  },
+  {
+   "key": "VAN_HIBBS_ANGEL_2026-10-19",
+   "name": "Angel Benjamin Hibbs",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
+   "more": 1,
+   "ts": 1792474307,
+   "photo": "photos/VAN_HIBBS_ANGEL_2026-10-19.jpg"
+  },
+  {
+   "key": "VAN_FOSTER_SHIENKITA_2026-10-19",
+   "name": "Shienkita Camille Foster",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
+   "more": 3,
+   "ts": 1792474306,
+   "photo": null
+  },
+  {
+   "key": "ALL_PARHM_KALEN_2026-10-20",
+   "name": "Kalen Parhm",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 1,
+   "ts": 1792474305,
+   "photo": "photos/ALL_PARHM_KALEN_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_BROWN_NICOLAS_2026-10-20",
+   "name": "Nicolas Brown",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Stalking",
+   "more": 1,
+   "ts": 1792474303,
+   "photo": "photos/ALL_BROWN_NICOLAS_2026-10-20.jpg"
+  },
   {
    "key": "ALL_OBERLEY_FRANKLIN_2026-10-19",
    "name": "Franklin Oberley",
@@ -472,61 +527,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792438359,
-   "photo": null
-  },
-  {
-   "key": "VAN_LANT_TAMATHA_2026-10-19",
-   "name": "Tamatha Renee Lant",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792438355,
-   "photo": null
-  },
-  {
-   "key": "ALL_TROTTER_RODERICK_2026-10-19",
-   "name": "Roderick Trotter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 1,
-   "ts": 1792438354,
-   "photo": "photos/ALL_TROTTER_RODERICK_2026-10-19.jpg"
-  },
-  {
-   "key": "ALL_COLLIER_MRTEJAH_2026-10-19",
-   "name": "Mrtejah Collier",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
-   "more": 0,
-   "ts": 1792438352,
-   "photo": "photos/ALL_COLLIER_MRTEJAH_2026-10-19.jpg"
-  },
-  {
-   "key": "MAD_HARRISON_STEVEN_2026-10-19",
-   "name": "Steven Ray Harrison",
-   "age": "63",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Community Corrections",
-   "more": 0,
-   "ts": 1792434940,
-   "photo": "photos/MAD_HARRISON_STEVEN_2026-10-19.jpg"
-  },
-  {
-   "key": "VAN_WILLIAMS_ROMANCE_2026-10-19",
-   "name": "Romance James Williams",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792434931,
    "photo": null
   }
  ]
