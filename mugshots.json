@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-20T15:31:52+00:00",
+ "updated": "2026-10-20T16:32:46+00:00",
  "items": [
+  {
+   "key": "POR_LONEY_JENNIFER_2026-10-20",
+   "name": "Jennifer Leeanne Loney",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1792513924,
+   "photo": "photos/POR_LONEY_JENNIFER_2026-10-20.jpg"
+  },
+  {
+   "key": "VAN_BEDWELL_TREY_2026-10-20",
+   "name": "Trey Brennen Bedwell",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 1,
+   "ts": 1792513921,
+   "photo": null
+  },
+  {
+   "key": "ALL_WOOD_ZANE_2026-10-20",
+   "name": "Zane Wood",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing In Methamphetamine",
+   "more": 0,
+   "ts": 1792513899,
+   "photo": "photos/ALL_WOOD_ZANE_2026-10-20.jpg"
+  },
+  {
+   "key": "MAD_DAVIS_RODNEY_2026-10-20",
+   "name": "Rodney Edward Davis",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1792510315,
+   "photo": "photos/MAD_DAVIS_RODNEY_2026-10-20.jpg"
+  },
   {
    "key": "POR_HARRELL_SHANNON_2026-10-20",
    "name": "Shannon Arneice Harrell",
@@ -431,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "ALL_HARRIS_DOUGLAS_2026-10-19",
-   "name": "Douglas Harris",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1792459911,
-   "photo": "photos/ALL_HARRIS_DOUGLAS_2026-10-19.jpg"
-  },
-  {
    "key": "VAN_DAVIS_TROY_2026-10-19",
    "name": "Troy Dewayne Davis",
    "age": "20",
@@ -494,39 +527,6 @@
    "charge": "Theft- Shoplifting - Nibrs",
    "more": 1,
    "ts": 1792449105,
-   "photo": null
-  },
-  {
-   "key": "VAN_WEDDING_RICKY_2026-10-19",
-   "name": "Ricky Daniel Wedding",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 6,
-   "ts": 1792449105,
-   "photo": "photos/VAN_WEDDING_RICKY_2026-10-19.jpg"
-  },
-  {
-   "key": "POR_GAGNA_PHILIP_2026-10-19",
-   "name": "Philip Wayne Gagna",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1792445496,
-   "photo": "photos/POR_GAGNA_PHILIP_2026-10-19.jpg"
-  },
-  {
-   "key": "POR_SCHREIBER_KENNETH_2026-10-19",
-   "name": "Kenneth Schreiber",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792445494,
    "photo": null
   }
  ]
