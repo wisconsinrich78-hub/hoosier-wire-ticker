@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-20T05:32:41+00:00",
+ "updated": "2026-10-20T06:32:02+00:00",
  "items": [
+  {
+   "key": "POR_GASKIN_DAVID_2026-10-20",
+   "name": "David William Gaskin",
+   "age": "57",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792477892,
+   "photo": "photos/POR_GASKIN_DAVID_2026-10-20.jpg"
+  },
+  {
+   "key": "VAN_PICKERILL_ROBERT_2026-10-20",
+   "name": "Robert Allen Pickerill",
+   "age": "65",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 0,
+   "ts": 1792477889,
+   "photo": null
+  },
+  {
+   "key": "ALL_VELASCOGOMEZ_DAVID_2026-10-20",
+   "name": "David Velascogomez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Leaving The Scene Of A Crash - Property Damage",
+   "more": 0,
+   "ts": 1792477888,
+   "photo": "photos/ALL_VELASCOGOMEZ_DAVID_2026-10-20.jpg"
+  },
   {
    "key": "MAD_NEWTON_SHANNON_2026-10-20",
    "name": "Shannon Randall Newton",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792438361,
    "photo": "photos/POR_PAPPAS_HANNA_2026-10-19.jpg"
-  },
-  {
-   "key": "POR_RAMIREZ_CHRISTOPHER_2026-10-19",
-   "name": "Christopher Joseph Ramirez",
-   "age": "44",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 1,
-   "ts": 1792438360,
-   "photo": "photos/POR_RAMIREZ_CHRISTOPHER_2026-10-19.jpg"
-  },
-  {
-   "key": "POR_MOORE_KEYVON_2026-10-19",
-   "name": "Keyvon Moore",
-   "age": "28",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1792438360,
-   "photo": null
-  },
-  {
-   "key": "POR_JENKINS_MICHAEL_2026-10-19",
-   "name": "Michael Jenkins",
-   "age": "45",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792438359,
-   "photo": null
   }
  ]
 }
