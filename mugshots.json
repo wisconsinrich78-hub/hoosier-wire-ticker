@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-20T18:31:51+00:00",
+ "updated": "2026-10-20T19:33:16+00:00",
  "items": [
+  {
+   "key": "ALL_WATSON_TOBY_2026-10-20",
+   "name": "Toby Watson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1792524716,
+   "photo": "photos/ALL_WATSON_TOBY_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_SPIN_HOLLY_2026-10-20",
+   "name": "Holly Spin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Abandonment Or Neglect Of Vertebrate Animal",
+   "more": 0,
+   "ts": 1792524713,
+   "photo": "photos/ALL_SPIN_HOLLY_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_GRANGER_CHRISTOPHER_2026-10-20",
+   "name": "Christopher Granger",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1792524710,
+   "photo": "photos/ALL_GRANGER_CHRISTOPHER_2026-10-20.jpg"
+  },
   {
    "key": "MAD_TIPTON_BO_2026-10-20",
    "name": "Bo Michael Tipton",
@@ -462,39 +495,6 @@
    "more": 3,
    "ts": 1792474306,
    "photo": null
-  },
-  {
-   "key": "ALL_PARHM_KALEN_2026-10-20",
-   "name": "Kalen Parhm",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 1,
-   "ts": 1792474305,
-   "photo": "photos/ALL_PARHM_KALEN_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_BROWN_NICOLAS_2026-10-20",
-   "name": "Nicolas Brown",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Stalking",
-   "more": 1,
-   "ts": 1792474303,
-   "photo": "photos/ALL_BROWN_NICOLAS_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_OBERLEY_FRANKLIN_2026-10-19",
-   "name": "Franklin Oberley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 0,
-   "ts": 1792470697,
-   "photo": "photos/ALL_OBERLEY_FRANKLIN_2026-10-19.jpg"
   },
   {
    "key": "POR_SWISHER_GEORGE_2026-10-19",
