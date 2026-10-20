@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-20T08:31:55+00:00",
+ "updated": "2026-10-20T09:32:10+00:00",
  "items": [
+  {
+   "key": "POR_NARUG_RYAN_2026-10-20",
+   "name": "Ryan Jacob Narug",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Family Offense- Invasion Of Privacy",
+   "more": 0,
+   "ts": 1792488694,
+   "photo": "photos/POR_NARUG_RYAN_2026-10-20.jpg"
+  },
+  {
+   "key": "VAN_MITCHELL_NATHAN_2026-10-20",
+   "name": "Nathan Patrick Mitchell",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1792488692,
+   "photo": "photos/VAN_MITCHELL_NATHAN_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_NULL_STEVEN_2026-10-20",
+   "name": "Steven Null",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 1,
+   "ts": 1792488690,
+   "photo": "photos/ALL_NULL_STEVEN_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_MCELVENE_RASHEEM_2026-10-20",
+   "name": "Rasheem Mcelvene",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Firearm Without A License By Convicted Felon",
+   "more": 1,
+   "ts": 1792488689,
+   "photo": "photos/ALL_MCELVENE_RASHEEM_2026-10-20.jpg"
+  },
   {
    "key": "ALL_WATTS_KEON_2026-10-20",
    "name": "Keon Watts",
@@ -365,28 +409,6 @@
    "photo": "photos/VAN_PATTON_NATHANIEL_2026-10-19.jpg"
   },
   {
-   "key": "ALL_VILLARREAL_JANET_2026-10-19",
-   "name": "Janet Villarreal",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine",
-   "more": 1,
-   "ts": 1792452694,
-   "photo": "photos/ALL_VILLARREAL_JANET_2026-10-19.jpg"
-  },
-  {
-   "key": "ALL_MILLER_JORDAN_2026-10-19",
-   "name": "Jordan Miller",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1792452693,
-   "photo": "photos/ALL_MILLER_JORDAN_2026-10-19.jpg"
-  },
-  {
    "key": "MAD_GRAHAM_TOMMY_2026-10-19",
    "name": "Tommy Allen Graham",
    "age": "57",
@@ -505,28 +527,6 @@
    "charge": "Organized Theft",
    "more": 0,
    "ts": 1792441948,
-   "photo": null
-  },
-  {
-   "key": "POR_DODSON_JACREL_2026-10-19",
-   "name": "Jacrel Zaki Dodson",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
-   "more": 0,
-   "ts": 1792441947,
-   "photo": "photos/POR_DODSON_JACREL_2026-10-19.jpg"
-  },
-  {
-   "key": "VAN_MCCOY_KIMBERLY_2026-10-19",
-   "name": "Kimberly Romelda Mccoy",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792441944,
    "photo": null
   }
  ]
