@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-20T21:32:19+00:00",
+ "updated": "2026-10-20T22:32:34+00:00",
  "items": [
+  {
+   "key": "MAD_SMITH_JEFFREY_2026-10-20",
+   "name": "Jeffrey Champ Smith",
+   "age": "66",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792535523,
+   "photo": "photos/MAD_SMITH_JEFFREY_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_URSHEL_DYLAN_2026-10-20",
+   "name": "Dylan Urshel",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Mischief",
+   "more": 1,
+   "ts": 1792535500,
+   "photo": "photos/ALL_URSHEL_DYLAN_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_SEWELL_ANTHONY_2026-10-20",
+   "name": "Anthony Sewell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1792535497,
+   "photo": "photos/ALL_SEWELL_ANTHONY_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_ROBINSON_LEILANI_2026-10-20",
+   "name": "Leilani Robinson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia",
+   "more": 1,
+   "ts": 1792535495,
+   "photo": "photos/ALL_ROBINSON_LEILANI_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_MARTINEZ_BRANDI_2026-10-20",
+   "name": "Brandi Martinez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 0,
+   "ts": 1792535493,
+   "photo": "photos/ALL_MARTINEZ_BRANDI_2026-10-20.jpg"
+  },
   {
    "key": "VAN_WEISS_CHARLOTTE_2026-10-20",
    "name": "Charlotte Louise Weiss",
@@ -376,17 +431,6 @@
    "photo": "photos/ALL_MCELVENE_RASHEEM_2026-10-20.jpg"
   },
   {
-   "key": "ALL_WATTS_KEON_2026-10-20",
-   "name": "Keon Watts",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 5,
-   "ts": 1792485089,
-   "photo": "photos/ALL_WATTS_KEON_2026-10-20.jpg"
-  },
-  {
    "key": "POR_KIMBROUGH_KIONNA_2026-10-20",
    "name": "Kionna A. Kimbrough",
    "age": "19",
@@ -429,39 +473,6 @@
    "more": 0,
    "ts": 1792481499,
    "photo": "photos/VAN_KING_CAMERON_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_ESPINOZA_ARTURO_2026-10-20",
-   "name": "Arturo Espinoza",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1792481493,
-   "photo": "photos/ALL_ESPINOZA_ARTURO_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_BLAIR_ISAIAH_2026-10-20",
-   "name": "Isaiah Blair",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 0,
-   "ts": 1792481492,
-   "photo": "photos/ALL_BLAIR_ISAIAH_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_ARMSTRONG_ATOYA_2026-10-20",
-   "name": "Atoya Armstrong",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "False Identity Statement",
-   "more": 1,
-   "ts": 1792481490,
-   "photo": "photos/ALL_ARMSTRONG_ATOYA_2026-10-20.jpg"
   },
   {
    "key": "POR_GASKIN_DAVID_2026-10-20",
@@ -517,17 +528,6 @@
    "more": 3,
    "ts": 1792474306,
    "photo": null
-  },
-  {
-   "key": "POR_SWISHER_GEORGE_2026-10-19",
-   "name": "George Robert Swisher",
-   "age": "25",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 1,
-   "ts": 1792470694,
-   "photo": "photos/POR_SWISHER_GEORGE_2026-10-19.jpg"
   }
  ]
 }
