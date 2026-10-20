@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-20T13:31:52+00:00",
+ "updated": "2026-10-20T14:32:40+00:00",
  "items": [
+  {
+   "key": "MAD_DITTLINGER_AUDREY_2026-10-20",
+   "name": "Audrey Ann Dittlinger",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation Community Corrections",
+   "more": 0,
+   "ts": 1792506710,
+   "photo": "photos/MAD_DITTLINGER_AUDREY_2026-10-20.jpg"
+  },
+  {
+   "key": "POR_GONZALES_FRANK_2026-10-20",
+   "name": "Frank Williams Gonzales",
+   "age": "65",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Mv Accident Leaving The Scene",
+   "more": 0,
+   "ts": 1792506703,
+   "photo": "photos/POR_GONZALES_FRANK_2026-10-20.jpg"
+  },
   {
    "key": "MAD_CLARK_JAMES_2026-10-20",
    "name": "James Orvel Clark",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792441961,
    "photo": "photos/MAD_LAY_MARLEE_2026-10-19.jpg"
-  },
-  {
-   "key": "MAD_DALTON_ROXANNE_2026-10-19",
-   "name": "Roxanne D Dalton",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792441956,
-   "photo": "photos/MAD_DALTON_ROXANNE_2026-10-19.jpg"
-  },
-  {
-   "key": "POR_CIMBALA_EVAN_2026-10-19",
-   "name": "Evan Mark Cimbala",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "False Informing",
-   "more": 1,
-   "ts": 1792441949,
-   "photo": "photos/POR_CIMBALA_EVAN_2026-10-19.jpg"
   }
  ]
 }
