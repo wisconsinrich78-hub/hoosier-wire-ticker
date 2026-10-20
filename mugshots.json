@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-20T00:32:14+00:00",
+ "updated": "2026-10-20T01:33:07+00:00",
  "items": [
+  {
+   "key": "ALL_HARRIS_DOUGLAS_2026-10-19",
+   "name": "Douglas Harris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "more": 1,
+   "ts": 1792459911,
+   "photo": "photos/ALL_HARRIS_DOUGLAS_2026-10-19.jpg"
+  },
+  {
+   "key": "ALL_BROOKS_DHAMONTRE_2026-10-19",
+   "name": "Dhamontre Brooks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery Enhanced With Previous Unrelated Conviction(S)",
+   "more": 1,
+   "ts": 1792459910,
+   "photo": "photos/ALL_BROOKS_DHAMONTRE_2026-10-19.jpg"
+  },
   {
    "key": "VAN_DAVIS_TROY_2026-10-19",
    "name": "Troy Dewayne Davis",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792423976,
    "photo": "photos/MAD_ALLGOOD_MADONNA_2026-10-19_2026-00003796.jpg"
-  },
-  {
-   "key": "MAD_ALLGOOD_MADONNA_2026-10-19",
-   "name": "Madonna Renee Allgood",
-   "age": "57",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792423002,
-   "photo": "photos/MAD_ALLGOOD_MADONNA_2026-10-19.jpg"
-  },
-  {
-   "key": "ALL_BEVERLY_NICHOLAS_2026-10-19",
-   "name": "Nicholas Beverly",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass Meeting Level 6 Felony Requirements",
-   "more": 0,
-   "ts": 1792422988,
-   "photo": "photos/ALL_BEVERLY_NICHOLAS_2026-10-19.jpg"
   }
  ]
 }
