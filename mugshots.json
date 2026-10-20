@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-20T03:32:29+00:00",
+ "updated": "2026-10-20T04:32:00+00:00",
  "items": [
+  {
+   "key": "ALL_OBERLEY_FRANKLIN_2026-10-19",
+   "name": "Franklin Oberley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 0,
+   "ts": 1792470697,
+   "photo": "photos/ALL_OBERLEY_FRANKLIN_2026-10-19.jpg"
+  },
+  {
+   "key": "ALL_MCDOUGLE_DAMESHA_2026-10-20",
+   "name": "Damesha Mcdougle",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 50K",
+   "more": 0,
+   "ts": 1792470695,
+   "photo": "photos/ALL_MCDOUGLE_DAMESHA_2026-10-20.jpg"
+  },
+  {
+   "key": "POR_SWISHER_GEORGE_2026-10-19",
+   "name": "George Robert Swisher",
+   "age": "25",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 1,
+   "ts": 1792470694,
+   "photo": "photos/POR_SWISHER_GEORGE_2026-10-19.jpg"
+  },
+  {
+   "key": "ALL_KELLY_KEVIN_2026-10-19",
+   "name": "Kevin Kelly",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1792470694,
+   "photo": "photos/ALL_KELLY_KEVIN_2026-10-19.jpg"
+  },
+  {
+   "key": "VAN_BRADLEY_VICTORIA_2026-10-19",
+   "name": "Victoria Diana Bradley",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Fraud On A Financial Institution",
+   "more": 3,
+   "ts": 1792470692,
+   "photo": "photos/VAN_BRADLEY_VICTORIA_2026-10-19.jpg"
+  },
   {
    "key": "POR_HILL_LAYN_2026-10-19",
    "name": "Layn Erin Hill",
@@ -473,61 +528,6 @@
    "more": 0,
    "ts": 1792434931,
    "photo": null
-  },
-  {
-   "key": "ALL_LAFLER_RODNEY_2026-10-19",
-   "name": "Rodney Lafler",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792434930,
-   "photo": "photos/ALL_LAFLER_RODNEY_2026-10-19.jpg"
-  },
-  {
-   "key": "VAN_LANGLEY_JAYDEN_2026-10-19",
-   "name": "Jayden Ray Langley",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792431321,
-   "photo": "photos/VAN_LANGLEY_JAYDEN_2026-10-19.jpg"
-  },
-  {
-   "key": "VAN_STAMBUSH_OVA_2026-10-19",
-   "name": "Ova C Stambush",
-   "age": "71",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792431320,
-   "photo": null
-  },
-  {
-   "key": "VAN_REED_JETTIA_2026-10-19",
-   "name": "Jettia Brishai Reed",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Writ Of Attachment",
-   "more": 0,
-   "ts": 1792431320,
-   "photo": null
-  },
-  {
-   "key": "POR_PICKETT_FREDERIC_2026-10-19",
-   "name": "Frederic Avery Pickett",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792427503,
-   "photo": "photos/POR_PICKETT_FREDERIC_2026-10-19.jpg"
   }
  ]
 }
