@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-20T07:32:06+00:00",
+ "updated": "2026-10-20T08:31:55+00:00",
  "items": [
+  {
+   "key": "ALL_WATTS_KEON_2026-10-20",
+   "name": "Keon Watts",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 5,
+   "ts": 1792485089,
+   "photo": "photos/ALL_WATTS_KEON_2026-10-20.jpg"
+  },
+  {
+   "key": "POR_KIMBROUGH_KIONNA_2026-10-20",
+   "name": "Kionna A. Kimbrough",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792485088,
+   "photo": null
+  },
+  {
+   "key": "VAN_HOSSMAN_CHRISTOPHER_2026-10-20",
+   "name": "Christopher Glenn Hossman",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Fail To Possess Indiana Drivers Lic",
+   "more": 0,
+   "ts": 1792485087,
+   "photo": "photos/VAN_HOSSMAN_CHRISTOPHER_2026-10-20.jpg"
+  },
   {
    "key": "MAD_WILLHOITE_TRENITY_2026-10-20",
    "name": "Trenity Persayiss Willhoite",
@@ -387,17 +420,6 @@
    "photo": "photos/VAN_WEDDING_RICKY_2026-10-19.jpg"
   },
   {
-   "key": "ALL_JENKINS_MARVIN_2026-10-19",
-   "name": "Marvin Jenkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 0,
-   "ts": 1792449104,
-   "photo": "photos/ALL_JENKINS_MARVIN_2026-10-19.jpg"
-  },
-  {
    "key": "POR_GAGNA_PHILIP_2026-10-19",
    "name": "Philip Wayne Gagna",
    "age": "47",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792441944,
    "photo": null
-  },
-  {
-   "key": "POR_SCHIESS_CHRISTOPHER_2026-10-19",
-   "name": "Christopher Michael Schiess",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Comply",
-   "more": 0,
-   "ts": 1792438364,
-   "photo": "photos/POR_SCHIESS_CHRISTOPHER_2026-10-19.jpg"
-  },
-  {
-   "key": "POR_SHEARRY_CARL_2026-10-19",
-   "name": "Carl Edward Shearry",
-   "age": "62",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1792438363,
-   "photo": "photos/POR_SHEARRY_CARL_2026-10-19.jpg"
   }
  ]
 }
