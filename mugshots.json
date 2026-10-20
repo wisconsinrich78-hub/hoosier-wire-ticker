@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-20T20:34:06+00:00",
+ "updated": "2026-10-20T21:32:19+00:00",
  "items": [
+  {
+   "key": "VAN_WEISS_CHARLOTTE_2026-10-20",
+   "name": "Charlotte Louise Weiss",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Prescription Fraud",
+   "more": 0,
+   "ts": 1792531894,
+   "photo": "photos/VAN_WEISS_CHARLOTTE_2026-10-20.jpg"
+  },
   {
    "key": "ALL_DAN_AR_2026-10-20",
    "name": "Ar Dan",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792470694,
    "photo": "photos/POR_SWISHER_GEORGE_2026-10-19.jpg"
-  },
-  {
-   "key": "VAN_BRADLEY_VICTORIA_2026-10-19",
-   "name": "Victoria Diana Bradley",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Fraud On A Financial Institution",
-   "more": 3,
-   "ts": 1792470692,
-   "photo": "photos/VAN_BRADLEY_VICTORIA_2026-10-19.jpg"
   }
  ]
 }
