@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-21T14:02:32+00:00",
+ "updated": "2026-10-21T14:30:55+00:00",
  "items": [
+  {
+   "key": "MAD_RAGSDALE_TERRANCE_2026-10-21",
+   "name": "Terrance Joseph Ragsdale",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1792593018,
+   "photo": "photos/MAD_RAGSDALE_TERRANCE_2026-10-21.jpg"
+  },
+  {
+   "key": "ALL_BOWER_RICO_2026-10-21",
+   "name": "Rico Bower",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1792592976,
+   "photo": "photos/ALL_BOWER_RICO_2026-10-21.jpg"
+  },
   {
    "key": "ALL_BOWERS_AIRION_2026-10-21",
    "name": "Airion Bowers",
@@ -354,17 +376,6 @@
    "photo": "photos/ALL_SEWELL_ANTHONY_2026-10-20.jpg"
   },
   {
-   "key": "ALL_ROBINSON_LEILANI_2026-10-20",
-   "name": "Leilani Robinson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Paraphernalia",
-   "more": 1,
-   "ts": 1792535495,
-   "photo": "photos/ALL_ROBINSON_LEILANI_2026-10-20.jpg"
-  },
-  {
    "key": "VAN_WEISS_CHARLOTTE_2026-10-20",
    "name": "Charlotte Louise Weiss",
    "age": "33",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792510315,
    "photo": "photos/MAD_DAVIS_RODNEY_2026-10-20.jpg"
-  },
-  {
-   "key": "POR_HARRELL_SHANNON_2026-10-20",
-   "name": "Shannon Arneice Harrell",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Accident Leave The Scene",
-   "more": 0,
-   "ts": 1792510303,
-   "photo": null
   }
  ]
 }
