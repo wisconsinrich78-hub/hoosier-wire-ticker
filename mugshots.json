@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T04:45:36+00:00",
+ "updated": "2026-10-21T05:00:37+00:00",
  "items": [
+  {
+   "key": "ALL_LANGSTON_NATHAN_2026-10-21",
+   "name": "Nathan Langston",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
+   "more": 0,
+   "ts": 1792558772,
+   "photo": "photos/ALL_LANGSTON_NATHAN_2026-10-21.jpg"
+  },
   {
    "key": "ALL_MILLER_JANIYA_2026-10-20",
    "name": "Janiya Miller",
@@ -308,17 +319,6 @@
    "more": 0,
    "ts": 1792524713,
    "photo": "photos/ALL_SPIN_HOLLY_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_GRANGER_CHRISTOPHER_2026-10-20",
-   "name": "Christopher Granger",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1792524710,
-   "photo": "photos/ALL_GRANGER_CHRISTOPHER_2026-10-20.jpg"
   },
   {
    "key": "MAD_TIPTON_BO_2026-10-20",
