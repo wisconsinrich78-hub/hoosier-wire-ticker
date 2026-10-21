@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T12:00:21+00:00",
+ "updated": "2026-10-21T12:45:09+00:00",
  "items": [
+  {
+   "key": "MAD_VALENCIA_LAZARO_2026-10-21",
+   "name": "Lazaro Ambrosio Valencia",
+   "age": "30",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792586700,
+   "photo": "photos/MAD_VALENCIA_LAZARO_2026-10-21.jpg"
+  },
   {
    "key": "ALL_BUNTAIN_DEAN_2026-10-21",
    "name": "Dean Buntain",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792510303,
    "photo": null
-  },
-  {
-   "key": "POR_LINEN_THADDEUS_2026-10-20",
-   "name": "Thaddeus Thomas Linen",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792510302,
-   "photo": "photos/POR_LINEN_THADDEUS_2026-10-20.jpg"
   }
  ]
 }
