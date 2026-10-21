@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T03:32:15+00:00",
+ "updated": "2026-10-21T04:45:36+00:00",
  "items": [
+  {
+   "key": "ALL_MILLER_JANIYA_2026-10-20",
+   "name": "Janiya Miller",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 2,
+   "ts": 1792557868,
+   "photo": "photos/ALL_MILLER_JANIYA_2026-10-20.jpg"
+  },
   {
    "key": "POR_KUEHL_TRACY_2026-10-20",
    "name": "Tracy Lynette Kuehl",
@@ -330,17 +341,6 @@
    "more": 0,
    "ts": 1792521095,
    "photo": "photos/MAD_EARLS_JACKIE_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_PLASKEWICZ_SKYLER_2026-10-20",
-   "name": "Skyler Plaskewicz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792521094,
-   "photo": "photos/ALL_PLASKEWICZ_SKYLER_2026-10-20.jpg"
   },
   {
    "key": "POR_THORNTON_AUSTIN_2026-10-20",
