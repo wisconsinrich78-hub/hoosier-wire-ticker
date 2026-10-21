@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T12:45:09+00:00",
+ "updated": "2026-10-21T14:02:32+00:00",
  "items": [
+  {
+   "key": "ALL_BOWERS_AIRION_2026-10-21",
+   "name": "Airion Bowers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1792591215,
+   "photo": "photos/ALL_BOWERS_AIRION_2026-10-21.jpg"
+  },
   {
    "key": "MAD_VALENCIA_LAZARO_2026-10-21",
    "name": "Lazaro Ambrosio Valencia",
@@ -352,17 +363,6 @@
    "more": 1,
    "ts": 1792535495,
    "photo": "photos/ALL_ROBINSON_LEILANI_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_MARTINEZ_BRANDI_2026-10-20",
-   "name": "Brandi Martinez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 0,
-   "ts": 1792535493,
-   "photo": "photos/ALL_MARTINEZ_BRANDI_2026-10-20.jpg"
   },
   {
    "key": "VAN_WEISS_CHARLOTTE_2026-10-20",
