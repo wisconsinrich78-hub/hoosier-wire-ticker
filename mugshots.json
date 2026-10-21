@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T15:15:44+00:00",
+ "updated": "2026-10-21T15:30:33+00:00",
  "items": [
+  {
+   "key": "POR_EAGANS_NYSCHELLE_2026-10-21",
+   "name": "Nyschelle Lyn Eagans",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1792596573,
+   "photo": "photos/POR_EAGANS_NYSCHELLE_2026-10-21.jpg"
+  },
   {
    "key": "ALL_PEREZ_LANCE_2026-10-21",
    "name": "Lance Perez",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792513921,
    "photo": null
-  },
-  {
-   "key": "MAD_DAVIS_RODNEY_2026-10-20",
-   "name": "Rodney Edward Davis",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1792510315,
-   "photo": "photos/MAD_DAVIS_RODNEY_2026-10-20.jpg"
   }
  ]
 }
