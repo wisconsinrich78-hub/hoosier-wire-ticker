@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T11:15:08+00:00",
+ "updated": "2026-10-21T12:00:21+00:00",
  "items": [
+  {
+   "key": "ALL_BUNTAIN_DEAN_2026-10-21",
+   "name": "Dean Buntain",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1792583968,
+   "photo": "photos/ALL_BUNTAIN_DEAN_2026-10-21.jpg"
+  },
   {
    "key": "ALL_TRIGG_JEREMY_2026-10-21",
    "name": "Jeremy Trigg",
@@ -352,17 +363,6 @@
    "more": 0,
    "ts": 1792531894,
    "photo": "photos/VAN_WEISS_CHARLOTTE_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_DAN_AR_2026-10-20",
-   "name": "Ar Dan",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Provide False Statement In Purchase On Atf 4473",
-   "more": 0,
-   "ts": 1792528342,
-   "photo": "photos/ALL_DAN_AR_2026-10-20.jpg"
   },
   {
    "key": "VAN_COLBERT_KENNETH_2026-10-20",
