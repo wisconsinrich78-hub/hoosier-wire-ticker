@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T05:15:47+00:00",
+ "updated": "2026-10-21T05:45:40+00:00",
  "items": [
+  {
+   "key": "ALL_FOSTER_EARL_2026-10-21",
+   "name": "Earl Foster",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlaw Poss Firearm By Domestic Batterer",
+   "more": 3,
+   "ts": 1792561469,
+   "photo": "photos/ALL_FOSTER_EARL_2026-10-21.jpg"
+  },
   {
    "key": "MAD_MOORE_JAVION_2026-10-21",
    "name": "Javion Moore",
@@ -330,17 +341,6 @@
    "more": 2,
    "ts": 1792524716,
    "photo": "photos/ALL_WATSON_TOBY_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_SPIN_HOLLY_2026-10-20",
-   "name": "Holly Spin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Abandonment Or Neglect Of Vertebrate Animal",
-   "more": 0,
-   "ts": 1792524713,
-   "photo": "photos/ALL_SPIN_HOLLY_2026-10-20.jpg"
   },
   {
    "key": "MAD_TIPTON_BO_2026-10-20",
