@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T22:30:50+00:00",
+ "updated": "2026-10-21T22:45:36+00:00",
  "items": [
+  {
+   "key": "ALL_ENYEART_LANDON_2026-10-21",
+   "name": "Landon Enyeart",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1792622672,
+   "photo": "photos/ALL_ENYEART_LANDON_2026-10-21.jpg"
+  },
   {
    "key": "POR_ELKINS_JAMES_2026-10-21",
    "name": "James Dean Elkins",
@@ -451,17 +462,6 @@
    "more": 0,
    "ts": 1792542870,
    "photo": "photos/POR_NANNEY_WANDA_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_THOMAS_CHRISTIAN_2026-10-20",
-   "name": "Christian Thomas",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 0,
-   "ts": 1792542863,
-   "photo": "photos/ALL_THOMAS_CHRISTIAN_2026-10-20.jpg"
   },
   {
    "key": "POR_ECHOLS_RASHEEDAH_2026-10-20",
