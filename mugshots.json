@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T17:15:36+00:00",
+ "updated": "2026-10-21T17:30:38+00:00",
  "items": [
+  {
+   "key": "ALL_VANPELT_PAUL_2026-10-21",
+   "name": "Paul Vanpelt",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792603774,
+   "photo": "photos/ALL_VANPELT_PAUL_2026-10-21.jpg"
+  },
   {
    "key": "MAD_RATCLIFF_GREGG_2026-10-21",
    "name": "Gregg Anthony Ratcliff",
@@ -451,17 +462,6 @@
    "more": 1,
    "ts": 1792539126,
    "photo": "photos/POR_YOUNG_IZIAH_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_TYRRELL_LEAH_2026-10-20",
-   "name": "Leah Tyrrell",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Extradition",
-   "more": 1,
-   "ts": 1792539121,
-   "photo": "photos/ALL_TYRRELL_LEAH_2026-10-20.jpg"
   },
   {
    "key": "MAD_SMITH_JEFFREY_2026-10-20",
