@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-21T01:33:29+00:00",
+ "updated": "2026-10-21T03:32:15+00:00",
  "items": [
+  {
+   "key": "POR_KUEHL_TRACY_2026-10-20",
+   "name": "Tracy Lynette Kuehl",
+   "age": "55",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792553503,
+   "photo": "photos/POR_KUEHL_TRACY_2026-10-20.jpg"
+  },
+  {
+   "key": "POR_NARJES_ALEXIS_2026-10-20",
+   "name": "Alexis Adam Narjes",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 2,
+   "ts": 1792553503,
+   "photo": "photos/POR_NARJES_ALEXIS_2026-10-20.jpg"
+  },
+  {
+   "key": "VAN_LAMBERT_APRIL_2026-10-20",
+   "name": "April Gail Lambert",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 0,
+   "ts": 1792553499,
+   "photo": null
+  },
+  {
+   "key": "ALL_STEPHENS_JASHAUN_2026-10-20",
+   "name": "Jashaun Stephens",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
+   "more": 0,
+   "ts": 1792553498,
+   "photo": "photos/ALL_STEPHENS_JASHAUN_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_DAVIS_SONJA_2026-10-20",
+   "name": "Sonja Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1792553495,
+   "photo": "photos/ALL_DAVIS_SONJA_2026-10-20.jpg"
+  },
   {
    "key": "VAN_BULLINGTON_JOHN_2026-10-20",
    "name": "John Daniel Bullington",
@@ -365,17 +420,6 @@
    "photo": "photos/VAN_STUM_DAVIN_2026-10-20.jpg"
   },
   {
-   "key": "ALL_MILLS_JOSEPH_2026-10-20",
-   "name": "Joseph Mills",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail To Register - Prior",
-   "more": 0,
-   "ts": 1792517498,
-   "photo": "photos/ALL_MILLS_JOSEPH_2026-10-20.jpg"
-  },
-  {
    "key": "POR_LONEY_JENNIFER_2026-10-20",
    "name": "Jennifer Leeanne Loney",
    "age": "47",
@@ -396,17 +440,6 @@
    "more": 1,
    "ts": 1792513921,
    "photo": null
-  },
-  {
-   "key": "ALL_WOOD_ZANE_2026-10-20",
-   "name": "Zane Wood",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing In Methamphetamine",
-   "more": 0,
-   "ts": 1792513899,
-   "photo": "photos/ALL_WOOD_ZANE_2026-10-20.jpg"
   },
   {
    "key": "MAD_DAVIS_RODNEY_2026-10-20",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792488694,
    "photo": "photos/POR_NARUG_RYAN_2026-10-20.jpg"
-  },
-  {
-   "key": "VAN_MITCHELL_NATHAN_2026-10-20",
-   "name": "Nathan Patrick Mitchell",
-   "age": "50",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1792488692,
-   "photo": "photos/VAN_MITCHELL_NATHAN_2026-10-20.jpg"
-  },
-  {
-   "key": "POR_KIMBROUGH_KIONNA_2026-10-20",
-   "name": "Kionna A. Kimbrough",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792485088,
-   "photo": null
-  },
-  {
-   "key": "VAN_HOSSMAN_CHRISTOPHER_2026-10-20",
-   "name": "Christopher Glenn Hossman",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Fail To Possess Indiana Drivers Lic",
-   "more": 0,
-   "ts": 1792485087,
-   "photo": "photos/VAN_HOSSMAN_CHRISTOPHER_2026-10-20.jpg"
   }
  ]
 }
