@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-21T21:00:10+00:00",
+ "updated": "2026-10-21T22:30:50+00:00",
  "items": [
+  {
+   "key": "POR_ELKINS_JAMES_2026-10-21",
+   "name": "James Dean Elkins",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1792621795,
+   "photo": "photos/POR_ELKINS_JAMES_2026-10-21.jpg"
+  },
+  {
+   "key": "ALL_VENTERS_KAVION_2026-10-21",
+   "name": "Kavion Venters",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792621772,
+   "photo": "photos/ALL_VENTERS_KAVION_2026-10-21.jpg"
+  },
   {
    "key": "ALL_CRISSEY_RONNIE_2026-10-21",
    "name": "Ronnie Crissey",
@@ -442,17 +464,6 @@
    "photo": "photos/ALL_THOMAS_CHRISTIAN_2026-10-20.jpg"
   },
   {
-   "key": "ALL_FISHER_RUTH_2026-10-20",
-   "name": "Ruth Fisher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Extradition",
-   "more": 1,
-   "ts": 1792542860,
-   "photo": "photos/ALL_FISHER_RUTH_2026-10-20.jpg"
-  },
-  {
    "key": "POR_ECHOLS_RASHEEDAH_2026-10-20",
    "name": "Rasheedah Zaire Echols",
    "age": "30",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792528335,
    "photo": "photos/VAN_COLBERT_KENNETH_2026-10-20.jpg"
-  },
-  {
-   "key": "MAD_TIPTON_BO_2026-10-20",
-   "name": "Bo Michael Tipton",
-   "age": "53",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792521106,
-   "photo": "photos/MAD_TIPTON_BO_2026-10-20.jpg"
   }
  ]
 }
