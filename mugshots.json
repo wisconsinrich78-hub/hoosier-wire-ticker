@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T20:31:02+00:00",
+ "updated": "2026-10-21T21:00:10+00:00",
  "items": [
+  {
+   "key": "ALL_CRISSEY_RONNIE_2026-10-21",
+   "name": "Ronnie Crissey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1792616378,
+   "photo": "photos/ALL_CRISSEY_RONNIE_2026-10-21.jpg"
+  },
   {
    "key": "POR_LOPEZ_GABRIEL_2026-10-21",
    "name": "Gabriel Luis Lopez",
@@ -440,17 +451,6 @@
    "more": 1,
    "ts": 1792542860,
    "photo": "photos/ALL_FISHER_RUTH_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_BELL_BRASHUN_2026-10-20",
-   "name": "Brashun Bell",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1792542856,
-   "photo": "photos/ALL_BELL_BRASHUN_2026-10-20.jpg"
   },
   {
    "key": "POR_ECHOLS_RASHEEDAH_2026-10-20",
