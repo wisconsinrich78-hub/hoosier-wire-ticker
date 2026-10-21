@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T14:30:55+00:00",
+ "updated": "2026-10-21T15:15:44+00:00",
  "items": [
+  {
+   "key": "ALL_PEREZ_LANCE_2026-10-21",
+   "name": "Lance Perez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792595674,
+   "photo": "photos/ALL_PEREZ_LANCE_2026-10-21.jpg"
+  },
   {
    "key": "MAD_RAGSDALE_TERRANCE_2026-10-21",
    "name": "Terrance Joseph Ragsdale",
@@ -363,17 +374,6 @@
    "more": 1,
    "ts": 1792535500,
    "photo": "photos/ALL_URSHEL_DYLAN_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_SEWELL_ANTHONY_2026-10-20",
-   "name": "Anthony Sewell",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1792535497,
-   "photo": "photos/ALL_SEWELL_ANTHONY_2026-10-20.jpg"
   },
   {
    "key": "VAN_WEISS_CHARLOTTE_2026-10-20",
