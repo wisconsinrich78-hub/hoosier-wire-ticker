@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-21T05:00:37+00:00",
+ "updated": "2026-10-21T05:15:47+00:00",
  "items": [
+  {
+   "key": "MAD_MOORE_JAVION_2026-10-21",
+   "name": "Javion Moore",
+   "age": "20",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Rle",
+   "more": 1,
+   "ts": 1792559727,
+   "photo": "photos/MAD_MOORE_JAVION_2026-10-21.jpg"
+  },
+  {
+   "key": "MAD_ANDERSON_RICK_2026-10-21",
+   "name": "Rick Allen Anderson",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792559712,
+   "photo": "photos/MAD_ANDERSON_RICK_2026-10-21.jpg"
+  },
   {
    "key": "ALL_LANGSTON_NATHAN_2026-10-21",
    "name": "Nathan Langston",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1792503103,
    "photo": "photos/MAD_CLARK_JAMES_2026-10-20.jpg"
-  },
-  {
-   "key": "VAN_GRAY_EVANNE_2026-10-20",
-   "name": "Evanne De Gray",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 3,
-   "ts": 1792503095,
-   "photo": "photos/VAN_GRAY_EVANNE_2026-10-20.jpg"
-  },
-  {
-   "key": "POR_NARUG_RYAN_2026-10-20",
-   "name": "Ryan Jacob Narug",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Family Offense- Invasion Of Privacy",
-   "more": 0,
-   "ts": 1792488694,
-   "photo": "photos/POR_NARUG_RYAN_2026-10-20.jpg"
   }
  ]
 }
