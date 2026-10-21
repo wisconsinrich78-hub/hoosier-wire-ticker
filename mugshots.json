@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-21T15:30:33+00:00",
+ "updated": "2026-10-21T16:00:32+00:00",
  "items": [
+  {
+   "key": "MAD_NEAL_ALLEN_2026-10-21",
+   "name": "Allen L Neal",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792598409,
+   "photo": "photos/MAD_NEAL_ALLEN_2026-10-21.jpg"
+  },
+  {
+   "key": "MAD_JOYCE_MICHAEL_2026-10-21",
+   "name": "Michael Allen Joyce",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792598407,
+   "photo": "photos/MAD_JOYCE_MICHAEL_2026-10-21.jpg"
+  },
   {
    "key": "POR_EAGANS_NYSCHELLE_2026-10-21",
    "name": "Nyschelle Lyn Eagans",
@@ -506,28 +528,6 @@
    "more": 3,
    "ts": 1792517502,
    "photo": "photos/VAN_STUM_DAVIN_2026-10-20.jpg"
-  },
-  {
-   "key": "POR_LONEY_JENNIFER_2026-10-20",
-   "name": "Jennifer Leeanne Loney",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1792513924,
-   "photo": "photos/POR_LONEY_JENNIFER_2026-10-20.jpg"
-  },
-  {
-   "key": "VAN_BEDWELL_TREY_2026-10-20",
-   "name": "Trey Brennen Bedwell",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1792513921,
-   "photo": null
   }
  ]
 }
