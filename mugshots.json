@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T19:15:19+00:00",
+ "updated": "2026-10-21T20:31:02+00:00",
  "items": [
+  {
+   "key": "POR_LOPEZ_GABRIEL_2026-10-21",
+   "name": "Gabriel Luis Lopez",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 2,
+   "ts": 1792614607,
+   "photo": "photos/POR_LOPEZ_GABRIEL_2026-10-21.jpg"
+  },
   {
    "key": "MAD_BACK_ASHLEY_2026-10-21",
    "name": "Ashley Marie Back",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792521106,
    "photo": "photos/MAD_TIPTON_BO_2026-10-20.jpg"
-  },
-  {
-   "key": "MAD_EARLS_JACKIE_2026-10-20",
-   "name": "Jackie Deleana Angeline Earls",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Parole Violation - Jail Booking",
-   "more": 0,
-   "ts": 1792521095,
-   "photo": "photos/MAD_EARLS_JACKIE_2026-10-20.jpg"
   }
  ]
 }
