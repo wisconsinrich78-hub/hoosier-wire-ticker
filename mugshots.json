@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T22:45:36+00:00",
+ "updated": "2026-10-21T23:15:36+00:00",
  "items": [
+  {
+   "key": "ALL_CHILDS_LARRY_2026-10-21",
+   "name": "Larry Childs",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792624476,
+   "photo": "photos/ALL_CHILDS_LARRY_2026-10-21.jpg"
+  },
   {
    "key": "ALL_ENYEART_LANDON_2026-10-21",
    "name": "Landon Enyeart",
@@ -407,17 +418,6 @@
    "more": 0,
    "ts": 1792553498,
    "photo": "photos/ALL_STEPHENS_JASHAUN_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_DAVIS_SONJA_2026-10-20",
-   "name": "Sonja Davis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1792553495,
-   "photo": "photos/ALL_DAVIS_SONJA_2026-10-20.jpg"
   },
   {
    "key": "VAN_BULLINGTON_JOHN_2026-10-20",
