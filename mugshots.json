@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-20T23:32:55+00:00",
+ "updated": "2026-10-21T00:35:13+00:00",
  "items": [
+  {
+   "key": "POR_NANNEY_WANDA_2026-10-20",
+   "name": "Wanda Coleen Nanney",
+   "age": "62",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol",
+   "more": 0,
+   "ts": 1792542870,
+   "photo": "photos/POR_NANNEY_WANDA_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_THOMAS_CHRISTIAN_2026-10-20",
+   "name": "Christian Thomas",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 0,
+   "ts": 1792542863,
+   "photo": "photos/ALL_THOMAS_CHRISTIAN_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_FISHER_RUTH_2026-10-20",
+   "name": "Ruth Fisher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Extradition",
+   "more": 1,
+   "ts": 1792542860,
+   "photo": "photos/ALL_FISHER_RUTH_2026-10-20.jpg"
+  },
+  {
+   "key": "ALL_BELL_BRASHUN_2026-10-20",
+   "name": "Brashun Bell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1792542856,
+   "photo": "photos/ALL_BELL_BRASHUN_2026-10-20.jpg"
+  },
   {
    "key": "POR_ECHOLS_RASHEEDAH_2026-10-20",
    "name": "Rasheedah Zaire Echols",
@@ -409,28 +453,6 @@
    "photo": "photos/VAN_GRAY_EVANNE_2026-10-20.jpg"
   },
   {
-   "key": "ALL_NELSON_WESLEY_2026-10-20",
-   "name": "Wesley Nelson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792503093,
-   "photo": "photos/ALL_NELSON_WESLEY_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_JOHNSON_SCHARN_2026-10-20",
-   "name": "Scharn Johnson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792495897,
-   "photo": "photos/ALL_JOHNSON_SCHARN_2026-10-20.jpg"
-  },
-  {
    "key": "POR_NARUG_RYAN_2026-10-20",
    "name": "Ryan Jacob Narug",
    "age": "23",
@@ -451,17 +473,6 @@
    "more": 0,
    "ts": 1792488692,
    "photo": "photos/VAN_MITCHELL_NATHAN_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_NULL_STEVEN_2026-10-20",
-   "name": "Steven Null",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 1,
-   "ts": 1792488690,
-   "photo": "photos/ALL_NULL_STEVEN_2026-10-20.jpg"
   },
   {
    "key": "POR_KIMBROUGH_KIONNA_2026-10-20",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792477892,
    "photo": "photos/POR_GASKIN_DAVID_2026-10-20.jpg"
-  },
-  {
-   "key": "VAN_PICKERILL_ROBERT_2026-10-20",
-   "name": "Robert Allen Pickerill",
-   "age": "65",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 0,
-   "ts": 1792477889,
-   "photo": null
   }
  ]
 }
