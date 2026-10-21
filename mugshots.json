@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T06:16:05+00:00",
+ "updated": "2026-10-21T06:30:40+00:00",
  "items": [
+  {
+   "key": "POR_MOORE_RYAN_2026-10-21",
+   "name": "Ryan A Moore",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 1,
+   "ts": 1792564201,
+   "photo": null
+  },
   {
    "key": "ALL_ROSS_AMANDA_2026-10-21",
    "name": "Amanda Ross",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792506703,
    "photo": "photos/POR_GONZALES_FRANK_2026-10-20.jpg"
-  },
-  {
-   "key": "MAD_CLARK_JAMES_2026-10-20",
-   "name": "James Orvel Clark",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Theft- all other larceny - prior unrelated conviction for theft or con",
-   "more": 1,
-   "ts": 1792503103,
-   "photo": "photos/MAD_CLARK_JAMES_2026-10-20.jpg"
   }
  ]
 }
