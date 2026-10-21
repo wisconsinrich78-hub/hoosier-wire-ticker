@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-21T00:35:13+00:00",
+ "updated": "2026-10-21T01:33:29+00:00",
  "items": [
+  {
+   "key": "VAN_BULLINGTON_JOHN_2026-10-20",
+   "name": "John Daniel Bullington",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 0,
+   "ts": 1792546331,
+   "photo": "photos/VAN_BULLINGTON_JOHN_2026-10-20.jpg"
+  },
+  {
+   "key": "VAN_FOREST_JESSIE_2026-10-20",
+   "name": "Jessie Lee Forest",
+   "age": "52",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1792546330,
+   "photo": "photos/VAN_FOREST_JESSIE_2026-10-20.jpg"
+  },
+  {
+   "key": "VAN_RICKS_JUSTIN_2026-10-20",
+   "name": "Justin Oneal Ricks",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1792546330,
+   "photo": "photos/VAN_RICKS_JUSTIN_2026-10-20.jpg"
+  },
   {
    "key": "POR_NANNEY_WANDA_2026-10-20",
    "name": "Wanda Coleen Nanney",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792485087,
    "photo": "photos/VAN_HOSSMAN_CHRISTOPHER_2026-10-20.jpg"
-  },
-  {
-   "key": "MAD_WILLHOITE_TRENITY_2026-10-20",
-   "name": "Trenity Persayiss Willhoite",
-   "age": "20",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery- bodily injury - A/M",
-   "more": 0,
-   "ts": 1792481519,
-   "photo": "photos/MAD_WILLHOITE_TRENITY_2026-10-20.jpg"
-  },
-  {
-   "key": "VAN_KING_CAMERON_2026-10-20",
-   "name": "Cameron Malik King",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792481499,
-   "photo": "photos/VAN_KING_CAMERON_2026-10-20.jpg"
-  },
-  {
-   "key": "POR_GASKIN_DAVID_2026-10-20",
-   "name": "David William Gaskin",
-   "age": "57",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792477892,
-   "photo": "photos/POR_GASKIN_DAVID_2026-10-20.jpg"
   }
  ]
 }
