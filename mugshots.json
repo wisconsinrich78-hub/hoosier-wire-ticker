@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-21T08:30:24+00:00",
+ "updated": "2026-10-21T11:15:08+00:00",
  "items": [
+  {
+   "key": "ALL_TRIGG_JEREMY_2026-10-21",
+   "name": "Jeremy Trigg",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1792581271,
+   "photo": "photos/ALL_TRIGG_JEREMY_2026-10-21.jpg"
+  },
   {
    "key": "POR_NIKOLIC_GABRIEL_2026-10-21",
    "name": "Gabriel Leka Nikolic",
@@ -352,17 +363,6 @@
    "more": 0,
    "ts": 1792528342,
    "photo": "photos/ALL_DAN_AR_2026-10-20.jpg"
-  },
-  {
-   "key": "ALL_CUSICK_AUSTIN_2026-10-20",
-   "name": "Austin Cusick",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 1,
-   "ts": 1792528339,
-   "photo": "photos/ALL_CUSICK_AUSTIN_2026-10-20.jpg"
   },
   {
    "key": "VAN_COLBERT_KENNETH_2026-10-20",
