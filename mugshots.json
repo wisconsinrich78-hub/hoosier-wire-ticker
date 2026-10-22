@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T17:31:24+00:00",
+ "updated": "2026-10-22T18:01:06+00:00",
  "items": [
+  {
+   "key": "VAN_COLEMAN_JASMINE_2026-10-22",
+   "name": "Jasmine Danee Coleman",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1792691966,
+   "photo": "photos/VAN_COLEMAN_JASMINE_2026-10-22.jpg"
+  },
   {
    "key": "MAD_SKIRVIN_JEREMY_2026-10-22",
    "name": "Jeremy Dean Skirvin",
@@ -440,17 +451,6 @@
    "more": 0,
    "ts": 1792636189,
    "photo": "photos/VAN_EPLEY_AMANDA_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_SUMMERS_ALEASHA_2026-10-21",
-   "name": "Aleasha Lana Ashley Summers",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
-   "more": 0,
-   "ts": 1792636188,
-   "photo": "photos/VAN_SUMMERS_ALEASHA_2026-10-21.jpg"
   },
   {
    "key": "ALL_CHILDS_LARRY_2026-10-21",
