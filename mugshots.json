@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T10:16:09+00:00",
+ "updated": "2026-10-22T10:30:54+00:00",
  "items": [
+  {
+   "key": "VAN_FORD_DIONSHAI_2026-10-22",
+   "name": "Dionshai Kalaria Sole Ford",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Family Offense- Invasion Of Privacy",
+   "more": 0,
+   "ts": 1792664973,
+   "photo": null
+  },
   {
    "key": "MAD_WYMAN_CAMERON_2026-10-22",
    "name": "Cameron Alexander Wyman",
@@ -319,17 +330,6 @@
    "more": 1,
    "ts": 1792636182,
    "photo": "photos/VAN_ORPURT_NELSON_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_GARRETT_PATRICK_2026-10-21",
-   "name": "Patrick Marshall Garrett",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792636181,
-   "photo": "photos/VAN_GARRETT_PATRICK_2026-10-21.jpg"
   },
   {
    "key": "ALL_CHILDS_LARRY_2026-10-21",
