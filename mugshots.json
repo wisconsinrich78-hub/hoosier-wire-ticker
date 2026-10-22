@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T09:30:52+00:00",
+ "updated": "2026-10-22T10:16:09+00:00",
  "items": [
+  {
+   "key": "MAD_WYMAN_CAMERON_2026-10-22",
+   "name": "Cameron Alexander Wyman",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792664146,
+   "photo": null
+  },
   {
    "key": "POR_GIBSON_AMANDA_2026-10-22",
    "name": "Amanda M Gibson",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792596573,
    "photo": "photos/POR_EAGANS_NYSCHELLE_2026-10-21.jpg"
-  },
-  {
-   "key": "ALL_PEREZ_LANCE_2026-10-21",
-   "name": "Lance Perez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792595674,
-   "photo": "photos/ALL_PEREZ_LANCE_2026-10-21.jpg"
   }
  ]
 }
