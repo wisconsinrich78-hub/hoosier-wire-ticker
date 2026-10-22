@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T09:16:24+00:00",
+ "updated": "2026-10-22T09:30:52+00:00",
  "items": [
+  {
+   "key": "POR_GIBSON_AMANDA_2026-10-22",
+   "name": "Amanda M Gibson",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1792661372,
+   "photo": "photos/POR_GIBSON_AMANDA_2026-10-22.jpg"
+  },
+  {
+   "key": "POR_PRATCHET_ALPHA_2026-10-22",
+   "name": "Alpha Pratchet",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 0,
+   "ts": 1792661369,
+   "photo": "photos/POR_PRATCHET_ALPHA_2026-10-22.jpg"
+  },
   {
    "key": "VAN_JOHNSON_RONNIYAH_2026-10-22",
    "name": "Ronniyah Shauntay Johnson",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792595674,
    "photo": "photos/ALL_PEREZ_LANCE_2026-10-21.jpg"
-  },
-  {
-   "key": "MAD_RAGSDALE_TERRANCE_2026-10-21",
-   "name": "Terrance Joseph Ragsdale",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1792593018,
-   "photo": "photos/MAD_RAGSDALE_TERRANCE_2026-10-21.jpg"
-  },
-  {
-   "key": "ALL_BOWER_RICO_2026-10-21",
-   "name": "Rico Bower",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1792592976,
-   "photo": "photos/ALL_BOWER_RICO_2026-10-21.jpg"
   }
  ]
 }
