@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T19:00:56+00:00",
+ "updated": "2026-10-22T19:31:20+00:00",
  "items": [
+  {
+   "key": "POR_FENTRESS_ANTON_2026-10-22",
+   "name": "Anton Lee Fentress",
+   "age": "31",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Obstruction Of Justice",
+   "more": 0,
+   "ts": 1792697381,
+   "photo": null
+  },
+  {
+   "key": "ALL_KNITTER_BRIAN_2026-10-22",
+   "name": "Brian Knitter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Abandonment Or Neglect Of Vertebrate Animal",
+   "more": 0,
+   "ts": 1792697378,
+   "photo": "photos/ALL_KNITTER_BRIAN_2026-10-22.jpg"
+  },
   {
    "key": "ALL_DAVIS_ARNITRA_2026-10-22",
    "name": "Arnitra Davis",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792622672,
    "photo": "photos/ALL_ENYEART_LANDON_2026-10-21.jpg"
-  },
-  {
-   "key": "POR_ELKINS_JAMES_2026-10-21",
-   "name": "James Dean Elkins",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1792621795,
-   "photo": "photos/POR_ELKINS_JAMES_2026-10-21.jpg"
-  },
-  {
-   "key": "ALL_VENTERS_KAVION_2026-10-21",
-   "name": "Kavion Venters",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792621772,
-   "photo": "photos/ALL_VENTERS_KAVION_2026-10-21.jpg"
   }
  ]
 }
