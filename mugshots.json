@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T15:45:56+00:00",
+ "updated": "2026-10-22T16:31:30+00:00",
  "items": [
+  {
+   "key": "ALL_SPENCER_SHAWN_2026-10-22",
+   "name": "Shawn Spencer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1792686572,
+   "photo": "photos/ALL_SPENCER_SHAWN_2026-10-22.jpg"
+  },
+  {
+   "key": "ALL_MITCHELLSWANGIN_SPENCER_2026-10-22",
+   "name": "Spencer Mitchell-Swangin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792686568,
+   "photo": "photos/ALL_MITCHELLSWANGIN_SPENCER_2026-10-22.jpg"
+  },
   {
    "key": "ALL_REYESLEMUS_CHRISTIAN_2026-10-22",
    "name": "Christian Reyeslemus",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792602918,
    "photo": "photos/MAD_RATCLIFF_GREGG_2026-10-21.jpg"
-  },
-  {
-   "key": "MAD_HUNTER_LYKIA_2026-10-21",
-   "name": "Lykia Arnise Hunter",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792602911,
-   "photo": "photos/MAD_HUNTER_LYKIA_2026-10-21.jpg"
-  },
-  {
-   "key": "MAD_FOUTCH_JAMES_2026-10-21",
-   "name": "James Douglas Foutch",
-   "age": "53",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792602907,
-   "photo": "photos/MAD_FOUTCH_JAMES_2026-10-21.jpg"
   }
  ]
 }
