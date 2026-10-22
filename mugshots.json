@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T03:16:02+00:00",
+ "updated": "2026-10-22T03:31:04+00:00",
  "items": [
+  {
+   "key": "POR_SMITH_EDWARD_2026-10-21",
+   "name": "Edward James Smith",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Schedule Ii, Iii, Iv : A : M",
+   "more": 0,
+   "ts": 1792639768,
+   "photo": "photos/POR_SMITH_EDWARD_2026-10-21.jpg"
+  },
+  {
+   "key": "POR_GAGLIARDI_BRIDGETTE_2026-10-21",
+   "name": "Bridgette Nicole Gagliardi",
+   "age": "34",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or Conversio",
+   "more": 0,
+   "ts": 1792639766,
+   "photo": "photos/POR_GAGLIARDI_BRIDGETTE_2026-10-21.jpg"
+  },
   {
    "key": "ALL_FORREST_ZOLA_2026-10-21",
    "name": "Zola Forrest",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1792564201,
    "photo": null
-  },
-  {
-   "key": "ALL_ROSS_AMANDA_2026-10-21",
-   "name": "Amanda Ross",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 3,
-   "ts": 1792563268,
-   "photo": "photos/ALL_ROSS_AMANDA_2026-10-21.jpg"
-  },
-  {
-   "key": "ALL_FOSTER_EARL_2026-10-21",
-   "name": "Earl Foster",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlaw Poss Firearm By Domestic Batterer",
-   "more": 3,
-   "ts": 1792561469,
-   "photo": "photos/ALL_FOSTER_EARL_2026-10-21.jpg"
   }
  ]
 }
