@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T03:31:04+00:00",
+ "updated": "2026-10-22T04:16:09+00:00",
  "items": [
+  {
+   "key": "ALL_GROVES_AMONTE_2026-10-21",
+   "name": "Amonte Groves",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 0,
+   "ts": 1792642471,
+   "photo": "photos/ALL_GROVES_AMONTE_2026-10-21.jpg"
+  },
   {
    "key": "POR_SMITH_EDWARD_2026-10-21",
    "name": "Edward James Smith",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792566030,
    "photo": "photos/MAD_SMITH_KERRY_2026-10-21.jpg"
-  },
-  {
-   "key": "POR_MOORE_RYAN_2026-10-21",
-   "name": "Ryan A Moore",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 1,
-   "ts": 1792564201,
-   "photo": null
   }
  ]
 }
