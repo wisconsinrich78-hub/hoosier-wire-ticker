@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T23:31:45+00:00",
+ "updated": "2026-10-22T23:46:19+00:00",
  "items": [
+  {
+   "key": "ALL_STEWARD_DANIEL_2026-10-22",
+   "name": "Daniel Steward",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1792712668,
+   "photo": "photos/ALL_STEWARD_DANIEL_2026-10-22.jpg"
+  },
   {
    "key": "POR_FREEMAN_ANTHONY_2026-10-22",
    "name": "Anthony Wayne Freeman",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792648769,
    "photo": "photos/ALL_CARDENAS_ALEJANDRO_2026-10-22.jpg"
-  },
-  {
-   "key": "MAD_GROCE_JAMIE_2026-10-22",
-   "name": "Jamie Nichole Groce",
-   "age": "48",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792646134,
-   "photo": "photos/MAD_GROCE_JAMIE_2026-10-22.jpg"
   }
  ]
 }
