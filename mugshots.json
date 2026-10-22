@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T22:31:28+00:00",
+ "updated": "2026-10-22T22:46:32+00:00",
  "items": [
+  {
+   "key": "ALL_MENDOZA_ANGELIC_2026-10-22",
+   "name": "Angelic Mendoza",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792709073,
+   "photo": null
+  },
   {
    "key": "ALL_MARTINEZALLEN_DEMARCUS_2026-10-22",
    "name": "Demarcus Martinez-Allen",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792642471,
    "photo": "photos/ALL_GROVES_AMONTE_2026-10-21.jpg"
-  },
-  {
-   "key": "POR_SMITH_EDWARD_2026-10-21",
-   "name": "Edward James Smith",
-   "age": "33",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Schedule Ii, Iii, Iv : A : M",
-   "more": 0,
-   "ts": 1792639768,
-   "photo": "photos/POR_SMITH_EDWARD_2026-10-21.jpg"
   }
  ]
 }
