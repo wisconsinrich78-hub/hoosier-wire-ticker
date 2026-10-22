@@ -1,17 +1,6 @@
 {
- "updated": "2026-10-22T15:33:37+00:00",
+ "updated": "2026-10-22T15:36:57+00:00",
  "items": [
-  {
-   "key": "MAD_JOHNSON_ARETEZ_2026-10-22_2026-00003828",
-   "name": "Are'Tez Tyreese Johnson",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Criminal trespass",
-   "more": 1,
-   "ts": 1792683173,
-   "photo": "photos/MAD_JOHNSON_ARETEZ_2026-10-22_2026-00003828.jpg"
-  },
   {
    "key": "MAD_JOHNSON_ARETEZ_2026-10-22",
    "name": "Are'Tez Tyreese Johnson",
@@ -528,6 +517,17 @@
    "more": 0,
    "ts": 1792602907,
    "photo": "photos/MAD_FOUTCH_JAMES_2026-10-21.jpg"
+  },
+  {
+   "key": "ALL_STEWART_DEVON_2026-10-21",
+   "name": "Devon Stewart",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery With Moderate Bodily Injury",
+   "more": 1,
+   "ts": 1792602873,
+   "photo": "photos/ALL_STEWART_DEVON_2026-10-21.jpg"
   }
  ]
 }
