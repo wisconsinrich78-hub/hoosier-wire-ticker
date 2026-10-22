@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T14:01:16+00:00",
+ "updated": "2026-10-22T14:31:08+00:00",
  "items": [
+  {
+   "key": "POR_MCNINCH_TRACE_2026-10-22",
+   "name": "Trace Christian Mcninch",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
+   "more": 2,
+   "ts": 1792679377,
+   "photo": "photos/POR_MCNINCH_TRACE_2026-10-22.jpg"
+  },
   {
    "key": "MAD_GRIFFIN_MATTHEW_2026-10-22",
    "name": "Matthew Allen Griffin",
@@ -516,17 +527,6 @@
    "charge": "Battery - against public safety official (level 6 felony)",
    "more": 0,
    "ts": 1792600231,
-   "photo": null
-  },
-  {
-   "key": "POR_FITZGERALD_BRITANY_2026-10-21",
-   "name": "Britany Ann Fitzgerald",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1792600216,
    "photo": null
   }
  ]
