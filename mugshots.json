@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T03:01:04+00:00",
+ "updated": "2026-10-22T03:16:02+00:00",
  "items": [
+  {
+   "key": "ALL_FORREST_ZOLA_2026-10-21",
+   "name": "Zola Forrest",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1792638868,
+   "photo": "photos/ALL_FORREST_ZOLA_2026-10-21.jpg"
+  },
   {
    "key": "VAN_FUQUA_MICAH_2026-10-21",
    "name": "Micah Neil Fuqua",
@@ -517,17 +528,6 @@
    "more": 3,
    "ts": 1792561469,
    "photo": "photos/ALL_FOSTER_EARL_2026-10-21.jpg"
-  },
-  {
-   "key": "MAD_MOORE_JAVION_2026-10-21",
-   "name": "Javion Moore",
-   "age": "20",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Rle",
-   "more": 1,
-   "ts": 1792559727,
-   "photo": "photos/MAD_MOORE_JAVION_2026-10-21.jpg"
   }
  ]
 }
