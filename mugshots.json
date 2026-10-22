@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T07:18:39+00:00",
+ "updated": "2026-10-22T07:46:19+00:00",
  "items": [
+  {
+   "key": "VAN_DAVIS_JADA_2026-10-22",
+   "name": "Jada Morgan Davis",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 1,
+   "ts": 1792655076,
+   "photo": "photos/VAN_DAVIS_JADA_2026-10-22.jpg"
+  },
   {
    "key": "VAN_FINCH_SHAWN_2026-10-22",
    "name": "Shawn Trevano Finch",
@@ -275,17 +286,6 @@
    "more": 1,
    "ts": 1792636179,
    "photo": "photos/VAN_TEAGARDNER_MICHAEL_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_SMITH_HEATHER_2026-10-21",
-   "name": "Heather Alexandra Smith",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792636178,
-   "photo": "photos/VAN_SMITH_HEATHER_2026-10-21.jpg"
   },
   {
    "key": "ALL_CHILDS_LARRY_2026-10-21",
