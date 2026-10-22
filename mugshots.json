@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T06:00:55+00:00",
+ "updated": "2026-10-22T06:18:32+00:00",
  "items": [
+  {
+   "key": "MAD_BONNER_ANDRE_2026-10-22",
+   "name": "Andre Ramone Bonner",
+   "age": "51",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 2,
+   "ts": 1792649830,
+   "photo": "photos/MAD_BONNER_ANDRE_2026-10-22.jpg"
+  },
   {
    "key": "ALL_CARDENAS_ALEJANDRO_2026-10-22",
    "name": "Alejandro Cardenas",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792586700,
    "photo": "photos/MAD_VALENCIA_LAZARO_2026-10-21.jpg"
-  },
-  {
-   "key": "ALL_BUNTAIN_DEAN_2026-10-21",
-   "name": "Dean Buntain",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1792583968,
-   "photo": "photos/ALL_BUNTAIN_DEAN_2026-10-21.jpg"
   }
  ]
 }
