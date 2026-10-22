@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T08:30:31+00:00",
+ "updated": "2026-10-22T09:16:24+00:00",
  "items": [
+  {
+   "key": "VAN_JOHNSON_RONNIYAH_2026-10-22",
+   "name": "Ronniyah Shauntay Johnson",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1792660500,
+   "photo": "photos/VAN_JOHNSON_RONNIYAH_2026-10-22.jpg"
+  },
   {
    "key": "POR_KING_ISIAH_2026-10-22",
    "name": "Isiah King",
@@ -286,17 +297,6 @@
    "more": 0,
    "ts": 1792636181,
    "photo": "photos/VAN_GARRETT_PATRICK_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_SMITH_ALEXANDRIA_2026-10-21",
-   "name": "Alexandria Lavonne Smith",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 1,
-   "ts": 1792636181,
-   "photo": null
   },
   {
    "key": "ALL_CHILDS_LARRY_2026-10-21",
