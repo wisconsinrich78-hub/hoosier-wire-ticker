@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T19:31:20+00:00",
+ "updated": "2026-10-22T19:46:09+00:00",
  "items": [
+  {
+   "key": "ALL_PHILLIPS_KALEB_2026-10-22",
+   "name": "Kaleb Phillips",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1792698274,
+   "photo": "photos/ALL_PHILLIPS_KALEB_2026-10-22.jpg"
+  },
   {
    "key": "POR_FENTRESS_ANTON_2026-10-22",
    "name": "Anton Lee Fentress",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792624476,
    "photo": "photos/ALL_CHILDS_LARRY_2026-10-21.jpg"
-  },
-  {
-   "key": "ALL_ENYEART_LANDON_2026-10-21",
-   "name": "Landon Enyeart",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
-   "more": 0,
-   "ts": 1792622672,
-   "photo": "photos/ALL_ENYEART_LANDON_2026-10-21.jpg"
   }
  ]
 }
