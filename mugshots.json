@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T07:01:25+00:00",
+ "updated": "2026-10-22T07:18:39+00:00",
  "items": [
+  {
+   "key": "VAN_FINCH_SHAWN_2026-10-22",
+   "name": "Shawn Trevano Finch",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 2,
+   "ts": 1792653416,
+   "photo": "photos/VAN_FINCH_SHAWN_2026-10-22.jpg"
+  },
   {
    "key": "VAN_GRAY_KIMBERLY_2026-10-22",
    "name": "Kimberly Ann Gray",
@@ -275,17 +286,6 @@
    "more": 0,
    "ts": 1792636178,
    "photo": "photos/VAN_SMITH_HEATHER_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_GERTON_CHASE_2026-10-21",
-   "name": "Chase Edward Gerton",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 0,
-   "ts": 1792636175,
-   "photo": "photos/VAN_GERTON_CHASE_2026-10-21.jpg"
   },
   {
    "key": "ALL_CHILDS_LARRY_2026-10-21",
