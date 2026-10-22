@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T04:16:09+00:00",
+ "updated": "2026-10-22T04:31:19+00:00",
  "items": [
+  {
+   "key": "POR_MARTINSHACKLETT_BRANDON_2026-10-21",
+   "name": "Brandon T Martin-Shacklett",
+   "age": "31",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft - Vehicle : 6 : F",
+   "more": 0,
+   "ts": 1792643378,
+   "photo": null
+  },
   {
    "key": "ALL_GROVES_AMONTE_2026-10-21",
    "name": "Amonte Groves",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1792571395,
    "photo": "photos/POR_NIKOLIC_GABRIEL_2026-10-21.jpg"
-  },
-  {
-   "key": "MAD_SMITH_KERRY_2026-10-21",
-   "name": "Kerry Leland Smith",
-   "age": "47",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "RLE- Operate Vehicle Creating Risk of Injury",
-   "more": 0,
-   "ts": 1792566030,
-   "photo": "photos/MAD_SMITH_KERRY_2026-10-21.jpg"
   }
  ]
 }
