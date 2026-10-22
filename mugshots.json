@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T19:46:09+00:00",
+ "updated": "2026-10-22T21:31:09+00:00",
  "items": [
+  {
+   "key": "MAD_PETTIGREW_TIMOTHY_2026-10-22",
+   "name": "Timothy Issac Pettigrew",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792704629,
+   "photo": "photos/MAD_PETTIGREW_TIMOTHY_2026-10-22.jpg"
+  },
+  {
+   "key": "ALL_SCOTT_JOSHUA_2026-10-22",
+   "name": "Joshua Scott",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1792704581,
+   "photo": "photos/ALL_SCOTT_JOSHUA_2026-10-22.jpg"
+  },
   {
    "key": "ALL_PHILLIPS_KALEB_2026-10-22",
    "name": "Kaleb Phillips",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1792636195,
    "photo": "photos/VAN_WENTZEL_HEATHER_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_SCOTT_TIMMY_2026-10-21",
-   "name": "Timmy Monroe Scott",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Synthetic Drug Or Lookalike Su",
-   "more": 1,
-   "ts": 1792636193,
-   "photo": "photos/VAN_SCOTT_TIMMY_2026-10-21.jpg"
-  },
-  {
-   "key": "ALL_CHILDS_LARRY_2026-10-21",
-   "name": "Larry Childs",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792624476,
-   "photo": "photos/ALL_CHILDS_LARRY_2026-10-21.jpg"
   }
  ]
 }
