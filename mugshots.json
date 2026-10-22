@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T07:46:19+00:00",
+ "updated": "2026-10-22T08:16:12+00:00",
  "items": [
+  {
+   "key": "VAN_MORRISON_NICHOLAS_2026-10-22",
+   "name": "Nicholas Owen Morrison",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Habitual Traffic Violator- Lifetime",
+   "more": 1,
+   "ts": 1792656871,
+   "photo": "photos/VAN_MORRISON_NICHOLAS_2026-10-22.jpg"
+  },
   {
    "key": "VAN_DAVIS_JADA_2026-10-22",
    "name": "Jada Morgan Davis",
@@ -275,17 +286,6 @@
    "more": 1,
    "ts": 1792636181,
    "photo": null
-  },
-  {
-   "key": "VAN_TEAGARDNER_MICHAEL_2026-10-21",
-   "name": "Michael Logan Teagardner",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 1,
-   "ts": 1792636179,
-   "photo": "photos/VAN_TEAGARDNER_MICHAEL_2026-10-21.jpg"
   },
   {
    "key": "ALL_CHILDS_LARRY_2026-10-21",
