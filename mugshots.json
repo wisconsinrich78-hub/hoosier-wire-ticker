@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T16:47:14+00:00",
+ "updated": "2026-10-22T17:31:24+00:00",
  "items": [
+  {
+   "key": "MAD_SKIRVIN_JEREMY_2026-10-22",
+   "name": "Jeremy Dean Skirvin",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792690240,
+   "photo": "photos/MAD_SKIRVIN_JEREMY_2026-10-22.jpg"
+  },
   {
    "key": "MAD_BELCHER_JEFFREY_2026-10-22",
    "name": "Jeffrey Lee Belcher",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792610079,
    "photo": "photos/MAD_BACK_ASHLEY_2026-10-21.jpg"
-  },
-  {
-   "key": "ALL_VANPELT_PAUL_2026-10-21",
-   "name": "Paul Vanpelt",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792603774,
-   "photo": "photos/ALL_VANPELT_PAUL_2026-10-21.jpg"
   }
  ]
 }
