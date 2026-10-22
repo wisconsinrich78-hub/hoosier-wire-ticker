@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T06:32:45+00:00",
+ "updated": "2026-10-22T07:01:25+00:00",
  "items": [
+  {
+   "key": "VAN_GRAY_KIMBERLY_2026-10-22",
+   "name": "Kimberly Ann Gray",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
+   "more": 0,
+   "ts": 1792652370,
+   "photo": "photos/VAN_GRAY_KIMBERLY_2026-10-22.jpg"
+  },
   {
    "key": "POR_SCHIRATO_DIMITRIUS_2026-10-22",
    "name": "Dimitrius William Schirato",
@@ -275,17 +286,6 @@
    "more": 0,
    "ts": 1792636175,
    "photo": "photos/VAN_GERTON_CHASE_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_LOPEZ_OFELIA_2026-10-21",
-   "name": "Ofelia Velazquez Lopez",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Shoplifting - Value Of Property At Least $750 And Les",
-   "more": 0,
-   "ts": 1792636174,
-   "photo": "photos/VAN_LOPEZ_OFELIA_2026-10-21.jpg"
   },
   {
    "key": "ALL_CHILDS_LARRY_2026-10-21",
