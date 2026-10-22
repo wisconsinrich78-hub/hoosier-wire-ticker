@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T18:01:06+00:00",
+ "updated": "2026-10-22T18:31:03+00:00",
  "items": [
+  {
+   "key": "VAN_BROWN_ROXIE_2026-10-22",
+   "name": "Roxie Ann Brown",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792693770,
+   "photo": null
+  },
+  {
+   "key": "ALL_DAGUE_MICHAEL_2026-10-22",
+   "name": "Michael Dague",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery Enhanced With Previous Unrelated Conviction(S)",
+   "more": 1,
+   "ts": 1792693769,
+   "photo": "photos/ALL_DAGUE_MICHAEL_2026-10-22.jpg"
+  },
   {
    "key": "VAN_COLEMAN_JASMINE_2026-10-22",
    "name": "Jasmine Danee Coleman",
@@ -442,17 +464,6 @@
    "photo": "photos/VAN_MORALESSIRA_ALAN_2026-10-21.jpg"
   },
   {
-   "key": "VAN_EPLEY_AMANDA_2026-10-21",
-   "name": "Amanda Marie Epley",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792636189,
-   "photo": "photos/VAN_EPLEY_AMANDA_2026-10-21.jpg"
-  },
-  {
    "key": "ALL_CHILDS_LARRY_2026-10-21",
    "name": "Larry Childs",
    "age": "",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1792614607,
    "photo": "photos/POR_LOPEZ_GABRIEL_2026-10-21.jpg"
-  },
-  {
-   "key": "MAD_BACK_ASHLEY_2026-10-21",
-   "name": "Ashley Marie Back",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792610079,
-   "photo": "photos/MAD_BACK_ASHLEY_2026-10-21.jpg"
   }
  ]
 }
