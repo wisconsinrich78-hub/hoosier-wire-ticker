@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T22:46:32+00:00",
+ "updated": "2026-10-22T23:31:45+00:00",
  "items": [
+  {
+   "key": "POR_FREEMAN_ANTHONY_2026-10-22",
+   "name": "Anthony Wayne Freeman",
+   "age": "51",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft - Vehicle / Prior Conviction",
+   "more": 0,
+   "ts": 1792711783,
+   "photo": "photos/POR_FREEMAN_ANTHONY_2026-10-22.jpg"
+  },
+  {
+   "key": "VAN_GREEN_SHAWNTAE_2026-10-22",
+   "name": "Shawntae Marcile Green",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792711779,
+   "photo": "photos/VAN_GREEN_SHAWNTAE_2026-10-22.jpg"
+  },
   {
    "key": "ALL_MENDOZA_ANGELIC_2026-10-22",
    "name": "Angelic Mendoza",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792646134,
    "photo": "photos/MAD_GROCE_JAMIE_2026-10-22.jpg"
-  },
-  {
-   "key": "POR_MARTINSHACKLETT_BRANDON_2026-10-21",
-   "name": "Brandon T Martin-Shacklett",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft - Vehicle : 6 : F",
-   "more": 0,
-   "ts": 1792643378,
-   "photo": null
-  },
-  {
-   "key": "ALL_GROVES_AMONTE_2026-10-21",
-   "name": "Amonte Groves",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 0,
-   "ts": 1792642471,
-   "photo": "photos/ALL_GROVES_AMONTE_2026-10-21.jpg"
   }
  ]
 }
