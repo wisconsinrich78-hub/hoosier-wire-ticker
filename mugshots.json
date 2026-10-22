@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T04:31:19+00:00",
+ "updated": "2026-10-22T05:16:33+00:00",
  "items": [
+  {
+   "key": "MAD_GROCE_JAMIE_2026-10-22",
+   "name": "Jamie Nichole Groce",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792646134,
+   "photo": "photos/MAD_GROCE_JAMIE_2026-10-22.jpg"
+  },
   {
    "key": "POR_MARTINSHACKLETT_BRANDON_2026-10-21",
    "name": "Brandon T Martin-Shacklett",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792581271,
    "photo": "photos/ALL_TRIGG_JEREMY_2026-10-21.jpg"
-  },
-  {
-   "key": "POR_NIKOLIC_GABRIEL_2026-10-21",
-   "name": "Gabriel Leka Nikolic",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1792571395,
-   "photo": "photos/POR_NIKOLIC_GABRIEL_2026-10-21.jpg"
   }
  ]
 }
