@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T12:30:56+00:00",
+ "updated": "2026-10-22T14:01:16+00:00",
  "items": [
+  {
+   "key": "MAD_GRIFFIN_MATTHEW_2026-10-22",
+   "name": "Matthew Allen Griffin",
+   "age": "50",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792677605,
+   "photo": "photos/MAD_GRIFFIN_MATTHEW_2026-10-22.jpg"
+  },
   {
    "key": "POR_STAHL_DAVID_2026-10-22",
    "name": "David S Stahl",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792600216,
    "photo": null
-  },
-  {
-   "key": "POR_SANDERS_ROCQUEL_2026-10-21",
-   "name": "Rocquel Renee Sanders",
-   "age": "51",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792600215,
-   "photo": "photos/POR_SANDERS_ROCQUEL_2026-10-21.jpg"
   }
  ]
 }
