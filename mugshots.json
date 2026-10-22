@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T14:31:08+00:00",
+ "updated": "2026-10-22T15:16:29+00:00",
  "items": [
+  {
+   "key": "VAN_GUARD_TALON_2026-10-22",
+   "name": "Talon Jason Ray Guard",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Burglary",
+   "more": 1,
+   "ts": 1792682077,
+   "photo": "photos/VAN_GUARD_TALON_2026-10-22.jpg"
+  },
   {
    "key": "POR_MCNINCH_TRACE_2026-10-22",
    "name": "Trace Christian Mcninch",
@@ -374,17 +385,6 @@
    "more": 0,
    "ts": 1792636186,
    "photo": "photos/VAN_DAVIS_RICHARD_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_SUTTON_KRISTOPHER_2026-10-21",
-   "name": "Kristopher Oneil Sutton",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 1,
-   "ts": 1792636185,
-   "photo": "photos/VAN_SUTTON_KRISTOPHER_2026-10-21.jpg"
   },
   {
    "key": "ALL_CHILDS_LARRY_2026-10-21",
