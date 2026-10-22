@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T06:18:32+00:00",
+ "updated": "2026-10-22T06:32:45+00:00",
  "items": [
+  {
+   "key": "POR_SCHIRATO_DIMITRIUS_2026-10-22",
+   "name": "Dimitrius William Schirato",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Dealing Meth",
+   "more": 1,
+   "ts": 1792650668,
+   "photo": "photos/POR_SCHIRATO_DIMITRIUS_2026-10-22.jpg"
+  },
   {
    "key": "MAD_BONNER_ANDRE_2026-10-22",
    "name": "Andre Ramone Bonner",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792591215,
    "photo": "photos/ALL_BOWERS_AIRION_2026-10-21.jpg"
-  },
-  {
-   "key": "MAD_VALENCIA_LAZARO_2026-10-21",
-   "name": "Lazaro Ambrosio Valencia",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792586700,
-   "photo": "photos/MAD_VALENCIA_LAZARO_2026-10-21.jpg"
   }
  ]
 }
