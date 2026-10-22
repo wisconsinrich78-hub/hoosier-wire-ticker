@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T21:31:09+00:00",
+ "updated": "2026-10-22T21:46:19+00:00",
  "items": [
+  {
+   "key": "VAN_MILLIGAN_CANDACE_2026-10-22",
+   "name": "Candace Ashley Milligan",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 0,
+   "ts": 1792705468,
+   "photo": "photos/VAN_MILLIGAN_CANDACE_2026-10-22.jpg"
+  },
+  {
+   "key": "VAN_HURTZ_KENNETH_2026-10-22",
+   "name": "Kenneth Kerrayon Hurtz",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Parole Violation",
+   "more": 0,
+   "ts": 1792705467,
+   "photo": "photos/VAN_HURTZ_KENNETH_2026-10-22.jpg"
+  },
   {
    "key": "MAD_PETTIGREW_TIMOTHY_2026-10-22",
    "name": "Timothy Issac Pettigrew",
@@ -506,28 +528,6 @@
    "more": 3,
    "ts": 1792637967,
    "photo": "photos/ALL_JIMENEZSANTIZ_JEREMIAS_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_HAMILTON_ELLEN_2026-10-21",
-   "name": "Ellen Annette Hamilton",
-   "age": "67",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
-   "more": 2,
-   "ts": 1792636196,
-   "photo": "photos/VAN_HAMILTON_ELLEN_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_WENTZEL_HEATHER_2026-10-21",
-   "name": "Heather Nicole Wentzel",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
-   "more": 1,
-   "ts": 1792636195,
-   "photo": "photos/VAN_WENTZEL_HEATHER_2026-10-21.jpg"
   }
  ]
 }
