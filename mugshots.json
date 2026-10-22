@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T18:31:03+00:00",
+ "updated": "2026-10-22T18:44:48+00:00",
  "items": [
+  {
+   "key": "VAN_TINSLEY_TRISTAN_2026-10-22",
+   "name": "Tristan Isiah Tinsley",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Dealing Marijuana/Hashish/Salvia- Misd",
+   "more": 1,
+   "ts": 1792694671,
+   "photo": null
+  },
+  {
+   "key": "ALL_HICKS_PATRICK_2026-10-22",
+   "name": "Patrick Hicks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Mischief",
+   "more": 0,
+   "ts": 1792694670,
+   "photo": "photos/ALL_HICKS_PATRICK_2026-10-22.jpg"
+  },
   {
    "key": "VAN_BROWN_ROXIE_2026-10-22",
    "name": "Roxie Ann Brown",
@@ -453,17 +475,6 @@
    "photo": "photos/VAN_SCOTT_TIMMY_2026-10-21.jpg"
   },
   {
-   "key": "VAN_MORALESSIRA_ALAN_2026-10-21",
-   "name": "Alan Iverson Morales Sira",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
-   "more": 3,
-   "ts": 1792636192,
-   "photo": "photos/VAN_MORALESSIRA_ALAN_2026-10-21.jpg"
-  },
-  {
    "key": "ALL_CHILDS_LARRY_2026-10-21",
    "name": "Larry Childs",
    "age": "",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792616378,
    "photo": "photos/ALL_CRISSEY_RONNIE_2026-10-21.jpg"
-  },
-  {
-   "key": "POR_LOPEZ_GABRIEL_2026-10-21",
-   "name": "Gabriel Luis Lopez",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 2,
-   "ts": 1792614607,
-   "photo": "photos/POR_LOPEZ_GABRIEL_2026-10-21.jpg"
   }
  ]
 }
