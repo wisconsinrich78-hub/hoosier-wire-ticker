@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-22T21:46:19+00:00",
+ "updated": "2026-10-22T22:00:58+00:00",
  "items": [
+  {
+   "key": "MAD_JACKSON_NOLAN_2026-10-22",
+   "name": "Nolan Charles Jackson",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792706414,
+   "photo": "photos/MAD_JACKSON_NOLAN_2026-10-22.jpg"
+  },
+  {
+   "key": "ALL_BELCHER_STEFFANIE_2026-10-22",
+   "name": "Steffanie Belcher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia",
+   "more": 1,
+   "ts": 1792706369,
+   "photo": null
+  },
   {
    "key": "VAN_MILLIGAN_CANDACE_2026-10-22",
    "name": "Candace Ashley Milligan",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792638868,
    "photo": "photos/ALL_FORREST_ZOLA_2026-10-21.jpg"
-  },
-  {
-   "key": "VAN_FUQUA_MICAH_2026-10-21",
-   "name": "Micah Neil Fuqua",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1792637968,
-   "photo": null
-  },
-  {
-   "key": "ALL_JIMENEZSANTIZ_JEREMIAS_2026-10-21",
-   "name": "Jeremias Jimenez-Santiz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 3,
-   "ts": 1792637967,
-   "photo": "photos/ALL_JIMENEZSANTIZ_JEREMIAS_2026-10-21.jpg"
   }
  ]
 }
