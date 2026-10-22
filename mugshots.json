@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-22T22:16:08+00:00",
+ "updated": "2026-10-22T22:31:28+00:00",
  "items": [
+  {
+   "key": "ALL_MARTINEZALLEN_DEMARCUS_2026-10-22",
+   "name": "Demarcus Martinez-Allen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 0,
+   "ts": 1792708176,
+   "photo": null
+  },
   {
    "key": "VAN_CASTRO_ALYHIA_2026-10-22",
    "name": "Alyhia Lynn Nicole Castro",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792639768,
    "photo": "photos/POR_SMITH_EDWARD_2026-10-21.jpg"
-  },
-  {
-   "key": "POR_GAGLIARDI_BRIDGETTE_2026-10-21",
-   "name": "Bridgette Nicole Gagliardi",
-   "age": "34",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or Conversio",
-   "more": 0,
-   "ts": 1792639766,
-   "photo": "photos/POR_GAGLIARDI_BRIDGETTE_2026-10-21.jpg"
   }
  ]
 }
