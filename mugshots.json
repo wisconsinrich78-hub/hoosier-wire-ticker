@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T05:31:28+00:00",
+ "updated": "2026-10-23T06:01:23+00:00",
  "items": [
+  {
+   "key": "ALL_LOVE_JESSE_2026-10-23",
+   "name": "Jesse Love",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 1,
+   "ts": 1792735171,
+   "photo": "photos/ALL_LOVE_JESSE_2026-10-23.jpg"
+  },
   {
    "key": "ALL_SACCHITELLA_RICHARD_2026-10-23",
    "name": "Richard Sacchitella",
@@ -352,17 +363,6 @@
    "more": 0,
    "ts": 1792697378,
    "photo": "photos/ALL_KNITTER_BRIAN_2026-10-22.jpg"
-  },
-  {
-   "key": "ALL_DAVIS_ARNITRA_2026-10-22",
-   "name": "Arnitra Davis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 1,
-   "ts": 1792695569,
-   "photo": "photos/ALL_DAVIS_ARNITRA_2026-10-22.jpg"
   },
   {
    "key": "VAN_TINSLEY_TRISTAN_2026-10-22",
