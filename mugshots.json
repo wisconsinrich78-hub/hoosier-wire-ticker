@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T06:45:38+00:00",
+ "updated": "2026-10-23T07:00:41+00:00",
  "items": [
+  {
+   "key": "ALL_BESTER_ERIC_2026-10-23",
+   "name": "Eric Bester",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > .08% And < .15%",
+   "more": 0,
+   "ts": 1792738767,
+   "photo": "photos/ALL_BESTER_ERIC_2026-10-23.jpg"
+  },
   {
    "key": "ALL_HACKETT_WILLIAM_2026-10-23",
    "name": "William Hackett",
@@ -352,17 +363,6 @@
    "more": 0,
    "ts": 1792704581,
    "photo": "photos/ALL_SCOTT_JOSHUA_2026-10-22.jpg"
-  },
-  {
-   "key": "ALL_PHILLIPS_KALEB_2026-10-22",
-   "name": "Kaleb Phillips",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1792698274,
-   "photo": "photos/ALL_PHILLIPS_KALEB_2026-10-22.jpg"
   },
   {
    "key": "POR_FENTRESS_ANTON_2026-10-22",
