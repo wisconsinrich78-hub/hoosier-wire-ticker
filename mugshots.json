@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T23:01:24+00:00",
+ "updated": "2026-10-23T23:16:10+00:00",
  "items": [
+  {
+   "key": "MAD_BUTCHER_DATHANIEL_2026-10-23",
+   "name": "Dathaniel Lee Butcher",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792797287,
+   "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-10-23.jpg"
+  },
   {
    "key": "VAN_MERRILL_DEBRA_2026-10-23",
    "name": "Debra Carol Merrill",
@@ -506,17 +517,6 @@
    "more": 0,
    "ts": 1792749565,
    "photo": "photos/VAN_DARRETT_MICHAEL_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_BOWDEN_CARNAE_2026-10-23",
-   "name": "Carnae M Bowden",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792747782,
-   "photo": "photos/MAD_BOWDEN_CARNAE_2026-10-23.jpg"
   },
   {
    "key": "VAN_MCCORMICK_CYNTHIA_2026-10-23",
