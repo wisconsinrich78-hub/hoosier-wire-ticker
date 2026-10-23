@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-23T15:45:58+00:00",
+ "updated": "2026-10-23T16:31:43+00:00",
  "items": [
+  {
+   "key": "MAD_GUIDEN_KIMBLEY_2026-10-23",
+   "name": "Kimbley Danette Guiden",
+   "age": "51",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792773037,
+   "photo": "photos/MAD_GUIDEN_KIMBLEY_2026-10-23.jpg"
+  },
+  {
+   "key": "POR_KNIOLA_KELLI_2026-10-23",
+   "name": "Kelli Lynn Kniola",
+   "age": "44",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792772993,
+   "photo": "photos/POR_KNIOLA_KELLI_2026-10-23.jpg"
+  },
+  {
+   "key": "VAN_WATSON_JASON_2026-10-23",
+   "name": "Jason Anthony Watson",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1792772986,
+   "photo": "photos/VAN_WATSON_JASON_2026-10-23.jpg"
+  },
+  {
+   "key": "ALL_MAT_HA_2026-10-23",
+   "name": "Ha Mat",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1792772974,
+   "photo": "photos/ALL_MAT_HA_2026-10-23.jpg"
+  },
   {
    "key": "VAN_YORK_JORDEN_2026-10-23",
    "name": "Jorden Ray York",
@@ -464,17 +508,6 @@
    "photo": null
   },
   {
-   "key": "ALL_BEACHY_SEAN_2026-10-22",
-   "name": "Sean Beachy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1792718129,
-   "photo": "photos/ALL_BEACHY_SEAN_2026-10-22.jpg"
-  },
-  {
    "key": "POR_FREEMAN_ANTHONY_2026-10-22",
    "name": "Anthony Wayne Freeman",
    "age": "51",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792711779,
    "photo": "photos/VAN_GREEN_SHAWNTAE_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_CASTRO_ALYHIA_2026-10-22",
-   "name": "Alyhia Lynn Nicole Castro",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Habitual Traffic Violator",
-   "more": 0,
-   "ts": 1792707269,
-   "photo": "photos/VAN_CASTRO_ALYHIA_2026-10-22.jpg"
-  },
-  {
-   "key": "MAD_JACKSON_NOLAN_2026-10-22",
-   "name": "Nolan Charles Jackson",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792706414,
-   "photo": "photos/MAD_JACKSON_NOLAN_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_MILLIGAN_CANDACE_2026-10-22",
-   "name": "Candace Ashley Milligan",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 0,
-   "ts": 1792705468,
-   "photo": "photos/VAN_MILLIGAN_CANDACE_2026-10-22.jpg"
   }
  ]
 }
