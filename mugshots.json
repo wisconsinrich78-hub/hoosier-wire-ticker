@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T14:30:49+00:00",
+ "updated": "2026-10-23T14:46:53+00:00",
  "items": [
+  {
+   "key": "MAD_WARREN_THOMAS_2026-10-23",
+   "name": "Thomas Nelson Warren",
+   "age": "60",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792766792,
+   "photo": "photos/MAD_WARREN_THOMAS_2026-10-23.jpg"
+  },
+  {
+   "key": "MAD_FLEENER_MATTHEW_2026-10-23",
+   "name": "Matthew Alan Fleener",
+   "age": "38",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792766741,
+   "photo": "photos/MAD_FLEENER_MATTHEW_2026-10-23.jpg"
+  },
   {
    "key": "MAD_BEEMAN_JACK_2026-10-23",
    "name": "Jack Nolan Beeman",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792704629,
    "photo": "photos/MAD_PETTIGREW_TIMOTHY_2026-10-22.jpg"
-  },
-  {
-   "key": "POR_FENTRESS_ANTON_2026-10-22",
-   "name": "Anton Lee Fentress",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Obstruction Of Justice",
-   "more": 0,
-   "ts": 1792697381,
-   "photo": null
-  },
-  {
-   "key": "VAN_TINSLEY_TRISTAN_2026-10-22",
-   "name": "Tristan Isiah Tinsley",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Dealing Marijuana/Hashish/Salvia- Misd",
-   "more": 1,
-   "ts": 1792694671,
-   "photo": null
   }
  ]
 }
