@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T02:17:25+00:00",
+ "updated": "2026-10-23T03:02:17+00:00",
  "items": [
+  {
+   "key": "VAN_HOLDEN_TYLER_2026-10-22",
+   "name": "Tyler Ernest Holden",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 2,
+   "ts": 1792724380,
+   "photo": "photos/VAN_HOLDEN_TYLER_2026-10-22.jpg"
+  },
   {
    "key": "VAN_SIMMS_AYDEN_2026-10-22",
    "name": "Ayden Dewayne Simms",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792656871,
    "photo": "photos/VAN_MORRISON_NICHOLAS_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_DAVIS_JADA_2026-10-22",
-   "name": "Jada Morgan Davis",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
-   "more": 1,
-   "ts": 1792655076,
-   "photo": "photos/VAN_DAVIS_JADA_2026-10-22.jpg"
   }
  ]
 }
