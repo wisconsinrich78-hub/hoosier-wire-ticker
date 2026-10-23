@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-23T04:31:56+00:00",
+ "updated": "2026-10-23T05:31:28+00:00",
  "items": [
+  {
+   "key": "ALL_SACCHITELLA_RICHARD_2026-10-23",
+   "name": "Richard Sacchitella",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 2,
+   "ts": 1792733384,
+   "photo": "photos/ALL_SACCHITELLA_RICHARD_2026-10-23.jpg"
+  },
+  {
+   "key": "POR_JACKSON_MARCUS_2026-10-22",
+   "name": "Marcus Christopher Jackson",
+   "age": "25",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Communication- Intimidation",
+   "more": 3,
+   "ts": 1792733382,
+   "photo": "photos/POR_JACKSON_MARCUS_2026-10-22.jpg"
+  },
+  {
+   "key": "VAN_WALKER_MOLLY_2026-10-22",
+   "name": "Molly Marie Walker",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 6,
+   "ts": 1792733377,
+   "photo": null
+  },
   {
    "key": "POR_SPILLER_KADIN_2026-10-22",
    "name": "Kadin Robert Spiller",
@@ -343,17 +376,6 @@
    "photo": null
   },
   {
-   "key": "ALL_HICKS_PATRICK_2026-10-22",
-   "name": "Patrick Hicks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Mischief",
-   "more": 0,
-   "ts": 1792694670,
-   "photo": "photos/ALL_HICKS_PATRICK_2026-10-22.jpg"
-  },
-  {
    "key": "VAN_BROWN_ROXIE_2026-10-22",
    "name": "Roxie Ann Brown",
    "age": "39",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792664973,
    "photo": null
-  },
-  {
-   "key": "MAD_WYMAN_CAMERON_2026-10-22",
-   "name": "Cameron Alexander Wyman",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792664146,
-   "photo": null
-  },
-  {
-   "key": "POR_GIBSON_AMANDA_2026-10-22",
-   "name": "Amanda M Gibson",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1792661372,
-   "photo": "photos/POR_GIBSON_AMANDA_2026-10-22.jpg"
   }
  ]
 }
