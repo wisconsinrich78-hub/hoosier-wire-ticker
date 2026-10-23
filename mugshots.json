@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T06:01:23+00:00",
+ "updated": "2026-10-23T06:30:37+00:00",
  "items": [
+  {
+   "key": "POR_ALLEN_ANDRYSS_2026-10-23",
+   "name": "Andryss C Allen",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 0,
+   "ts": 1792736964,
+   "photo": null
+  },
   {
    "key": "ALL_LOVE_JESSE_2026-10-23",
    "name": "Jesse Love",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792666768,
    "photo": "photos/VAN_LIPSON_KENYON_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_FORD_DIONSHAI_2026-10-22",
-   "name": "Dionshai Kalaria Sole Ford",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Family Offense- Invasion Of Privacy",
-   "more": 0,
-   "ts": 1792664973,
-   "photo": null
   }
  ]
 }
