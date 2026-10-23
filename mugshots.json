@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T03:31:54+00:00",
+ "updated": "2026-10-23T04:17:42+00:00",
  "items": [
+  {
+   "key": "MAD_CLEVELAND_JUSTIN_2026-10-22",
+   "name": "Justin Michael Cleveland",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792728951,
+   "photo": "photos/MAD_CLEVELAND_JUSTIN_2026-10-22.jpg"
+  },
+  {
+   "key": "ALL_HARGRAVE_JESSICA_2026-10-22",
+   "name": "Jessica Hargrave",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 1,
+   "ts": 1792728902,
+   "photo": "photos/ALL_HARGRAVE_JESSICA_2026-10-22.jpg"
+  },
   {
    "key": "POR_COLLINS_VINCENT_2026-10-22",
    "name": "Vincent Charles Wayne Collins",
@@ -376,17 +398,6 @@
    "photo": null
   },
   {
-   "key": "ALL_SPENCER_SHAWN_2026-10-22",
-   "name": "Shawn Spencer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1792686572,
-   "photo": "photos/ALL_SPENCER_SHAWN_2026-10-22.jpg"
-  },
-  {
    "key": "MAD_JOHNSON_ARETEZ_2026-10-22",
    "name": "Are'Tez Tyreese Johnson",
    "age": "26",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792661369,
    "photo": "photos/POR_PRATCHET_ALPHA_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_RONNIYAH_2026-10-22",
-   "name": "Ronniyah Shauntay Johnson",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1792660500,
-   "photo": "photos/VAN_JOHNSON_RONNIYAH_2026-10-22.jpg"
   }
  ]
 }
