@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T18:32:07+00:00",
+ "updated": "2026-10-23T18:46:27+00:00",
  "items": [
+  {
+   "key": "MAD_ALLEN_TRAVISHA_2026-10-23",
+   "name": "Travisha Arieo Allen",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792781075,
+   "photo": "photos/MAD_ALLEN_TRAVISHA_2026-10-23.jpg"
+  },
   {
    "key": "MAD_GRIFFIN_MARTEZ_2026-10-23",
    "name": "Martez Davion Griffin",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792729780,
    "photo": "photos/ALL_BOWSER_CHARLES_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_CLEVELAND_JUSTIN_2026-10-22",
-   "name": "Justin Michael Cleveland",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792728951,
-   "photo": "photos/MAD_CLEVELAND_JUSTIN_2026-10-22.jpg"
   }
  ]
 }
