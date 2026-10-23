@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T09:30:54+00:00",
+ "updated": "2026-10-23T10:00:49+00:00",
  "items": [
+  {
+   "key": "VAN_DARRETT_MICHAEL_2026-10-23",
+   "name": "Michael Brandon Darrett",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1792749565,
+   "photo": "photos/VAN_DARRETT_MICHAEL_2026-10-23.jpg"
+  },
   {
    "key": "MAD_BOWDEN_CARNAE_2026-10-23",
    "name": "Carnae M Bowden",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792672169,
    "photo": null
-  },
-  {
-   "key": "POR_GHOLSON_JAYLYNN_2026-10-22",
-   "name": "Jaylynn Jordan Gholson",
-   "age": "24",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 1,
-   "ts": 1792672168,
-   "photo": "photos/POR_GHOLSON_JAYLYNN_2026-10-22.jpg"
   }
  ]
 }
