@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T07:15:39+00:00",
+ "updated": "2026-10-23T07:30:44+00:00",
  "items": [
+  {
+   "key": "VAN_MCCORMICK_CYNTHIA_2026-10-23",
+   "name": "Cynthia Ann Mccormick",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792740564,
+   "photo": "photos/VAN_MCCORMICK_CYNTHIA_2026-10-23.jpg"
+  },
   {
    "key": "ALL_THOMAS_ROY_2026-10-23",
    "name": "Roy Thomas",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792671327,
    "photo": null
-  },
-  {
-   "key": "VAN_LIPSON_KENYON_2026-10-22",
-   "name": "Kenyon Tiyon Nashebra Lipson",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Family Offense- Invasion Of Privacy",
-   "more": 0,
-   "ts": 1792666768,
-   "photo": "photos/VAN_LIPSON_KENYON_2026-10-22.jpg"
   }
  ]
 }
