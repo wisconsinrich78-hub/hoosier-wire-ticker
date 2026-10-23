@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T20:32:37+00:00",
+ "updated": "2026-10-23T20:46:16+00:00",
  "items": [
+  {
+   "key": "MAD_POWELL_SPENCER_2026-10-23",
+   "name": "Spencer Charles Powell",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792788343,
+   "photo": "photos/MAD_POWELL_SPENCER_2026-10-23.jpg"
+  },
+  {
+   "key": "VAN_JOHNSON_JOHNATHAN_2026-10-23",
+   "name": "Johnathan Earl Johnson",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1792788266,
+   "photo": "photos/VAN_JOHNSON_JOHNATHAN_2026-10-23.jpg"
+  },
   {
    "key": "POR_BETTS_JOHN_2026-10-23",
    "name": "John Michael Betts",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792738767,
    "photo": "photos/ALL_BESTER_ERIC_2026-10-23.jpg"
-  },
-  {
-   "key": "ALL_HACKETT_WILLIAM_2026-10-23",
-   "name": "William Hackett",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1792737869,
-   "photo": "photos/ALL_HACKETT_WILLIAM_2026-10-23.jpg"
-  },
-  {
-   "key": "POR_ALLEN_ANDRYSS_2026-10-23",
-   "name": "Andryss C Allen",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 0,
-   "ts": 1792736964,
-   "photo": null
   }
  ]
 }
