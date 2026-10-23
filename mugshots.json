@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T16:31:43+00:00",
+ "updated": "2026-10-23T16:44:37+00:00",
  "items": [
+  {
+   "key": "VAN_BEAN_BRANDON_2026-10-23",
+   "name": "Brandon Robert Bean",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792773868,
+   "photo": "photos/VAN_BEAN_BRANDON_2026-10-23.jpg"
+  },
   {
    "key": "MAD_GUIDEN_KIMBLEY_2026-10-23",
    "name": "Kimbley Danette Guiden",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792711783,
    "photo": "photos/POR_FREEMAN_ANTHONY_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_GREEN_SHAWNTAE_2026-10-22",
-   "name": "Shawntae Marcile Green",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792711779,
-   "photo": "photos/VAN_GREEN_SHAWNTAE_2026-10-22.jpg"
   }
  ]
 }
