@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T11:15:39+00:00",
+ "updated": "2026-10-23T13:17:01+00:00",
  "items": [
+  {
+   "key": "MAD_WYLIE_MERLIN_2026-10-23",
+   "name": "Merlin Ryan Wylie",
+   "age": "50",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792761403,
+   "photo": "photos/MAD_WYLIE_MERLIN_2026-10-23.jpg"
+  },
   {
    "key": "MAD_LONG_FRANK_2026-10-23",
    "name": "Frank Allen Long",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792682077,
    "photo": "photos/VAN_GUARD_TALON_2026-10-22.jpg"
-  },
-  {
-   "key": "POR_MCNINCH_TRACE_2026-10-22",
-   "name": "Trace Christian Mcninch",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
-   "more": 2,
-   "ts": 1792679377,
-   "photo": "photos/POR_MCNINCH_TRACE_2026-10-22.jpg"
   }
  ]
 }
