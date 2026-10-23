@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T15:31:05+00:00",
+ "updated": "2026-10-23T15:45:58+00:00",
  "items": [
+  {
+   "key": "VAN_YORK_JORDEN_2026-10-23",
+   "name": "Jorden Ray York",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery-Battery Against Public Safety Official W/Bodily Inj",
+   "more": 7,
+   "ts": 1792770270,
+   "photo": "photos/VAN_YORK_JORDEN_2026-10-23.jpg"
+  },
+  {
+   "key": "ALL_NELSON_JAMES_2026-10-23",
+   "name": "James Nelson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1792770267,
+   "photo": "photos/ALL_NELSON_JAMES_2026-10-23.jpg"
+  },
   {
    "key": "ALL_SUEL_DEYONNA_2026-10-23",
    "name": "Deyonna Suel",
@@ -453,17 +475,6 @@
    "photo": "photos/ALL_BEACHY_SEAN_2026-10-22.jpg"
   },
   {
-   "key": "ALL_OSTERTAG_ALBERT_2026-10-22",
-   "name": "Albert Ostertag",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1792716285,
-   "photo": "photos/ALL_OSTERTAG_ALBERT_2026-10-22.jpg"
-  },
-  {
    "key": "POR_FREEMAN_ANTHONY_2026-10-22",
    "name": "Anthony Wayne Freeman",
    "age": "51",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792705468,
    "photo": "photos/VAN_MILLIGAN_CANDACE_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_HURTZ_KENNETH_2026-10-22",
-   "name": "Kenneth Kerrayon Hurtz",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1792705467,
-   "photo": "photos/VAN_HURTZ_KENNETH_2026-10-22.jpg"
   }
  ]
 }
