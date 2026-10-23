@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T15:16:11+00:00",
+ "updated": "2026-10-23T15:31:05+00:00",
  "items": [
+  {
+   "key": "ALL_SUEL_DEYONNA_2026-10-23",
+   "name": "Deyonna Suel",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Crim Reck Shooting Into An Inhabited Dwelling Or Other Bldg Or Place P",
+   "more": 0,
+   "ts": 1792769369,
+   "photo": "photos/ALL_SUEL_DEYONNA_2026-10-23.jpg"
+  },
   {
    "key": "MAD_MALONE_JONI_2026-10-23",
    "name": "Joni Leann Malone",
@@ -451,17 +462,6 @@
    "more": 0,
    "ts": 1792716285,
    "photo": "photos/ALL_OSTERTAG_ALBERT_2026-10-22.jpg"
-  },
-  {
-   "key": "ALL_LANGSTONKISER_ADAM_2026-10-22",
-   "name": "Adam Langstonkiser",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Habitual Traffic Violator - Lifetime",
-   "more": 1,
-   "ts": 1792714488,
-   "photo": "photos/ALL_LANGSTONKISER_ADAM_2026-10-22.jpg"
   },
   {
    "key": "POR_FREEMAN_ANTHONY_2026-10-22",
