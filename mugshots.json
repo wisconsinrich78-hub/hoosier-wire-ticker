@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T20:46:16+00:00",
+ "updated": "2026-10-23T21:31:07+00:00",
  "items": [
+  {
+   "key": "POR_RAMIREZ_GASPER_2026-10-23",
+   "name": "Gasper Canay Ramirez",
+   "age": "21",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792790963,
+   "photo": null
+  },
   {
    "key": "MAD_POWELL_SPENCER_2026-10-23",
    "name": "Spencer Charles Powell",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792739669,
    "photo": "photos/ALL_HARRIS_NYG_2026-10-23.jpg"
-  },
-  {
-   "key": "ALL_BESTER_ERIC_2026-10-23",
-   "name": "Eric Bester",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% And < .15%",
-   "more": 0,
-   "ts": 1792738767,
-   "photo": "photos/ALL_BESTER_ERIC_2026-10-23.jpg"
   }
  ]
 }
