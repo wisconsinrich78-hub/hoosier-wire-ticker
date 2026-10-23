@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T14:01:11+00:00",
+ "updated": "2026-10-23T14:17:08+00:00",
  "items": [
+  {
+   "key": "MAD_KERNEY_WILLIAM_2026-10-23",
+   "name": "William Ray Kerney",
+   "age": "38",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792764976,
+   "photo": "photos/MAD_KERNEY_WILLIAM_2026-10-23.jpg"
+  },
+  {
+   "key": "ALL_HARTMAN_ABRAHAM_2026-10-23",
+   "name": "Abraham Hartman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 2,
+   "ts": 1792764868,
+   "photo": "photos/ALL_HARTMAN_ABRAHAM_2026-10-23.jpg"
+  },
   {
    "key": "VAN_COMPTON_SAVANNA_2026-10-23",
    "name": "Savanna Renee Compton",
@@ -409,17 +431,6 @@
    "photo": "photos/VAN_GREEN_SHAWNTAE_2026-10-22.jpg"
   },
   {
-   "key": "ALL_MENDOZA_ANGELIC_2026-10-22",
-   "name": "Angelic Mendoza",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792709073,
-   "photo": null
-  },
-  {
    "key": "VAN_CASTRO_ALYHIA_2026-10-22",
    "name": "Alyhia Lynn Nicole Castro",
    "age": "28",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792691966,
    "photo": "photos/VAN_COLEMAN_JASMINE_2026-10-22.jpg"
-  },
-  {
-   "key": "MAD_SKIRVIN_JEREMY_2026-10-22",
-   "name": "Jeremy Dean Skirvin",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792690240,
-   "photo": "photos/MAD_SKIRVIN_JEREMY_2026-10-22.jpg"
   }
  ]
 }
