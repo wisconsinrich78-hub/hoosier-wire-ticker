@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T00:17:35+00:00",
+ "updated": "2026-10-23T00:48:35+00:00",
  "items": [
+  {
+   "key": "ALL_OSTERTAG_ALBERT_2026-10-22",
+   "name": "Albert Ostertag",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1792716285,
+   "photo": "photos/ALL_OSTERTAG_ALBERT_2026-10-22.jpg"
+  },
   {
    "key": "ALL_LANGSTONKISER_ADAM_2026-10-22",
    "name": "Adam Langstonkiser",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792652370,
    "photo": "photos/VAN_GRAY_KIMBERLY_2026-10-22.jpg"
-  },
-  {
-   "key": "POR_SCHIRATO_DIMITRIUS_2026-10-22",
-   "name": "Dimitrius William Schirato",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Dealing Meth",
-   "more": 1,
-   "ts": 1792650668,
-   "photo": "photos/POR_SCHIRATO_DIMITRIUS_2026-10-22.jpg"
   }
  ]
 }
