@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T13:17:01+00:00",
+ "updated": "2026-10-23T13:30:49+00:00",
  "items": [
+  {
+   "key": "POR_STEFFAN_RICHARD_2026-10-23",
+   "name": "Richard Donald Steffan",
+   "age": "38",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Neglect Of A Dependent",
+   "more": 0,
+   "ts": 1792762171,
+   "photo": "photos/POR_STEFFAN_RICHARD_2026-10-23.jpg"
+  },
+  {
+   "key": "VAN_REITER_CAMBRY_2026-10-23",
+   "name": "Cambry Danielle Reiter",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 3,
+   "ts": 1792762168,
+   "photo": "photos/VAN_REITER_CAMBRY_2026-10-23.jpg"
+  },
   {
    "key": "MAD_WYLIE_MERLIN_2026-10-23",
    "name": "Merlin Ryan Wylie",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1792687477,
    "photo": null
-  },
-  {
-   "key": "MAD_JOHNSON_ARETEZ_2026-10-22",
-   "name": "Are'Tez Tyreese Johnson",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Criminal trespass",
-   "more": 1,
-   "ts": 1792683020,
-   "photo": "photos/MAD_JOHNSON_ARETEZ_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_GUARD_TALON_2026-10-22",
-   "name": "Talon Jason Ray Guard",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Burglary",
-   "more": 1,
-   "ts": 1792682077,
-   "photo": "photos/VAN_GUARD_TALON_2026-10-22.jpg"
   }
  ]
 }
