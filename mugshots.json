@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T23:31:30+00:00",
+ "updated": "2026-10-23T23:46:22+00:00",
  "items": [
+  {
+   "key": "VAN_DEMPSEY_BARRY_2026-10-23",
+   "name": "Barry Lee Dempsey",
+   "age": "49",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 2,
+   "ts": 1792799075,
+   "photo": "photos/VAN_DEMPSEY_BARRY_2026-10-23.jpg"
+  },
   {
    "key": "POR_TAYLOR_ARIYAN_2026-10-23",
    "name": "Ariyan Jamari Taylor",
@@ -517,17 +528,6 @@
    "more": 3,
    "ts": 1792762168,
    "photo": "photos/VAN_REITER_CAMBRY_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_WYLIE_MERLIN_2026-10-23",
-   "name": "Merlin Ryan Wylie",
-   "age": "50",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792761403,
-   "photo": "photos/MAD_WYLIE_MERLIN_2026-10-23.jpg"
   }
  ]
 }
