@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T15:01:11+00:00",
+ "updated": "2026-10-23T15:16:11+00:00",
  "items": [
+  {
+   "key": "MAD_MALONE_JONI_2026-10-23",
+   "name": "Joni Leann Malone",
+   "age": "52",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation Community Corrections",
+   "more": 0,
+   "ts": 1792768526,
+   "photo": "photos/MAD_MALONE_JONI_2026-10-23.jpg"
+  },
+  {
+   "key": "ALL_ASHER_ZACHARIAH_2026-10-23",
+   "name": "Zachariah Asher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 0,
+   "ts": 1792768469,
+   "photo": "photos/ALL_ASHER_ZACHARIAH_2026-10-23.jpg"
+  },
   {
    "key": "ALL_MITCHELL_ERICA_2026-10-23",
    "name": "Erica Mitchell",
@@ -442,17 +464,6 @@
    "photo": "photos/ALL_LANGSTONKISER_ADAM_2026-10-22.jpg"
   },
   {
-   "key": "ALL_RUBALCABA_MATTHEW_2026-10-22",
-   "name": "Matthew Rubalcaba",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 2,
-   "ts": 1792713581,
-   "photo": "photos/ALL_RUBALCABA_MATTHEW_2026-10-22.jpg"
-  },
-  {
    "key": "POR_FREEMAN_ANTHONY_2026-10-22",
    "name": "Anthony Wayne Freeman",
    "age": "51",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792705467,
    "photo": "photos/VAN_HURTZ_KENNETH_2026-10-22.jpg"
-  },
-  {
-   "key": "MAD_PETTIGREW_TIMOTHY_2026-10-22",
-   "name": "Timothy Issac Pettigrew",
-   "age": "42",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792704629,
-   "photo": "photos/MAD_PETTIGREW_TIMOTHY_2026-10-22.jpg"
   }
  ]
 }
