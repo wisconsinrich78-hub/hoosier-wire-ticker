@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T00:01:55+00:00",
+ "updated": "2026-10-23T00:17:35+00:00",
  "items": [
+  {
+   "key": "ALL_LANGSTONKISER_ADAM_2026-10-22",
+   "name": "Adam Langstonkiser",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Habitual Traffic Violator - Lifetime",
+   "more": 1,
+   "ts": 1792714488,
+   "photo": "photos/ALL_LANGSTONKISER_ADAM_2026-10-22.jpg"
+  },
   {
    "key": "ALL_RUBALCABA_MATTHEW_2026-10-22",
    "name": "Matthew Rubalcaba",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792650668,
    "photo": "photos/POR_SCHIRATO_DIMITRIUS_2026-10-22.jpg"
-  },
-  {
-   "key": "MAD_BONNER_ANDRE_2026-10-22",
-   "name": "Andre Ramone Bonner",
-   "age": "51",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 2,
-   "ts": 1792649830,
-   "photo": "photos/MAD_BONNER_ANDRE_2026-10-22.jpg"
   }
  ]
 }
