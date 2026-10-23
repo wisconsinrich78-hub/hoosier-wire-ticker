@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T19:31:29+00:00",
+ "updated": "2026-10-23T20:32:37+00:00",
  "items": [
+  {
+   "key": "POR_BETTS_JOHN_2026-10-23",
+   "name": "John Michael Betts",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1792787370,
+   "photo": "photos/POR_BETTS_JOHN_2026-10-23.jpg"
+  },
+  {
+   "key": "VAN_COSBY_ORLETA_2026-10-23",
+   "name": "Orleta Danielle Cosby",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Fraud",
+   "more": 3,
+   "ts": 1792787367,
+   "photo": "photos/VAN_COSBY_ORLETA_2026-10-23.jpg"
+  },
   {
    "key": "POR_LITTLE_ROBERT_2026-10-23",
    "name": "Robert Wayne Martinez Little",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792736964,
    "photo": null
-  },
-  {
-   "key": "ALL_LOVE_JESSE_2026-10-23",
-   "name": "Jesse Love",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1792735171,
-   "photo": "photos/ALL_LOVE_JESSE_2026-10-23.jpg"
-  },
-  {
-   "key": "ALL_SACCHITELLA_RICHARD_2026-10-23",
-   "name": "Richard Sacchitella",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 2,
-   "ts": 1792733384,
-   "photo": "photos/ALL_SACCHITELLA_RICHARD_2026-10-23.jpg"
   }
  ]
 }
