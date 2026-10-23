@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T03:02:17+00:00",
+ "updated": "2026-10-23T03:17:24+00:00",
  "items": [
+  {
+   "key": "ALL_WAH_GEE_2026-10-22",
+   "name": "Gee Wah",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 1,
+   "ts": 1792725284,
+   "photo": "photos/ALL_WAH_GEE_2026-10-22.jpg"
+  },
   {
    "key": "VAN_HOLDEN_TYLER_2026-10-22",
    "name": "Tyler Ernest Holden",
@@ -352,17 +363,6 @@
    "more": 1,
    "ts": 1792686572,
    "photo": "photos/ALL_SPENCER_SHAWN_2026-10-22.jpg"
-  },
-  {
-   "key": "ALL_MITCHELLSWANGIN_SPENCER_2026-10-22",
-   "name": "Spencer Mitchell-Swangin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792686568,
-   "photo": "photos/ALL_MITCHELLSWANGIN_SPENCER_2026-10-22.jpg"
   },
   {
    "key": "MAD_JOHNSON_ARETEZ_2026-10-22",
