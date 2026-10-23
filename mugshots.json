@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T14:17:08+00:00",
+ "updated": "2026-10-23T14:30:49+00:00",
  "items": [
+  {
+   "key": "MAD_BEEMAN_JACK_2026-10-23",
+   "name": "Jack Nolan Beeman",
+   "age": "57",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792765774,
+   "photo": "photos/MAD_BEEMAN_JACK_2026-10-23.jpg"
+  },
+  {
+   "key": "VAN_SHIMEK_ALEXIS_2026-10-23",
+   "name": "Alexis Rayann Shimek",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1792765761,
+   "photo": null
+  },
   {
    "key": "MAD_KERNEY_WILLIAM_2026-10-23",
    "name": "William Ray Kerney",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1792694671,
    "photo": null
-  },
-  {
-   "key": "VAN_BROWN_ROXIE_2026-10-22",
-   "name": "Roxie Ann Brown",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792693770,
-   "photo": null
-  },
-  {
-   "key": "VAN_COLEMAN_JASMINE_2026-10-22",
-   "name": "Jasmine Danee Coleman",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792691966,
-   "photo": "photos/VAN_COLEMAN_JASMINE_2026-10-22.jpg"
   }
  ]
 }
