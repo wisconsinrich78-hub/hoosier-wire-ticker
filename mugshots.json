@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T16:44:37+00:00",
+ "updated": "2026-10-23T17:31:01+00:00",
  "items": [
+  {
+   "key": "POR_MOUNTS_CODY_2026-10-23",
+   "name": "Cody Patrick Mounts",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 1,
+   "ts": 1792776567,
+   "photo": "photos/POR_MOUNTS_CODY_2026-10-23.jpg"
+  },
+  {
+   "key": "VAN_MCCOY_BRANDYN_2026-10-23",
+   "name": "Brandyn Gregory Mccoy",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792776564,
+   "photo": "photos/VAN_MCCOY_BRANDYN_2026-10-23.jpg"
+  },
   {
    "key": "VAN_BEAN_BRANDON_2026-10-23",
    "name": "Brandon Robert Bean",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792721688,
    "photo": "photos/VAN_SIMMS_AYDEN_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_CRITCHFIELD_AARON_2026-10-22",
-   "name": "Aaron Samuel Critchfield",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1792718996,
-   "photo": null
-  },
-  {
-   "key": "POR_FREEMAN_ANTHONY_2026-10-22",
-   "name": "Anthony Wayne Freeman",
-   "age": "51",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft - Vehicle / Prior Conviction",
-   "more": 0,
-   "ts": 1792711783,
-   "photo": "photos/POR_FREEMAN_ANTHONY_2026-10-22.jpg"
   }
  ]
 }
