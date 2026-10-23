@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-23T13:45:54+00:00",
+ "updated": "2026-10-23T14:01:11+00:00",
  "items": [
+  {
+   "key": "VAN_COMPTON_SAVANNA_2026-10-23",
+   "name": "Savanna Renee Compton",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement-Causes Bodily Injury L5",
+   "more": 3,
+   "ts": 1792763969,
+   "photo": "photos/VAN_COMPTON_SAVANNA_2026-10-23.jpg"
+  },
+  {
+   "key": "ALL_SMA_PRE_2026-10-23",
+   "name": "Pre Sma",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Recklessness",
+   "more": 0,
+   "ts": 1792763965,
+   "photo": "photos/ALL_SMA_PRE_2026-10-23.jpg"
+  },
   {
    "key": "MAD_COFFMAN_CARTER_2026-10-23",
    "name": "Carter Matthew Coffman",
@@ -398,17 +420,6 @@
    "photo": null
   },
   {
-   "key": "ALL_MARTINEZALLEN_DEMARCUS_2026-10-22",
-   "name": "Demarcus Martinez-Allen",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 0,
-   "ts": 1792708176,
-   "photo": null
-  },
-  {
    "key": "VAN_CASTRO_ALYHIA_2026-10-22",
    "name": "Alyhia Lynn Nicole Castro",
    "age": "28",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792690240,
    "photo": "photos/MAD_SKIRVIN_JEREMY_2026-10-22.jpg"
-  },
-  {
-   "key": "MAD_BELCHER_JEFFREY_2026-10-22",
-   "name": "Jeffrey Lee Belcher",
-   "age": "67",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792687530,
-   "photo": "photos/MAD_BELCHER_JEFFREY_2026-10-22.jpg"
   }
  ]
 }
