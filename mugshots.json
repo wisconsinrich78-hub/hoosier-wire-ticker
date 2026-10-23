@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T17:46:20+00:00",
+ "updated": "2026-10-23T18:01:27+00:00",
  "items": [
+  {
+   "key": "MAD_BELK_DEVON_2026-10-23",
+   "name": "Devon Belk",
+   "age": "38",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792778389,
+   "photo": null
+  },
   {
    "key": "MAD_MUSICK_BRANDON_2026-10-23",
    "name": "Brandon Scott Musick",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792725284,
    "photo": "photos/ALL_WAH_GEE_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_HOLDEN_TYLER_2026-10-22",
-   "name": "Tyler Ernest Holden",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 2,
-   "ts": 1792724380,
-   "photo": "photos/VAN_HOLDEN_TYLER_2026-10-22.jpg"
   }
  ]
 }
