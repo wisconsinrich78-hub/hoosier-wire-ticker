@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-23T01:32:39+00:00",
+ "updated": "2026-10-23T02:17:25+00:00",
  "items": [
+  {
+   "key": "VAN_SIMMS_AYDEN_2026-10-22",
+   "name": "Ayden Dewayne Simms",
+   "age": "17",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Murder",
+   "more": 0,
+   "ts": 1792721688,
+   "photo": "photos/VAN_SIMMS_AYDEN_2026-10-22.jpg"
+  },
   {
    "key": "VAN_CRITCHFIELD_AARON_2026-10-22",
    "name": "Aaron Samuel Critchfield",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1792655076,
    "photo": "photos/VAN_DAVIS_JADA_2026-10-22.jpg"
-  },
-  {
-   "key": "VAN_FINCH_SHAWN_2026-10-22",
-   "name": "Shawn Trevano Finch",
-   "age": "56",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 2,
-   "ts": 1792653416,
-   "photo": "photos/VAN_FINCH_SHAWN_2026-10-22.jpg"
   }
  ]
 }
