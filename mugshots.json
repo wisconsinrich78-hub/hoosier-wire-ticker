@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T03:31:56+00:00",
+ "updated": "2026-10-24T04:16:22+00:00",
  "items": [
+  {
+   "key": "VAN_CARR_SAMUEL_2026-10-23",
+   "name": "Samuel Wiley Carr",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 3,
+   "ts": 1792815263,
+   "photo": "photos/VAN_CARR_SAMUEL_2026-10-23.jpg"
+  },
   {
    "key": "MAD_BIGSBEE_XAVIER_2026-10-23",
    "name": "Xavier Dewayne Bigsbee",
@@ -451,17 +462,6 @@
    "more": 0,
    "ts": 1792773037,
    "photo": "photos/MAD_GUIDEN_KIMBLEY_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_WATSON_JASON_2026-10-23",
-   "name": "Jason Anthony Watson",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1792772986,
-   "photo": "photos/VAN_WATSON_JASON_2026-10-23.jpg"
   },
   {
    "key": "ALL_MAT_HA_2026-10-23",
