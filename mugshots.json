@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T01:32:06+00:00",
+ "updated": "2026-10-24T01:47:25+00:00",
  "items": [
+  {
+   "key": "VAN_WILLIS_JOHNATHAN_2026-10-23",
+   "name": "Johnathan Dewayne Willis",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1792806278,
+   "photo": "photos/VAN_WILLIS_JOHNATHAN_2026-10-23.jpg"
+  },
   {
    "key": "VAN_MOORE_DEVLIN_2026-10-23",
    "name": "Devlin James Moore",
@@ -429,17 +440,6 @@
    "more": 0,
    "ts": 1792772974,
    "photo": "photos/ALL_MAT_HA_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_YORK_JORDEN_2026-10-23",
-   "name": "Jorden Ray York",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery-Battery Against Public Safety Official W/Bodily Inj",
-   "more": 7,
-   "ts": 1792770270,
-   "photo": "photos/VAN_YORK_JORDEN_2026-10-23.jpg"
   },
   {
    "key": "ALL_NELSON_JAMES_2026-10-23",
