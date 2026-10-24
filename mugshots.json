@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-24T01:47:25+00:00",
+ "updated": "2026-10-24T02:31:40+00:00",
  "items": [
+  {
+   "key": "POR_WAGNER_THOMAS_2026-10-23",
+   "name": "Thomas Snowwolf Wagner",
+   "age": "61",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 3,
+   "ts": 1792808975,
+   "photo": null
+  },
+  {
+   "key": "POR_BARNES_ANTINO_2026-10-23",
+   "name": "Antino Deonte Barnes",
+   "age": "50",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1792808974,
+   "photo": "photos/POR_BARNES_ANTINO_2026-10-23.jpg"
+  },
   {
    "key": "VAN_WILLIS_JOHNATHAN_2026-10-23",
    "name": "Johnathan Dewayne Willis",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792766792,
    "photo": "photos/MAD_WARREN_THOMAS_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_FLEENER_MATTHEW_2026-10-23",
-   "name": "Matthew Alan Fleener",
-   "age": "38",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792766741,
-   "photo": "photos/MAD_FLEENER_MATTHEW_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_BEEMAN_JACK_2026-10-23",
-   "name": "Jack Nolan Beeman",
-   "age": "57",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792765774,
-   "photo": "photos/MAD_BEEMAN_JACK_2026-10-23.jpg"
   }
  ]
 }
