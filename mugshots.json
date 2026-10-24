@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T15:01:17+00:00",
+ "updated": "2026-10-24T17:16:11+00:00",
  "items": [
+  {
+   "key": "VAN_BROWN_JOHNNIECE_2026-10-24",
+   "name": "John-Niece Nashawn Renee Brown",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Wit",
+   "more": 0,
+   "ts": 1792862063,
+   "photo": null
+  },
   {
    "key": "VAN_HOWELL_WILLIAM_2026-10-24",
    "name": "William Gregory Howell",
@@ -418,17 +429,6 @@
    "more": 0,
    "ts": 1792797287,
    "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_MERRILL_DEBRA_2026-10-23",
-   "name": "Debra Carol Merrill",
-   "age": "73",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792796368,
-   "photo": "photos/VAN_MERRILL_DEBRA_2026-10-23.jpg"
   },
   {
    "key": "MAD_MATTHEWS_JONATHAN_2026-10-23",
