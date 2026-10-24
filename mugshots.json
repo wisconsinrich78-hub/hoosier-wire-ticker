@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-24T00:17:16+00:00",
+ "updated": "2026-10-24T00:32:10+00:00",
  "items": [
+  {
+   "key": "POR_GOMEZ_JOHNNY_2026-10-23",
+   "name": "Johnny Gomez",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Commitment Prior Charge",
+   "more": 0,
+   "ts": 1792801775,
+   "photo": "photos/POR_GOMEZ_JOHNNY_2026-10-23.jpg"
+  },
+  {
+   "key": "POR_PIERCE_LUCAS_2026-10-23",
+   "name": "Lucas James Pierce",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1792801774,
+   "photo": "photos/POR_PIERCE_LUCAS_2026-10-23.jpg"
+  },
+  {
+   "key": "POR_ROGERS_ERIC_2026-10-23",
+   "name": "Eric Quentin Rogers",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1792801771,
+   "photo": "photos/POR_ROGERS_ERIC_2026-10-23.jpg"
+  },
+  {
+   "key": "VAN_FORD_CHASITY_2026-10-23",
+   "name": "Chasity Lenae Ford",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft",
+   "more": 1,
+   "ts": 1792801767,
+   "photo": null
+  },
   {
    "key": "VAN_TITZER_MICHAEL_2026-10-23",
    "name": "Michael Joseph Titzer",
@@ -484,50 +528,6 @@
    "more": 2,
    "ts": 1792764868,
    "photo": "photos/ALL_HARTMAN_ABRAHAM_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_COMPTON_SAVANNA_2026-10-23",
-   "name": "Savanna Renee Compton",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement-Causes Bodily Injury L5",
-   "more": 3,
-   "ts": 1792763969,
-   "photo": "photos/VAN_COMPTON_SAVANNA_2026-10-23.jpg"
-  },
-  {
-   "key": "ALL_SMA_PRE_2026-10-23",
-   "name": "Pre Sma",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Recklessness",
-   "more": 0,
-   "ts": 1792763965,
-   "photo": "photos/ALL_SMA_PRE_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_COFFMAN_CARTER_2026-10-23",
-   "name": "Carter Matthew Coffman",
-   "age": "22",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792763084,
-   "photo": "photos/MAD_COFFMAN_CARTER_2026-10-23.jpg"
-  },
-  {
-   "key": "POR_STEFFAN_RICHARD_2026-10-23",
-   "name": "Richard Donald Steffan",
-   "age": "38",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Neglect Of A Dependent",
-   "more": 0,
-   "ts": 1792762171,
-   "photo": "photos/POR_STEFFAN_RICHARD_2026-10-23.jpg"
   }
  ]
 }
