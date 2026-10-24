@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T07:44:30+00:00",
+ "updated": "2026-10-24T08:16:14+00:00",
  "items": [
+  {
+   "key": "VAN_GOGEL_AARON_2026-10-24",
+   "name": "Aaron Michael Gogel",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1792829663,
+   "photo": "photos/VAN_GOGEL_AARON_2026-10-24.jpg"
+  },
   {
    "key": "VAN_PIECIAK_VIRGINIA_2026-10-24",
    "name": "Virginia Marie Pieciak",
@@ -451,17 +462,6 @@
    "more": 0,
    "ts": 1792780186,
    "photo": "photos/ALL_TANNER_THOMAS_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_PARISH_NOAH_2026-10-23",
-   "name": "Noah Christopher Parish",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792779274,
-   "photo": "photos/VAN_PARISH_NOAH_2026-10-23.jpg"
   },
   {
    "key": "MAD_BELK_DEVON_2026-10-23",
