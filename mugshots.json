@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-24T08:31:15+00:00",
+ "updated": "2026-10-24T09:31:06+00:00",
  "items": [
+  {
+   "key": "POR_CICHOCKI_JESSICA_2026-10-24",
+   "name": "Jessica Marie Cichocki",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 0,
+   "ts": 1792834169,
+   "photo": null
+  },
+  {
+   "key": "POR_LACY_JOHNATHAN_2026-10-24",
+   "name": "Johnathan B Lacy",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 1,
+   "ts": 1792834165,
+   "photo": null
+  },
   {
    "key": "POR_BETHEL_BREAH_2026-10-24",
    "name": "Breah Dellyn Bethel",
@@ -387,17 +409,6 @@
    "photo": "photos/VAN_JOHNSON_JOHNATHAN_2026-10-23.jpg"
   },
   {
-   "key": "POR_BETTS_JOHN_2026-10-23",
-   "name": "John Michael Betts",
-   "age": "45",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792787370,
-   "photo": "photos/POR_BETTS_JOHN_2026-10-23.jpg"
-  },
-  {
    "key": "VAN_COSBY_ORLETA_2026-10-23",
    "name": "Orleta Danielle Cosby",
    "age": "44",
@@ -407,17 +418,6 @@
    "more": 3,
    "ts": 1792787367,
    "photo": "photos/VAN_COSBY_ORLETA_2026-10-23.jpg"
-  },
-  {
-   "key": "POR_LITTLE_ROBERT_2026-10-23",
-   "name": "Robert Wayne Martinez Little",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 1,
-   "ts": 1792783778,
-   "photo": "photos/POR_LITTLE_ROBERT_2026-10-23.jpg"
   },
   {
    "key": "VAN_HARRIS_DVONTE_2026-10-23",
