@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T14:31:25+00:00",
+ "updated": "2026-10-24T15:01:17+00:00",
  "items": [
+  {
+   "key": "VAN_HOWELL_WILLIAM_2026-10-24",
+   "name": "William Gregory Howell",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Treatment Court Filed Ptr",
+   "more": 1,
+   "ts": 1792853963,
+   "photo": null
+  },
   {
    "key": "POR_DRAPER_MOLLY_2026-10-24",
    "name": "Molly Ann Draper",
@@ -440,17 +451,6 @@
    "more": 0,
    "ts": 1792788343,
    "photo": "photos/MAD_POWELL_SPENCER_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_JOHNATHAN_2026-10-23",
-   "name": "Johnathan Earl Johnson",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1792788266,
-   "photo": "photos/VAN_JOHNSON_JOHNATHAN_2026-10-23.jpg"
   },
   {
    "key": "MAD_ALLEN_TRAVISHA_2026-10-23",
