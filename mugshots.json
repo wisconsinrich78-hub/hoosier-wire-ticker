@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T13:31:12+00:00",
+ "updated": "2026-10-24T14:01:21+00:00",
  "items": [
+  {
+   "key": "VAN_CORDRAY_CAMERON_2026-10-24",
+   "name": "Cameron Deshay Cordray",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement 2 Priors/Creates Substanial Risk",
+   "more": 4,
+   "ts": 1792850364,
+   "photo": null
+  },
   {
    "key": "POR_STRICKLIN_JOSEPH_2026-10-24",
    "name": "Joseph Carl Stricklin",
@@ -440,17 +451,6 @@
    "more": 0,
    "ts": 1792788266,
    "photo": "photos/VAN_JOHNSON_JOHNATHAN_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_COSBY_ORLETA_2026-10-23",
-   "name": "Orleta Danielle Cosby",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Fraud",
-   "more": 3,
-   "ts": 1792787367,
-   "photo": "photos/VAN_COSBY_ORLETA_2026-10-23.jpg"
   },
   {
    "key": "MAD_ALLEN_TRAVISHA_2026-10-23",
