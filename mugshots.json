@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T09:31:06+00:00",
+ "updated": "2026-10-24T11:31:03+00:00",
  "items": [
+  {
+   "key": "MAD_LEVELL_BRANDON_2026-10-24",
+   "name": "Brandon J Levell",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792841417,
+   "photo": null
+  },
   {
    "key": "POR_CICHOCKI_JESSICA_2026-10-24",
    "name": "Jessica Marie Cichocki",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792770267,
    "photo": "photos/ALL_NELSON_JAMES_2026-10-23.jpg"
-  },
-  {
-   "key": "ALL_SUEL_DEYONNA_2026-10-23",
-   "name": "Deyonna Suel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Crim Reck Shooting Into An Inhabited Dwelling Or Other Bldg Or Place P",
-   "more": 0,
-   "ts": 1792769369,
-   "photo": "photos/ALL_SUEL_DEYONNA_2026-10-23.jpg"
   }
  ]
 }
