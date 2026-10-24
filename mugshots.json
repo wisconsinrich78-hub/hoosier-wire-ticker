@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-24T02:31:40+00:00",
+ "updated": "2026-10-24T03:31:56+00:00",
  "items": [
+  {
+   "key": "MAD_BIGSBEE_XAVIER_2026-10-23",
+   "name": "Xavier Dewayne Bigsbee",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792812596,
+   "photo": null
+  },
+  {
+   "key": "POR_OJEDA_PETER_2026-10-23",
+   "name": "Peter Paul Ojeda",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 1,
+   "ts": 1792812576,
+   "photo": "photos/POR_OJEDA_PETER_2026-10-23.jpg"
+  },
   {
    "key": "POR_WAGNER_THOMAS_2026-10-23",
    "name": "Thomas Snowwolf Wagner",
@@ -431,17 +453,6 @@
    "photo": "photos/MAD_GUIDEN_KIMBLEY_2026-10-23.jpg"
   },
   {
-   "key": "POR_KNIOLA_KELLI_2026-10-23",
-   "name": "Kelli Lynn Kniola",
-   "age": "44",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792772993,
-   "photo": "photos/POR_KNIOLA_KELLI_2026-10-23.jpg"
-  },
-  {
    "key": "VAN_WATSON_JASON_2026-10-23",
    "name": "Jason Anthony Watson",
    "age": "47",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792767567,
    "photo": "photos/ALL_MITCHELL_ERICA_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_WARREN_THOMAS_2026-10-23",
-   "name": "Thomas Nelson Warren",
-   "age": "60",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792766792,
-   "photo": "photos/MAD_WARREN_THOMAS_2026-10-23.jpg"
   }
  ]
 }
