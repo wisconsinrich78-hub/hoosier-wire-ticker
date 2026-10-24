@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T20:31:26+00:00",
+ "updated": "2026-10-24T22:02:37+00:00",
  "items": [
+  {
+   "key": "VAN_DORMEIER_KRISTI_2026-10-24",
+   "name": "Kristi Jo Dormeier",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 1,
+   "ts": 1792879167,
+   "photo": "photos/VAN_DORMEIER_KRISTI_2026-10-24.jpg"
+  },
   {
    "key": "POR_TOWNER_ZANDER_2026-10-24",
    "name": "Zander John Towner",
@@ -418,17 +429,6 @@
    "more": 2,
    "ts": 1792799075,
    "photo": "photos/VAN_DEMPSEY_BARRY_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_REYNOLDS_JOSHUA_2026-10-23",
-   "name": "Joshua Lee Reynolds",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Failure To Appear-Original Charge Misd",
-   "more": 1,
-   "ts": 1792798167,
-   "photo": null
   },
   {
    "key": "MAD_BUTCHER_DATHANIEL_2026-10-23",
