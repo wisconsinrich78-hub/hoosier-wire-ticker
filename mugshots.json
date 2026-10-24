@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T06:30:56+00:00",
+ "updated": "2026-10-24T07:01:02+00:00",
  "items": [
+  {
+   "key": "MAD_JAMES_TERRY_2026-10-24",
+   "name": "Terry Russell James",
+   "age": "70",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792825212,
+   "photo": null
+  },
   {
    "key": "MAD_SOLANODOMINGUEZ_JUAN_2026-10-24",
    "name": "Juan Carlos Solano Dominguez",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792768526,
    "photo": "photos/MAD_MALONE_JONI_2026-10-23.jpg"
-  },
-  {
-   "key": "ALL_ASHER_ZACHARIAH_2026-10-23",
-   "name": "Zachariah Asher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1792768469,
-   "photo": "photos/ALL_ASHER_ZACHARIAH_2026-10-23.jpg"
   }
  ]
 }
