@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T17:31:19+00:00",
+ "updated": "2026-10-24T20:31:26+00:00",
  "items": [
+  {
+   "key": "POR_TOWNER_ZANDER_2026-10-24",
+   "name": "Zander John Towner",
+   "age": "21",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery",
+   "more": 1,
+   "ts": 1792873768,
+   "photo": "photos/POR_TOWNER_ZANDER_2026-10-24.jpg"
+  },
   {
    "key": "MAD_IRWIN_HARRY_2026-10-24",
    "name": "Harry Arthur Fourth Irwin",
@@ -374,17 +385,6 @@
    "more": 0,
    "ts": 1792801774,
    "photo": "photos/POR_PIERCE_LUCAS_2026-10-23.jpg"
-  },
-  {
-   "key": "POR_ROGERS_ERIC_2026-10-23",
-   "name": "Eric Quentin Rogers",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1792801771,
-   "photo": "photos/POR_ROGERS_ERIC_2026-10-23.jpg"
   },
   {
    "key": "VAN_FORD_CHASITY_2026-10-23",
