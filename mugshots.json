@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-24T00:32:10+00:00",
+ "updated": "2026-10-24T00:47:10+00:00",
  "items": [
+  {
+   "key": "VAN_CLARK_JARED_2026-10-23",
+   "name": "Jared Ryan Clark",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1792802686,
+   "photo": "photos/VAN_CLARK_JARED_2026-10-23.jpg"
+  },
+  {
+   "key": "VAN_HOLTZ_JULIA_2026-10-23",
+   "name": "Julia Lynn Holtz",
+   "age": "60",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Family Offense- Invasion Of Privacy",
+   "more": 0,
+   "ts": 1792802684,
+   "photo": "photos/VAN_HOLTZ_JULIA_2026-10-23.jpg"
+  },
   {
    "key": "POR_GOMEZ_JOHNNY_2026-10-23",
    "name": "Johnny Gomez",
@@ -506,28 +528,6 @@
    "more": 3,
    "ts": 1792765761,
    "photo": null
-  },
-  {
-   "key": "MAD_KERNEY_WILLIAM_2026-10-23",
-   "name": "William Ray Kerney",
-   "age": "38",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792764976,
-   "photo": "photos/MAD_KERNEY_WILLIAM_2026-10-23.jpg"
-  },
-  {
-   "key": "ALL_HARTMAN_ABRAHAM_2026-10-23",
-   "name": "Abraham Hartman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Fleeing",
-   "more": 2,
-   "ts": 1792764868,
-   "photo": "photos/ALL_HARTMAN_ABRAHAM_2026-10-23.jpg"
   }
  ]
 }
