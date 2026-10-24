@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-24T04:16:22+00:00",
+ "updated": "2026-10-24T06:30:56+00:00",
  "items": [
+  {
+   "key": "MAD_SOLANODOMINGUEZ_JUAN_2026-10-24",
+   "name": "Juan Carlos Solano Dominguez",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792823440,
+   "photo": null
+  },
+  {
+   "key": "POR_RAMIREZ_JOSE_2026-10-24",
+   "name": "Jose G Ramirez",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
+   "more": 3,
+   "ts": 1792823363,
+   "photo": null
+  },
+  {
+   "key": "VAN_DELEON_EDWIN_2026-10-24",
+   "name": "Edwin Emanuel De Leon",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
+   "more": 3,
+   "ts": 1792823361,
+   "photo": null
+  },
   {
    "key": "VAN_CARR_SAMUEL_2026-10-23",
    "name": "Samuel Wiley Carr",
@@ -420,17 +453,6 @@
    "photo": "photos/MAD_MUSICK_BRANDON_2026-10-23.jpg"
   },
   {
-   "key": "POR_MOUNTS_CODY_2026-10-23",
-   "name": "Cody Patrick Mounts",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Public Administration- Resisting Law Enforcement",
-   "more": 1,
-   "ts": 1792776567,
-   "photo": "photos/POR_MOUNTS_CODY_2026-10-23.jpg"
-  },
-  {
    "key": "VAN_MCCOY_BRANDYN_2026-10-23",
    "name": "Brandyn Gregory Mccoy",
    "age": "28",
@@ -440,17 +462,6 @@
    "more": 0,
    "ts": 1792776564,
    "photo": "photos/VAN_MCCOY_BRANDYN_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_BEAN_BRANDON_2026-10-23",
-   "name": "Brandon Robert Bean",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792773868,
-   "photo": "photos/VAN_BEAN_BRANDON_2026-10-23.jpg"
   },
   {
    "key": "MAD_GUIDEN_KIMBLEY_2026-10-23",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792768469,
    "photo": "photos/ALL_ASHER_ZACHARIAH_2026-10-23.jpg"
-  },
-  {
-   "key": "ALL_MITCHELL_ERICA_2026-10-23",
-   "name": "Erica Mitchell",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Crim Reck Shooting Into An Inhabited Dwelling Or Other Bldg Or Place P",
-   "more": 0,
-   "ts": 1792767567,
-   "photo": "photos/ALL_MITCHELL_ERICA_2026-10-23.jpg"
   }
  ]
 }
