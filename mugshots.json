@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-24T22:02:37+00:00",
+ "updated": "2026-10-24T23:31:13+00:00",
  "items": [
+  {
+   "key": "VAN_MCGUFFIN_LUCAS_2026-10-24",
+   "name": "Lucas C Mcguffin",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1792884563,
+   "photo": null
+  },
   {
    "key": "VAN_DORMEIER_KRISTI_2026-10-24",
    "name": "Kristi Jo Dormeier",
@@ -418,17 +429,6 @@
    "more": 0,
    "ts": 1792800879,
    "photo": "photos/VAN_TITZER_MICHAEL_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_DEMPSEY_BARRY_2026-10-23",
-   "name": "Barry Lee Dempsey",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 2,
-   "ts": 1792799075,
-   "photo": "photos/VAN_DEMPSEY_BARRY_2026-10-23.jpg"
   },
   {
    "key": "MAD_BUTCHER_DATHANIEL_2026-10-23",
