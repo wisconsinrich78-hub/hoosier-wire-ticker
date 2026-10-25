@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-25T10:01:03+00:00",
+ "updated": "2026-10-25T10:31:06+00:00",
  "items": [
+  {
+   "key": "MAD_AMOS_AMARIYAH_2026-10-25",
+   "name": "Amariyah Rebecca Amos",
+   "age": "20",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792924174,
+   "photo": null
+  },
+  {
+   "key": "POR_DITOLA_ADAM_2026-10-25",
+   "name": "Adam Christopher Ditola",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery - Misdemeanor",
+   "more": 0,
+   "ts": 1792924170,
+   "photo": "photos/POR_DITOLA_ADAM_2026-10-25.jpg"
+  },
+  {
+   "key": "POR_WHEATON_ELVIN_2026-10-25",
+   "name": "Elvin Jerome Wheaton",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1792924167,
+   "photo": "photos/POR_WHEATON_ELVIN_2026-10-25.jpg"
+  },
+  {
+   "key": "POR_COLON_JONATHAN_2026-10-25",
+   "name": "Jonathan Colon",
+   "age": "38",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Resisting Law Enforcement Def. Uses A Vehicle.",
+   "more": 1,
+   "ts": 1792924166,
+   "photo": null
+  },
+  {
+   "key": "VAN_WILLIAMS_DANIEL_2026-10-25",
+   "name": "Daniel Frances Williams",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Against Family Or Member Less Than 14",
+   "more": 1,
+   "ts": 1792924164,
+   "photo": "photos/VAN_WILLIAMS_DANIEL_2026-10-25.jpg"
+  },
   {
    "key": "VAN_MATHIS_ANDREW_2026-10-25",
    "name": "Andrew Lee Mathis",
@@ -310,17 +365,6 @@
    "photo": null
   },
   {
-   "key": "VAN_HOWELL_WILLIAM_2026-10-24",
-   "name": "William Gregory Howell",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Treatment Court Filed Ptr",
-   "more": 1,
-   "ts": 1792853963,
-   "photo": null
-  },
-  {
    "key": "POR_DRAPER_MOLLY_2026-10-24",
    "name": "Molly Ann Draper",
    "age": "43",
@@ -409,39 +453,6 @@
    "photo": null
   },
   {
-   "key": "POR_BETHEL_BREAH_2026-10-24",
-   "name": "Breah Dellyn Bethel",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 1,
-   "ts": 1792830568,
-   "photo": "photos/POR_BETHEL_BREAH_2026-10-24.jpg"
-  },
-  {
-   "key": "POR_VUKO_JOHN_2026-10-24",
-   "name": "John Anthony Vuko",
-   "age": "50",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 4,
-   "ts": 1792830565,
-   "photo": "photos/POR_VUKO_JOHN_2026-10-24.jpg"
-  },
-  {
-   "key": "POR_BUTLER_GAVIN_2026-10-24",
-   "name": "Gavin Reed Butler",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1792830564,
-   "photo": null
-  },
-  {
    "key": "MAD_SEXSON_AUSTIN_2026-10-24",
    "name": "Austin John Sexson",
    "age": "27",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792788343,
    "photo": "photos/MAD_POWELL_SPENCER_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_ALLEN_TRAVISHA_2026-10-23",
-   "name": "Travisha Arieo Allen",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792781075,
-   "photo": "photos/MAD_ALLEN_TRAVISHA_2026-10-23.jpg"
   }
  ]
 }
