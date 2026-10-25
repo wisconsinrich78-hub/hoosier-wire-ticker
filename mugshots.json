@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T18:49:12+00:00",
+ "updated": "2026-10-25T21:49:08+00:00",
  "items": [
+  {
+   "key": "VAN_BOLES_WILLIAM_2026-10-25",
+   "name": "William Earl Boles",
+   "age": "75",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1792964834,
+   "photo": "photos/VAN_BOLES_WILLIAM_2026-10-25.jpg"
+  },
   {
    "key": "VAN_THOMAS_JARED_2026-10-25",
    "name": "Jared Michel Thomas",
@@ -330,17 +341,6 @@
    "more": 1,
    "ts": 1792898964,
    "photo": "photos/POR_GOODPASTER_WESLEY_2026-10-24.jpg"
-  },
-  {
-   "key": "VAN_DIXON_RONALD_2026-10-24",
-   "name": "Ronald Jermaine Dixon",
-   "age": "53",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 1,
-   "ts": 1792895364,
-   "photo": "photos/VAN_DIXON_RONALD_2026-10-24.jpg"
   },
   {
    "key": "MAD_GILLINGHAM_MARK_2026-10-24",
