@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T00:31:18+00:00",
+ "updated": "2026-10-25T00:46:15+00:00",
  "items": [
+  {
+   "key": "MAD_GILLINGHAM_MARK_2026-10-24",
+   "name": "Mark Gillingham",
+   "age": "27",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792889103,
+   "photo": null
+  },
   {
    "key": "POR_SOTAK_PHILLIP_2026-10-24",
    "name": "Phillip Edward Sotak",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792777532,
    "photo": "photos/MAD_MUSICK_BRANDON_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_GUIDEN_KIMBLEY_2026-10-23",
-   "name": "Kimbley Danette Guiden",
-   "age": "51",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792773037,
-   "photo": "photos/MAD_GUIDEN_KIMBLEY_2026-10-23.jpg"
   }
  ]
 }
