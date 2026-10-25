@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T01:16:15+00:00",
+ "updated": "2026-10-25T02:01:11+00:00",
  "items": [
+  {
+   "key": "VAN_WARD_JOHNNY_2026-10-24",
+   "name": "Johnny Ray Ward",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
+   "more": 0,
+   "ts": 1792893565,
+   "photo": "photos/VAN_WARD_JOHNNY_2026-10-24.jpg"
+  },
   {
    "key": "VAN_MAYES_RONALD_2026-10-24",
    "name": "Ronald Glenn Mayes",
@@ -429,17 +440,6 @@
    "more": 0,
    "ts": 1792802684,
    "photo": "photos/VAN_HOLTZ_JULIA_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_FORD_CHASITY_2026-10-23",
-   "name": "Chasity Lenae Ford",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft",
-   "more": 1,
-   "ts": 1792801767,
-   "photo": null
   },
   {
    "key": "MAD_BUTCHER_DATHANIEL_2026-10-23",
