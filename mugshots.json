@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T04:01:18+00:00",
+ "updated": "2026-10-25T04:31:20+00:00",
  "items": [
+  {
+   "key": "VAN_ADAMS_LAMYAH_2026-10-24",
+   "name": "Lamyah Scherele Adams",
+   "age": "18",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Recklessness W/Deadly Weapon",
+   "more": 0,
+   "ts": 1792902568,
+   "photo": "photos/VAN_ADAMS_LAMYAH_2026-10-24.jpg"
+  },
   {
    "key": "MAD_HALL_GRIFFIN_2026-10-24",
    "name": "Griffin C Hall",
@@ -440,17 +451,6 @@
    "more": 0,
    "ts": 1792805375,
    "photo": "photos/VAN_MOORE_DEVLIN_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_CLARK_JARED_2026-10-23",
-   "name": "Jared Ryan Clark",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1792802686,
-   "photo": "photos/VAN_CLARK_JARED_2026-10-23.jpg"
   },
   {
    "key": "MAD_BUTCHER_DATHANIEL_2026-10-23",
