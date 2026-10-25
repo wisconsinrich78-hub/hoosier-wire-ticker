@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T07:31:04+00:00",
+ "updated": "2026-10-25T08:01:13+00:00",
  "items": [
+  {
+   "key": "VAN_HOPKINS_BRYNAN_2026-10-25",
+   "name": "Brynan Levi Hopkins",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1792915175,
+   "photo": "photos/VAN_HOPKINS_BRYNAN_2026-10-25.jpg"
+  },
   {
    "key": "POR_CRISWELL_TIMMY_2026-10-25",
    "name": "Timmy David Criswell",
@@ -407,17 +418,6 @@
    "more": 0,
    "ts": 1792829663,
    "photo": "photos/VAN_GOGEL_AARON_2026-10-24.jpg"
-  },
-  {
-   "key": "VAN_PIECIAK_VIRGINIA_2026-10-24",
-   "name": "Virginia Marie Pieciak",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1792827859,
-   "photo": null
   },
   {
    "key": "MAD_SEXSON_AUSTIN_2026-10-24",
