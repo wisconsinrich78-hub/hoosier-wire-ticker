@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T10:31:06+00:00",
+ "updated": "2026-10-25T11:31:00+00:00",
  "items": [
+  {
+   "key": "VAN_VAZQUEZ_ALAN_2026-10-25",
+   "name": "Alan Julian Vazquez",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery-Committed With A Deadly Weapon-Felony",
+   "more": 1,
+   "ts": 1792927763,
+   "photo": "photos/VAN_VAZQUEZ_ALAN_2026-10-25.jpg"
+  },
   {
    "key": "MAD_AMOS_AMARIYAH_2026-10-25",
    "name": "Amariyah Rebecca Amos",
@@ -352,17 +363,6 @@
    "more": 0,
    "ts": 1792863013,
    "photo": "photos/MAD_IRWIN_HARRY_2026-10-24.jpg"
-  },
-  {
-   "key": "VAN_BROWN_JOHNNIECE_2026-10-24",
-   "name": "John-Niece Nashawn Renee Brown",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Wit",
-   "more": 0,
-   "ts": 1792862063,
-   "photo": null
   },
   {
    "key": "POR_DRAPER_MOLLY_2026-10-24",
