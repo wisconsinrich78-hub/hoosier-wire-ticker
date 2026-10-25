@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-25T04:46:50+00:00",
+ "updated": "2026-10-25T05:16:18+00:00",
  "items": [
+  {
+   "key": "MAD_STAMM_FREDDY_2026-10-25",
+   "name": "Freddy A Stamm",
+   "age": "61",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 1,
+   "ts": 1792905360,
+   "photo": "photos/MAD_STAMM_FREDDY_2026-10-25.jpg"
+  },
+  {
+   "key": "MAD_DECKER_EMMA_2026-10-25",
+   "name": "Emma Michelle Decker",
+   "age": "21",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1792905295,
+   "photo": null
+  },
+  {
+   "key": "VAN_CARTWRIGHT_ALEXIS_2026-10-24",
+   "name": "Alexis Francine Cartwright",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1792905269,
+   "photo": "photos/VAN_CARTWRIGHT_ALEXIS_2026-10-24.jpg"
+  },
   {
    "key": "VAN_MARS_CRYSTAL_2026-10-24",
    "name": "Crystal Nicole Mars",
@@ -442,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "VAN_WILLIS_JOHNATHAN_2026-10-23",
-   "name": "Johnathan Dewayne Willis",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 1,
-   "ts": 1792806278,
-   "photo": "photos/VAN_WILLIS_JOHNATHAN_2026-10-23.jpg"
-  },
-  {
    "key": "MAD_BUTCHER_DATHANIEL_2026-10-23",
    "name": "Dathaniel Lee Butcher",
    "age": "39",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792780234,
    "photo": "photos/MAD_GRIFFIN_MARTEZ_2026-10-23.jpg"
-  },
-  {
-   "key": "ALL_TANNER_THOMAS_2026-10-23",
-   "name": "Thomas Tanner",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1792780186,
-   "photo": "photos/ALL_TANNER_THOMAS_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_BELK_DEVON_2026-10-23",
-   "name": "Devon Belk",
-   "age": "38",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792778389,
-   "photo": null
   }
  ]
 }
