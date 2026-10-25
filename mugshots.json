@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T05:46:09+00:00",
+ "updated": "2026-10-25T07:16:09+00:00",
  "items": [
+  {
+   "key": "VAN_SHELDON_PATRICK_2026-10-25",
+   "name": "Patrick Lee Sheldon",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 1,
+   "ts": 1792912464,
+   "photo": "photos/VAN_SHELDON_PATRICK_2026-10-25.jpg"
+  },
   {
    "key": "VAN_KNAKMUHS_CHRISTOPHER_2026-10-24",
    "name": "Christopher Andrew Knakmuhs",
@@ -428,17 +439,6 @@
    "charge": "Operating A Vehicle With An BAC Of .15 Or More",
    "more": 3,
    "ts": 1792823363,
-   "photo": null
-  },
-  {
-   "key": "VAN_DELEON_EDWIN_2026-10-24",
-   "name": "Edwin Emanuel De Leon",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
-   "more": 3,
-   "ts": 1792823361,
    "photo": null
   },
   {
