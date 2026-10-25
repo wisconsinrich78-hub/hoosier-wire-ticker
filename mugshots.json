@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-25T13:46:24+00:00",
+ "updated": "2026-10-25T17:50:36+00:00",
  "items": [
+  {
+   "key": "MAD_OREN_MACKENZIE_2026-10-25",
+   "name": "Mackenzie Lee Oren",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Auto theft",
+   "more": 0,
+   "ts": 1792950600,
+   "photo": "photos/MAD_OREN_MACKENZIE_2026-10-25.jpg"
+  },
+  {
+   "key": "MAD_FAULK_AUSTIN_2026-10-25",
+   "name": "Austin Faulk",
+   "age": "27",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Auto theft",
+   "more": 0,
+   "ts": 1792950550,
+   "photo": "photos/MAD_FAULK_AUSTIN_2026-10-25.jpg"
+  },
+  {
+   "key": "POR_CAMARILLO_JEANETTE_2026-10-25",
+   "name": "Jeanette Marie Camarillo",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
+   "more": 2,
+   "ts": 1792950438,
+   "photo": "photos/POR_CAMARILLO_JEANETTE_2026-10-25.jpg"
+  },
+  {
+   "key": "VAN_WATSON_KATHRYNE_2026-10-25",
+   "name": "Kathryne Jean Watson",
+   "age": "49",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 1,
+   "ts": 1792950435,
+   "photo": "photos/VAN_WATSON_KATHRYNE_2026-10-25.jpg"
+  },
   {
    "key": "VAN_TILLOTSON_AMANDA_2026-10-25",
    "name": "Amanda Aaron Tillotson",
@@ -299,17 +343,6 @@
    "photo": "photos/VAN_WARD_JOHNNY_2026-10-24.jpg"
   },
   {
-   "key": "VAN_MAYES_RONALD_2026-10-24",
-   "name": "Ronald Glenn Mayes",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792890863,
-   "photo": null
-  },
-  {
    "key": "MAD_GILLINGHAM_MARK_2026-10-24",
    "name": "Mark Gillingham",
    "age": "27",
@@ -442,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "POR_LACY_JOHNATHAN_2026-10-24",
-   "name": "Johnathan B Lacy",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 1,
-   "ts": 1792834165,
-   "photo": null
-  },
-  {
    "key": "MAD_SEXSON_AUSTIN_2026-10-24",
    "name": "Austin John Sexson",
    "age": "27",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792797287,
    "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_MATTHEWS_JONATHAN_2026-10-23",
-   "name": "Jonathan Jason Matthews",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1792793729,
-   "photo": "photos/MAD_MATTHEWS_JONATHAN_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_POWELL_SPENCER_2026-10-23",
-   "name": "Spencer Charles Powell",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792788343,
-   "photo": "photos/MAD_POWELL_SPENCER_2026-10-23.jpg"
   }
  ]
 }
