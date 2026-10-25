@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T08:01:13+00:00",
+ "updated": "2026-10-25T08:16:09+00:00",
  "items": [
+  {
+   "key": "MAD_MINNIS_CHRISTY_2026-10-25",
+   "name": "Christy Ann Minnis",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1792916131,
+   "photo": null
+  },
   {
    "key": "VAN_HOPKINS_BRYNAN_2026-10-25",
    "name": "Brynan Levi Hopkins",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1792781075,
    "photo": "photos/MAD_ALLEN_TRAVISHA_2026-10-23.jpg"
-  },
-  {
-   "key": "MAD_GRIFFIN_MARTEZ_2026-10-23",
-   "name": "Martez Davion Griffin",
-   "age": "25",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792780234,
-   "photo": "photos/MAD_GRIFFIN_MARTEZ_2026-10-23.jpg"
   }
  ]
 }
