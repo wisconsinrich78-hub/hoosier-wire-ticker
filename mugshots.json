@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T21:49:08+00:00",
+ "updated": "2026-10-25T22:50:11+00:00",
  "items": [
+  {
+   "key": "VAN_HILL_HUNTER_2026-10-25",
+   "name": "Hunter Wayne Hill",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
+   "more": 1,
+   "ts": 1792968431,
+   "photo": null
+  },
   {
    "key": "VAN_BOLES_WILLIAM_2026-10-25",
    "name": "William Earl Boles",
@@ -308,17 +319,6 @@
    "more": 1,
    "ts": 1792903466,
    "photo": "photos/VAN_MARS_CRYSTAL_2026-10-24.jpg"
-  },
-  {
-   "key": "VAN_ADAMS_LAMYAH_2026-10-24",
-   "name": "Lamyah Scherele Adams",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Recklessness W/Deadly Weapon",
-   "more": 0,
-   "ts": 1792902568,
-   "photo": "photos/VAN_ADAMS_LAMYAH_2026-10-24.jpg"
   },
   {
    "key": "MAD_HALL_GRIFFIN_2026-10-24",
