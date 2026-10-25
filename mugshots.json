@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T17:50:36+00:00",
+ "updated": "2026-10-25T18:49:12+00:00",
  "items": [
+  {
+   "key": "VAN_THOMAS_JARED_2026-10-25",
+   "name": "Jared Michel Thomas",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Writ Of Attachment",
+   "more": 3,
+   "ts": 1792954028,
+   "photo": null
+  },
   {
    "key": "MAD_OREN_MACKENZIE_2026-10-25",
    "name": "Mackenzie Lee Oren",
@@ -330,17 +341,6 @@
    "more": 1,
    "ts": 1792895364,
    "photo": "photos/VAN_DIXON_RONALD_2026-10-24.jpg"
-  },
-  {
-   "key": "VAN_WARD_JOHNNY_2026-10-24",
-   "name": "Johnny Ray Ward",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
-   "more": 0,
-   "ts": 1792893565,
-   "photo": "photos/VAN_WARD_JOHNNY_2026-10-24.jpg"
   },
   {
    "key": "MAD_GILLINGHAM_MARK_2026-10-24",
