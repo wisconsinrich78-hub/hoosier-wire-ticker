@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-24T23:31:13+00:00",
+ "updated": "2026-10-25T00:31:18+00:00",
  "items": [
+  {
+   "key": "POR_SOTAK_PHILLIP_2026-10-24",
+   "name": "Phillip Edward Sotak",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "RESIDENTIAL ENTRY - Crime Against Property",
+   "more": 0,
+   "ts": 1792888167,
+   "photo": "photos/POR_SOTAK_PHILLIP_2026-10-24.jpg"
+  },
+  {
+   "key": "POR_COLEMAN_RONALD_2026-10-24",
+   "name": "Ronald David Coleman",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Reckless Driving",
+   "more": 3,
+   "ts": 1792888163,
+   "photo": "photos/POR_COLEMAN_RONALD_2026-10-24.jpg"
+  },
   {
    "key": "VAN_MCGUFFIN_LUCAS_2026-10-24",
    "name": "Lucas C Mcguffin",
@@ -385,28 +407,6 @@
    "more": 0,
    "ts": 1792802684,
    "photo": "photos/VAN_HOLTZ_JULIA_2026-10-23.jpg"
-  },
-  {
-   "key": "POR_GOMEZ_JOHNNY_2026-10-23",
-   "name": "Johnny Gomez",
-   "age": "60",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Commitment Prior Charge",
-   "more": 0,
-   "ts": 1792801775,
-   "photo": "photos/POR_GOMEZ_JOHNNY_2026-10-23.jpg"
-  },
-  {
-   "key": "POR_PIERCE_LUCAS_2026-10-23",
-   "name": "Lucas James Pierce",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1792801774,
-   "photo": "photos/POR_PIERCE_LUCAS_2026-10-23.jpg"
   },
   {
    "key": "VAN_FORD_CHASITY_2026-10-23",
