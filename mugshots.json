@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T05:16:18+00:00",
+ "updated": "2026-10-25T05:46:09+00:00",
  "items": [
+  {
+   "key": "VAN_KNAKMUHS_CHRISTOPHER_2026-10-24",
+   "name": "Christopher Andrew Knakmuhs",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Leaving The Scene Of A Crash- Injury Crash",
+   "more": 0,
+   "ts": 1792907066,
+   "photo": "photos/VAN_KNAKMUHS_CHRISTOPHER_2026-10-24.jpg"
+  },
   {
    "key": "MAD_STAMM_FREDDY_2026-10-25",
    "name": "Freddy A Stamm",
@@ -429,17 +440,6 @@
    "more": 3,
    "ts": 1792823361,
    "photo": null
-  },
-  {
-   "key": "VAN_CARR_SAMUEL_2026-10-23",
-   "name": "Samuel Wiley Carr",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 3,
-   "ts": 1792815263,
-   "photo": "photos/VAN_CARR_SAMUEL_2026-10-23.jpg"
   },
   {
    "key": "MAD_BIGSBEE_XAVIER_2026-10-23",
