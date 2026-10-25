@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T04:31:20+00:00",
+ "updated": "2026-10-25T04:46:50+00:00",
  "items": [
+  {
+   "key": "VAN_MARS_CRYSTAL_2026-10-24",
+   "name": "Crystal Nicole Mars",
+   "age": "49",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1792903466,
+   "photo": "photos/VAN_MARS_CRYSTAL_2026-10-24.jpg"
+  },
   {
    "key": "VAN_ADAMS_LAMYAH_2026-10-24",
    "name": "Lamyah Scherele Adams",
@@ -440,17 +451,6 @@
    "more": 1,
    "ts": 1792806278,
    "photo": "photos/VAN_WILLIS_JOHNATHAN_2026-10-23.jpg"
-  },
-  {
-   "key": "VAN_MOORE_DEVLIN_2026-10-23",
-   "name": "Devlin James Moore",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1792805375,
-   "photo": "photos/VAN_MOORE_DEVLIN_2026-10-23.jpg"
   },
   {
    "key": "MAD_BUTCHER_DATHANIEL_2026-10-23",
