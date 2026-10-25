@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-25T08:16:09+00:00",
+ "updated": "2026-10-25T08:31:01+00:00",
  "items": [
+  {
+   "key": "POR_KENDALL_JACOB_2026-10-25",
+   "name": "Jacob Tyler Kendall",
+   "age": "27",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1792916966,
+   "photo": "photos/POR_KENDALL_JACOB_2026-10-25.jpg"
+  },
+  {
+   "key": "VAN_TACKETT_CHRISTOPHER_2026-10-25",
+   "name": "Christopher Dale Tackett",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1792916963,
+   "photo": "photos/VAN_TACKETT_CHRISTOPHER_2026-10-25.jpg"
+  },
   {
    "key": "MAD_MINNIS_CHRISTY_2026-10-25",
    "name": "Christy Ann Minnis",
@@ -420,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "VAN_GOGEL_AARON_2026-10-24",
-   "name": "Aaron Michael Gogel",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1792829663,
-   "photo": "photos/VAN_GOGEL_AARON_2026-10-24.jpg"
-  },
-  {
    "key": "MAD_SEXSON_AUSTIN_2026-10-24",
    "name": "Austin John Sexson",
    "age": "27",
@@ -461,17 +472,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792823440,
-   "photo": null
-  },
-  {
-   "key": "POR_RAMIREZ_JOSE_2026-10-24",
-   "name": "Jose G Ramirez",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 3,
-   "ts": 1792823363,
    "photo": null
   },
   {
