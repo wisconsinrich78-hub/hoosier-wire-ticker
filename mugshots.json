@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T08:31:01+00:00",
+ "updated": "2026-10-25T08:59:33+00:00",
  "items": [
+  {
+   "key": "VAN_COLLINS_DNARIUS_2026-10-25",
+   "name": "Dnarius Shakeem Collins",
+   "age": "16",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Murder",
+   "more": 0,
+   "ts": 1792918764,
+   "photo": "photos/VAN_COLLINS_DNARIUS_2026-10-25.jpg"
+  },
   {
    "key": "POR_KENDALL_JACOB_2026-10-25",
    "name": "Jacob Tyler Kendall",
@@ -362,17 +373,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792843186,
-   "photo": null
-  },
-  {
-   "key": "VAN_STONE_TARSHA_2026-10-24",
-   "name": "Tarsha Yvonne Stone",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1792843164,
    "photo": null
   },
   {
