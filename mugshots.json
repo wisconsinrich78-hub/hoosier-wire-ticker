@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T08:59:33+00:00",
+ "updated": "2026-10-25T10:01:03+00:00",
  "items": [
+  {
+   "key": "VAN_MATHIS_ANDREW_2026-10-25",
+   "name": "Andrew Lee Mathis",
+   "age": "52",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Prior",
+   "more": 1,
+   "ts": 1792922364,
+   "photo": null
+  },
   {
    "key": "VAN_COLLINS_DNARIUS_2026-10-25",
    "name": "Dnarius Shakeem Collins",
@@ -330,17 +341,6 @@
    "more": 0,
    "ts": 1792852165,
    "photo": "photos/POR_CASTELLONNAVARRO_VIRGINIA_2026-10-24.jpg"
-  },
-  {
-   "key": "VAN_CORDRAY_CAMERON_2026-10-24",
-   "name": "Cameron Deshay Cordray",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement 2 Priors/Creates Substanial Risk",
-   "more": 4,
-   "ts": 1792850364,
-   "photo": null
   },
   {
    "key": "POR_STRICKLIN_JOSEPH_2026-10-24",
