@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T13:18:25+00:00",
+ "updated": "2026-10-25T13:46:24+00:00",
  "items": [
+  {
+   "key": "VAN_TILLOTSON_AMANDA_2026-10-25",
+   "name": "Amanda Aaron Tillotson",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Treatment Court Filed Ptr",
+   "more": 0,
+   "ts": 1792935868,
+   "photo": "photos/VAN_TILLOTSON_AMANDA_2026-10-25.jpg"
+  },
   {
    "key": "VAN_HIBBS_JASPER_2026-10-25",
    "name": "Jasper Lee Ryan Hibbs",
@@ -330,17 +341,6 @@
    "more": 3,
    "ts": 1792888163,
    "photo": "photos/POR_COLEMAN_RONALD_2026-10-24.jpg"
-  },
-  {
-   "key": "VAN_MCGUFFIN_LUCAS_2026-10-24",
-   "name": "Lucas C Mcguffin",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 3,
-   "ts": 1792884563,
-   "photo": null
   },
   {
    "key": "POR_TOWNER_ZANDER_2026-10-24",
