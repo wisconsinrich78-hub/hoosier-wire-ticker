@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T02:31:13+00:00",
+ "updated": "2026-10-25T03:29:31+00:00",
  "items": [
+  {
+   "key": "POR_GOODPASTER_WESLEY_2026-10-24",
+   "name": "Wesley James Goodpaster",
+   "age": "44",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 1,
+   "ts": 1792898964,
+   "photo": "photos/POR_GOODPASTER_WESLEY_2026-10-24.jpg"
+  },
   {
    "key": "VAN_DIXON_RONALD_2026-10-24",
    "name": "Ronald Jermaine Dixon",
@@ -396,17 +407,6 @@
    "more": 3,
    "ts": 1792808975,
    "photo": null
-  },
-  {
-   "key": "POR_BARNES_ANTINO_2026-10-23",
-   "name": "Antino Deonte Barnes",
-   "age": "50",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1792808974,
-   "photo": "photos/POR_BARNES_ANTINO_2026-10-23.jpg"
   },
   {
    "key": "VAN_WILLIS_JOHNATHAN_2026-10-23",
