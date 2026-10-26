@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-26T00:49:13+00:00",
+ "updated": "2026-10-26T02:47:25+00:00",
  "items": [
+  {
+   "key": "POR_PADILLA_SARAH_2026-10-25",
+   "name": "Sarah Desiree Padilla",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 1,
+   "ts": 1792982837,
+   "photo": "photos/POR_PADILLA_SARAH_2026-10-25.jpg"
+  },
+  {
+   "key": "VAN_STEWART_DARIUS_2026-10-25",
+   "name": "Darius Donnell Stewart",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Vccc Filed Ptr",
+   "more": 0,
+   "ts": 1792982833,
+   "photo": "photos/VAN_STEWART_DARIUS_2026-10-25.jpg"
+  },
   {
    "key": "VAN_JIMENEZ_SAMANTHA_2026-10-25",
    "name": "Samantha Jimenez",
@@ -310,17 +332,6 @@
    "photo": null
   },
   {
-   "key": "VAN_CARTWRIGHT_ALEXIS_2026-10-24",
-   "name": "Alexis Francine Cartwright",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1792905269,
-   "photo": "photos/VAN_CARTWRIGHT_ALEXIS_2026-10-24.jpg"
-  },
-  {
    "key": "MAD_HALL_GRIFFIN_2026-10-24",
    "name": "Griffin C Hall",
    "age": "31",
@@ -461,17 +472,6 @@
    "charge": "",
    "more": 0,
    "ts": 1792841417,
-   "photo": null
-  },
-  {
-   "key": "POR_CICHOCKI_JESSICA_2026-10-24",
-   "name": "Jessica Marie Cichocki",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 0,
-   "ts": 1792834169,
    "photo": null
   },
   {
