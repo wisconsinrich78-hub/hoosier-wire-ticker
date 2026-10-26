@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-26T06:48:33+00:00",
+ "updated": "2026-10-26T07:48:36+00:00",
  "items": [
+  {
+   "key": "VAN_THOMAS_JASON_2026-10-26",
+   "name": "Jason Ladane Thomas",
+   "age": "49",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft - Firearm [L5]",
+   "more": 0,
+   "ts": 1793000828,
+   "photo": "photos/VAN_THOMAS_JASON_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_ARROYOPEREZ_ANGELYAOMING_2026-10-26",
+   "name": "Angel Yaoming Arroyo Perez",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Recklessness W/Deadly Weapon",
+   "more": 2,
+   "ts": 1793000825,
+   "photo": null
+  },
   {
    "key": "VAN_WASHINGTON_AISHA_2026-10-26",
    "name": "Aisha Latrica Washington",
@@ -255,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "VAN_COLLINS_DNARIUS_2026-10-25",
-   "name": "Dnarius Shakeem Collins",
-   "age": "16",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Murder",
-   "more": 0,
-   "ts": 1792918764,
-   "photo": "photos/VAN_COLLINS_DNARIUS_2026-10-25.jpg"
-  },
-  {
    "key": "POR_KENDALL_JACOB_2026-10-25",
    "name": "Jacob Tyler Kendall",
    "age": "27",
@@ -275,17 +286,6 @@
    "more": 0,
    "ts": 1792916966,
    "photo": "photos/POR_KENDALL_JACOB_2026-10-25.jpg"
-  },
-  {
-   "key": "VAN_TACKETT_CHRISTOPHER_2026-10-25",
-   "name": "Christopher Dale Tackett",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1792916963,
-   "photo": "photos/VAN_TACKETT_CHRISTOPHER_2026-10-25.jpg"
   },
   {
    "key": "MAD_MINNIS_CHRISTY_2026-10-25",
