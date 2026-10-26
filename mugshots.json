@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-26T10:48:29+00:00",
+ "updated": "2026-10-26T11:48:34+00:00",
  "items": [
+  {
+   "key": "VAN_EDWARDS_DAVID_2026-10-26",
+   "name": "David Wayne Edwards",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
+   "more": 0,
+   "ts": 1793015231,
+   "photo": "photos/VAN_EDWARDS_DAVID_2026-10-26.jpg"
+  },
   {
    "key": "POR_CARDENAS_RACHEL_2026-10-26",
    "name": "Rachel Ann Cardenas",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1792935868,
    "photo": "photos/VAN_TILLOTSON_AMANDA_2026-10-25.jpg"
-  },
-  {
-   "key": "VAN_HIBBS_JASPER_2026-10-25",
-   "name": "Jasper Lee Ryan Hibbs",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Strangulation",
-   "more": 1,
-   "ts": 1792934126,
-   "photo": null
   },
   {
    "key": "MAD_AMOS_AMARIYAH_2026-10-25",
