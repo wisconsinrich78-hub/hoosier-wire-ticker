@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-26T21:49:17+00:00",
+ "updated": "2026-10-26T22:49:11+00:00",
  "items": [
+  {
+   "key": "VAN_FRIESON_LASCHON_2026-10-26",
+   "name": "Laschon Nmn Frieson",
+   "age": "63",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793054844,
+   "photo": null
+  },
+  {
+   "key": "VAN_LOPEZPEREZ_OSMAN_2026-10-26",
+   "name": "Osman Lopez Perez",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating Without Ever Obtaining License",
+   "more": 2,
+   "ts": 1793054843,
+   "photo": null
+  },
+  {
+   "key": "ALL_HOLMAN_DAMONTRIA_2026-10-26",
+   "name": "Damontria Holman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation With A Deadly Weapon",
+   "more": 2,
+   "ts": 1793054842,
+   "photo": "photos/ALL_HOLMAN_DAMONTRIA_2026-10-26.jpg"
+  },
+  {
+   "key": "ALL_CURRY_ALEXANDER_2026-10-26",
+   "name": "Alexander Curry",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1793054836,
+   "photo": "photos/ALL_CURRY_ALEXANDER_2026-10-26.jpg"
+  },
+  {
+   "key": "ALL_BATES_BRITTINEY_2026-10-26",
+   "name": "Brittiney Bates",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 0,
+   "ts": 1793054833,
+   "photo": "photos/ALL_BATES_BRITTINEY_2026-10-26.jpg"
+  },
   {
    "key": "POR_ALEXANDER_TIFFANY_2026-10-26",
    "name": "Tiffany Ann Alexander",
@@ -398,28 +453,6 @@
    "photo": "photos/VAN_STONE_ASHLEY_2026-10-26.jpg"
   },
   {
-   "key": "VAN_YELEY_TYLER_2026-10-26",
-   "name": "Tyler Scott Yeley",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Sex Crime- Child Exploitation",
-   "more": 3,
-   "ts": 1793033241,
-   "photo": "photos/VAN_YELEY_TYLER_2026-10-26.jpg"
-  },
-  {
-   "key": "VAN_KIXMILLER_CHRISTOPHER_2026-10-26",
-   "name": "Christopher William Kixmiller",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793033238,
-   "photo": "photos/VAN_KIXMILLER_CHRISTOPHER_2026-10-26.jpg"
-  },
-  {
    "key": "ALL_BOYD_MICAH_2026-10-26",
    "name": "Micah Boyd",
    "age": "",
@@ -484,39 +517,6 @@
    "more": 4,
    "ts": 1793022715,
    "photo": "photos/ALL_WHITE_DARNELL_2026-10-26.jpg"
-  },
-  {
-   "key": "ALL_WELLS_BRADLEY_2026-10-25",
-   "name": "Bradley Wells",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793022709,
-   "photo": "photos/ALL_WELLS_BRADLEY_2026-10-25.jpg"
-  },
-  {
-   "key": "ALL_THOMPSON_STEVEN_2026-10-23",
-   "name": "Steven Thompson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793022703,
-   "photo": "photos/ALL_THOMPSON_STEVEN_2026-10-23.jpg"
-  },
-  {
-   "key": "ALL_THAN_YIN_2026-10-25",
-   "name": "Yin Than",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1793022697,
-   "photo": "photos/ALL_THAN_YIN_2026-10-25.jpg"
   },
   {
    "key": "POR_CARDENAS_RACHEL_2026-10-26",
