@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-26T13:53:29+00:00",
+ "updated": "2026-10-26T14:48:49+00:00",
  "items": [
+  {
+   "key": "VAN_HUGHES_CHARLES_2026-10-26",
+   "name": "Charles Augustus Hughes",
+   "age": "18",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- All Other Larceny - Value Of Property At Least $750 A",
+   "more": 1,
+   "ts": 1793026038,
+   "photo": "photos/VAN_HUGHES_CHARLES_2026-10-26.jpg"
+  },
+  {
+   "key": "ALL_CENTER_VICTORIA_2026-10-26",
+   "name": "Victoria Center",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1793026033,
+   "photo": "photos/ALL_CENTER_VICTORIA_2026-10-26.jpg"
+  },
   {
    "key": "ALL_WHITE_DARNELL_2026-10-26",
    "name": "Darnell White",
@@ -165,17 +187,6 @@
    "more": 0,
    "ts": 1793022632,
    "photo": "photos/ALL_QUARLES_AMANDO_2026-10-24.jpg"
-  },
-  {
-   "key": "ALL_PRIEST_DAVID_2026-10-23",
-   "name": "David Priest",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine",
-   "more": 1,
-   "ts": 1793022624,
-   "photo": "photos/ALL_PRIEST_DAVID_2026-10-23.jpg"
   },
   {
    "key": "VAN_EDWARDS_DAVID_2026-10-26",
@@ -429,17 +440,6 @@
    "more": 1,
    "ts": 1792950435,
    "photo": "photos/VAN_WATSON_KATHRYNE_2026-10-25.jpg"
-  },
-  {
-   "key": "VAN_TILLOTSON_AMANDA_2026-10-25",
-   "name": "Amanda Aaron Tillotson",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Treatment Court Filed Ptr",
-   "more": 0,
-   "ts": 1792935868,
-   "photo": "photos/VAN_TILLOTSON_AMANDA_2026-10-25.jpg"
   },
   {
    "key": "MAD_AMOS_AMARIYAH_2026-10-25",
