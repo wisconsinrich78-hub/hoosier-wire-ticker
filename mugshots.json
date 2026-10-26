@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-26T08:48:46+00:00",
+ "updated": "2026-10-26T09:48:41+00:00",
  "items": [
+  {
+   "key": "POR_DEARDURFF_BRANDON_2026-10-26",
+   "name": "Brandon Phillip Deardurff",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1793008037,
+   "photo": "photos/POR_DEARDURFF_BRANDON_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_WRONKER_JENNIFER_2026-10-26",
+   "name": "Jennifer Ann Wronker",
+   "age": "57",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1793008033,
+   "photo": "photos/VAN_WRONKER_JENNIFER_2026-10-26.jpg"
+  },
   {
    "key": "MAD_OJEDAOOLIVERA_JOSE_2026-10-26",
    "name": "Jose Anthony Ojeda-Oolivera",
@@ -233,17 +255,6 @@
    "photo": null
   },
   {
-   "key": "VAN_VAZQUEZ_ALAN_2026-10-25",
-   "name": "Alan Julian Vazquez",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery-Committed With A Deadly Weapon-Felony",
-   "more": 1,
-   "ts": 1792927763,
-   "photo": "photos/VAN_VAZQUEZ_ALAN_2026-10-25.jpg"
-  },
-  {
    "key": "MAD_AMOS_AMARIYAH_2026-10-25",
    "name": "Amariyah Rebecca Amos",
    "age": "20",
@@ -451,17 +462,6 @@
    "more": 0,
    "ts": 1792852165,
    "photo": "photos/POR_CASTELLONNAVARRO_VIRGINIA_2026-10-24.jpg"
-  },
-  {
-   "key": "POR_STRICKLIN_JOSEPH_2026-10-24",
-   "name": "Joseph Carl Stricklin",
-   "age": "25",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
-   "more": 0,
-   "ts": 1792848567,
-   "photo": "photos/POR_STRICKLIN_JOSEPH_2026-10-24.jpg"
   },
   {
    "key": "MAD_BOYS_BRADLEY_2026-10-24",
