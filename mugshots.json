@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-26T18:48:54+00:00",
+ "updated": "2026-10-26T19:48:56+00:00",
  "items": [
+  {
+   "key": "MAD_PORTER_BRETT_2026-10-26",
+   "name": "Brett Andrew Porter",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Interfere in the reporting of a crime",
+   "more": 1,
+   "ts": 1793044114,
+   "photo": "photos/MAD_PORTER_BRETT_2026-10-26.jpg"
+  },
+  {
+   "key": "MAD_FORD_SEAN_2026-10-26",
+   "name": "Sean Antwyne Ford",
+   "age": "44",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Contempt of Court - Jail Booking",
+   "more": 0,
+   "ts": 1793044074,
+   "photo": "photos/MAD_FORD_SEAN_2026-10-26.jpg"
+  },
+  {
+   "key": "POR_CAMERY_DAVID_2026-10-26",
+   "name": "David James Camery",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793044040,
+   "photo": "photos/POR_CAMERY_DAVID_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_RAY_ELIJAH_2026-10-26",
+   "name": "Elijah Paul Ray",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1793044037,
+   "photo": null
+  },
+  {
+   "key": "ALL_PACKER_KENNETH_2026-10-26",
+   "name": "Kenneth Packer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 1,
+   "ts": 1793044035,
+   "photo": "photos/ALL_PACKER_KENNETH_2026-10-26.jpg"
+  },
+  {
+   "key": "ALL_MEEK_JONATHAN_2026-10-26",
+   "name": "Jonathan Meek",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793044031,
+   "photo": "photos/ALL_MEEK_JONATHAN_2026-10-26.jpg"
+  },
   {
    "key": "MAD_STONE_ALEXANDER_2026-10-26",
    "name": "Alexander Jeffrey Stone",
@@ -398,28 +464,6 @@
    "photo": "photos/ALL_SCHMIDT_BRYAN_2026-10-24.jpg"
   },
   {
-   "key": "ALL_SCHEUMANN_DRAKE_2026-10-24",
-   "name": "Drake Scheumann",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1793022668,
-   "photo": "photos/ALL_SCHEUMANN_DRAKE_2026-10-24.jpg"
-  },
-  {
-   "key": "ALL_ROYAL_KAMETRA_2026-10-26",
-   "name": "Kametra Royal",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Intimidation With A Deadly Weapon",
-   "more": 0,
-   "ts": 1793022662,
-   "photo": "photos/ALL_ROYAL_KAMETRA_2026-10-26.jpg"
-  },
-  {
    "key": "VAN_EDWARDS_DAVID_2026-10-26",
    "name": "David Wayne Edwards",
    "age": "25",
@@ -475,17 +519,6 @@
    "photo": null
   },
   {
-   "key": "VAN_SINGH_CAITLYN_2026-10-26",
-   "name": "Caitlyn Nicole Singh",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793004435,
-   "photo": "photos/VAN_SINGH_CAITLYN_2026-10-26.jpg"
-  },
-  {
    "key": "POR_SANTOS_ARIKA_2026-10-25",
    "name": "Arika Lin Santos",
    "age": "45",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1792990032,
    "photo": null
-  },
-  {
-   "key": "POR_PADILLA_SARAH_2026-10-25",
-   "name": "Sarah Desiree Padilla",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 1,
-   "ts": 1792982837,
-   "photo": "photos/POR_PADILLA_SARAH_2026-10-25.jpg"
-  },
-  {
-   "key": "MAD_OREN_MACKENZIE_2026-10-25",
-   "name": "Mackenzie Lee Oren",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Auto theft",
-   "more": 0,
-   "ts": 1792950600,
-   "photo": "photos/MAD_OREN_MACKENZIE_2026-10-25.jpg"
-  },
-  {
-   "key": "MAD_FAULK_AUSTIN_2026-10-25",
-   "name": "Austin Faulk",
-   "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Auto theft",
-   "more": 0,
-   "ts": 1792950550,
-   "photo": "photos/MAD_FAULK_AUSTIN_2026-10-25.jpg"
   }
  ]
 }
