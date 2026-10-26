@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-26T16:49:27+00:00",
+ "updated": "2026-10-26T17:48:54+00:00",
  "items": [
+  {
+   "key": "POR_THOMPSON_ANTOINE_2026-10-26",
+   "name": "Antoine Keeon Thompson",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793036843,
+   "photo": "photos/POR_THOMPSON_ANTOINE_2026-10-26.jpg"
+  },
+  {
+   "key": "POR_PIPAS_COREY_2026-10-26",
+   "name": "Corey Pipas",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 1,
+   "ts": 1793036840,
+   "photo": "photos/POR_PIPAS_COREY_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_FLOYD_PAYTON_2026-10-26",
+   "name": "Payton Lakay Floyd",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
+   "more": 0,
+   "ts": 1793036838,
+   "photo": "photos/VAN_FLOYD_PAYTON_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_LIBOKMETO_JOSHUA_2026-10-26",
+   "name": "Joshua Mnu Libokmeto",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793036835,
+   "photo": "photos/VAN_LIBOKMETO_JOSHUA_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_WILLIAMS_URIEL_2026-10-26",
+   "name": "Uriel Micah Williams",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1793036834,
+   "photo": "photos/VAN_WILLIAMS_URIEL_2026-10-26.jpg"
+  },
+  {
+   "key": "ALL_MCCLAIN_AMY_2026-10-26",
+   "name": "Amy Mcclain",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793036829,
+   "photo": "photos/ALL_MCCLAIN_AMY_2026-10-26.jpg"
+  },
   {
    "key": "MAD_STAPLETON_DEANGELO_2026-10-26",
    "name": "Deangelo Stapleton",
@@ -288,17 +354,6 @@
    "photo": "photos/ALL_RODGERS_NICKELLE_2026-10-23.jpg"
   },
   {
-   "key": "ALL_RICHARD_KATHERINE_2026-10-26",
-   "name": "Katherine Richard",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 3,
-   "ts": 1793022650,
-   "photo": "photos/ALL_RICHARD_KATHERINE_2026-10-26.jpg"
-  },
-  {
    "key": "VAN_EDWARDS_DAVID_2026-10-26",
    "name": "David Wayne Edwards",
    "age": "25",
@@ -420,28 +475,6 @@
    "photo": null
   },
   {
-   "key": "VAN_MARTINEZ_LINDSEY_2026-10-25",
-   "name": "Lindsey Nicole Martinez",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Driving While Suspended- Conviction Of Crimin",
-   "more": 1,
-   "ts": 1792986430,
-   "photo": null
-  },
-  {
-   "key": "VAN_FOX_WARREN_2026-10-25",
-   "name": "Warren Lee Fox",
-   "age": "52",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Vccc Filed Ptr",
-   "more": 0,
-   "ts": 1792986430,
-   "photo": null
-  },
-  {
    "key": "POR_PADILLA_SARAH_2026-10-25",
    "name": "Sarah Desiree Padilla",
    "age": "37",
@@ -451,17 +484,6 @@
    "more": 1,
    "ts": 1792982837,
    "photo": "photos/POR_PADILLA_SARAH_2026-10-25.jpg"
-  },
-  {
-   "key": "VAN_STEWART_DARIUS_2026-10-25",
-   "name": "Darius Donnell Stewart",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Vccc Filed Ptr",
-   "more": 0,
-   "ts": 1792982833,
-   "photo": "photos/VAN_STEWART_DARIUS_2026-10-25.jpg"
   },
   {
    "key": "MAD_OREN_MACKENZIE_2026-10-25",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792924174,
    "photo": null
-  },
-  {
-   "key": "POR_DITOLA_ADAM_2026-10-25",
-   "name": "Adam Christopher Ditola",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Battery - Misdemeanor",
-   "more": 0,
-   "ts": 1792924170,
-   "photo": "photos/POR_DITOLA_ADAM_2026-10-25.jpg"
-  },
-  {
-   "key": "POR_WHEATON_ELVIN_2026-10-25",
-   "name": "Elvin Jerome Wheaton",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1792924167,
-   "photo": "photos/POR_WHEATON_ELVIN_2026-10-25.jpg"
   }
  ]
 }
