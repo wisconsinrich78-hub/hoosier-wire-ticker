@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-26T02:47:25+00:00",
+ "updated": "2026-10-26T03:48:00+00:00",
  "items": [
+  {
+   "key": "VAN_MARTINEZ_LINDSEY_2026-10-25",
+   "name": "Lindsey Nicole Martinez",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Driving While Suspended- Conviction Of Crimin",
+   "more": 1,
+   "ts": 1792986430,
+   "photo": null
+  },
+  {
+   "key": "VAN_FOX_WARREN_2026-10-25",
+   "name": "Warren Lee Fox",
+   "age": "52",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Vccc Filed Ptr",
+   "more": 0,
+   "ts": 1792986430,
+   "photo": null
+  },
   {
    "key": "POR_PADILLA_SARAH_2026-10-25",
    "name": "Sarah Desiree Padilla",
@@ -286,28 +308,6 @@
    "more": 1,
    "ts": 1792913365,
    "photo": null
-  },
-  {
-   "key": "VAN_SHELDON_PATRICK_2026-10-25",
-   "name": "Patrick Lee Sheldon",
-   "age": "58",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1792912464,
-   "photo": "photos/VAN_SHELDON_PATRICK_2026-10-25.jpg"
-  },
-  {
-   "key": "VAN_KNAKMUHS_CHRISTOPHER_2026-10-24",
-   "name": "Christopher Andrew Knakmuhs",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Leaving The Scene Of A Crash- Injury Crash",
-   "more": 0,
-   "ts": 1792907066,
-   "photo": "photos/VAN_KNAKMUHS_CHRISTOPHER_2026-10-24.jpg"
   },
   {
    "key": "MAD_STAMM_FREDDY_2026-10-25",
