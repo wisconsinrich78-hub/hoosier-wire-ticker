@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-26T19:48:56+00:00",
+ "updated": "2026-10-26T20:48:59+00:00",
  "items": [
+  {
+   "key": "POR_POSEY_GREGORY_2026-10-26",
+   "name": "Gregory Orlando Posey",
+   "age": "66",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793047641,
+   "photo": "photos/POR_POSEY_GREGORY_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_MOODY_PAGERICK_2026-10-26",
+   "name": "Pagerick Lamar Moody",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 2,
+   "ts": 1793047638,
+   "photo": "photos/VAN_MOODY_PAGERICK_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_PRYOR_THOMAS_2026-10-26",
+   "name": "Thomas Leonard Pryor",
+   "age": "48",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793047636,
+   "photo": null
+  },
+  {
+   "key": "VAN_HALL_MOLLI_2026-10-26",
+   "name": "Molli Jo Hall",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Forgery",
+   "more": 2,
+   "ts": 1793047636,
+   "photo": null
+  },
+  {
+   "key": "ALL_SIN_HU_2026-10-26",
+   "name": "Hu Sin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 1,
+   "ts": 1793047634,
+   "photo": "photos/ALL_SIN_HU_2026-10-26.jpg"
+  },
   {
    "key": "MAD_PORTER_BRETT_2026-10-26",
    "name": "Brett Andrew Porter",
@@ -354,17 +409,6 @@
    "photo": "photos/ALL_DILLER_MICHELE_2026-10-25_1056643.jpg"
   },
   {
-   "key": "VAN_HUGHES_CHARLES_2026-10-26",
-   "name": "Charles Augustus Hughes",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- All Other Larceny - Value Of Property At Least $750 A",
-   "more": 1,
-   "ts": 1793026038,
-   "photo": "photos/VAN_HUGHES_CHARLES_2026-10-26.jpg"
-  },
-  {
    "key": "ALL_CENTER_VICTORIA_2026-10-26",
    "name": "Victoria Center",
    "age": "",
@@ -453,28 +497,6 @@
    "photo": "photos/ALL_SCOTT_JALEN_2026-10-24.jpg"
   },
   {
-   "key": "ALL_SCHMIDT_BRYAN_2026-10-24",
-   "name": "Bryan Schmidt",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Robbery",
-   "more": 2,
-   "ts": 1793022674,
-   "photo": "photos/ALL_SCHMIDT_BRYAN_2026-10-24.jpg"
-  },
-  {
-   "key": "VAN_EDWARDS_DAVID_2026-10-26",
-   "name": "David Wayne Edwards",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
-   "more": 0,
-   "ts": 1793015231,
-   "photo": "photos/VAN_EDWARDS_DAVID_2026-10-26.jpg"
-  },
-  {
    "key": "POR_CARDENAS_RACHEL_2026-10-26",
    "name": "Rachel Ann Cardenas",
    "age": "39",
@@ -497,17 +519,6 @@
    "photo": "photos/POR_DEARDURFF_BRANDON_2026-10-26.jpg"
   },
   {
-   "key": "VAN_WRONKER_JENNIFER_2026-10-26",
-   "name": "Jennifer Ann Wronker",
-   "age": "57",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1793008033,
-   "photo": "photos/VAN_WRONKER_JENNIFER_2026-10-26.jpg"
-  },
-  {
    "key": "MAD_OJEDAOOLIVERA_JOSE_2026-10-26",
    "name": "Jose Anthony Ojeda-Oolivera",
    "age": "35",
@@ -516,17 +527,6 @@
    "charge": "Operator Never Licensed",
    "more": 3,
    "ts": 1793004502,
-   "photo": null
-  },
-  {
-   "key": "POR_SANTOS_ARIKA_2026-10-25",
-   "name": "Arika Lin Santos",
-   "age": "45",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 0,
-   "ts": 1792990032,
    "photo": null
   }
  ]
