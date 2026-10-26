@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-26T15:48:57+00:00",
+ "updated": "2026-10-26T16:49:27+00:00",
  "items": [
+  {
+   "key": "MAD_STAPLETON_DEANGELO_2026-10-26",
+   "name": "Deangelo Stapleton",
+   "age": "30",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 5,
+   "ts": 1793033349,
+   "photo": "photos/MAD_STAPLETON_DEANGELO_2026-10-26.jpg"
+  },
+  {
+   "key": "MAD_CLUXTON_GUENN_2026-10-26",
+   "name": "Guenn Renee Cluxton",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793033282,
+   "photo": "photos/MAD_CLUXTON_GUENN_2026-10-26.jpg"
+  },
+  {
+   "key": "POR_AUSTINKEEL_ALANNA_2026-10-26",
+   "name": "Alanna Marlee Austin-Keel",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793033249,
+   "photo": "photos/POR_AUSTINKEEL_ALANNA_2026-10-26.jpg"
+  },
+  {
+   "key": "POR_MOORE_MICHAEL_2026-10-26",
+   "name": "Michael Dejuan Moore",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793033246,
+   "photo": "photos/POR_MOORE_MICHAEL_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_STONE_ASHLEY_2026-10-26",
+   "name": "Ashley Nicole Stone",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Fraud",
+   "more": 2,
+   "ts": 1793033242,
+   "photo": "photos/VAN_STONE_ASHLEY_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_YELEY_TYLER_2026-10-26",
+   "name": "Tyler Scott Yeley",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Sex Crime- Child Exploitation",
+   "more": 3,
+   "ts": 1793033241,
+   "photo": "photos/VAN_YELEY_TYLER_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_KIXMILLER_CHRISTOPHER_2026-10-26",
+   "name": "Christopher William Kixmiller",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793033238,
+   "photo": "photos/VAN_KIXMILLER_CHRISTOPHER_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_MOJILONG_MOJI_2026-10-26",
+   "name": "Moji Mojilong",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1793033237,
+   "photo": "photos/VAN_MOJILONG_MOJI_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_SCHMIDT_THOMAS_2026-10-26",
+   "name": "Thomas Edward Schmidt",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793033237,
+   "photo": null
+  },
+  {
+   "key": "ALL_BOYD_MICAH_2026-10-26",
+   "name": "Micah Boyd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Robbery / Armed",
+   "more": 0,
+   "ts": 1793033233,
+   "photo": "photos/ALL_BOYD_MICAH_2026-10-26.jpg"
+  },
   {
    "key": "POR_GARRISON_SETH_2026-10-26",
    "name": "Seth Ryan Garrison",
@@ -189,17 +299,6 @@
    "photo": "photos/ALL_RICHARD_KATHERINE_2026-10-26.jpg"
   },
   {
-   "key": "ALL_REVEL_DAVID_2026-10-24",
-   "name": "David Revel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793022644,
-   "photo": "photos/ALL_REVEL_DAVID_2026-10-24.jpg"
-  },
-  {
    "key": "VAN_EDWARDS_DAVID_2026-10-26",
    "name": "David Wayne Edwards",
    "age": "25",
@@ -365,50 +464,6 @@
    "photo": "photos/VAN_STEWART_DARIUS_2026-10-25.jpg"
   },
   {
-   "key": "VAN_JIMENEZ_SAMANTHA_2026-10-25",
-   "name": "Samantha Jimenez",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
-   "more": 0,
-   "ts": 1792975632,
-   "photo": "photos/VAN_JIMENEZ_SAMANTHA_2026-10-25.jpg"
-  },
-  {
-   "key": "VAN_HILL_HUNTER_2026-10-25",
-   "name": "Hunter Wayne Hill",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
-   "more": 1,
-   "ts": 1792968431,
-   "photo": null
-  },
-  {
-   "key": "VAN_BOLES_WILLIAM_2026-10-25",
-   "name": "William Earl Boles",
-   "age": "75",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1792964834,
-   "photo": "photos/VAN_BOLES_WILLIAM_2026-10-25.jpg"
-  },
-  {
-   "key": "VAN_THOMAS_JARED_2026-10-25",
-   "name": "Jared Michel Thomas",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Writ Of Attachment",
-   "more": 3,
-   "ts": 1792954028,
-   "photo": null
-  },
-  {
    "key": "MAD_OREN_MACKENZIE_2026-10-25",
    "name": "Mackenzie Lee Oren",
    "age": "26",
@@ -442,17 +497,6 @@
    "photo": "photos/POR_CAMARILLO_JEANETTE_2026-10-25.jpg"
   },
   {
-   "key": "VAN_WATSON_KATHRYNE_2026-10-25",
-   "name": "Kathryne Jean Watson",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 1,
-   "ts": 1792950435,
-   "photo": "photos/VAN_WATSON_KATHRYNE_2026-10-25.jpg"
-  },
-  {
    "key": "MAD_AMOS_AMARIYAH_2026-10-25",
    "name": "Amariyah Rebecca Amos",
    "age": "20",
@@ -484,50 +528,6 @@
    "more": 2,
    "ts": 1792924167,
    "photo": "photos/POR_WHEATON_ELVIN_2026-10-25.jpg"
-  },
-  {
-   "key": "POR_COLON_JONATHAN_2026-10-25",
-   "name": "Jonathan Colon",
-   "age": "38",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Resisting Law Enforcement Def. Uses A Vehicle.",
-   "more": 1,
-   "ts": 1792924166,
-   "photo": null
-  },
-  {
-   "key": "POR_KENDALL_JACOB_2026-10-25",
-   "name": "Jacob Tyler Kendall",
-   "age": "27",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1792916966,
-   "photo": "photos/POR_KENDALL_JACOB_2026-10-25.jpg"
-  },
-  {
-   "key": "MAD_MINNIS_CHRISTY_2026-10-25",
-   "name": "Christy Ann Minnis",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792916131,
-   "photo": null
-  },
-  {
-   "key": "POR_CRISWELL_TIMMY_2026-10-25",
-   "name": "Timmy David Criswell",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating While Intoxicated Bac .08% Less Than .15",
-   "more": 2,
-   "ts": 1792913366,
-   "photo": "photos/POR_CRISWELL_TIMMY_2026-10-25.jpg"
   }
  ]
 }
