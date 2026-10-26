@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-25T22:50:11+00:00",
+ "updated": "2026-10-26T00:49:13+00:00",
  "items": [
+  {
+   "key": "VAN_JIMENEZ_SAMANTHA_2026-10-25",
+   "name": "Samantha Jimenez",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
+   "more": 0,
+   "ts": 1792975632,
+   "photo": "photos/VAN_JIMENEZ_SAMANTHA_2026-10-25.jpg"
+  },
   {
    "key": "VAN_HILL_HUNTER_2026-10-25",
    "name": "Hunter Wayne Hill",
@@ -308,17 +319,6 @@
    "more": 0,
    "ts": 1792905269,
    "photo": "photos/VAN_CARTWRIGHT_ALEXIS_2026-10-24.jpg"
-  },
-  {
-   "key": "VAN_MARS_CRYSTAL_2026-10-24",
-   "name": "Crystal Nicole Mars",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 1,
-   "ts": 1792903466,
-   "photo": "photos/VAN_MARS_CRYSTAL_2026-10-24.jpg"
   },
   {
    "key": "MAD_HALL_GRIFFIN_2026-10-24",
