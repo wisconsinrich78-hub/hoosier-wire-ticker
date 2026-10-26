@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-26T03:48:00+00:00",
+ "updated": "2026-10-26T04:49:01+00:00",
  "items": [
+  {
+   "key": "POR_SANTOS_ARIKA_2026-10-25",
+   "name": "Arika Lin Santos",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 0,
+   "ts": 1792990032,
+   "photo": null
+  },
   {
    "key": "VAN_MARTINEZ_LINDSEY_2026-10-25",
    "name": "Lindsey Nicole Martinez",
@@ -440,17 +451,6 @@
    "more": 0,
    "ts": 1792848567,
    "photo": "photos/POR_STRICKLIN_JOSEPH_2026-10-24.jpg"
-  },
-  {
-   "key": "POR_AGUILAR_KRISTIN_2026-10-24",
-   "name": "Kristin Leigh Aguilar",
-   "age": "44",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792844962,
-   "photo": "photos/POR_AGUILAR_KRISTIN_2026-10-24.jpg"
   },
   {
    "key": "MAD_BOYS_BRADLEY_2026-10-24",
