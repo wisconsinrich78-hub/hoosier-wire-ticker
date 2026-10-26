@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-26T04:49:01+00:00",
+ "updated": "2026-10-26T06:48:33+00:00",
  "items": [
+  {
+   "key": "VAN_WASHINGTON_AISHA_2026-10-26",
+   "name": "Aisha Latrica Washington",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1792997232,
+   "photo": "photos/VAN_WASHINGTON_AISHA_2026-10-26.jpg"
+  },
   {
    "key": "POR_SANTOS_ARIKA_2026-10-25",
    "name": "Arika Lin Santos",
@@ -286,17 +297,6 @@
    "more": 0,
    "ts": 1792916131,
    "photo": null
-  },
-  {
-   "key": "VAN_HOPKINS_BRYNAN_2026-10-25",
-   "name": "Brynan Levi Hopkins",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1792915175,
-   "photo": "photos/VAN_HOPKINS_BRYNAN_2026-10-25.jpg"
   },
   {
    "key": "POR_CRISWELL_TIMMY_2026-10-25",
