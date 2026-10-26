@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-26T14:48:49+00:00",
+ "updated": "2026-10-26T15:48:57+00:00",
  "items": [
+  {
+   "key": "POR_GARRISON_SETH_2026-10-26",
+   "name": "Seth Ryan Garrison",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Revocation Of Probation",
+   "more": 0,
+   "ts": 1793029643,
+   "photo": "photos/POR_GARRISON_SETH_2026-10-26.jpg"
+  },
+  {
+   "key": "ALL_WHITERILEY_JAMILLA_2026-10-26",
+   "name": "Jamilla White-Riley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1793029639,
+   "photo": "photos/ALL_WHITERILEY_JAMILLA_2026-10-26.jpg"
+  },
+  {
+   "key": "ALL_DILLER_MICHELE_2026-10-25_1056643",
+   "name": "Michele Diller",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Pointing Unloaded Firearm At Another",
+   "more": 0,
+   "ts": 1793029634,
+   "photo": "photos/ALL_DILLER_MICHELE_2026-10-25_1056643.jpg"
+  },
   {
    "key": "VAN_HUGHES_CHARLES_2026-10-26",
    "name": "Charles Augustus Hughes",
@@ -165,28 +198,6 @@
    "more": 1,
    "ts": 1793022644,
    "photo": "photos/ALL_REVEL_DAVID_2026-10-24.jpg"
-  },
-  {
-   "key": "ALL_RANGEL_IVAN_2026-10-25",
-   "name": "Ivan Rangel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 3,
-   "ts": 1793022639,
-   "photo": "photos/ALL_RANGEL_IVAN_2026-10-25.jpg"
-  },
-  {
-   "key": "ALL_QUARLES_AMANDO_2026-10-24",
-   "name": "Amando Quarles",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 0,
-   "ts": 1793022632,
-   "photo": "photos/ALL_QUARLES_AMANDO_2026-10-24.jpg"
   },
   {
    "key": "VAN_EDWARDS_DAVID_2026-10-26",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1792913366,
    "photo": "photos/POR_CRISWELL_TIMMY_2026-10-25.jpg"
-  },
-  {
-   "key": "POR_ELLIOTT_JOVON_2026-10-25",
-   "name": "Jovon L Elliott",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1792913365,
-   "photo": null
   }
  ]
 }
