@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-26T09:48:41+00:00",
+ "updated": "2026-10-26T10:48:29+00:00",
  "items": [
+  {
+   "key": "POR_CARDENAS_RACHEL_2026-10-26",
+   "name": "Rachel Ann Cardenas",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Prior Conviction",
+   "more": 3,
+   "ts": 1793011629,
+   "photo": "photos/POR_CARDENAS_RACHEL_2026-10-26.jpg"
+  },
   {
    "key": "POR_DEARDURFF_BRANDON_2026-10-26",
    "name": "Brandon Phillip Deardurff",
@@ -451,17 +462,6 @@
    "more": 2,
    "ts": 1792852168,
    "photo": "photos/POR_DRAPER_MOLLY_2026-10-24.jpg"
-  },
-  {
-   "key": "POR_CASTELLONNAVARRO_VIRGINIA_2026-10-24",
-   "name": "Virginia Castellon-Navarro",
-   "age": "55",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1792852165,
-   "photo": "photos/POR_CASTELLONNAVARRO_VIRGINIA_2026-10-24.jpg"
   },
   {
    "key": "MAD_BOYS_BRADLEY_2026-10-24",
