@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-26T22:49:11+00:00",
+ "updated": "2026-10-26T23:47:26+00:00",
  "items": [
+  {
+   "key": "VAN_KILGORE_DAMON_2026-10-26",
+   "name": "Damon Kevon Kilgore",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation With A Deadly Weapon",
+   "more": 1,
+   "ts": 1793058431,
+   "photo": null
+  },
+  {
+   "key": "ALL_CARLISLE_JOSHUA_2026-10-26",
+   "name": "Joshua Carlisle",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1793058430,
+   "photo": "photos/ALL_CARLISLE_JOSHUA_2026-10-26.jpg"
+  },
   {
    "key": "VAN_FRIESON_LASCHON_2026-10-26",
    "name": "Laschon Nmn Frieson",
@@ -442,17 +464,6 @@
    "photo": "photos/POR_MOORE_MICHAEL_2026-10-26.jpg"
   },
   {
-   "key": "VAN_STONE_ASHLEY_2026-10-26",
-   "name": "Ashley Nicole Stone",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Fraud",
-   "more": 2,
-   "ts": 1793033242,
-   "photo": "photos/VAN_STONE_ASHLEY_2026-10-26.jpg"
-  },
-  {
    "key": "ALL_BOYD_MICAH_2026-10-26",
    "name": "Micah Boyd",
    "age": "",
@@ -506,17 +517,6 @@
    "more": 1,
    "ts": 1793026033,
    "photo": "photos/ALL_CENTER_VICTORIA_2026-10-26.jpg"
-  },
-  {
-   "key": "ALL_WHITE_DARNELL_2026-10-26",
-   "name": "Darnell White",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving The Scene Of A Crash - Property Damage",
-   "more": 4,
-   "ts": 1793022715,
-   "photo": "photos/ALL_WHITE_DARNELL_2026-10-26.jpg"
   },
   {
    "key": "POR_CARDENAS_RACHEL_2026-10-26",
