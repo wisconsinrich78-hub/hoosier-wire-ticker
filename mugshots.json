@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-26T17:48:54+00:00",
+ "updated": "2026-10-26T18:48:54+00:00",
  "items": [
+  {
+   "key": "MAD_STONE_ALEXANDER_2026-10-26",
+   "name": "Alexander Jeffrey Stone",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operator Never Licensed",
+   "more": 2,
+   "ts": 1793040524,
+   "photo": "photos/MAD_STONE_ALEXANDER_2026-10-26.jpg"
+  },
+  {
+   "key": "POR_SELES_MORGAN_2026-10-26",
+   "name": "Morgan Seles",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weapon/Instrument Of Violence- Pointing A Firearm",
+   "more": 1,
+   "ts": 1793040443,
+   "photo": null
+  },
+  {
+   "key": "VAN_OST_FRANK_2026-10-26",
+   "name": "Frank William Ost",
+   "age": "66",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793040441,
+   "photo": "photos/VAN_OST_FRANK_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_PATTERSON_FAITH_2026-10-26",
+   "name": "Faith Alexis Patterson",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Residential Entry",
+   "more": 0,
+   "ts": 1793040438,
+   "photo": "photos/VAN_PATTERSON_FAITH_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_CHILTON_JASON_2026-10-26",
+   "name": "Jason Ray Chilton",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
+   "more": 0,
+   "ts": 1793040437,
+   "photo": "photos/VAN_CHILTON_JASON_2026-10-26.jpg"
+  },
+  {
+   "key": "VAN_HART_KRISTINA_2026-10-26",
+   "name": "Kristina Kay Hart",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
+   "more": 0,
+   "ts": 1793040434,
+   "photo": null
+  },
+  {
+   "key": "ALL_NEELY_CHRISTOPHER_2026-10-26",
+   "name": "Christopher Neely",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 1,
+   "ts": 1793040432,
+   "photo": "photos/ALL_NEELY_CHRISTOPHER_2026-10-26.jpg"
+  },
   {
    "key": "POR_THOMPSON_ANTOINE_2026-10-26",
    "name": "Antoine Keeon Thompson",
@@ -343,17 +420,6 @@
    "photo": "photos/ALL_ROYAL_KAMETRA_2026-10-26.jpg"
   },
   {
-   "key": "ALL_RODGERS_NICKELLE_2026-10-23",
-   "name": "Nickelle Rodgers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Burglary - Dwelling",
-   "more": 1,
-   "ts": 1793022655,
-   "photo": "photos/ALL_RODGERS_NICKELLE_2026-10-23.jpg"
-  },
-  {
    "key": "VAN_EDWARDS_DAVID_2026-10-26",
    "name": "David Wayne Edwards",
    "age": "25",
@@ -420,50 +486,6 @@
    "photo": "photos/VAN_SINGH_CAITLYN_2026-10-26.jpg"
   },
   {
-   "key": "VAN_JONES_LAVONTE_2026-10-26",
-   "name": "Lavonte Kardeihier Jones",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793004434,
-   "photo": "photos/VAN_JONES_LAVONTE_2026-10-26.jpg"
-  },
-  {
-   "key": "VAN_THOMAS_JASON_2026-10-26",
-   "name": "Jason Ladane Thomas",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft - Firearm [L5]",
-   "more": 0,
-   "ts": 1793000828,
-   "photo": "photos/VAN_THOMAS_JASON_2026-10-26.jpg"
-  },
-  {
-   "key": "VAN_ARROYOPEREZ_ANGELYAOMING_2026-10-26",
-   "name": "Angel Yaoming Arroyo Perez",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Recklessness W/Deadly Weapon",
-   "more": 2,
-   "ts": 1793000825,
-   "photo": null
-  },
-  {
-   "key": "VAN_WASHINGTON_AISHA_2026-10-26",
-   "name": "Aisha Latrica Washington",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1792997232,
-   "photo": "photos/VAN_WASHINGTON_AISHA_2026-10-26.jpg"
-  },
-  {
    "key": "POR_SANTOS_ARIKA_2026-10-25",
    "name": "Arika Lin Santos",
    "age": "45",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1792950550,
    "photo": "photos/MAD_FAULK_AUSTIN_2026-10-25.jpg"
-  },
-  {
-   "key": "POR_CAMARILLO_JEANETTE_2026-10-25",
-   "name": "Jeanette Marie Camarillo",
-   "age": "45",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
-   "more": 2,
-   "ts": 1792950438,
-   "photo": "photos/POR_CAMARILLO_JEANETTE_2026-10-25.jpg"
-  },
-  {
-   "key": "MAD_AMOS_AMARIYAH_2026-10-25",
-   "name": "Amariyah Rebecca Amos",
-   "age": "20",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1792924174,
-   "photo": null
   }
  ]
 }
