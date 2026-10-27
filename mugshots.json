@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-27T20:49:26+00:00",
+ "updated": "2026-10-27T21:50:32+00:00",
  "items": [
+  {
+   "key": "MAD_PRINCE_DUSTIN_2026-10-27",
+   "name": "Dustin Edward Prince",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793137781,
+   "photo": "photos/MAD_PRINCE_DUSTIN_2026-10-27.jpg"
+  },
+  {
+   "key": "MAD_PAYNE_BILLY_2026-10-27",
+   "name": "Billy Gene Junior Payne",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793137772,
+   "photo": "photos/MAD_PAYNE_BILLY_2026-10-27.jpg"
+  },
+  {
+   "key": "MAD_KING_AMANDA_2026-10-27",
+   "name": "Amanda Jean King",
+   "age": "51",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793137746,
+   "photo": "photos/MAD_KING_AMANDA_2026-10-27.jpg"
+  },
+  {
+   "key": "MAD_ENGLISH_DENISE_2026-10-27",
+   "name": "Denise L English",
+   "age": "58",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793137714,
+   "photo": "photos/MAD_ENGLISH_DENISE_2026-10-27.jpg"
+  },
+  {
+   "key": "MAD_EMERTON_BROCK_2026-10-27",
+   "name": "Brock Riley Emerton",
+   "age": "29",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793137710,
+   "photo": "photos/MAD_EMERTON_BROCK_2026-10-27.jpg"
+  },
+  {
+   "key": "POR_HEBEBRAND_ROY_2026-10-27",
+   "name": "Roy Edmond Hebebrand",
+   "age": "50",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Aggressive Driving",
+   "more": 1,
+   "ts": 1793137661,
+   "photo": "photos/POR_HEBEBRAND_ROY_2026-10-27.jpg"
+  },
+  {
+   "key": "POR_VARGAS_SHEILA_2026-10-27",
+   "name": "Sheila Marie Vargas",
+   "age": "63",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1793137658,
+   "photo": "photos/POR_VARGAS_SHEILA_2026-10-27.jpg"
+  },
+  {
+   "key": "ALL_METTLER_MICHAEL_2026-10-27",
+   "name": "Michael Mettler",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1793137651,
+   "photo": "photos/ALL_METTLER_MICHAEL_2026-10-27.jpg"
+  },
+  {
+   "key": "ALL_FOXWORTH_DANDRE_2026-10-27",
+   "name": "Dandre Foxworth",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 1,
+   "ts": 1793137644,
+   "photo": "photos/ALL_FOXWORTH_DANDRE_2026-10-27.jpg"
+  },
+  {
+   "key": "ALL_EMBURY_BRETT_2026-10-27",
+   "name": "Brett Embury",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793137638,
+   "photo": "photos/ALL_EMBURY_BRETT_2026-10-27.jpg"
+  },
   {
    "key": "MAD_DELONEY_JAYSHAWN_2026-10-27",
    "name": "Jayshawn M Deloney",
@@ -255,39 +365,6 @@
    "photo": "photos/ALL_BARTELS_KENNETH_2026-10-27.jpg"
   },
   {
-   "key": "MAD_PASCALE_ERIC_2026-10-27",
-   "name": "Eric Anthony Pascale",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793098106,
-   "photo": null
-  },
-  {
-   "key": "MAD_DUNWIDDIE_SHYANNE_2026-10-27",
-   "name": "Shyanne Jewel Dunwiddie",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793098071,
-   "photo": null
-  },
-  {
-   "key": "MAD_CONNER_NICHOLAS_2026-10-27",
-   "name": "Nicholas Andrew Conner",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for 10 day Probation Violation - Jail Booking",
-   "more": 4,
-   "ts": 1793098067,
-   "photo": "photos/MAD_CONNER_NICHOLAS_2026-10-27.jpg"
-  },
-  {
    "key": "POR_JOHNSEN_SHAWN_2026-10-27",
    "name": "Shawn Paul Johnsen",
    "age": "47",
@@ -352,17 +429,6 @@
    "more": 1,
    "ts": 1793087230,
    "photo": "photos/ALL_YEITER_KELLY_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_MCPHEARSON_DAMION_2026-10-27",
-   "name": "Damion Micheal Mcphearson",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Rle",
-   "more": 2,
-   "ts": 1793083705,
-   "photo": "photos/MAD_MCPHEARSON_DAMION_2026-10-27.jpg"
   },
   {
    "key": "POR_TUCKER_DONTE_2026-10-27",
@@ -442,17 +508,6 @@
    "photo": "photos/ALL_AMOS_AARON_2026-10-27.jpg"
   },
   {
-   "key": "MAD_BATTENFIELD_HUNTER_2026-10-27",
-   "name": "Hunter Cole Battenfield",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle with BAC .08 to .15",
-   "more": 2,
-   "ts": 1793080047,
-   "photo": "photos/MAD_BATTENFIELD_HUNTER_2026-10-27.jpg"
-  },
-  {
    "key": "VAN_LEET_JAMES_2026-10-26",
    "name": "James Bradley Leet",
    "age": "55",
@@ -473,61 +528,6 @@
    "more": 2,
    "ts": 1793080028,
    "photo": "photos/ALL_ALMOND_GEORGE_2026-10-27.jpg"
-  },
-  {
-   "key": "VAN_CHAVEZHUEZO_CARMELO_2026-10-26",
-   "name": "Carmelo Nmn Chavez Huezo",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
-   "more": 2,
-   "ts": 1793076430,
-   "photo": null
-  },
-  {
-   "key": "POR_CAMPBELL_JOSHUA_2026-10-26",
-   "name": "Joshua David Campbell",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793072838,
-   "photo": "photos/POR_CAMPBELL_JOSHUA_2026-10-26.jpg"
-  },
-  {
-   "key": "POR_PATER_TYLER_2026-10-26",
-   "name": "Tyler Gregory Pater",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 4,
-   "ts": 1793072835,
-   "photo": "photos/POR_PATER_TYLER_2026-10-26.jpg"
-  },
-  {
-   "key": "ALL_BAI_OMAR_2026-10-26",
-   "name": "Omar Bai",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 0,
-   "ts": 1793072831,
-   "photo": "photos/ALL_BAI_OMAR_2026-10-26.jpg"
-  },
-  {
-   "key": "VAN_WARD_SCOTT_2026-10-26",
-   "name": "Scott Allen Ward",
-   "age": "53",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793069231,
-   "photo": null
   }
  ]
 }
