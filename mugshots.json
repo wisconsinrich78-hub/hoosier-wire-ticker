@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-27T07:48:31+00:00",
+ "updated": "2026-10-27T08:48:38+00:00",
  "items": [
+  {
+   "key": "VAN_FRYE_BRITTANY_2026-10-27",
+   "name": "Brittany Nicole Frye",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1793090832,
+   "photo": "photos/VAN_FRYE_BRITTANY_2026-10-27.jpg"
+  },
   {
    "key": "ALL_YEITER_KELLY_2026-10-27",
    "name": "Kelly Yeiter",
@@ -473,17 +484,6 @@
    "more": 2,
    "ts": 1793047638,
    "photo": "photos/VAN_MOODY_PAGERICK_2026-10-26.jpg"
-  },
-  {
-   "key": "VAN_PRYOR_THOMAS_2026-10-26",
-   "name": "Thomas Leonard Pryor",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793047636,
-   "photo": null
   },
   {
    "key": "MAD_PORTER_BRETT_2026-10-26",
