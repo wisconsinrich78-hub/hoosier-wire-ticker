@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T10:49:51+00:00",
+ "updated": "2026-10-27T13:49:30+00:00",
  "items": [
+  {
+   "key": "MAD_ISON_BRIDGYTT_2026-10-27",
+   "name": "Bridgytt Jean Ison",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793108908,
+   "photo": "photos/MAD_ISON_BRIDGYTT_2026-10-27.jpg"
+  },
+  {
+   "key": "MAD_BARNES_JARON_2026-10-27",
+   "name": "Jaron Chad Barnes",
+   "age": "33",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793108858,
+   "photo": null
+  },
+  {
+   "key": "ALL_BARTELS_KENNETH_2026-10-27",
+   "name": "Kenneth Bartels",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1793108835,
+   "photo": "photos/ALL_BARTELS_KENNETH_2026-10-27.jpg"
+  },
   {
    "key": "MAD_PASCALE_ERIC_2026-10-27",
    "name": "Eric Anthony Pascale",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793051250,
    "photo": "photos/POR_PRENTICE_CHRISTOPHER_2026-10-26.jpg"
-  },
-  {
-   "key": "VAN_FURLONG_RYAN_2026-10-26",
-   "name": "Ryan Taylor Furlong",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1793051247,
-   "photo": null
-  },
-  {
-   "key": "VAN_COLE_JOSHUA_2026-10-26",
-   "name": "Joshua Austin Cole",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Auto Theft - Where Intent Is To Deprive Owner Of Value Or",
-   "more": 1,
-   "ts": 1793051247,
-   "photo": null
-  },
-  {
-   "key": "ALL_SANDERS_RONALD_2026-10-26",
-   "name": "Ronald Sanders",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793051245,
-   "photo": "photos/ALL_SANDERS_RONALD_2026-10-26.jpg"
   }
  ]
 }
