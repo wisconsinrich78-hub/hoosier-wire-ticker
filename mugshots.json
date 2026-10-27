@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-27T03:48:56+00:00",
+ "updated": "2026-10-27T04:48:55+00:00",
  "items": [
+  {
+   "key": "MAD_ADDISON_ZOEY_2026-10-26",
+   "name": "Zoey Colleen Addison",
+   "age": "25",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle with BAC .08 to .15",
+   "more": 1,
+   "ts": 1793076436,
+   "photo": null
+  },
+  {
+   "key": "VAN_CHAVEZHUEZO_CARMELO_2026-10-26",
+   "name": "Carmelo Nmn Chavez Huezo",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 2,
+   "ts": 1793076430,
+   "photo": null
+  },
   {
    "key": "POR_CAMPBELL_JOSHUA_2026-10-26",
    "name": "Joshua David Campbell",
@@ -464,17 +486,6 @@
    "photo": "photos/VAN_OST_FRANK_2026-10-26.jpg"
   },
   {
-   "key": "VAN_PATTERSON_FAITH_2026-10-26",
-   "name": "Faith Alexis Patterson",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Residential Entry",
-   "more": 0,
-   "ts": 1793040438,
-   "photo": "photos/VAN_PATTERSON_FAITH_2026-10-26.jpg"
-  },
-  {
    "key": "ALL_NEELY_CHRISTOPHER_2026-10-26",
    "name": "Christopher Neely",
    "age": "",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793036829,
    "photo": "photos/ALL_MCCLAIN_AMY_2026-10-26.jpg"
-  },
-  {
-   "key": "MAD_STAPLETON_DEANGELO_2026-10-26",
-   "name": "Deangelo Stapleton",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 5,
-   "ts": 1793033349,
-   "photo": "photos/MAD_STAPLETON_DEANGELO_2026-10-26.jpg"
   }
  ]
 }
