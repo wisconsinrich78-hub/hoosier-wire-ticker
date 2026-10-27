@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-27T15:49:00+00:00",
+ "updated": "2026-10-27T16:49:05+00:00",
  "items": [
+  {
+   "key": "MAD_RYAN_JAMES_2026-10-27",
+   "name": "James Alan Ryan",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793119723,
+   "photo": "photos/MAD_RYAN_JAMES_2026-10-27.jpg"
+  },
+  {
+   "key": "POR_SUYAK_CONNOR_2026-10-27",
+   "name": "Connor Michael Suyak",
+   "age": "31",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Possession Cocaine Or Narcotics",
+   "more": 1,
+   "ts": 1793119640,
+   "photo": null
+  },
+  {
+   "key": "ALL_TSCHANTZ_AUSTIN_2026-10-27",
+   "name": "Austin Tschantz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793119636,
+   "photo": "photos/ALL_TSCHANTZ_AUSTIN_2026-10-27.jpg"
+  },
+  {
+   "key": "ALL_ROGERS_BOOKER_2026-10-27",
+   "name": "Booker Rogers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sex / Violent Offender - Fail To Register - Prior",
+   "more": 0,
+   "ts": 1793119631,
+   "photo": "photos/ALL_ROGERS_BOOKER_2026-10-27.jpg"
+  },
   {
    "key": "MAD_MORALES_ROMAN_2026-10-27",
    "name": "Roman Nazario Morales",
@@ -484,50 +528,6 @@
    "more": 2,
    "ts": 1793062036,
    "photo": null
-  },
-  {
-   "key": "ALL_TOWNSEND_MARTIN_2026-10-26",
-   "name": "Martin Townsend",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793062035,
-   "photo": "photos/ALL_TOWNSEND_MARTIN_2026-10-26.jpg"
-  },
-  {
-   "key": "ALL_SUGGS_LEONARD_2026-10-26",
-   "name": "Leonard Suggs",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft Or Conversion",
-   "more": 0,
-   "ts": 1793062031,
-   "photo": "photos/ALL_SUGGS_LEONARD_2026-10-26.jpg"
-  },
-  {
-   "key": "VAN_KILGORE_DAMON_2026-10-26",
-   "name": "Damon Kevon Kilgore",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation With A Deadly Weapon",
-   "more": 1,
-   "ts": 1793058431,
-   "photo": null
-  },
-  {
-   "key": "ALL_CARLISLE_JOSHUA_2026-10-26",
-   "name": "Joshua Carlisle",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1793058430,
-   "photo": "photos/ALL_CARLISLE_JOSHUA_2026-10-26.jpg"
   }
  ]
 }
