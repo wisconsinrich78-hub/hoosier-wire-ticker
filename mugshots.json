@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-27T09:48:49+00:00",
+ "updated": "2026-10-27T10:49:51+00:00",
  "items": [
+  {
+   "key": "MAD_PASCALE_ERIC_2026-10-27",
+   "name": "Eric Anthony Pascale",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793098106,
+   "photo": null
+  },
+  {
+   "key": "MAD_DUNWIDDIE_SHYANNE_2026-10-27",
+   "name": "Shyanne Jewel Dunwiddie",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793098071,
+   "photo": null
+  },
+  {
+   "key": "MAD_CONNER_NICHOLAS_2026-10-27",
+   "name": "Nicholas Andrew Conner",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for 10 day Probation Violation - Jail Booking",
+   "more": 4,
+   "ts": 1793098067,
+   "photo": "photos/MAD_CONNER_NICHOLAS_2026-10-27.jpg"
+  },
+  {
+   "key": "POR_JOHNSEN_SHAWN_2026-10-27",
+   "name": "Shawn Paul Johnsen",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 0,
+   "ts": 1793098036,
+   "photo": null
+  },
   {
    "key": "POR_RAMOS_ELI_2026-10-27",
    "name": "Eli Ramos",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1793051245,
    "photo": "photos/ALL_SANDERS_RONALD_2026-10-26.jpg"
-  },
-  {
-   "key": "ALL_LUCAS_SHIDAZJA_2026-10-26",
-   "name": "Shidazja Lucas",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft Or Conversion",
-   "more": 0,
-   "ts": 1793051241,
-   "photo": "photos/ALL_LUCAS_SHIDAZJA_2026-10-26.jpg"
-  },
-  {
-   "key": "POR_POSEY_GREGORY_2026-10-26",
-   "name": "Gregory Orlando Posey",
-   "age": "66",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793047641,
-   "photo": "photos/POR_POSEY_GREGORY_2026-10-26.jpg"
-  },
-  {
-   "key": "MAD_PORTER_BRETT_2026-10-26",
-   "name": "Brett Andrew Porter",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Interfere in the reporting of a crime",
-   "more": 1,
-   "ts": 1793044114,
-   "photo": "photos/MAD_PORTER_BRETT_2026-10-26.jpg"
-  },
-  {
-   "key": "MAD_FORD_SEAN_2026-10-26",
-   "name": "Sean Antwyne Ford",
-   "age": "44",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Contempt of Court - Jail Booking",
-   "more": 0,
-   "ts": 1793044074,
-   "photo": "photos/MAD_FORD_SEAN_2026-10-26.jpg"
   }
  ]
 }
