@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-27T13:49:30+00:00",
+ "updated": "2026-10-27T14:49:25+00:00",
  "items": [
+  {
+   "key": "MAD_SMITH_TIYRIAUN_2026-10-27",
+   "name": "Tiyriaun Devonne Smith",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Probation - Jail Booking",
+   "more": 0,
+   "ts": 1793112546,
+   "photo": "photos/MAD_SMITH_TIYRIAUN_2026-10-27.jpg"
+  },
+  {
+   "key": "POR_HALLIBURTON_GABRIELLE_2026-10-27",
+   "name": "Gabrielle Alexandria Halliburton",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "False Informing",
+   "more": 0,
+   "ts": 1793112447,
+   "photo": "photos/POR_HALLIBURTON_GABRIELLE_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_TIEKEN_CHELSEA_2026-10-27",
+   "name": "Chelsea Marie Tieken",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 3,
+   "ts": 1793112442,
+   "photo": "photos/VAN_TIEKEN_CHELSEA_2026-10-27.jpg"
+  },
+  {
+   "key": "ALL_AMONETTE_SHAWN_2026-10-27",
+   "name": "Shawn Amonette",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1793112436,
+   "photo": "photos/ALL_AMONETTE_SHAWN_2026-10-27.jpg"
+  },
   {
    "key": "MAD_ISON_BRIDGYTT_2026-10-27",
    "name": "Bridgytt Jean Ison",
@@ -484,50 +528,6 @@
    "more": 2,
    "ts": 1793054842,
    "photo": "photos/ALL_HOLMAN_DAMONTRIA_2026-10-26.jpg"
-  },
-  {
-   "key": "ALL_CURRY_ALEXANDER_2026-10-26",
-   "name": "Alexander Curry",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
-   "more": 0,
-   "ts": 1793054836,
-   "photo": "photos/ALL_CURRY_ALEXANDER_2026-10-26.jpg"
-  },
-  {
-   "key": "ALL_BATES_BRITTINEY_2026-10-26",
-   "name": "Brittiney Bates",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 0,
-   "ts": 1793054833,
-   "photo": "photos/ALL_BATES_BRITTINEY_2026-10-26.jpg"
-  },
-  {
-   "key": "POR_ALEXANDER_TIFFANY_2026-10-26",
-   "name": "Tiffany Ann Alexander",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1793051253,
-   "photo": "photos/POR_ALEXANDER_TIFFANY_2026-10-26.jpg"
-  },
-  {
-   "key": "POR_PRENTICE_CHRISTOPHER_2026-10-26",
-   "name": "Christopher Robert Prentice",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793051250,
-   "photo": "photos/POR_PRENTICE_CHRISTOPHER_2026-10-26.jpg"
   }
  ]
 }
