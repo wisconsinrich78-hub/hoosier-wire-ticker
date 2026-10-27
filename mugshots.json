@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T08:48:38+00:00",
+ "updated": "2026-10-27T09:48:49+00:00",
  "items": [
+  {
+   "key": "POR_RAMOS_ELI_2026-10-27",
+   "name": "Eli Ramos",
+   "age": "31",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 3,
+   "ts": 1793094441,
+   "photo": "photos/POR_RAMOS_ELI_2026-10-27.jpg"
+  },
+  {
+   "key": "POR_THOMPSON_BREANNE_2026-10-27",
+   "name": "Breanne Megan Thompson",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Health- Possess Legend Drug Or Precursor",
+   "more": 1,
+   "ts": 1793094438,
+   "photo": "photos/POR_THOMPSON_BREANNE_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_MCCLURE_MINIYA_2026-10-27",
+   "name": "Miniya Tanae Mcclure",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
+   "more": 0,
+   "ts": 1793094434,
+   "photo": "photos/VAN_MCCLURE_MINIYA_2026-10-27.jpg"
+  },
   {
    "key": "VAN_FRYE_BRITTANY_2026-10-27",
    "name": "Brittany Nicole Frye",
@@ -475,17 +508,6 @@
    "photo": "photos/POR_POSEY_GREGORY_2026-10-26.jpg"
   },
   {
-   "key": "VAN_MOODY_PAGERICK_2026-10-26",
-   "name": "Pagerick Lamar Moody",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 2,
-   "ts": 1793047638,
-   "photo": "photos/VAN_MOODY_PAGERICK_2026-10-26.jpg"
-  },
-  {
    "key": "MAD_PORTER_BRETT_2026-10-26",
    "name": "Brett Andrew Porter",
    "age": "43",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1793044074,
    "photo": "photos/MAD_FORD_SEAN_2026-10-26.jpg"
-  },
-  {
-   "key": "POR_CAMERY_DAVID_2026-10-26",
-   "name": "David James Camery",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793044040,
-   "photo": "photos/POR_CAMERY_DAVID_2026-10-26.jpg"
-  },
-  {
-   "key": "MAD_STONE_ALEXANDER_2026-10-26",
-   "name": "Alexander Jeffrey Stone",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operator Never Licensed",
-   "more": 2,
-   "ts": 1793040524,
-   "photo": "photos/MAD_STONE_ALEXANDER_2026-10-26.jpg"
   }
  ]
 }
