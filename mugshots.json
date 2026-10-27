@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-27T19:49:38+00:00",
+ "updated": "2026-10-27T20:49:26+00:00",
  "items": [
+  {
+   "key": "MAD_DELONEY_JAYSHAWN_2026-10-27",
+   "name": "Jayshawn M Deloney",
+   "age": "21",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1793134082,
+   "photo": "photos/MAD_DELONEY_JAYSHAWN_2026-10-27.jpg"
+  },
+  {
+   "key": "MAD_BARKER_RONALD_2026-10-27",
+   "name": "Ronald Lee Junior Barker",
+   "age": "47",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1793134048,
+   "photo": "photos/MAD_BARKER_RONALD_2026-10-27.jpg"
+  },
   {
    "key": "MAD_FINLEY_DANIEL_2026-10-27",
    "name": "Daniel Richard Finley",
@@ -453,17 +475,6 @@
    "photo": "photos/ALL_ALMOND_GEORGE_2026-10-27.jpg"
   },
   {
-   "key": "MAD_ADDISON_ZOEY_2026-10-26",
-   "name": "Zoey Colleen Addison",
-   "age": "25",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle with BAC .08 to .15",
-   "more": 1,
-   "ts": 1793076436,
-   "photo": null
-  },
-  {
    "key": "VAN_CHAVEZHUEZO_CARMELO_2026-10-26",
    "name": "Carmelo Nmn Chavez Huezo",
    "age": "45",
@@ -516,17 +527,6 @@
    "charge": "Petition To Revoke Probation",
    "more": 0,
    "ts": 1793069231,
-   "photo": null
-  },
-  {
-   "key": "MAD_SPILLIS_JACOB_2026-10-26",
-   "name": "Jacob X Spillis",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793065737,
    "photo": null
   }
  ]
