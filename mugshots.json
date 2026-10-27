@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T17:49:07+00:00",
+ "updated": "2026-10-27T18:49:10+00:00",
  "items": [
+  {
+   "key": "POR_BURRELL_MARKEL_2026-10-27",
+   "name": "Markel Dontae Burrell",
+   "age": "21",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Intimidation",
+   "more": 1,
+   "ts": 1793126841,
+   "photo": null
+  },
+  {
+   "key": "ALL_BOOKER_JAMIRE_2026-10-27",
+   "name": "Jamire Booker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft Vehicle Prior Conviction",
+   "more": 2,
+   "ts": 1793126836,
+   "photo": "photos/ALL_BOOKER_JAMIRE_2026-10-27.jpg"
+  },
+  {
+   "key": "ALL_BARKUS_QUESHON_2026-10-27",
+   "name": "Queshon Barkus",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1793126831,
+   "photo": "photos/ALL_BARKUS_QUESHON_2026-10-27.jpg"
+  },
   {
    "key": "MAD_WILLIAMS_RICHARD_2026-10-27",
    "name": "Richard Daniel Williams",
@@ -494,39 +527,6 @@
    "charge": "Writ Of Attachment",
    "more": 3,
    "ts": 1793065635,
-   "photo": null
-  },
-  {
-   "key": "ALL_FLETCHER_JAMES_2026-10-26",
-   "name": "James Fletcher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Fraud",
-   "more": 2,
-   "ts": 1793065633,
-   "photo": null
-  },
-  {
-   "key": "MAD_ASHLEY_PAMELA_2026-10-26",
-   "name": "Pamela Sue Ashley",
-   "age": "78",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated",
-   "more": 0,
-   "ts": 1793062047,
-   "photo": "photos/MAD_ASHLEY_PAMELA_2026-10-26.jpg"
-  },
-  {
-   "key": "VAN_LASHLEY_JESSICA_2026-10-26",
-   "name": "Jessica Jewell Lashley",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 3,
-   "ts": 1793062036,
    "photo": null
   }
  ]
