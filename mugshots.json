@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T04:48:55+00:00",
+ "updated": "2026-10-27T05:48:40+00:00",
  "items": [
+  {
+   "key": "MAD_BATTENFIELD_HUNTER_2026-10-27",
+   "name": "Hunter Cole Battenfield",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle with BAC .08 to .15",
+   "more": 2,
+   "ts": 1793080047,
+   "photo": "photos/MAD_BATTENFIELD_HUNTER_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_LEET_JAMES_2026-10-26",
+   "name": "James Bradley Leet",
+   "age": "55",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1793080032,
+   "photo": "photos/VAN_LEET_JAMES_2026-10-26.jpg"
+  },
+  {
+   "key": "ALL_ALMOND_GEORGE_2026-10-27",
+   "name": "George Almond",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "more": 2,
+   "ts": 1793080028,
+   "photo": "photos/ALL_ALMOND_GEORGE_2026-10-27.jpg"
+  },
   {
    "key": "MAD_ADDISON_ZOEY_2026-10-26",
    "name": "Zoey Colleen Addison",
@@ -475,17 +508,6 @@
    "photo": null
   },
   {
-   "key": "VAN_OST_FRANK_2026-10-26",
-   "name": "Frank William Ost",
-   "age": "66",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793040441,
-   "photo": "photos/VAN_OST_FRANK_2026-10-26.jpg"
-  },
-  {
    "key": "ALL_NEELY_CHRISTOPHER_2026-10-26",
    "name": "Christopher Neely",
    "age": "",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1793036843,
    "photo": "photos/POR_THOMPSON_ANTOINE_2026-10-26.jpg"
-  },
-  {
-   "key": "POR_PIPAS_COREY_2026-10-26",
-   "name": "Corey Pipas",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 1,
-   "ts": 1793036840,
-   "photo": "photos/POR_PIPAS_COREY_2026-10-26.jpg"
-  },
-  {
-   "key": "ALL_MCCLAIN_AMY_2026-10-26",
-   "name": "Amy Mcclain",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793036829,
-   "photo": "photos/ALL_MCCLAIN_AMY_2026-10-26.jpg"
   }
  ]
 }
