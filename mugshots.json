@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-27T16:49:05+00:00",
+ "updated": "2026-10-27T17:49:07+00:00",
  "items": [
+  {
+   "key": "MAD_WILLIAMS_RICHARD_2026-10-27",
+   "name": "Richard Daniel Williams",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery - against public safety official (level 6 felony)",
+   "more": 1,
+   "ts": 1793123337,
+   "photo": "photos/MAD_WILLIAMS_RICHARD_2026-10-27.jpg"
+  },
   {
    "key": "MAD_RYAN_JAMES_2026-10-27",
    "name": "James Alan Ryan",
@@ -515,17 +526,6 @@
    "region": "south",
    "charge": "Public Administration- Fail To Appear",
    "more": 3,
-   "ts": 1793062036,
-   "photo": null
-  },
-  {
-   "key": "VAN_MERRIWEATHER_JESSE_2026-10-26",
-   "name": "Jesse Lee Merriweather",
-   "age": "65",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 2,
    "ts": 1793062036,
    "photo": null
   }
