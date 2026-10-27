@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T14:49:25+00:00",
+ "updated": "2026-10-27T15:49:00+00:00",
  "items": [
+  {
+   "key": "MAD_MORALES_ROMAN_2026-10-27",
+   "name": "Roman Nazario Morales",
+   "age": "22",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1793116107,
+   "photo": "photos/MAD_MORALES_ROMAN_2026-10-27.jpg"
+  },
+  {
+   "key": "MAD_FIELDS_DAVID_2026-10-27",
+   "name": "David Lee Fields",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793116069,
+   "photo": "photos/MAD_FIELDS_DAVID_2026-10-27.jpg"
+  },
+  {
+   "key": "POR_DAVIS_JANET_2026-10-27",
+   "name": "Janet Marie Davis",
+   "age": "18",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Possession Marijuana",
+   "more": 0,
+   "ts": 1793116033,
+   "photo": null
+  },
   {
    "key": "MAD_SMITH_TIYRIAUN_2026-10-27",
    "name": "Tiyriaun Devonne Smith",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793058430,
    "photo": "photos/ALL_CARLISLE_JOSHUA_2026-10-26.jpg"
-  },
-  {
-   "key": "VAN_FRIESON_LASCHON_2026-10-26",
-   "name": "Laschon Nmn Frieson",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793054844,
-   "photo": null
-  },
-  {
-   "key": "VAN_LOPEZPEREZ_OSMAN_2026-10-26",
-   "name": "Osman Lopez Perez",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating Without Ever Obtaining License",
-   "more": 2,
-   "ts": 1793054843,
-   "photo": null
-  },
-  {
-   "key": "ALL_HOLMAN_DAMONTRIA_2026-10-26",
-   "name": "Damontria Holman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Intimidation With A Deadly Weapon",
-   "more": 2,
-   "ts": 1793054842,
-   "photo": "photos/ALL_HOLMAN_DAMONTRIA_2026-10-26.jpg"
   }
  ]
 }
