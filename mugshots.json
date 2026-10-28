@@ -1,6 +1,182 @@
 {
- "updated": "2026-10-28T09:48:50+00:00",
+ "updated": "2026-10-28T13:49:40+00:00",
  "items": [
+  {
+   "key": "VAN_TINSLEY_EDWARD_2026-10-27",
+   "name": "Edward Lee Tinsley",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 3,
+   "ts": 1793195271,
+   "photo": "photos/VAN_TINSLEY_EDWARD_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_ELLIS_LARA_2026-10-27",
+   "name": "Lara Mary Ellis",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793195268,
+   "photo": "photos/VAN_ELLIS_LARA_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_WINDING_MARCUS_2026-10-27",
+   "name": "Marcus Deanthony Winding",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793195267,
+   "photo": "photos/VAN_WINDING_MARCUS_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_HOOSER_ENASHEA_2026-10-27",
+   "name": "Enashea Rachelle Hooser",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
+   "more": 1,
+   "ts": 1793195264,
+   "photo": "photos/VAN_HOOSER_ENASHEA_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_FRANKENBERGER_SARA_2026-10-27",
+   "name": "Sara Jo Frankenberger",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793195263,
+   "photo": "photos/VAN_FRANKENBERGER_SARA_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_LEMON_LEONARD_2026-10-27",
+   "name": "Leonard Edward Lemon",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 2,
+   "ts": 1793195260,
+   "photo": "photos/VAN_LEMON_LEONARD_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_SUMMERALL_BRIUNA_2026-10-27",
+   "name": "Briuna Shanise Summerall",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 1,
+   "ts": 1793195259,
+   "photo": "photos/VAN_SUMMERALL_BRIUNA_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_MEREDITH_BRITTANI_2026-10-27",
+   "name": "Brittani Nikole Meredith",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 1,
+   "ts": 1793195257,
+   "photo": "photos/VAN_MEREDITH_BRITTANI_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_JONES_MICHAEL_2026-10-27",
+   "name": "Michael Lee Jones",
+   "age": "49",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793195256,
+   "photo": "photos/VAN_JONES_MICHAEL_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_SMITH_PHILLIP_2026-10-27",
+   "name": "Phillip Lee Smith",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793195253,
+   "photo": "photos/VAN_SMITH_PHILLIP_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_OBRIAN_MELINDA_2026-10-27",
+   "name": "Melinda Sueann Obrian",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 2,
+   "ts": 1793195252,
+   "photo": "photos/VAN_OBRIAN_MELINDA_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_HICKS_CALVIN_2026-10-27",
+   "name": "Calvin Dennis Hicks",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation With A Deadly Weapon",
+   "more": 0,
+   "ts": 1793195249,
+   "photo": "photos/VAN_HICKS_CALVIN_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_GANT_BRIAN_2026-10-27",
+   "name": "Brian Michael Gant",
+   "age": "18",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Weapon/Instrument Of Violence- Dangerous Control Of A Firear",
+   "more": 0,
+   "ts": 1793195248,
+   "photo": "photos/VAN_GANT_BRIAN_2026-10-27.jpg"
+  },
+  {
+   "key": "VAN_BELL_QUATREZ_2026-10-27",
+   "name": "Quatrez Devontae Bell",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 1,
+   "ts": 1793195248,
+   "photo": null
+  },
+  {
+   "key": "VAN_HUNTERBELL_JAMARIUS_2026-10-27",
+   "name": "Jamarius Daymond Hunter Bell",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 3,
+   "ts": 1793195248,
+   "photo": null
+  },
+  {
+   "key": "VAN_YOUNG_DEONTRAY_2026-10-27",
+   "name": "Deontray Nikel Young",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery Resulting In Moderate Bodily Injury",
+   "more": 1,
+   "ts": 1793195245,
+   "photo": "photos/VAN_YOUNG_DEONTRAY_2026-10-27.jpg"
+  },
   {
    "key": "MAD_FOIT_OWEN_2026-10-28",
    "name": "Owen Alan Foit",
@@ -352,182 +528,6 @@
    "more": 0,
    "ts": 1793134048,
    "photo": "photos/MAD_BARKER_RONALD_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_FINLEY_DANIEL_2026-10-27",
-   "name": "Daniel Richard Finley",
-   "age": "50",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793130496,
-   "photo": "photos/MAD_FINLEY_DANIEL_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_BELL_MALAIKA_2026-10-27",
-   "name": "Malaika Anika Bell",
-   "age": "52",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793130464,
-   "photo": "photos/MAD_BELL_MALAIKA_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_FREEMAN_BOBBY_2026-10-27",
-   "name": "Bobby Freeman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Habitual Traffic Violator",
-   "more": 1,
-   "ts": 1793130432,
-   "photo": "photos/ALL_FREEMAN_BOBBY_2026-10-27.jpg"
-  },
-  {
-   "key": "POR_BURRELL_MARKEL_2026-10-27",
-   "name": "Markel Dontae Burrell",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Intimidation",
-   "more": 1,
-   "ts": 1793126841,
-   "photo": null
-  },
-  {
-   "key": "ALL_BOOKER_JAMIRE_2026-10-27",
-   "name": "Jamire Booker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Vehicle Prior Conviction",
-   "more": 2,
-   "ts": 1793126836,
-   "photo": "photos/ALL_BOOKER_JAMIRE_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_BARKUS_QUESHON_2026-10-27",
-   "name": "Queshon Barkus",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
-   "more": 0,
-   "ts": 1793126831,
-   "photo": "photos/ALL_BARKUS_QUESHON_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_WILLIAMS_RICHARD_2026-10-27",
-   "name": "Richard Daniel Williams",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery - against public safety official (level 6 felony)",
-   "more": 1,
-   "ts": 1793123337,
-   "photo": "photos/MAD_WILLIAMS_RICHARD_2026-10-27.jpg"
-  },
-  {
-   "key": "POR_SUYAK_CONNOR_2026-10-27",
-   "name": "Connor Michael Suyak",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Possession Cocaine Or Narcotics",
-   "more": 1,
-   "ts": 1793119640,
-   "photo": null
-  },
-  {
-   "key": "POR_DAVIS_JANET_2026-10-27",
-   "name": "Janet Marie Davis",
-   "age": "18",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Possession Marijuana",
-   "more": 0,
-   "ts": 1793116033,
-   "photo": null
-  },
-  {
-   "key": "POR_HALLIBURTON_GABRIELLE_2026-10-27",
-   "name": "Gabrielle Alexandria Halliburton",
-   "age": "28",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "False Informing",
-   "more": 0,
-   "ts": 1793112447,
-   "photo": "photos/POR_HALLIBURTON_GABRIELLE_2026-10-27.jpg"
-  },
-  {
-   "key": "VAN_TIEKEN_CHELSEA_2026-10-27",
-   "name": "Chelsea Marie Tieken",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 3,
-   "ts": 1793112442,
-   "photo": "photos/VAN_TIEKEN_CHELSEA_2026-10-27.jpg"
-  },
-  {
-   "key": "POR_JOHNSEN_SHAWN_2026-10-27",
-   "name": "Shawn Paul Johnsen",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Paraphernalia",
-   "more": 0,
-   "ts": 1793098036,
-   "photo": null
-  },
-  {
-   "key": "POR_RAMOS_ELI_2026-10-27",
-   "name": "Eli Ramos",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 3,
-   "ts": 1793094441,
-   "photo": "photos/POR_RAMOS_ELI_2026-10-27.jpg"
-  },
-  {
-   "key": "POR_THOMPSON_BREANNE_2026-10-27",
-   "name": "Breanne Megan Thompson",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Health- Possess Legend Drug Or Precursor",
-   "more": 1,
-   "ts": 1793094438,
-   "photo": "photos/POR_THOMPSON_BREANNE_2026-10-27.jpg"
-  },
-  {
-   "key": "VAN_MCCLURE_MINIYA_2026-10-27",
-   "name": "Miniya Tanae Mcclure",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
-   "more": 0,
-   "ts": 1793094434,
-   "photo": "photos/VAN_MCCLURE_MINIYA_2026-10-27.jpg"
-  },
-  {
-   "key": "VAN_FRYE_BRITTANY_2026-10-27",
-   "name": "Brittany Nicole Frye",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 1,
-   "ts": 1793090832,
-   "photo": "photos/VAN_FRYE_BRITTANY_2026-10-27.jpg"
   }
  ]
 }
