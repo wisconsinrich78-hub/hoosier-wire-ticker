@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-28T17:49:06+00:00",
+ "updated": "2026-10-28T18:49:03+00:00",
  "items": [
+  {
+   "key": "VAN_DORTCH_MARSAILLES_2026-10-28",
+   "name": "Marsailles Lamar Dortch",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Habitual Traffic Violator",
+   "more": 0,
+   "ts": 1793213234,
+   "photo": "photos/VAN_DORTCH_MARSAILLES_2026-10-28.jpg"
+  },
+  {
+   "key": "VAN_COVINGTON_TODD_2026-10-28",
+   "name": "Todd Earl Covington",
+   "age": "57",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793213233,
+   "photo": "photos/VAN_COVINGTON_TODD_2026-10-28.jpg"
+  },
   {
    "key": "MAD_WALLACE_JOYCE_2026-10-28",
    "name": "Joyce Elaine Wallace",
@@ -264,28 +286,6 @@
    "more": 0,
    "ts": 1793195256,
    "photo": "photos/VAN_JONES_MICHAEL_2026-10-27.jpg"
-  },
-  {
-   "key": "VAN_SMITH_PHILLIP_2026-10-27",
-   "name": "Phillip Lee Smith",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793195253,
-   "photo": "photos/VAN_SMITH_PHILLIP_2026-10-27.jpg"
-  },
-  {
-   "key": "VAN_OBRIAN_MELINDA_2026-10-27",
-   "name": "Melinda Sueann Obrian",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 2,
-   "ts": 1793195252,
-   "photo": "photos/VAN_OBRIAN_MELINDA_2026-10-27.jpg"
   },
   {
    "key": "MAD_FOIT_OWEN_2026-10-28",
