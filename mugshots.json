@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-28T19:48:59+00:00",
+ "updated": "2026-10-28T20:49:35+00:00",
  "items": [
+  {
+   "key": "MAD_GOEN_AARON_2026-10-28",
+   "name": "Aaron Lee Goen",
+   "age": "38",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Mental Health Court - Jail Booking",
+   "more": 0,
+   "ts": 1793220497,
+   "photo": "photos/MAD_GOEN_AARON_2026-10-28.jpg"
+  },
+  {
+   "key": "VAN_JONES_SHYHEEM_2026-10-28",
+   "name": "Shyheem Dayquan Jones",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793220447,
+   "photo": null
+  },
+  {
+   "key": "VAN_BROWN_KYLE_2026-10-28",
+   "name": "Kyle Matthew Brown",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Prior Unrelated Conviction For Theft Or Conversion",
+   "more": 1,
+   "ts": 1793220447,
+   "photo": null
+  },
+  {
+   "key": "ALL_HARRIS_JERMALSMOND_2026-10-28",
+   "name": "Jermalsmond Harris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 3,
+   "ts": 1793220446,
+   "photo": "photos/ALL_HARRIS_JERMALSMOND_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_HARDY_JARON_2026-10-28",
+   "name": "Jaron Hardy",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 0,
+   "ts": 1793220435,
+   "photo": "photos/ALL_HARDY_JARON_2026-10-28.jpg"
+  },
   {
    "key": "MAD_HESS_JEREMY_2026-10-28",
    "name": "Jeremy James Hess",
@@ -321,28 +376,6 @@
    "photo": "photos/VAN_FRANKENBERGER_SARA_2026-10-27.jpg"
   },
   {
-   "key": "VAN_LEMON_LEONARD_2026-10-27",
-   "name": "Leonard Edward Lemon",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 2,
-   "ts": 1793195260,
-   "photo": "photos/VAN_LEMON_LEONARD_2026-10-27.jpg"
-  },
-  {
-   "key": "VAN_SUMMERALL_BRIUNA_2026-10-27",
-   "name": "Briuna Shanise Summerall",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 1,
-   "ts": 1793195259,
-   "photo": "photos/VAN_SUMMERALL_BRIUNA_2026-10-27.jpg"
-  },
-  {
    "key": "MAD_FOIT_OWEN_2026-10-28",
    "name": "Owen Alan Foit",
    "age": "32",
@@ -495,39 +528,6 @@
    "more": 4,
    "ts": 1793152037,
    "photo": "photos/ALL_NEWBILL_DANTE_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_BENSON_CARRINGTON_2026-10-27",
-   "name": "Carrington Benson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery To Public Safety Official (Includes Bodily Fluid/Waste)",
-   "more": 0,
-   "ts": 1793152033,
-   "photo": "photos/ALL_BENSON_CARRINGTON_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_KEMPTON_KYLE_2026-10-27",
-   "name": "Kyle Jay Kempton",
-   "age": "48",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated",
-   "more": 1,
-   "ts": 1793148516,
-   "photo": "photos/MAD_KEMPTON_KYLE_2026-10-27.jpg"
-  },
-  {
-   "key": "POR_ROGERS_DIAMOND_2026-10-27",
-   "name": "Diamond Rogers",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Battery - Against Public Safety Official Engaged In Official Duty",
-   "more": 2,
-   "ts": 1793148440,
-   "photo": null
   }
  ]
 }
