@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-28T21:47:48+00:00",
+ "updated": "2026-10-28T22:49:17+00:00",
  "items": [
+  {
+   "key": "POR_WEBBER_CODY_2026-10-28",
+   "name": "Cody Allan Webber",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 3,
+   "ts": 1793227634,
+   "photo": "photos/POR_WEBBER_CODY_2026-10-28.jpg"
+  },
   {
    "key": "POR_TELLER_DALE_2026-10-28",
    "name": "Dale D Teller",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793162841,
    "photo": "photos/ALL_FINCH_BRUCE_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_DOCKERY_GEORGE_2026-10-27",
-   "name": "George Dockery",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1793162836,
-   "photo": "photos/ALL_DOCKERY_GEORGE_2026-10-27.jpg"
   }
  ]
 }
