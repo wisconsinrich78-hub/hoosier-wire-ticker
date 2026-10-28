@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-28T03:49:32+00:00",
+ "updated": "2026-10-28T04:49:37+00:00",
  "items": [
+  {
+   "key": "ALL_WOLF_JOSHUA_2026-10-28",
+   "name": "Joshua Wolf",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793162845,
+   "photo": "photos/ALL_WOLF_JOSHUA_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_FINCH_BRUCE_2026-10-27",
+   "name": "Bruce Finch",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Serious Bodily Injury",
+   "more": 1,
+   "ts": 1793162841,
+   "photo": "photos/ALL_FINCH_BRUCE_2026-10-27.jpg"
+  },
+  {
+   "key": "ALL_DOCKERY_GEORGE_2026-10-27",
+   "name": "George Dockery",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1793162836,
+   "photo": "photos/ALL_DOCKERY_GEORGE_2026-10-27.jpg"
+  },
   {
    "key": "MAD_WILSON_ALYSS_2026-10-27",
    "name": "Alyss Mckenzee Wilson",
@@ -420,28 +453,6 @@
    "photo": "photos/VAN_TIEKEN_CHELSEA_2026-10-27.jpg"
   },
   {
-   "key": "ALL_AMONETTE_SHAWN_2026-10-27",
-   "name": "Shawn Amonette",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1793112436,
-   "photo": "photos/ALL_AMONETTE_SHAWN_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_BARTELS_KENNETH_2026-10-27",
-   "name": "Kenneth Bartels",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793108835,
-   "photo": "photos/ALL_BARTELS_KENNETH_2026-10-27.jpg"
-  },
-  {
    "key": "POR_JOHNSEN_SHAWN_2026-10-27",
    "name": "Shawn Paul Johnsen",
    "age": "47",
@@ -495,17 +506,6 @@
    "more": 1,
    "ts": 1793090832,
    "photo": "photos/VAN_FRYE_BRITTANY_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_YEITER_KELLY_2026-10-27",
-   "name": "Kelly Yeiter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793087230,
-   "photo": "photos/ALL_YEITER_KELLY_2026-10-27.jpg"
   },
   {
    "key": "POR_TUCKER_DONTE_2026-10-27",
