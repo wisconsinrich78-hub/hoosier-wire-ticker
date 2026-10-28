@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-28T06:48:53+00:00",
+ "updated": "2026-10-28T07:48:51+00:00",
  "items": [
+  {
+   "key": "MAD_SNYDER_ZACHARY_2026-10-28",
+   "name": "Zachary S Snyder",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating with controlled substance in body",
+   "more": 1,
+   "ts": 1793173711,
+   "photo": "photos/MAD_SNYDER_ZACHARY_2026-10-28.jpg"
+  },
   {
    "key": "POR_COLUNGACASTREJON_FERNANDO_2026-10-28",
    "name": "Fernando Colunga Castrejon",
@@ -418,17 +429,6 @@
    "more": 1,
    "ts": 1793119640,
    "photo": null
-  },
-  {
-   "key": "MAD_MORALES_ROMAN_2026-10-27",
-   "name": "Roman Nazario Morales",
-   "age": "22",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1793116107,
-   "photo": "photos/MAD_MORALES_ROMAN_2026-10-27.jpg"
   },
   {
    "key": "POR_DAVIS_JANET_2026-10-27",
