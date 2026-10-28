@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-28T18:49:03+00:00",
+ "updated": "2026-10-28T19:48:59+00:00",
  "items": [
+  {
+   "key": "MAD_HESS_JEREMY_2026-10-28",
+   "name": "Jeremy James Hess",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Nonsupport of dependent",
+   "more": 1,
+   "ts": 1793216878,
+   "photo": null
+  },
+  {
+   "key": "ALL_PHILLIPS_BRIANNA_2026-10-28",
+   "name": "Brianna Phillips",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Placement Of 911Call Prohibited Purpose",
+   "more": 2,
+   "ts": 1793216848,
+   "photo": "photos/ALL_PHILLIPS_BRIANNA_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_KO_KO_2026-10-28",
+   "name": "Ko Ko",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 1,
+   "ts": 1793216843,
+   "photo": "photos/ALL_KO_KO_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_GARY_DEANDRE_2026-10-28",
+   "name": "Deandre Gary",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1793216838,
+   "photo": "photos/ALL_GARY_DEANDRE_2026-10-28.jpg"
+  },
+  {
+   "key": "VAN_RADCLIFF_ERRON_2026-10-28",
+   "name": "Erron Mikle Radcliff",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793216835,
+   "photo": "photos/VAN_RADCLIFF_ERRON_2026-10-28.jpg"
+  },
+  {
+   "key": "POR_BUFFORD_ALEXANDER_2026-10-28",
+   "name": "Alexander Nicholas Bufford",
+   "age": "18",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793216834,
+   "photo": "photos/POR_BUFFORD_ALEXANDER_2026-10-28.jpg"
+  },
+  {
+   "key": "VAN_HALL_ANGELA_2026-10-28",
+   "name": "Angela Kay Hall",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793216832,
+   "photo": null
+  },
   {
    "key": "VAN_DORTCH_MARSAILLES_2026-10-28",
    "name": "Marsailles Lamar Dortch",
@@ -266,28 +343,6 @@
    "photo": "photos/VAN_SUMMERALL_BRIUNA_2026-10-27.jpg"
   },
   {
-   "key": "VAN_MEREDITH_BRITTANI_2026-10-27",
-   "name": "Brittani Nikole Meredith",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 1,
-   "ts": 1793195257,
-   "photo": "photos/VAN_MEREDITH_BRITTANI_2026-10-27.jpg"
-  },
-  {
-   "key": "VAN_JONES_MICHAEL_2026-10-27",
-   "name": "Michael Lee Jones",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793195256,
-   "photo": "photos/VAN_JONES_MICHAEL_2026-10-27.jpg"
-  },
-  {
    "key": "MAD_FOIT_OWEN_2026-10-28",
    "name": "Owen Alan Foit",
    "age": "32",
@@ -473,61 +528,6 @@
    "more": 2,
    "ts": 1793148440,
    "photo": null
-  },
-  {
-   "key": "ALL_SAMARDZIC_ADALET_2026-10-27",
-   "name": "Adalet Samardzic",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793148436,
-   "photo": "photos/ALL_SAMARDZIC_ADALET_2026-10-27.jpg"
-  },
-  {
-   "key": "POR_RECHLICZ_AMANDA_2026-10-27",
-   "name": "Amanda Lynn Rechlicz",
-   "age": "34",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793141253,
-   "photo": null
-  },
-  {
-   "key": "ALL_NESBITT_ALFRED_2026-10-27",
-   "name": "Alfred Nesbitt",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1793141244,
-   "photo": "photos/ALL_NESBITT_ALFRED_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_PRINCE_DUSTIN_2026-10-27",
-   "name": "Dustin Edward Prince",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793137781,
-   "photo": "photos/MAD_PRINCE_DUSTIN_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_PAYNE_BILLY_2026-10-27",
-   "name": "Billy Gene Junior Payne",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793137772,
-   "photo": "photos/MAD_PAYNE_BILLY_2026-10-27.jpg"
   }
  ]
 }
