@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-28T15:49:16+00:00",
+ "updated": "2026-10-28T16:49:54+00:00",
  "items": [
+  {
+   "key": "POR_BRADICH_JESSICA_2026-10-28",
+   "name": "Jessica Jane Bradich",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Residential Entry",
+   "more": 0,
+   "ts": 1793206056,
+   "photo": "photos/POR_BRADICH_JESSICA_2026-10-28.jpg"
+  },
+  {
+   "key": "POR_FERGUSON_TANNER_2026-10-28",
+   "name": "Tanner Ferguson",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Dealing Marijuana/Hashish/Salvia- Misdemeanor",
+   "more": 1,
+   "ts": 1793206055,
+   "photo": null
+  },
+  {
+   "key": "VAN_DAVIS_MOSES_2026-10-28",
+   "name": "Moses Aaron Davis",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Parole Violation",
+   "more": 0,
+   "ts": 1793206052,
+   "photo": "photos/VAN_DAVIS_MOSES_2026-10-28.jpg"
+  },
+  {
+   "key": "VAN_MILLER_JASON_2026-10-28",
+   "name": "Jason Alan Miller",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or",
+   "more": 0,
+   "ts": 1793206051,
+   "photo": "photos/VAN_MILLER_JASON_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_WILEY_JUSTIN_2026-10-28",
+   "name": "Justin Wiley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793206046,
+   "photo": "photos/ALL_WILEY_JUSTIN_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_JACKSON_JEREMY_2026-10-28",
+   "name": "Jeremy Jackson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793206041,
+   "photo": "photos/ALL_JACKSON_JEREMY_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_FREEMAN_SHANNON_2026-10-28",
+   "name": "Shannon Freeman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 0,
+   "ts": 1793206036,
+   "photo": "photos/ALL_FREEMAN_SHANNON_2026-10-28.jpg"
+  },
   {
    "key": "MAD_COLLINS_JULIANMICHAEL_2026-10-28",
    "name": "Julian-Michael Collins",
@@ -198,28 +275,6 @@
    "more": 1,
    "ts": 1793195248,
    "photo": null
-  },
-  {
-   "key": "VAN_HUNTERBELL_JAMARIUS_2026-10-27",
-   "name": "Jamarius Daymond Hunter Bell",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 3,
-   "ts": 1793195248,
-   "photo": null
-  },
-  {
-   "key": "VAN_YOUNG_DEONTRAY_2026-10-27",
-   "name": "Deontray Nikel Young",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery Resulting In Moderate Bodily Injury",
-   "more": 1,
-   "ts": 1793195245,
-   "photo": "photos/VAN_YOUNG_DEONTRAY_2026-10-27.jpg"
   },
   {
    "key": "MAD_FOIT_OWEN_2026-10-28",
@@ -473,61 +528,6 @@
    "more": 0,
    "ts": 1793137746,
    "photo": "photos/MAD_KING_AMANDA_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_ENGLISH_DENISE_2026-10-27",
-   "name": "Denise L English",
-   "age": "58",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793137714,
-   "photo": "photos/MAD_ENGLISH_DENISE_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_EMERTON_BROCK_2026-10-27",
-   "name": "Brock Riley Emerton",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793137710,
-   "photo": "photos/MAD_EMERTON_BROCK_2026-10-27.jpg"
-  },
-  {
-   "key": "POR_HEBEBRAND_ROY_2026-10-27",
-   "name": "Roy Edmond Hebebrand",
-   "age": "50",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Aggressive Driving",
-   "more": 1,
-   "ts": 1793137661,
-   "photo": "photos/POR_HEBEBRAND_ROY_2026-10-27.jpg"
-  },
-  {
-   "key": "POR_VARGAS_SHEILA_2026-10-27",
-   "name": "Sheila Marie Vargas",
-   "age": "63",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1793137658,
-   "photo": "photos/POR_VARGAS_SHEILA_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_METTLER_MICHAEL_2026-10-27",
-   "name": "Michael Mettler",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1793137651,
-   "photo": "photos/ALL_METTLER_MICHAEL_2026-10-27.jpg"
   }
  ]
 }
