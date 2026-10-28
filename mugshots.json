@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-28T07:48:51+00:00",
+ "updated": "2026-10-28T09:48:50+00:00",
  "items": [
+  {
+   "key": "MAD_FOIT_OWEN_2026-10-28",
+   "name": "Owen Alan Foit",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Habitual traffic violator (level 6 felony)",
+   "more": 0,
+   "ts": 1793180871,
+   "photo": "photos/MAD_FOIT_OWEN_2026-10-28.jpg"
+  },
+  {
+   "key": "POR_PATTON_BRYAN_2026-10-28",
+   "name": "Bryan Devon Patton",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 0,
+   "ts": 1793180834,
+   "photo": "photos/POR_PATTON_BRYAN_2026-10-28.jpg"
+  },
   {
    "key": "MAD_SNYDER_ZACHARY_2026-10-28",
    "name": "Zachary S Snyder",
@@ -409,17 +431,6 @@
    "photo": "photos/MAD_WILLIAMS_RICHARD_2026-10-27.jpg"
   },
   {
-   "key": "MAD_RYAN_JAMES_2026-10-27",
-   "name": "James Alan Ryan",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793119723,
-   "photo": "photos/MAD_RYAN_JAMES_2026-10-27.jpg"
-  },
-  {
    "key": "POR_SUYAK_CONNOR_2026-10-27",
    "name": "Connor Michael Suyak",
    "age": "31",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793090832,
    "photo": "photos/VAN_FRYE_BRITTANY_2026-10-27.jpg"
-  },
-  {
-   "key": "POR_TUCKER_DONTE_2026-10-27",
-   "name": "Donte L Tucker",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Public Administration- Resisting Law Enforcement",
-   "more": 1,
-   "ts": 1793083652,
-   "photo": null
   }
  ]
 }
