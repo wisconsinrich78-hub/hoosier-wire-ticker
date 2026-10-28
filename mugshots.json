@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-28T05:48:49+00:00",
+ "updated": "2026-10-28T06:48:53+00:00",
  "items": [
+  {
+   "key": "POR_COLUNGACASTREJON_FERNANDO_2026-10-28",
+   "name": "Fernando Colunga Castrejon",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
+   "more": 2,
+   "ts": 1793170038,
+   "photo": null
+  },
+  {
+   "key": "ALL_ALLEN_EMILY_2026-10-28",
+   "name": "Emily Allen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1793170034,
+   "photo": "photos/ALL_ALLEN_EMILY_2026-10-28.jpg"
+  },
   {
    "key": "MAD_SMALL_ROBERT_2026-10-28",
    "name": "Robert Lee Small",
@@ -398,17 +420,6 @@
    "photo": null
   },
   {
-   "key": "ALL_TSCHANTZ_AUSTIN_2026-10-27",
-   "name": "Austin Tschantz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793119636,
-   "photo": "photos/ALL_TSCHANTZ_AUSTIN_2026-10-27.jpg"
-  },
-  {
    "key": "MAD_MORALES_ROMAN_2026-10-27",
    "name": "Roman Nazario Morales",
    "age": "22",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793083652,
    "photo": null
-  },
-  {
-   "key": "VAN_HULL_TARNCHE_2026-10-27",
-   "name": "Tarnche Lin Hull",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793083649,
-   "photo": "photos/VAN_HULL_TARNCHE_2026-10-27.jpg"
   }
  ]
 }
