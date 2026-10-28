@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-28T13:49:40+00:00",
+ "updated": "2026-10-28T14:49:05+00:00",
  "items": [
+  {
+   "key": "MAD_JONES_WENDY_2026-10-28",
+   "name": "Wendy Eiileen Jones",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793198893,
+   "photo": "photos/MAD_JONES_WENDY_2026-10-28.jpg"
+  },
+  {
+   "key": "POR_HARMAN_RICHARD_2026-10-28",
+   "name": "Richard Eugene Harman",
+   "age": "74",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793198838,
+   "photo": "photos/POR_HARMAN_RICHARD_2026-10-28.jpg"
+  },
+  {
+   "key": "POR_WILLIAMS_BRITTANY_2026-10-28",
+   "name": "Brittany Nichole Williams",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793198835,
+   "photo": "photos/POR_WILLIAMS_BRITTANY_2026-10-28.jpg"
+  },
   {
    "key": "VAN_TINSLEY_EDWARD_2026-10-27",
    "name": "Edward Lee Tinsley",
@@ -495,39 +528,6 @@
    "more": 1,
    "ts": 1793137644,
    "photo": "photos/ALL_FOXWORTH_DANDRE_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_EMBURY_BRETT_2026-10-27",
-   "name": "Brett Embury",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793137638,
-   "photo": "photos/ALL_EMBURY_BRETT_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_DELONEY_JAYSHAWN_2026-10-27",
-   "name": "Jayshawn M Deloney",
-   "age": "21",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery (A/M) Simple",
-   "more": 0,
-   "ts": 1793134082,
-   "photo": "photos/MAD_DELONEY_JAYSHAWN_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_BARKER_RONALD_2026-10-27",
-   "name": "Ronald Lee Junior Barker",
-   "age": "47",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1793134048,
-   "photo": "photos/MAD_BARKER_RONALD_2026-10-27.jpg"
   }
  ]
 }
