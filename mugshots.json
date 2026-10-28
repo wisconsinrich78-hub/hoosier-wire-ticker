@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-28T04:49:37+00:00",
+ "updated": "2026-10-28T05:48:49+00:00",
  "items": [
+  {
+   "key": "MAD_SMALL_ROBERT_2026-10-28",
+   "name": "Robert Lee Small",
+   "age": "38",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793166510,
+   "photo": "photos/MAD_SMALL_ROBERT_2026-10-28.jpg"
+  },
+  {
+   "key": "MAD_HADLEY_JOSHUA_2026-10-28",
+   "name": "Joshua Allen Hadley",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "more": 1,
+   "ts": 1793166475,
+   "photo": "photos/MAD_HADLEY_JOSHUA_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_SWINFORD_ALEXANDER_2026-10-28",
+   "name": "Alexander Swinford",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1793166433,
+   "photo": "photos/ALL_SWINFORD_ALEXANDER_2026-10-28.jpg"
+  },
   {
    "key": "ALL_WOLF_JOSHUA_2026-10-28",
    "name": "Joshua Wolf",
@@ -376,17 +409,6 @@
    "photo": "photos/ALL_TSCHANTZ_AUSTIN_2026-10-27.jpg"
   },
   {
-   "key": "ALL_ROGERS_BOOKER_2026-10-27",
-   "name": "Booker Rogers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail To Register - Prior",
-   "more": 0,
-   "ts": 1793119631,
-   "photo": "photos/ALL_ROGERS_BOOKER_2026-10-27.jpg"
-  },
-  {
    "key": "MAD_MORALES_ROMAN_2026-10-27",
    "name": "Roman Nazario Morales",
    "age": "22",
@@ -398,17 +420,6 @@
    "photo": "photos/MAD_MORALES_ROMAN_2026-10-27.jpg"
   },
   {
-   "key": "MAD_FIELDS_DAVID_2026-10-27",
-   "name": "David Lee Fields",
-   "age": "48",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793116069,
-   "photo": "photos/MAD_FIELDS_DAVID_2026-10-27.jpg"
-  },
-  {
    "key": "POR_DAVIS_JANET_2026-10-27",
    "name": "Janet Marie Davis",
    "age": "18",
@@ -418,17 +429,6 @@
    "more": 0,
    "ts": 1793116033,
    "photo": null
-  },
-  {
-   "key": "MAD_SMITH_TIYRIAUN_2026-10-27",
-   "name": "Tiyriaun Devonne Smith",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Probation - Jail Booking",
-   "more": 0,
-   "ts": 1793112546,
-   "photo": "photos/MAD_SMITH_TIYRIAUN_2026-10-27.jpg"
   },
   {
    "key": "POR_HALLIBURTON_GABRIELLE_2026-10-27",
