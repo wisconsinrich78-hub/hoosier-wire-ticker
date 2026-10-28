@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-28T22:49:17+00:00",
+ "updated": "2026-10-28T23:49:25+00:00",
  "items": [
+  {
+   "key": "POR_HARRIS_LADEJA_2026-10-28",
+   "name": "Ladeja Marie Harris",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Intimidation",
+   "more": 2,
+   "ts": 1793231249,
+   "photo": "photos/POR_HARRIS_LADEJA_2026-10-28.jpg"
+  },
+  {
+   "key": "VAN_QUIRANTE_ARIEL_2026-10-28",
+   "name": "Ariel Mendez Quirante",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
+   "more": 1,
+   "ts": 1793231247,
+   "photo": "photos/VAN_QUIRANTE_ARIEL_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_WEAVER_MICHAEL_2026-10-28",
+   "name": "Michael Weaver",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Crim Reck Shooting Into An Inhabited Dwelling Or Other Bldg Or Place P",
+   "more": 0,
+   "ts": 1793231243,
+   "photo": "photos/ALL_WEAVER_MICHAEL_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_SHAW_JOSEPH_2026-10-28",
+   "name": "Joseph Shaw",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1793231239,
+   "photo": "photos/ALL_SHAW_JOSEPH_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_NELSON_JALIN_2026-10-28",
+   "name": "Jalin Nelson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing In Marijuana/Hash",
+   "more": 0,
+   "ts": 1793231234,
+   "photo": "photos/ALL_NELSON_JALIN_2026-10-28.jpg"
+  },
   {
    "key": "POR_WEBBER_CODY_2026-10-28",
    "name": "Cody Allan Webber",
@@ -409,17 +464,6 @@
    "photo": "photos/VAN_WINDING_MARCUS_2026-10-27.jpg"
   },
   {
-   "key": "VAN_HOOSER_ENASHEA_2026-10-27",
-   "name": "Enashea Rachelle Hooser",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1793195264,
-   "photo": "photos/VAN_HOOSER_ENASHEA_2026-10-27.jpg"
-  },
-  {
    "key": "MAD_FOIT_OWEN_2026-10-28",
    "name": "Owen Alan Foit",
    "age": "32",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1793166510,
    "photo": "photos/MAD_SMALL_ROBERT_2026-10-28.jpg"
-  },
-  {
-   "key": "MAD_HADLEY_JOSHUA_2026-10-28",
-   "name": "Joshua Allen Hadley",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated- endangerment",
-   "more": 1,
-   "ts": 1793166475,
-   "photo": "photos/MAD_HADLEY_JOSHUA_2026-10-28.jpg"
-  },
-  {
-   "key": "ALL_SWINFORD_ALEXANDER_2026-10-28",
-   "name": "Alexander Swinford",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1793166433,
-   "photo": "photos/ALL_SWINFORD_ALEXANDER_2026-10-28.jpg"
-  },
-  {
-   "key": "ALL_WOLF_JOSHUA_2026-10-28",
-   "name": "Joshua Wolf",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793162845,
-   "photo": "photos/ALL_WOLF_JOSHUA_2026-10-28.jpg"
-  },
-  {
-   "key": "ALL_FINCH_BRUCE_2026-10-27",
-   "name": "Bruce Finch",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Serious Bodily Injury",
-   "more": 1,
-   "ts": 1793162841,
-   "photo": "photos/ALL_FINCH_BRUCE_2026-10-27.jpg"
   }
  ]
 }
