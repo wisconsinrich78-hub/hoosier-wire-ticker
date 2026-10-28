@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-27T22:50:15+00:00",
+ "updated": "2026-10-28T00:49:49+00:00",
  "items": [
+  {
+   "key": "MAD_KEMPTON_KYLE_2026-10-27",
+   "name": "Kyle Jay Kempton",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated",
+   "more": 1,
+   "ts": 1793148516,
+   "photo": "photos/MAD_KEMPTON_KYLE_2026-10-27.jpg"
+  },
+  {
+   "key": "POR_ROGERS_DIAMOND_2026-10-27",
+   "name": "Diamond Rogers",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery - Against Public Safety Official Engaged In Official Duty",
+   "more": 2,
+   "ts": 1793148440,
+   "photo": null
+  },
+  {
+   "key": "ALL_SAMARDZIC_ADALET_2026-10-27",
+   "name": "Adalet Samardzic",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793148436,
+   "photo": "photos/ALL_SAMARDZIC_ADALET_2026-10-27.jpg"
+  },
   {
    "key": "POR_RECHLICZ_AMANDA_2026-10-27",
    "name": "Amanda Lynn Rechlicz",
@@ -365,17 +398,6 @@
    "photo": "photos/MAD_ISON_BRIDGYTT_2026-10-27.jpg"
   },
   {
-   "key": "MAD_BARNES_JARON_2026-10-27",
-   "name": "Jaron Chad Barnes",
-   "age": "33",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793108858,
-   "photo": null
-  },
-  {
    "key": "ALL_BARTELS_KENNETH_2026-10-27",
    "name": "Kenneth Bartels",
    "age": "",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1793083641,
    "photo": "photos/ALL_HERNANDEZ_JENNIFER_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_HAMMON_CRAIG_2026-10-27",
-   "name": "Craig Hammon",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793083637,
-   "photo": "photos/ALL_HAMMON_CRAIG_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_AMOS_AARON_2026-10-27",
-   "name": "Aaron Amos",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Firearm Without A License By Convicted Felon",
-   "more": 0,
-   "ts": 1793083633,
-   "photo": "photos/ALL_AMOS_AARON_2026-10-27.jpg"
   }
  ]
 }
