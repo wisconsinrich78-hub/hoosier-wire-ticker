@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-28T20:49:35+00:00",
+ "updated": "2026-10-28T21:47:48+00:00",
  "items": [
+  {
+   "key": "POR_TELLER_DALE_2026-10-28",
+   "name": "Dale D Teller",
+   "age": "46",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Indecency",
+   "more": 0,
+   "ts": 1793224038,
+   "photo": "photos/POR_TELLER_DALE_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_BLAIR_ELIZABETH_2026-10-28",
+   "name": "Elizabeth Blair",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 1,
+   "ts": 1793224037,
+   "photo": "photos/ALL_BLAIR_ELIZABETH_2026-10-28.jpg"
+  },
+  {
+   "key": "POR_ARNOLD_PAIGE_2026-10-28",
+   "name": "Paige Marie Arnold",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793224034,
+   "photo": "photos/POR_ARNOLD_PAIGE_2026-10-28.jpg"
+  },
+  {
+   "key": "VAN_STOKES_GREGORY_2026-10-28",
+   "name": "Gregory Lane Stokes",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 2,
+   "ts": 1793224031,
+   "photo": null
+  },
   {
    "key": "MAD_GOEN_AARON_2026-10-28",
    "name": "Aaron Lee Goen",
@@ -365,17 +409,6 @@
    "photo": "photos/VAN_HOOSER_ENASHEA_2026-10-27.jpg"
   },
   {
-   "key": "VAN_FRANKENBERGER_SARA_2026-10-27",
-   "name": "Sara Jo Frankenberger",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793195263,
-   "photo": "photos/VAN_FRANKENBERGER_SARA_2026-10-27.jpg"
-  },
-  {
    "key": "MAD_FOIT_OWEN_2026-10-28",
    "name": "Owen Alan Foit",
    "age": "32",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793162836,
    "photo": "photos/ALL_DOCKERY_GEORGE_2026-10-27.jpg"
-  },
-  {
-   "key": "MAD_WILSON_ALYSS_2026-10-27",
-   "name": "Alyss Mckenzee Wilson",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793159362,
-   "photo": "photos/MAD_WILSON_ALYSS_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_CAMPBELL_ZACHARY_2026-10-27",
-   "name": "Zachary Campbell",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "False Government Issued ID",
-   "more": 0,
-   "ts": 1793159239,
-   "photo": "photos/ALL_CAMPBELL_ZACHARY_2026-10-27.jpg"
-  },
-  {
-   "key": "ALL_NEWBILL_DANTE_2026-10-27",
-   "name": "Dante Newbill",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 4,
-   "ts": 1793152037,
-   "photo": "photos/ALL_NEWBILL_DANTE_2026-10-27.jpg"
   }
  ]
 }
