@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-28T01:49:38+00:00",
+ "updated": "2026-10-28T03:49:32+00:00",
  "items": [
+  {
+   "key": "MAD_WILSON_ALYSS_2026-10-27",
+   "name": "Alyss Mckenzee Wilson",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793159362,
+   "photo": "photos/MAD_WILSON_ALYSS_2026-10-27.jpg"
+  },
+  {
+   "key": "ALL_CAMPBELL_ZACHARY_2026-10-27",
+   "name": "Zachary Campbell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "False Government Issued ID",
+   "more": 0,
+   "ts": 1793159239,
+   "photo": "photos/ALL_CAMPBELL_ZACHARY_2026-10-27.jpg"
+  },
   {
    "key": "ALL_NEWBILL_DANTE_2026-10-27",
    "name": "Dante Newbill",
@@ -409,17 +431,6 @@
    "photo": "photos/ALL_AMONETTE_SHAWN_2026-10-27.jpg"
   },
   {
-   "key": "MAD_ISON_BRIDGYTT_2026-10-27",
-   "name": "Bridgytt Jean Ison",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793108908,
-   "photo": "photos/MAD_ISON_BRIDGYTT_2026-10-27.jpg"
-  },
-  {
    "key": "ALL_BARTELS_KENNETH_2026-10-27",
    "name": "Kenneth Bartels",
    "age": "",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793083649,
    "photo": "photos/VAN_HULL_TARNCHE_2026-10-27.jpg"
-  },
-  {
-   "key": "VAN_FUCHS_JEREMY_2026-10-27",
-   "name": "Jeremy Scott Fuchs",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Civil Bench Warrant",
-   "more": 0,
-   "ts": 1793083646,
-   "photo": null
   }
  ]
 }
