@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-29T04:50:19+00:00",
+ "updated": "2026-10-29T05:49:02+00:00",
  "items": [
+  {
+   "key": "MAD_PIERCE_CLIFFORD_2026-10-29",
+   "name": "Clifford Manis Third Pierce",
+   "age": "51",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure to Register as Sex Offender (F6)",
+   "more": 0,
+   "ts": 1793252911,
+   "photo": "photos/MAD_PIERCE_CLIFFORD_2026-10-29.jpg"
+  },
+  {
+   "key": "POR_PIUNTI_ABBEGAEL_2026-10-29",
+   "name": "Abbegael June Piunti",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 2,
+   "ts": 1793252843,
+   "photo": null
+  },
+  {
+   "key": "ALL_URBANO_ANDREW_2026-10-29",
+   "name": "Andrew Urbano",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793252840,
+   "photo": "photos/ALL_URBANO_ANDREW_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_FRY_JOSHUA_2026-10-29",
+   "name": "Joshua Fry",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793252835,
+   "photo": "photos/ALL_FRY_JOSHUA_2026-10-29.jpg"
+  },
   {
    "key": "VAN_LANCE_BETHANY_2026-10-28",
    "name": "Bethany Faith Lance",
@@ -365,28 +409,6 @@
    "photo": null
   },
   {
-   "key": "ALL_PHILLIPS_BRIANNA_2026-10-28",
-   "name": "Brianna Phillips",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Placement Of 911Call Prohibited Purpose",
-   "more": 2,
-   "ts": 1793216848,
-   "photo": "photos/ALL_PHILLIPS_BRIANNA_2026-10-28.jpg"
-  },
-  {
-   "key": "ALL_KO_KO_2026-10-28",
-   "name": "Ko Ko",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 1,
-   "ts": 1793216843,
-   "photo": "photos/ALL_KO_KO_2026-10-28.jpg"
-  },
-  {
    "key": "VAN_RADCLIFF_ERRON_2026-10-28",
    "name": "Erron Mikle Radcliff",
    "age": "34",
@@ -506,28 +528,6 @@
    "more": 3,
    "ts": 1793202456,
    "photo": null
-  },
-  {
-   "key": "MAD_JONES_WENDY_2026-10-28",
-   "name": "Wendy Eiileen Jones",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793198893,
-   "photo": "photos/MAD_JONES_WENDY_2026-10-28.jpg"
-  },
-  {
-   "key": "POR_HARMAN_RICHARD_2026-10-28",
-   "name": "Richard Eugene Harman",
-   "age": "74",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793198838,
-   "photo": "photos/POR_HARMAN_RICHARD_2026-10-28.jpg"
   }
  ]
 }
