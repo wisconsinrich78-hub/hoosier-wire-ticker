@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-28T23:49:25+00:00",
+ "updated": "2026-10-29T00:47:42+00:00",
  "items": [
+  {
+   "key": "VAN_EALUM_AUDREY_2026-10-28",
+   "name": "Audrey Faye Ealum",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
+   "more": 1,
+   "ts": 1793234843,
+   "photo": null
+  },
+  {
+   "key": "VAN_WIMBER_CLAUDIA_2026-10-28",
+   "name": "Claudia Johanna Wimber",
+   "age": "57",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793234843,
+   "photo": null
+  },
+  {
+   "key": "ALL_SHELTON_LEE_2026-10-28",
+   "name": "Lee Shelton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793234842,
+   "photo": "photos/ALL_SHELTON_LEE_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_RICHARDSON_CHAD_2026-10-28",
+   "name": "Chad Richardson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793234838,
+   "photo": "photos/ALL_RICHARDSON_CHAD_2026-10-28.jpg"
+  },
   {
    "key": "POR_HARRIS_LADEJA_2026-10-28",
    "name": "Ladeja Marie Harris",
@@ -442,28 +486,6 @@
    "photo": "photos/VAN_TINSLEY_EDWARD_2026-10-27.jpg"
   },
   {
-   "key": "VAN_ELLIS_LARA_2026-10-27",
-   "name": "Lara Mary Ellis",
-   "age": "50",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793195268,
-   "photo": "photos/VAN_ELLIS_LARA_2026-10-27.jpg"
-  },
-  {
-   "key": "VAN_WINDING_MARCUS_2026-10-27",
-   "name": "Marcus Deanthony Winding",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793195267,
-   "photo": "photos/VAN_WINDING_MARCUS_2026-10-27.jpg"
-  },
-  {
    "key": "MAD_FOIT_OWEN_2026-10-28",
    "name": "Owen Alan Foit",
    "age": "32",
@@ -506,28 +528,6 @@
    "more": 2,
    "ts": 1793170038,
    "photo": null
-  },
-  {
-   "key": "ALL_ALLEN_EMILY_2026-10-28",
-   "name": "Emily Allen",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793170034,
-   "photo": "photos/ALL_ALLEN_EMILY_2026-10-28.jpg"
-  },
-  {
-   "key": "MAD_SMALL_ROBERT_2026-10-28",
-   "name": "Robert Lee Small",
-   "age": "38",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793166510,
-   "photo": "photos/MAD_SMALL_ROBERT_2026-10-28.jpg"
   }
  ]
 }
