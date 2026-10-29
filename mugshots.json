@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-29T01:49:14+00:00",
+ "updated": "2026-10-29T02:49:14+00:00",
  "items": [
+  {
+   "key": "POR_FLESCHUT_CHRISTOPHER_2026-10-28",
+   "name": "Christopher Luke Fleschut",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1793242032,
+   "photo": null
+  },
   {
    "key": "MAD_PARKER_TIMOTHY_2026-10-28",
    "name": "Timothy Shannon Parker",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793198835,
    "photo": "photos/POR_WILLIAMS_BRITTANY_2026-10-28.jpg"
-  },
-  {
-   "key": "MAD_FOIT_OWEN_2026-10-28",
-   "name": "Owen Alan Foit",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Habitual traffic violator (level 6 felony)",
-   "more": 0,
-   "ts": 1793180871,
-   "photo": "photos/MAD_FOIT_OWEN_2026-10-28.jpg"
   }
  ]
 }
