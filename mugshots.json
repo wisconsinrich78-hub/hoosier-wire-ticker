@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-29T02:49:14+00:00",
+ "updated": "2026-10-29T03:49:10+00:00",
  "items": [
+  {
+   "key": "ALL_HARVEY_ROSS_2026-10-28",
+   "name": "Ross Harvey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793245637,
+   "photo": "photos/ALL_HARVEY_ROSS_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_GONZALEZ_JACOB_2026-10-28",
+   "name": "Jacob Gonzalez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 1,
+   "ts": 1793245633,
+   "photo": "photos/ALL_GONZALEZ_JACOB_2026-10-28.jpg"
+  },
   {
    "key": "POR_FLESCHUT_CHRISTOPHER_2026-10-28",
    "name": "Christopher Luke Fleschut",
@@ -475,17 +497,6 @@
    "photo": "photos/ALL_JACKSON_JEREMY_2026-10-28.jpg"
   },
   {
-   "key": "ALL_FREEMAN_SHANNON_2026-10-28",
-   "name": "Shannon Freeman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 0,
-   "ts": 1793206036,
-   "photo": "photos/ALL_FREEMAN_SHANNON_2026-10-28.jpg"
-  },
-  {
    "key": "MAD_COLLINS_JULIANMICHAEL_2026-10-28",
    "name": "Julian-Michael Collins",
    "age": "25",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793198838,
    "photo": "photos/POR_HARMAN_RICHARD_2026-10-28.jpg"
-  },
-  {
-   "key": "POR_WILLIAMS_BRITTANY_2026-10-28",
-   "name": "Brittany Nichole Williams",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793198835,
-   "photo": "photos/POR_WILLIAMS_BRITTANY_2026-10-28.jpg"
   }
  ]
 }
