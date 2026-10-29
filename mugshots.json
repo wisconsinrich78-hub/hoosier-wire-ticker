@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-29T15:49:18+00:00",
+ "updated": "2026-10-29T16:49:45+00:00",
  "items": [
+  {
+   "key": "MAD_MCCAULEY_NICHOLAS_2026-10-29",
+   "name": "Nicholas Lee Mccauley",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793292518,
+   "photo": "photos/MAD_MCCAULEY_NICHOLAS_2026-10-29.jpg"
+  },
+  {
+   "key": "MAD_HUNTER_AMBER_2026-10-29",
+   "name": "Amber Jo Hunter",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793292503,
+   "photo": "photos/MAD_HUNTER_AMBER_2026-10-29.jpg"
+  },
+  {
+   "key": "POR_MADDEN_RICHARD_2026-10-29",
+   "name": "Richard Patrick Madden",
+   "age": "38",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793292451,
+   "photo": "photos/POR_MADDEN_RICHARD_2026-10-29.jpg"
+  },
+  {
+   "key": "POR_MILLER_KENNY_2026-10-29",
+   "name": "Kenny Frank Miller",
+   "age": "38",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Burglary",
+   "more": 0,
+   "ts": 1793292450,
+   "photo": null
+  },
+  {
+   "key": "VAN_GRAVES_KELSEY_2026-10-29",
+   "name": "Kelsey Olivia Graves",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 2,
+   "ts": 1793292447,
+   "photo": "photos/VAN_GRAVES_KELSEY_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_WEBB_KEIONTAE_2026-10-29",
+   "name": "Keiontae Webb",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing In Marijuana/Hash",
+   "more": 1,
+   "ts": 1793292443,
+   "photo": "photos/ALL_WEBB_KEIONTAE_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_GIL_JOE_2026-10-29",
+   "name": "Joe Gil",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 1,
+   "ts": 1793292439,
+   "photo": "photos/ALL_GIL_JOE_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_FAUST_JONNIE_2026-10-29",
+   "name": "Jonnie Faust",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Confinement",
+   "more": 1,
+   "ts": 1793292435,
+   "photo": "photos/ALL_FAUST_JONNIE_2026-10-29.jpg"
+  },
   {
    "key": "MAD_WINSTON_MARTEL_2026-10-29",
    "name": "Martel Lee Winston",
@@ -431,17 +519,6 @@
    "photo": null
   },
   {
-   "key": "ALL_HARMEYER_DAVID_2026-10-28",
-   "name": "David Harmeyer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Reckless Driving / Unreasonable High Or Low Speed",
-   "more": 1,
-   "ts": 1793238436,
-   "photo": null
-  },
-  {
    "key": "MAD_RICHARDSON_SHANE_2026-10-28",
    "name": "Shane M Richardson",
    "age": "49",
@@ -451,83 +528,6 @@
    "more": 0,
    "ts": 1793234930,
    "photo": null
-  },
-  {
-   "key": "VAN_EALUM_AUDREY_2026-10-28",
-   "name": "Audrey Faye Ealum",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1793234843,
-   "photo": null
-  },
-  {
-   "key": "VAN_WIMBER_CLAUDIA_2026-10-28",
-   "name": "Claudia Johanna Wimber",
-   "age": "57",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793234843,
-   "photo": null
-  },
-  {
-   "key": "ALL_SHELTON_LEE_2026-10-28",
-   "name": "Lee Shelton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793234842,
-   "photo": "photos/ALL_SHELTON_LEE_2026-10-28.jpg"
-  },
-  {
-   "key": "ALL_RICHARDSON_CHAD_2026-10-28",
-   "name": "Chad Richardson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793234838,
-   "photo": "photos/ALL_RICHARDSON_CHAD_2026-10-28.jpg"
-  },
-  {
-   "key": "POR_HARRIS_LADEJA_2026-10-28",
-   "name": "Ladeja Marie Harris",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Intimidation",
-   "more": 2,
-   "ts": 1793231249,
-   "photo": "photos/POR_HARRIS_LADEJA_2026-10-28.jpg"
-  },
-  {
-   "key": "VAN_QUIRANTE_ARIEL_2026-10-28",
-   "name": "Ariel Mendez Quirante",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
-   "more": 1,
-   "ts": 1793231247,
-   "photo": "photos/VAN_QUIRANTE_ARIEL_2026-10-28.jpg"
-  },
-  {
-   "key": "POR_WEBBER_CODY_2026-10-28",
-   "name": "Cody Allan Webber",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 3,
-   "ts": 1793227634,
-   "photo": "photos/POR_WEBBER_CODY_2026-10-28.jpg"
   }
  ]
 }
