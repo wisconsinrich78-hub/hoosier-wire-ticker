@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-29T03:49:10+00:00",
+ "updated": "2026-10-29T04:50:19+00:00",
  "items": [
+  {
+   "key": "VAN_LANCE_BETHANY_2026-10-28",
+   "name": "Bethany Faith Lance",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
+   "more": 0,
+   "ts": 1793249248,
+   "photo": "photos/VAN_LANCE_BETHANY_2026-10-28.jpg"
+  },
+  {
+   "key": "VAN_BRUNER_NICHOLAS_2026-10-28",
+   "name": "Nicholas Lee Bruner",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 1,
+   "ts": 1793249247,
+   "photo": "photos/VAN_BRUNER_NICHOLAS_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_SUTTON_DESTINI_2026-10-28",
+   "name": "Destini Sutton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Abandonment Or Neglect Of Vertebrate Animal",
+   "more": 0,
+   "ts": 1793249243,
+   "photo": "photos/ALL_SUTTON_DESTINI_2026-10-28.jpg"
+  },
+  {
+   "key": "ALL_CLARK_SAVANNAH_2026-10-29",
+   "name": "Savannah Clark",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1793249240,
+   "photo": "photos/ALL_CLARK_SAVANNAH_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_BOOKER_MIRACLE_2026-10-28",
+   "name": "Miracle Booker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Abandonment Or Neglect Of Vertebrate Animal",
+   "more": 0,
+   "ts": 1793249235,
+   "photo": "photos/ALL_BOOKER_MIRACLE_2026-10-28.jpg"
+  },
   {
    "key": "ALL_HARVEY_ROSS_2026-10-28",
    "name": "Ross Harvey",
@@ -332,17 +387,6 @@
    "photo": "photos/ALL_KO_KO_2026-10-28.jpg"
   },
   {
-   "key": "ALL_GARY_DEANDRE_2026-10-28",
-   "name": "Deandre Gary",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793216838,
-   "photo": "photos/ALL_GARY_DEANDRE_2026-10-28.jpg"
-  },
-  {
    "key": "VAN_RADCLIFF_ERRON_2026-10-28",
    "name": "Erron Mikle Radcliff",
    "age": "34",
@@ -431,17 +475,6 @@
    "photo": "photos/VAN_LEONARD_MASON_2026-10-28.jpg"
   },
   {
-   "key": "VAN_RIFE_RICKY_2026-10-28",
-   "name": "Ricky Rife",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Registration Violation",
-   "more": 0,
-   "ts": 1793209631,
-   "photo": "photos/VAN_RIFE_RICKY_2026-10-28.jpg"
-  },
-  {
    "key": "POR_BRADICH_JESSICA_2026-10-28",
    "name": "Jessica Jane Bradich",
    "age": "37",
@@ -462,39 +495,6 @@
    "more": 1,
    "ts": 1793206055,
    "photo": null
-  },
-  {
-   "key": "VAN_DAVIS_MOSES_2026-10-28",
-   "name": "Moses Aaron Davis",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1793206052,
-   "photo": "photos/VAN_DAVIS_MOSES_2026-10-28.jpg"
-  },
-  {
-   "key": "ALL_WILEY_JUSTIN_2026-10-28",
-   "name": "Justin Wiley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793206046,
-   "photo": "photos/ALL_WILEY_JUSTIN_2026-10-28.jpg"
-  },
-  {
-   "key": "ALL_JACKSON_JEREMY_2026-10-28",
-   "name": "Jeremy Jackson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793206041,
-   "photo": "photos/ALL_JACKSON_JEREMY_2026-10-28.jpg"
   },
   {
    "key": "MAD_COLLINS_JULIANMICHAEL_2026-10-28",
