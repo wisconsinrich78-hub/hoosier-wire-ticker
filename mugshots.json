@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-29T06:49:02+00:00",
+ "updated": "2026-10-29T07:49:10+00:00",
  "items": [
+  {
+   "key": "MAD_BROWN_CHARLES_2026-10-29",
+   "name": "Charles Junior Second Brown",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Public Intoxication (Drugs)",
+   "more": 3,
+   "ts": 1793260059,
+   "photo": null
+  },
+  {
+   "key": "VAN_BROWN_SAMUEL_2026-10-29",
+   "name": "Samuel Stuart Brown",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1793260041,
+   "photo": "photos/VAN_BROWN_SAMUEL_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_LYNN_ADAM_2026-10-29",
+   "name": "Adam Lynn",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1793260037,
+   "photo": "photos/ALL_LYNN_ADAM_2026-10-29.jpg"
+  },
   {
    "key": "VAN_DAVIS_MICHAEL_2026-10-29",
    "name": "Michael Jason Davis",
@@ -343,17 +376,6 @@
    "photo": "photos/POR_TELLER_DALE_2026-10-28.jpg"
   },
   {
-   "key": "ALL_BLAIR_ELIZABETH_2026-10-28",
-   "name": "Elizabeth Blair",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 1,
-   "ts": 1793224037,
-   "photo": "photos/ALL_BLAIR_ELIZABETH_2026-10-28.jpg"
-  },
-  {
    "key": "POR_ARNOLD_PAIGE_2026-10-28",
    "name": "Paige Marie Arnold",
    "age": "36",
@@ -486,17 +508,6 @@
    "photo": "photos/MAD_WALLACE_JOYCE_2026-10-28.jpg"
   },
   {
-   "key": "VAN_MATTSON_COURTNEY_2026-10-28",
-   "name": "Courtney Allison Mattson",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 0,
-   "ts": 1793209635,
-   "photo": "photos/VAN_MATTSON_COURTNEY_2026-10-28.jpg"
-  },
-  {
    "key": "POR_BRADICH_JESSICA_2026-10-28",
    "name": "Jessica Jane Bradich",
    "age": "37",
@@ -516,17 +527,6 @@
    "charge": "Controlled Substance- Dealing Marijuana/Hashish/Salvia- Misdemeanor",
    "more": 1,
    "ts": 1793206055,
-   "photo": null
-  },
-  {
-   "key": "MAD_COLLINS_JULIANMICHAEL_2026-10-28",
-   "name": "Julian-Michael Collins",
-   "age": "25",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Trafficking with an inmate",
-   "more": 3,
-   "ts": 1793202456,
    "photo": null
   }
  ]
