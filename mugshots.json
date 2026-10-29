@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-29T16:49:45+00:00",
+ "updated": "2026-10-29T17:49:55+00:00",
  "items": [
+  {
+   "key": "POR_LANE_CURTIS_2026-10-29",
+   "name": "Curtis Michael Louis Lane",
+   "age": "34",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Accident Leave The Scene",
+   "more": 0,
+   "ts": 1793296041,
+   "photo": "photos/POR_LANE_CURTIS_2026-10-29.jpg"
+  },
+  {
+   "key": "POR_DUNCAN_PATRICIA_2026-10-29",
+   "name": "Patricia Mae Duncan",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
+   "more": 2,
+   "ts": 1793296040,
+   "photo": "photos/POR_DUNCAN_PATRICIA_2026-10-29.jpg"
+  },
+  {
+   "key": "POR_BIVENS_TAMIKA_2026-10-29",
+   "name": "Tamika Latoya Bivens",
+   "age": "49",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793296038,
+   "photo": "photos/POR_BIVENS_TAMIKA_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_ALASAL_MOHAMED_2026-10-29",
+   "name": "Mohamed Alasal",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Habitual Traffic Violator",
+   "more": 0,
+   "ts": 1793296035,
+   "photo": "photos/ALL_ALASAL_MOHAMED_2026-10-29.jpg"
+  },
   {
    "key": "MAD_MCCAULEY_NICHOLAS_2026-10-29",
    "name": "Nicholas Lee Mccauley",
@@ -464,17 +508,6 @@
    "photo": "photos/ALL_HARVEY_ROSS_2026-10-28.jpg"
   },
   {
-   "key": "ALL_GONZALEZ_JACOB_2026-10-28",
-   "name": "Jacob Gonzalez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 1,
-   "ts": 1793245633,
-   "photo": "photos/ALL_GONZALEZ_JACOB_2026-10-28.jpg"
-  },
-  {
    "key": "POR_FLESCHUT_CHRISTOPHER_2026-10-28",
    "name": "Christopher Luke Fleschut",
    "age": "22",
@@ -494,39 +527,6 @@
    "charge": "Operating a vehicle while intoxicated- endangerment",
    "more": 1,
    "ts": 1793238512,
-   "photo": null
-  },
-  {
-   "key": "VAN_DUERSON_FREDERICK_2026-10-28",
-   "name": "Frederick Douglas Duerson",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Strangulation",
-   "more": 1,
-   "ts": 1793238437,
-   "photo": null
-  },
-  {
-   "key": "VAN_WALTON_IVAN_2026-10-28",
-   "name": "Ivan J Walton",
-   "age": "53",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Dealing Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1793238437,
-   "photo": null
-  },
-  {
-   "key": "MAD_RICHARDSON_SHANE_2026-10-28",
-   "name": "Shane M Richardson",
-   "age": "49",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793234930,
    "photo": null
   }
  ]
