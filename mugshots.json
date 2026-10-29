@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-29T10:49:06+00:00",
+ "updated": "2026-10-29T11:48:59+00:00",
  "items": [
+  {
+   "key": "POR_REDILLA_TODD_2026-10-29",
+   "name": "Todd Lawrence Redilla",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Comply",
+   "more": 0,
+   "ts": 1793274437,
+   "photo": "photos/POR_REDILLA_TODD_2026-10-29.jpg"
+  },
+  {
+   "key": "POR_CAIN_MARLIN_2026-10-29",
+   "name": "Marlin Cain",
+   "age": "21",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
+   "more": 0,
+   "ts": 1793274436,
+   "photo": null
+  },
+  {
+   "key": "POR_BRUNN_KATIE_2026-10-29",
+   "name": "Katie Brunn",
+   "age": "27",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
+   "more": 2,
+   "ts": 1793274433,
+   "photo": null
+  },
+  {
+   "key": "VAN_DAVIS_JULIUS_2026-10-29",
+   "name": "Julius Douglas Davis",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 1,
+   "ts": 1793274431,
+   "photo": "photos/VAN_DAVIS_JULIUS_2026-10-29.jpg"
+  },
   {
    "key": "POR_BOLING_KEVIN_2026-10-29",
    "name": "Kevin Michael Boling",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1793216835,
    "photo": "photos/VAN_RADCLIFF_ERRON_2026-10-28.jpg"
-  },
-  {
-   "key": "POR_BUFFORD_ALEXANDER_2026-10-28",
-   "name": "Alexander Nicholas Bufford",
-   "age": "18",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793216834,
-   "photo": "photos/POR_BUFFORD_ALEXANDER_2026-10-28.jpg"
-  },
-  {
-   "key": "VAN_HALL_ANGELA_2026-10-28",
-   "name": "Angela Kay Hall",
-   "age": "56",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793216832,
-   "photo": null
-  },
-  {
-   "key": "VAN_DORTCH_MARSAILLES_2026-10-28",
-   "name": "Marsailles Lamar Dortch",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Habitual Traffic Violator",
-   "more": 0,
-   "ts": 1793213234,
-   "photo": "photos/VAN_DORTCH_MARSAILLES_2026-10-28.jpg"
-  },
-  {
-   "key": "MAD_WALLACE_JOYCE_2026-10-28",
-   "name": "Joyce Elaine Wallace",
-   "age": "64",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793209738,
-   "photo": "photos/MAD_WALLACE_JOYCE_2026-10-28.jpg"
   }
  ]
 }
