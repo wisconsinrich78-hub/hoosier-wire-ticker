@@ -1,6 +1,83 @@
 {
- "updated": "2026-10-29T19:49:38+00:00",
+ "updated": "2026-10-29T20:49:56+00:00",
  "items": [
+  {
+   "key": "VAN_GOFF_XAVIER_2026-10-29",
+   "name": "Xavier Christopher Ju Goff",
+   "age": "18",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 0,
+   "ts": 1793306855,
+   "photo": "photos/VAN_GOFF_XAVIER_2026-10-29.jpg"
+  },
+  {
+   "key": "VAN_MANE_ADAM_2026-10-29",
+   "name": "Adam Justin Mane",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793306854,
+   "photo": "photos/VAN_MANE_ADAM_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_PATEL_RAJESH_2026-10-29",
+   "name": "Rajesh Patel",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793306850,
+   "photo": "photos/ALL_PATEL_RAJESH_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_MASTERSON_DAVID_2026-10-29",
+   "name": "David Masterson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793306846,
+   "photo": "photos/ALL_MASTERSON_DAVID_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_BURNETT_ANGELO_2026-10-29",
+   "name": "Angelo Burnett",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 2,
+   "ts": 1793306842,
+   "photo": "photos/ALL_BURNETT_ANGELO_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_BRANGMAN_DAJA_2026-10-29",
+   "name": "Daja Brangman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery Result In Bodily Injury",
+   "more": 0,
+   "ts": 1793306838,
+   "photo": "photos/ALL_BRANGMAN_DAJA_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_ABERCROMBIE_CASSIE_2026-10-29",
+   "name": "Cassie Abercrombie",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793306834,
+   "photo": "photos/ALL_ABERCROMBIE_CASSIE_2026-10-29.jpg"
+  },
   {
    "key": "MAD_THREET_BRANDEN_2026-10-29",
    "name": "Branden Lee Threet",
@@ -431,17 +508,6 @@
    "photo": "photos/VAN_BROWN_SAMUEL_2026-10-29.jpg"
   },
   {
-   "key": "ALL_LYNN_ADAM_2026-10-29",
-   "name": "Adam Lynn",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793260037,
-   "photo": "photos/ALL_LYNN_ADAM_2026-10-29.jpg"
-  },
-  {
    "key": "VAN_DAVIS_MICHAEL_2026-10-29",
    "name": "Michael Jason Davis",
    "age": "47",
@@ -453,28 +519,6 @@
    "photo": "photos/VAN_DAVIS_MICHAEL_2026-10-29.jpg"
   },
   {
-   "key": "ALL_RAISOR_CHRISTEN_2026-10-29",
-   "name": "Christen Raisor",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793256440,
-   "photo": "photos/ALL_RAISOR_CHRISTEN_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_PIRTLE_TORIAN_2026-10-29",
-   "name": "Torian Pirtle",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 1,
-   "ts": 1793256436,
-   "photo": "photos/ALL_PIRTLE_TORIAN_2026-10-29.jpg"
-  },
-  {
    "key": "MAD_PIERCE_CLIFFORD_2026-10-29",
    "name": "Clifford Manis Third Pierce",
    "age": "51",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1793252911,
    "photo": "photos/MAD_PIERCE_CLIFFORD_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_PIUNTI_ABBEGAEL_2026-10-29",
-   "name": "Abbegael June Piunti",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1793252843,
-   "photo": null
-  },
-  {
-   "key": "ALL_URBANO_ANDREW_2026-10-29",
-   "name": "Andrew Urbano",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793252840,
-   "photo": "photos/ALL_URBANO_ANDREW_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_FRY_JOSHUA_2026-10-29",
-   "name": "Joshua Fry",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793252835,
-   "photo": "photos/ALL_FRY_JOSHUA_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_LANCE_BETHANY_2026-10-28",
-   "name": "Bethany Faith Lance",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
-   "more": 0,
-   "ts": 1793249248,
-   "photo": "photos/VAN_LANCE_BETHANY_2026-10-28.jpg"
   }
  ]
 }
