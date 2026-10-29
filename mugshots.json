@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-29T00:47:42+00:00",
+ "updated": "2026-10-29T00:50:52+00:00",
  "items": [
+  {
+   "key": "MAD_RICHARDSON_SHANE_2026-10-28",
+   "name": "Shane M Richardson",
+   "age": "49",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793234930,
+   "photo": null
+  },
   {
    "key": "VAN_EALUM_AUDREY_2026-10-28",
    "name": "Audrey Faye Ealum",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793173711,
    "photo": "photos/MAD_SNYDER_ZACHARY_2026-10-28.jpg"
-  },
-  {
-   "key": "POR_COLUNGACASTREJON_FERNANDO_2026-10-28",
-   "name": "Fernando Colunga Castrejon",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
-   "more": 2,
-   "ts": 1793170038,
-   "photo": null
   }
  ]
 }
