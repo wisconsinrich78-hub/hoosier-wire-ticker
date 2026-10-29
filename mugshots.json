@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-29T18:49:41+00:00",
+ "updated": "2026-10-29T19:49:38+00:00",
  "items": [
+  {
+   "key": "MAD_THREET_BRANDEN_2026-10-29",
+   "name": "Branden Lee Threet",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793303364,
+   "photo": "photos/MAD_THREET_BRANDEN_2026-10-29.jpg"
+  },
+  {
+   "key": "POR_SULLIVAN_JOSEPH_2026-10-29",
+   "name": "Joseph Lamont Sullivan",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793303252,
+   "photo": null
+  },
+  {
+   "key": "VAN_PACE_LUCAS_2026-10-29",
+   "name": "Lucas James Pace",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 2,
+   "ts": 1793303249,
+   "photo": "photos/VAN_PACE_LUCAS_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_WHITE_DILLIN_2026-10-29",
+   "name": "Dillin White",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "RESISTING LAW ENFORCEMENT w/ 2 OR MORE PRIOR UNRELATED CONVICTIONS UND",
+   "more": 7,
+   "ts": 1793303245,
+   "photo": "photos/ALL_WHITE_DILLIN_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_CALDWELL_KELSEY_2026-10-29",
+   "name": "Kelsey Caldwell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dangerous Control Of A Handgun",
+   "more": 3,
+   "ts": 1793303240,
+   "photo": "photos/ALL_CALDWELL_KELSEY_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_BOVENSCHEN_DEVIN_2026-10-29",
+   "name": "Devin Bovenschen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 2,
+   "ts": 1793303236,
+   "photo": "photos/ALL_BOVENSCHEN_DEVIN_2026-10-29.jpg"
+  },
   {
    "key": "ALL_CHARLTON_DARIN_2026-10-29",
    "name": "Darin Charlton",
@@ -462,72 +528,6 @@
    "more": 0,
    "ts": 1793249248,
    "photo": "photos/VAN_LANCE_BETHANY_2026-10-28.jpg"
-  },
-  {
-   "key": "VAN_BRUNER_NICHOLAS_2026-10-28",
-   "name": "Nicholas Lee Bruner",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
-   "more": 1,
-   "ts": 1793249247,
-   "photo": "photos/VAN_BRUNER_NICHOLAS_2026-10-28.jpg"
-  },
-  {
-   "key": "ALL_SUTTON_DESTINI_2026-10-28",
-   "name": "Destini Sutton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Abandonment Or Neglect Of Vertebrate Animal",
-   "more": 0,
-   "ts": 1793249243,
-   "photo": "photos/ALL_SUTTON_DESTINI_2026-10-28.jpg"
-  },
-  {
-   "key": "ALL_CLARK_SAVANNAH_2026-10-29",
-   "name": "Savannah Clark",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1793249240,
-   "photo": "photos/ALL_CLARK_SAVANNAH_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_BOOKER_MIRACLE_2026-10-28",
-   "name": "Miracle Booker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Abandonment Or Neglect Of Vertebrate Animal",
-   "more": 0,
-   "ts": 1793249235,
-   "photo": "photos/ALL_BOOKER_MIRACLE_2026-10-28.jpg"
-  },
-  {
-   "key": "POR_FLESCHUT_CHRISTOPHER_2026-10-28",
-   "name": "Christopher Luke Fleschut",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793242032,
-   "photo": null
-  },
-  {
-   "key": "MAD_PARKER_TIMOTHY_2026-10-28",
-   "name": "Timothy Shannon Parker",
-   "age": "66",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated- endangerment",
-   "more": 1,
-   "ts": 1793238512,
-   "photo": null
   }
  ]
 }
