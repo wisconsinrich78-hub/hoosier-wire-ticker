@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-29T05:49:02+00:00",
+ "updated": "2026-10-29T06:49:02+00:00",
  "items": [
+  {
+   "key": "VAN_DAVIS_MICHAEL_2026-10-29",
+   "name": "Michael Jason Davis",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery-Committed With A Deadly Weapon-Felony",
+   "more": 0,
+   "ts": 1793256444,
+   "photo": "photos/VAN_DAVIS_MICHAEL_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_RAISOR_CHRISTEN_2026-10-29",
+   "name": "Christen Raisor",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793256440,
+   "photo": "photos/ALL_RAISOR_CHRISTEN_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_PIRTLE_TORIAN_2026-10-29",
+   "name": "Torian Pirtle",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 1,
+   "ts": 1793256436,
+   "photo": "photos/ALL_PIRTLE_TORIAN_2026-10-29.jpg"
+  },
   {
    "key": "MAD_PIERCE_CLIFFORD_2026-10-29",
    "name": "Clifford Manis Third Pierce",
@@ -376,28 +409,6 @@
    "photo": null
   },
   {
-   "key": "ALL_HARRIS_JERMALSMOND_2026-10-28",
-   "name": "Jermalsmond Harris",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 3,
-   "ts": 1793220446,
-   "photo": "photos/ALL_HARRIS_JERMALSMOND_2026-10-28.jpg"
-  },
-  {
-   "key": "ALL_HARDY_JARON_2026-10-28",
-   "name": "Jaron Hardy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 0,
-   "ts": 1793220435,
-   "photo": "photos/ALL_HARDY_JARON_2026-10-28.jpg"
-  },
-  {
    "key": "MAD_HESS_JEREMY_2026-10-28",
    "name": "Jeremy James Hess",
    "age": "48",
@@ -484,17 +495,6 @@
    "more": 0,
    "ts": 1793209635,
    "photo": "photos/VAN_MATTSON_COURTNEY_2026-10-28.jpg"
-  },
-  {
-   "key": "VAN_LEONARD_MASON_2026-10-28",
-   "name": "Mason Lee Leonard",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Registration Violation",
-   "more": 1,
-   "ts": 1793209632,
-   "photo": "photos/VAN_LEONARD_MASON_2026-10-28.jpg"
   },
   {
    "key": "POR_BRADICH_JESSICA_2026-10-28",
