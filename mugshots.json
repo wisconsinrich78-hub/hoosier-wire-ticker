@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-30T17:50:03+00:00",
+ "updated": "2026-10-30T18:49:42+00:00",
  "items": [
+  {
+   "key": "MAD_OUSLEY_MYEKEL_2026-10-30",
+   "name": "Myekel Antonio Ousley",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation Adult Day Reporting - Jail Booking",
+   "more": 0,
+   "ts": 1793386117,
+   "photo": "photos/MAD_OUSLEY_MYEKEL_2026-10-30.jpg"
+  },
+  {
+   "key": "MAD_MOORE_JODY_2026-10-30",
+   "name": "Jody Ray Moore",
+   "age": "40",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793386110,
+   "photo": "photos/MAD_MOORE_JODY_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_ROGERS_SETH_2026-10-30",
+   "name": "Seth Jacob Rogers",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793386040,
+   "photo": "photos/VAN_ROGERS_SETH_2026-10-30.jpg"
+  },
+  {
+   "key": "ALL_SHANNON_RICHARD_2026-10-30",
+   "name": "Richard Shannon",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1793386036,
+   "photo": "photos/ALL_SHANNON_RICHARD_2026-10-30.jpg"
+  },
+  {
+   "key": "ALL_MOMMER_MARK_2026-10-30",
+   "name": "Mark Mommer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793386032,
+   "photo": "photos/ALL_MOMMER_MARK_2026-10-30.jpg"
+  },
   {
    "key": "MAD_SOZAGRANADOS_RICHARD_2026-10-30",
    "name": "Richard Soza-Granados",
@@ -473,61 +528,6 @@
    "more": 6,
    "ts": 1793342854,
    "photo": null
-  },
-  {
-   "key": "ALL_HINTON_GARY_2026-10-30",
-   "name": "Gary Hinton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 1,
-   "ts": 1793342833,
-   "photo": "photos/ALL_HINTON_GARY_2026-10-30.jpg"
-  },
-  {
-   "key": "POR_GREEN_STEVEN_2026-10-29",
-   "name": "Steven Craig Green",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Shoplifting - Nibrs",
-   "more": 0,
-   "ts": 1793339232,
-   "photo": "photos/POR_GREEN_STEVEN_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_TRAYLOR_TIFFANY_2026-10-29",
-   "name": "Tiffany Lynn Traylor",
-   "age": "49",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Shoplifting - Nibrs",
-   "more": 0,
-   "ts": 1793339229,
-   "photo": "photos/POR_TRAYLOR_TIFFANY_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_HAMILTON_SHENANY_2026-10-29",
-   "name": "Shenany L Hamilton",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or Conversio",
-   "more": 1,
-   "ts": 1793339228,
-   "photo": null
-  },
-  {
-   "key": "POR_MEADE_MARSHALL_2026-10-29",
-   "name": "Marshall Allen Meade",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Criminal Recklessness",
-   "more": 0,
-   "ts": 1793335636,
-   "photo": "photos/POR_MEADE_MARSHALL_2026-10-29.jpg"
   }
  ]
 }
