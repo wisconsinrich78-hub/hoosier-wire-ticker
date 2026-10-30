@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T20:49:27+00:00",
+ "updated": "2026-10-30T21:47:27+00:00",
  "items": [
+  {
+   "key": "VAN_MEREDITH_MELISSA_2026-10-30",
+   "name": "Melissa Dawn Meredith",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or",
+   "more": 0,
+   "ts": 1793396844,
+   "photo": null
+  },
+  {
+   "key": "ALL_SPARKMAN_ADON_2026-10-30",
+   "name": "Adon Sparkman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "more": 1,
+   "ts": 1793396842,
+   "photo": null
+  },
+  {
+   "key": "ALL_MURPHY_CASEY_2026-10-30",
+   "name": "Casey Murphy",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1793396839,
+   "photo": "photos/ALL_MURPHY_CASEY_2026-10-30.jpg"
+  },
   {
    "key": "VAN_ROBISON_LORAN_2026-10-30",
    "name": "Loran Wayne Robison",
@@ -299,17 +332,6 @@
    "photo": "photos/VAN_MUELLER_MICHAEL_2026-10-30.jpg"
   },
   {
-   "key": "VAN_KOUTZ_JAMES_2026-10-30",
-   "name": "James Lee Koutz",
-   "age": "55",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 1,
-   "ts": 1793378840,
-   "photo": null
-  },
-  {
    "key": "ALL_GIBBS_DANIEL_2026-10-30",
    "name": "Daniel Gibbs",
    "age": "",
@@ -473,28 +495,6 @@
    "more": 2,
    "ts": 1793368036,
    "photo": "photos/ALL_LANGSTON_NATHAN_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_DEMITSAS_LUKAS_2026-10-30",
-   "name": "Lukas Demitsas",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793368032,
-   "photo": "photos/ALL_DEMITSAS_LUKAS_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_MARTIN_TONESHA_2026-10-30",
-   "name": "Tonesha Martin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% And < .15%",
-   "more": 2,
-   "ts": 1793360832,
-   "photo": "photos/ALL_MARTIN_TONESHA_2026-10-30.jpg"
   },
   {
    "key": "MAD_JOHNSON_MICHAEL_2026-10-30",
