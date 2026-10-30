@@ -1,6 +1,138 @@
 {
- "updated": "2026-10-30T15:49:32+00:00",
+ "updated": "2026-10-30T16:49:42+00:00",
  "items": [
+  {
+   "key": "MAD_PARKHURST_KEVIN_2026-10-30",
+   "name": "Kevin Dale Junior Parkhurst",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Parole Violation - Jail Booking",
+   "more": 0,
+   "ts": 1793378938,
+   "photo": "photos/MAD_PARKHURST_KEVIN_2026-10-30.jpg"
+  },
+  {
+   "key": "POR_MCDANIEL_BREANNA_2026-10-30",
+   "name": "Breanna Lee Mcdaniel",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793378855,
+   "photo": "photos/POR_MCDANIEL_BREANNA_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_BLYTHE_SABRINA_2026-10-30",
+   "name": "Sabrina Nichael Blythe",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1793378852,
+   "photo": "photos/VAN_BLYTHE_SABRINA_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_BENNINGFIELD_KRISTINA_2026-10-30",
+   "name": "Kristina Dawn Benningfield",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 0,
+   "ts": 1793378851,
+   "photo": "photos/VAN_BENNINGFIELD_KRISTINA_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_KHAN_CHASITY_2026-10-30",
+   "name": "Chasity Alyssa Khan",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possession Schedule I, Ii, Iii, Iv, V",
+   "more": 2,
+   "ts": 1793378848,
+   "photo": "photos/VAN_KHAN_CHASITY_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_FUQUAY_AYDEN_2026-10-30",
+   "name": "Ayden Michael Fuquay",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1793378847,
+   "photo": "photos/VAN_FUQUAY_AYDEN_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_BURRIS_DEANNDREIA_2026-10-30",
+   "name": "Deanndreia Louise Burris",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1793378844,
+   "photo": "photos/VAN_BURRIS_DEANNDREIA_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_ALEXANDER_JUWON_2026-10-30",
+   "name": "Juwon Ty`Rese Alexander",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation With A Deadly Weapon",
+   "more": 4,
+   "ts": 1793378844,
+   "photo": null
+  },
+  {
+   "key": "VAN_MUELLER_MICHAEL_2026-10-30",
+   "name": "Michael Joseph Mueller",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Parole Violation",
+   "more": 0,
+   "ts": 1793378843,
+   "photo": "photos/VAN_MUELLER_MICHAEL_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_KOUTZ_JAMES_2026-10-30",
+   "name": "James Lee Koutz",
+   "age": "55",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 1,
+   "ts": 1793378840,
+   "photo": null
+  },
+  {
+   "key": "ALL_GIBBS_DANIEL_2026-10-30",
+   "name": "Daniel Gibbs",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery",
+   "more": 0,
+   "ts": 1793378839,
+   "photo": null
+  },
+  {
+   "key": "ALL_AMIKER_ANTWOINE_2026-10-30",
+   "name": "Antwoine Amiker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793378835,
+   "photo": "photos/ALL_AMIKER_ANTWOINE_2026-10-30.jpg"
+  },
   {
    "key": "MAD_YOUNG_CARLTON_2026-10-30",
    "name": "Carlton Martell Young",
@@ -396,138 +528,6 @@
    "more": 1,
    "ts": 1793328434,
    "photo": null
-  },
-  {
-   "key": "POR_VAZQUEZ_LOUIS_2026-10-29",
-   "name": "Louis Anthony Vazquez",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793324841,
-   "photo": null
-  },
-  {
-   "key": "VAN_TUTTLE_MATTHEW_2026-10-29",
-   "name": "Matthew John Tuttle",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation With A Deadly Weapon",
-   "more": 0,
-   "ts": 1793324837,
-   "photo": null
-  },
-  {
-   "key": "POR_REDDEN_CHRISTOPHER_2026-10-29",
-   "name": "Christopher Alexander Redden",
-   "age": "49",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1793321242,
-   "photo": null
-  },
-  {
-   "key": "POR_SUTTERFIELD_BRITTNEY_2026-10-29",
-   "name": "Brittney Paige Sutterfield",
-   "age": "38",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793321241,
-   "photo": "photos/POR_SUTTERFIELD_BRITTNEY_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_WATTENBURGER_ALEXANDER_2026-10-29",
-   "name": "Alexander Jakob Wattenburger",
-   "age": "20",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Criminal trespass",
-   "more": 2,
-   "ts": 1793317757,
-   "photo": "photos/MAD_WATTENBURGER_ALEXANDER_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_TILFORD_LUKE_2026-10-29",
-   "name": "Luke Michael Tilford",
-   "age": "25",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Criminal Recklessness / Aggressive Driving Resulting In Death",
-   "more": 4,
-   "ts": 1793317640,
-   "photo": "photos/POR_TILFORD_LUKE_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_PENNINGTON_KENNETH_2026-10-29",
-   "name": "Kenneth Edward Pennington",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793317637,
-   "photo": null
-  },
-  {
-   "key": "ALL_IRISH_JIMMEY_2026-10-29",
-   "name": "Jimmey Irish",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1793317636,
-   "photo": "photos/ALL_IRISH_JIMMEY_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_WILLIAMS_HEATHER_2026-10-29",
-   "name": "Heather Dawn Williams",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 1,
-   "ts": 1793314046,
-   "photo": null
-  },
-  {
-   "key": "ALL_SHILLING_NATHANIEL_2026-10-29",
-   "name": "Nathaniel Shilling",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 1,
-   "ts": 1793314045,
-   "photo": "photos/ALL_SHILLING_NATHANIEL_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_VANHOOSER_CHRISTINA_2026-10-29",
-   "name": "Christina Nicole Vanhooser",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 2,
-   "ts": 1793310438,
-   "photo": "photos/VAN_VANHOOSER_CHRISTINA_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_DILLS_RYAN_2026-10-29",
-   "name": "Ryan Wesley Dills",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1793310437,
-   "photo": "photos/VAN_DILLS_RYAN_2026-10-29.jpg"
   }
  ]
 }
