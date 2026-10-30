@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T11:49:03+00:00",
+ "updated": "2026-10-30T13:49:41+00:00",
  "items": [
+  {
+   "key": "ALL_RONNING_BRAYDEN_2026-10-30",
+   "name": "Brayden Ronning",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 4,
+   "ts": 1793368040,
+   "photo": "photos/ALL_RONNING_BRAYDEN_2026-10-30.jpg"
+  },
+  {
+   "key": "ALL_LANGSTON_NATHAN_2026-10-30",
+   "name": "Nathan Langston",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
+   "more": 2,
+   "ts": 1793368036,
+   "photo": "photos/ALL_LANGSTON_NATHAN_2026-10-30.jpg"
+  },
+  {
+   "key": "ALL_DEMITSAS_LUKAS_2026-10-30",
+   "name": "Lukas Demitsas",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793368032,
+   "photo": "photos/ALL_DEMITSAS_LUKAS_2026-10-30.jpg"
+  },
   {
    "key": "ALL_MARTIN_TONESHA_2026-10-30",
    "name": "Tonesha Martin",
@@ -453,28 +486,6 @@
    "photo": "photos/ALL_BURNETT_ANGELO_2026-10-29.jpg"
   },
   {
-   "key": "ALL_BRANGMAN_DAJA_2026-10-29",
-   "name": "Daja Brangman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery Result In Bodily Injury",
-   "more": 0,
-   "ts": 1793306838,
-   "photo": "photos/ALL_BRANGMAN_DAJA_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_ABERCROMBIE_CASSIE_2026-10-29",
-   "name": "Cassie Abercrombie",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793306834,
-   "photo": "photos/ALL_ABERCROMBIE_CASSIE_2026-10-29.jpg"
-  },
-  {
    "key": "MAD_THREET_BRANDEN_2026-10-29",
    "name": "Branden Lee Threet",
    "age": "32",
@@ -506,17 +517,6 @@
    "more": 2,
    "ts": 1793303249,
    "photo": "photos/VAN_PACE_LUCAS_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_WHITE_DILLIN_2026-10-29",
-   "name": "Dillin White",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "RESISTING LAW ENFORCEMENT w/ 2 OR MORE PRIOR UNRELATED CONVICTIONS UND",
-   "more": 7,
-   "ts": 1793303245,
-   "photo": "photos/ALL_WHITE_DILLIN_2026-10-29.jpg"
   },
   {
    "key": "POR_LANE_CURTIS_2026-10-29",
