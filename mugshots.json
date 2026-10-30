@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T04:49:26+00:00",
+ "updated": "2026-10-30T05:49:10+00:00",
  "items": [
+  {
+   "key": "POR_GREEN_STEVEN_2026-10-29",
+   "name": "Steven Craig Green",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft- Shoplifting - Nibrs",
+   "more": 0,
+   "ts": 1793339232,
+   "photo": "photos/POR_GREEN_STEVEN_2026-10-29.jpg"
+  },
+  {
+   "key": "POR_TRAYLOR_TIFFANY_2026-10-29",
+   "name": "Tiffany Lynn Traylor",
+   "age": "49",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft- Shoplifting - Nibrs",
+   "more": 0,
+   "ts": 1793339229,
+   "photo": "photos/POR_TRAYLOR_TIFFANY_2026-10-29.jpg"
+  },
+  {
+   "key": "POR_HAMILTON_SHENANY_2026-10-29",
+   "name": "Shenany L Hamilton",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or Conversio",
+   "more": 1,
+   "ts": 1793339228,
+   "photo": null
+  },
   {
    "key": "POR_MEADE_MARSHALL_2026-10-29",
    "name": "Marshall Allen Meade",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793288941,
    "photo": "photos/MAD_SUTTON_DEONTE_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_JARVIS_ANGEL_2026-10-29",
-   "name": "Angel Marie Jarvis",
-   "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Community Corrections",
-   "more": 0,
-   "ts": 1793288895,
-   "photo": "photos/MAD_JARVIS_ANGEL_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_ALLEN_SPELMON_2026-10-29",
-   "name": "Spelmon Sean Allen",
-   "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Contempt of Court - Jail Booking",
-   "more": 0,
-   "ts": 1793288849,
-   "photo": "photos/MAD_ALLEN_SPELMON_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_ZELLER_AMBER_2026-10-29",
-   "name": "Amber Marie Zeller",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793288839,
-   "photo": "photos/VAN_ZELLER_AMBER_2026-10-29.jpg"
   }
  ]
 }
