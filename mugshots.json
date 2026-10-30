@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-30T05:49:10+00:00",
+ "updated": "2026-10-30T06:49:06+00:00",
  "items": [
+  {
+   "key": "MAD_MERRITT_STEVEN_2026-10-30",
+   "name": "Steven Scott Merritt",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Criminal Vandalism (B/M)",
+   "more": 0,
+   "ts": 1793342891,
+   "photo": "photos/MAD_MERRITT_STEVEN_2026-10-30.jpg"
+  },
+  {
+   "key": "MAD_HILL_CAMERON_2026-10-30",
+   "name": "Cameron Nathanael-Ichiro Hill",
+   "age": "23",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating with controlled substance in body",
+   "more": 1,
+   "ts": 1793342872,
+   "photo": null
+  },
+  {
+   "key": "MAD_DICKEY_SHERMAN_2026-10-30",
+   "name": "Sherman Everette Dickey",
+   "age": "47",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession paraphernalia",
+   "more": 6,
+   "ts": 1793342854,
+   "photo": null
+  },
+  {
+   "key": "ALL_HINTON_GARY_2026-10-30",
+   "name": "Gary Hinton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 1,
+   "ts": 1793342833,
+   "photo": "photos/ALL_HINTON_GARY_2026-10-30.jpg"
+  },
   {
    "key": "POR_GREEN_STEVEN_2026-10-29",
    "name": "Steven Craig Green",
@@ -409,17 +453,6 @@
    "photo": "photos/ALL_BOVENSCHEN_DEVIN_2026-10-29.jpg"
   },
   {
-   "key": "ALL_CHARLTON_DARIN_2026-10-29",
-   "name": "Darin Charlton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793299637,
-   "photo": "photos/ALL_CHARLTON_DARIN_2026-10-29.jpg"
-  },
-  {
    "key": "POR_LANE_CURTIS_2026-10-29",
    "name": "Curtis Michael Louis Lane",
    "age": "34",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793292450,
    "photo": null
-  },
-  {
-   "key": "VAN_GRAVES_KELSEY_2026-10-29",
-   "name": "Kelsey Olivia Graves",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 2,
-   "ts": 1793292447,
-   "photo": "photos/VAN_GRAVES_KELSEY_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_WINSTON_MARTEL_2026-10-29",
-   "name": "Martel Lee Winston",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Parole Violation - Jail Booking",
-   "more": 0,
-   "ts": 1793288950,
-   "photo": "photos/MAD_WINSTON_MARTEL_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_SUTTON_DEONTE_2026-10-29",
-   "name": "Deonte Lamar Sutton",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793288941,
-   "photo": "photos/MAD_SUTTON_DEONTE_2026-10-29.jpg"
   }
  ]
 }
