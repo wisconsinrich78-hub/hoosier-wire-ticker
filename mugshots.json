@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T03:49:17+00:00",
+ "updated": "2026-10-30T04:49:26+00:00",
  "items": [
+  {
+   "key": "POR_MEADE_MARSHALL_2026-10-29",
+   "name": "Marshall Allen Meade",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Criminal Recklessness",
+   "more": 0,
+   "ts": 1793335636,
+   "photo": "photos/POR_MEADE_MARSHALL_2026-10-29.jpg"
+  },
+  {
+   "key": "POR_ROGERS_DONITA_2026-10-29",
+   "name": "Donita D Rogers",
+   "age": "25",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Resisting Law Enforcement Def. Uses A Vehicle.",
+   "more": 4,
+   "ts": 1793335634,
+   "photo": null
+  },
+  {
+   "key": "ALL_CONEY_EDWARD_2026-10-29",
+   "name": "Edward Coney",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1793335631,
+   "photo": "photos/ALL_CONEY_EDWARD_2026-10-29.jpg"
+  },
   {
    "key": "VAN_SPAIN_JEMEEREO_2026-10-29",
    "name": "Jemeereo Laron Spain",
@@ -387,17 +420,6 @@
    "photo": "photos/POR_BIVENS_TAMIKA_2026-10-29.jpg"
   },
   {
-   "key": "ALL_ALASAL_MOHAMED_2026-10-29",
-   "name": "Mohamed Alasal",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Habitual Traffic Violator",
-   "more": 0,
-   "ts": 1793296035,
-   "photo": "photos/ALL_ALASAL_MOHAMED_2026-10-29.jpg"
-  },
-  {
    "key": "MAD_MCCAULEY_NICHOLAS_2026-10-29",
    "name": "Nicholas Lee Mccauley",
    "age": "31",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1793288839,
    "photo": "photos/VAN_ZELLER_AMBER_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_FLEMING_KEVIN_2026-10-29",
-   "name": "Kevin Ray Fleming",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1793285241,
-   "photo": "photos/VAN_FLEMING_KEVIN_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_ALEXANDER_TIFFANY_2026-10-28",
-   "name": "Tiffany Ann Alexander",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1793285239,
-   "photo": "photos/POR_ALEXANDER_TIFFANY_2026-10-28.jpg"
   }
  ]
 }
