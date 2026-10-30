@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-30T09:49:05+00:00",
+ "updated": "2026-10-30T10:49:04+00:00",
  "items": [
+  {
+   "key": "MAD_JOHNSON_MICHAEL_2026-10-30",
+   "name": "Michael Tyrone Junior Johnson",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793357281,
+   "photo": "photos/MAD_JOHNSON_MICHAEL_2026-10-30.jpg"
+  },
+  {
+   "key": "POR_PHELPS_JACOB_2026-10-30",
+   "name": "Jacob Graham Phelps",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
+   "more": 3,
+   "ts": 1793357229,
+   "photo": null
+  },
   {
    "key": "MAD_WATSON_TYQUAN_2026-10-30",
    "name": "Ty'Quan Raymon Watson",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1793296041,
    "photo": "photos/POR_LANE_CURTIS_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_DUNCAN_PATRICIA_2026-10-29",
-   "name": "Patricia Mae Duncan",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
-   "more": 2,
-   "ts": 1793296040,
-   "photo": "photos/POR_DUNCAN_PATRICIA_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_BIVENS_TAMIKA_2026-10-29",
-   "name": "Tamika Latoya Bivens",
-   "age": "49",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793296038,
-   "photo": "photos/POR_BIVENS_TAMIKA_2026-10-29.jpg"
   }
  ]
 }
