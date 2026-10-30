@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T19:49:44+00:00",
+ "updated": "2026-10-30T20:49:27+00:00",
  "items": [
+  {
+   "key": "VAN_ROBISON_LORAN_2026-10-30",
+   "name": "Loran Wayne Robison",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft",
+   "more": 0,
+   "ts": 1793393237,
+   "photo": null
+  },
+  {
+   "key": "VAN_FRY_LAURA_2026-10-30",
+   "name": "Laura Gail Fry",
+   "age": "59",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Operating While Intoxicated \u2013 Serious Bodily Injury",
+   "more": 1,
+   "ts": 1793393237,
+   "photo": null
+  },
+  {
+   "key": "VAN_SCHMITT_LOGAN_2026-10-30",
+   "name": "Logan James Schmitt",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Operating While Intoxicated \u2013 Serious Bodily Injury",
+   "more": 2,
+   "ts": 1793393237,
+   "photo": null
+  },
   {
    "key": "VAN_LANE_DANIEL_2026-10-30",
    "name": "Daniel Eugene Lane",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793353735,
    "photo": "photos/MAD_WATSON_TYQUAN_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_NEVINGS_TOMMIE_2026-10-30",
-   "name": "Tommie Lee Junior Nevings",
-   "age": "55",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1793353700,
-   "photo": "photos/MAD_NEVINGS_TOMMIE_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_MCBEE_CODY_2026-10-30",
-   "name": "Cody Mcbee",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession of Contr Sub: Schedule II,III,IV",
-   "more": 2,
-   "ts": 1793353687,
-   "photo": null
-  },
-  {
-   "key": "POR_DOAN_TESSA_2026-10-30",
-   "name": "Tessa Michelle Doan",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1793350031,
-   "photo": null
   }
  ]
 }
