@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T22:49:59+00:00",
+ "updated": "2026-10-30T23:49:28+00:00",
  "items": [
+  {
+   "key": "MAD_ANDERSON_VICTOR_2026-10-30",
+   "name": "Victor Everett Anderson",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-adult against family or member less than 14 years old",
+   "more": 1,
+   "ts": 1793404037,
+   "photo": null
+  },
+  {
+   "key": "VAN_MOBLEY_KEVIN_2026-10-30",
+   "name": "Kevin Matthew Mobley",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 5,
+   "ts": 1793404029,
+   "photo": null
+  },
+  {
+   "key": "VAN_OMERSPAHIC_SALIH_2026-10-30",
+   "name": "Salih Nmn Omerspahic",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Writ Of Attachment",
+   "more": 2,
+   "ts": 1793404029,
+   "photo": null
+  },
   {
    "key": "MAD_BUTCHER_DATHANIEL_2026-10-30",
    "name": "Dathaniel Lee Butcher",
@@ -354,28 +387,6 @@
    "photo": "photos/VAN_KHAN_CHASITY_2026-10-30.jpg"
   },
   {
-   "key": "VAN_FUQUAY_AYDEN_2026-10-30",
-   "name": "Ayden Michael Fuquay",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 1,
-   "ts": 1793378847,
-   "photo": "photos/VAN_FUQUAY_AYDEN_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_BURRIS_DEANNDREIA_2026-10-30",
-   "name": "Deanndreia Louise Burris",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793378844,
-   "photo": "photos/VAN_BURRIS_DEANNDREIA_2026-10-30.jpg"
-  },
-  {
    "key": "ALL_GIBBS_DANIEL_2026-10-30",
    "name": "Daniel Gibbs",
    "age": "",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793357281,
    "photo": "photos/MAD_JOHNSON_MICHAEL_2026-10-30.jpg"
-  },
-  {
-   "key": "POR_PHELPS_JACOB_2026-10-30",
-   "name": "Jacob Graham Phelps",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 3,
-   "ts": 1793357229,
-   "photo": null
   }
  ]
 }
