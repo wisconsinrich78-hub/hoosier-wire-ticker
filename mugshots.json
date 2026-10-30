@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-30T21:47:27+00:00",
+ "updated": "2026-10-30T22:49:59+00:00",
  "items": [
+  {
+   "key": "MAD_BUTCHER_DATHANIEL_2026-10-30",
+   "name": "Dathaniel Lee Butcher",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793400477,
+   "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_JOHNSON_JEFFERY_2026-10-30",
+   "name": "Jeffery Dewayne Johnson",
+   "age": "51",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Sex Crime- Child Molest",
+   "more": 1,
+   "ts": 1793400448,
+   "photo": null
+  },
+  {
+   "key": "VAN_MILLS_ASHLEY_2026-10-30",
+   "name": "Ashley Marie Mills",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 2,
+   "ts": 1793400448,
+   "photo": null
+  },
+  {
+   "key": "ALL_RIVAS_MELINA_2026-10-30",
+   "name": "Melina Rivas",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793400445,
+   "photo": "photos/ALL_RIVAS_MELINA_2026-10-30.jpg"
+  },
+  {
+   "key": "ALL_RILEY_CREGG_2026-10-30",
+   "name": "Cregg Riley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793400438,
+   "photo": "photos/ALL_RILEY_CREGG_2026-10-30.jpg"
+  },
+  {
+   "key": "ALL_LOCKETT_MARCUS_2026-10-30",
+   "name": "Marcus Lockett",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1793400434,
+   "photo": "photos/ALL_LOCKETT_MARCUS_2026-10-30.jpg"
+  },
   {
    "key": "VAN_MEREDITH_MELISSA_2026-10-30",
    "name": "Melissa Dawn Meredith",
@@ -310,28 +376,6 @@
    "photo": "photos/VAN_BURRIS_DEANNDREIA_2026-10-30.jpg"
   },
   {
-   "key": "VAN_ALEXANDER_JUWON_2026-10-30",
-   "name": "Juwon Ty`Rese Alexander",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation With A Deadly Weapon",
-   "more": 4,
-   "ts": 1793378844,
-   "photo": null
-  },
-  {
-   "key": "VAN_MUELLER_MICHAEL_2026-10-30",
-   "name": "Michael Joseph Mueller",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1793378843,
-   "photo": "photos/VAN_MUELLER_MICHAEL_2026-10-30.jpg"
-  },
-  {
    "key": "ALL_GIBBS_DANIEL_2026-10-30",
    "name": "Daniel Gibbs",
    "age": "",
@@ -464,39 +508,6 @@
    "photo": "photos/ALL_SPECK_DANIEL_2026-10-30.jpg"
   },
   {
-   "key": "ALL_BROWN_SHAWNTE_2026-10-30",
-   "name": "Shawnte Brown",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt Of Court-Civil",
-   "more": 0,
-   "ts": 1793371630,
-   "photo": "photos/ALL_BROWN_SHAWNTE_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_RONNING_BRAYDEN_2026-10-30",
-   "name": "Brayden Ronning",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 4,
-   "ts": 1793368040,
-   "photo": "photos/ALL_RONNING_BRAYDEN_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_LANGSTON_NATHAN_2026-10-30",
-   "name": "Nathan Langston",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
-   "more": 2,
-   "ts": 1793368036,
-   "photo": "photos/ALL_LANGSTON_NATHAN_2026-10-30.jpg"
-  },
-  {
    "key": "MAD_JOHNSON_MICHAEL_2026-10-30",
    "name": "Michael Tyrone Junior Johnson",
    "age": "32",
@@ -517,17 +528,6 @@
    "more": 3,
    "ts": 1793357229,
    "photo": null
-  },
-  {
-   "key": "MAD_WATSON_TYQUAN_2026-10-30",
-   "name": "Ty'Quan Raymon Watson",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793353735,
-   "photo": "photos/MAD_WATSON_TYQUAN_2026-10-30.jpg"
   }
  ]
 }
