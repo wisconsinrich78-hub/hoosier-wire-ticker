@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T02:47:26+00:00",
+ "updated": "2026-10-30T03:49:17+00:00",
  "items": [
+  {
+   "key": "VAN_SPAIN_JEMEEREO_2026-10-29",
+   "name": "Jemeereo Laron Spain",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
+   "more": 2,
+   "ts": 1793332037,
+   "photo": null
+  },
+  {
+   "key": "ALL_ZAN_RAM_2026-10-29",
+   "name": "Ram Zan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 2,
+   "ts": 1793332036,
+   "photo": "photos/ALL_ZAN_RAM_2026-10-29.jpg"
+  },
+  {
+   "key": "ALL_FAIRCHILD_COURTNEY_2026-10-29",
+   "name": "Courtney Fairchild",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1793332031,
+   "photo": "photos/ALL_FAIRCHILD_COURTNEY_2026-10-29.jpg"
+  },
   {
    "key": "VAN_DOERR_TIMOTHY_2026-10-29",
    "name": "Timothy Logan Doerr",
@@ -420,28 +453,6 @@
    "photo": "photos/VAN_GRAVES_KELSEY_2026-10-29.jpg"
   },
   {
-   "key": "ALL_WEBB_KEIONTAE_2026-10-29",
-   "name": "Keiontae Webb",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing In Marijuana/Hash",
-   "more": 1,
-   "ts": 1793292443,
-   "photo": "photos/ALL_WEBB_KEIONTAE_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_GIL_JOE_2026-10-29",
-   "name": "Joe Gil",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 1,
-   "ts": 1793292439,
-   "photo": "photos/ALL_GIL_JOE_2026-10-29.jpg"
-  },
-  {
    "key": "MAD_WINSTON_MARTEL_2026-10-29",
    "name": "Martel Lee Winston",
    "age": "24",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793285239,
    "photo": "photos/POR_ALEXANDER_TIFFANY_2026-10-28.jpg"
-  },
-  {
-   "key": "VAN_ANDERSON_TAVIS_2026-10-29",
-   "name": "Tavis Corbin Anderson",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery-Committed With A Deadly Weapon-Felony",
-   "more": 7,
-   "ts": 1793278030,
-   "photo": null
   }
  ]
 }
