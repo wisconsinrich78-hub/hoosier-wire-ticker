@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-29T23:49:44+00:00",
+ "updated": "2026-10-30T00:49:32+00:00",
  "items": [
+  {
+   "key": "POR_REDDEN_CHRISTOPHER_2026-10-29",
+   "name": "Christopher Alexander Redden",
+   "age": "49",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1793321242,
+   "photo": null
+  },
+  {
+   "key": "POR_SUTTERFIELD_BRITTNEY_2026-10-29",
+   "name": "Brittney Paige Sutterfield",
+   "age": "38",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793321241,
+   "photo": "photos/POR_SUTTERFIELD_BRITTNEY_2026-10-29.jpg"
+  },
   {
    "key": "MAD_WATTENBURGER_ALEXANDER_2026-10-29",
    "name": "Alexander Jakob Wattenburger",
@@ -506,28 +528,6 @@
    "more": 2,
    "ts": 1793274433,
    "photo": null
-  },
-  {
-   "key": "VAN_DAVIS_JULIUS_2026-10-29",
-   "name": "Julius Douglas Davis",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1793274431,
-   "photo": "photos/VAN_DAVIS_JULIUS_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_BOLING_KEVIN_2026-10-29",
-   "name": "Kevin Michael Boling",
-   "age": "44",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol",
-   "more": 2,
-   "ts": 1793270839,
-   "photo": "photos/POR_BOLING_KEVIN_2026-10-29.jpg"
   }
  ]
 }
