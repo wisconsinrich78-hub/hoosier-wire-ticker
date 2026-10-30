@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-30T16:49:42+00:00",
+ "updated": "2026-10-30T17:50:03+00:00",
  "items": [
+  {
+   "key": "MAD_SOZAGRANADOS_RICHARD_2026-10-30",
+   "name": "Richard Soza-Granados",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for ICE - Jail Booking",
+   "more": 1,
+   "ts": 1793382546,
+   "photo": "photos/MAD_SOZAGRANADOS_RICHARD_2026-10-30.jpg"
+  },
+  {
+   "key": "MAD_SOTELO_JAIME_2026-10-30",
+   "name": "Jaime Sotelo",
+   "age": "22",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793382542,
+   "photo": null
+  },
+  {
+   "key": "POR_TON_QUOCVIET_2026-10-30",
+   "name": "Quocviet Ton",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793382443,
+   "photo": "photos/POR_TON_QUOCVIET_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_PRIETO_KEVIN_2026-10-30",
+   "name": "Kevin Yajell Prieto",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1793382441,
+   "photo": "photos/VAN_PRIETO_KEVIN_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_TOMLINSON_TAURUS_2026-10-30",
+   "name": "Taurus Sorrell Tomlinson",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Fraud On A Financial Institution",
+   "more": 2,
+   "ts": 1793382439,
+   "photo": "photos/VAN_TOMLINSON_TAURUS_2026-10-30.jpg"
+  },
+  {
+   "key": "ALL_WILLMAN_JOSHUA_2026-10-30",
+   "name": "Joshua Willman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft Shoplifting Value Of Property At Least 750 And Less Than 50K",
+   "more": 0,
+   "ts": 1793382435,
+   "photo": "photos/ALL_WILLMAN_JOSHUA_2026-10-30.jpg"
+  },
   {
    "key": "MAD_PARKHURST_KEVIN_2026-10-30",
    "name": "Kevin Dale Junior Parkhurst",
@@ -462,72 +528,6 @@
    "more": 0,
    "ts": 1793335636,
    "photo": "photos/POR_MEADE_MARSHALL_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_ROGERS_DONITA_2026-10-29",
-   "name": "Donita D Rogers",
-   "age": "25",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Resisting Law Enforcement Def. Uses A Vehicle.",
-   "more": 4,
-   "ts": 1793335634,
-   "photo": null
-  },
-  {
-   "key": "ALL_CONEY_EDWARD_2026-10-29",
-   "name": "Edward Coney",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 0,
-   "ts": 1793335631,
-   "photo": "photos/ALL_CONEY_EDWARD_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_SPAIN_JEMEEREO_2026-10-29",
-   "name": "Jemeereo Laron Spain",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
-   "more": 2,
-   "ts": 1793332037,
-   "photo": null
-  },
-  {
-   "key": "ALL_ZAN_RAM_2026-10-29",
-   "name": "Ram Zan",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Fleeing",
-   "more": 2,
-   "ts": 1793332036,
-   "photo": "photos/ALL_ZAN_RAM_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_FAIRCHILD_COURTNEY_2026-10-29",
-   "name": "Courtney Fairchild",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793332031,
-   "photo": "photos/ALL_FAIRCHILD_COURTNEY_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_DOERR_TIMOTHY_2026-10-29",
-   "name": "Timothy Logan Doerr",
-   "age": "62",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 1,
-   "ts": 1793328434,
-   "photo": null
   }
  ]
 }
