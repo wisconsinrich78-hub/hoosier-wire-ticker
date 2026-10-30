@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-30T07:49:28+00:00",
+ "updated": "2026-10-30T08:48:58+00:00",
  "items": [
+  {
+   "key": "POR_DOAN_TESSA_2026-10-30",
+   "name": "Tessa Michelle Doan",
+   "age": "21",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 2,
+   "ts": 1793350031,
+   "photo": null
+  },
   {
    "key": "ALL_THOMPSON_CALEB_2026-10-30",
    "name": "Caleb Thompson",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793292451,
    "photo": "photos/POR_MADDEN_RICHARD_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_MILLER_KENNY_2026-10-29",
-   "name": "Kenny Frank Miller",
-   "age": "38",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Burglary",
-   "more": 0,
-   "ts": 1793292450,
-   "photo": null
   }
  ]
 }
