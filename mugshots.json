@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-30T13:49:41+00:00",
+ "updated": "2026-10-30T14:49:53+00:00",
  "items": [
+  {
+   "key": "POR_BURGESS_KOLIN_2026-10-30",
+   "name": "Kolin Jay Burgess",
+   "age": "27",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793371641,
+   "photo": null
+  },
+  {
+   "key": "POR_DEMONBREUN_LELAND_2026-10-30",
+   "name": "Leland Joyce Demonbreun",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Cruelty To Animals",
+   "more": 0,
+   "ts": 1793371638,
+   "photo": null
+  },
+  {
+   "key": "ALL_SPECK_DANIEL_2026-10-30",
+   "name": "Daniel Speck",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793371634,
+   "photo": "photos/ALL_SPECK_DANIEL_2026-10-30.jpg"
+  },
+  {
+   "key": "ALL_BROWN_SHAWNTE_2026-10-30",
+   "name": "Shawnte Brown",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt Of Court-Civil",
+   "more": 0,
+   "ts": 1793371630,
+   "photo": "photos/ALL_BROWN_SHAWNTE_2026-10-30.jpg"
+  },
   {
    "key": "ALL_RONNING_BRAYDEN_2026-10-30",
    "name": "Brayden Ronning",
@@ -464,28 +508,6 @@
    "photo": "photos/ALL_PATEL_RAJESH_2026-10-29.jpg"
   },
   {
-   "key": "ALL_MASTERSON_DAVID_2026-10-29",
-   "name": "David Masterson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793306846,
-   "photo": "photos/ALL_MASTERSON_DAVID_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_BURNETT_ANGELO_2026-10-29",
-   "name": "Angelo Burnett",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 2,
-   "ts": 1793306842,
-   "photo": "photos/ALL_BURNETT_ANGELO_2026-10-29.jpg"
-  },
-  {
    "key": "MAD_THREET_BRANDEN_2026-10-29",
    "name": "Branden Lee Threet",
    "age": "32",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1793303252,
    "photo": null
-  },
-  {
-   "key": "VAN_PACE_LUCAS_2026-10-29",
-   "name": "Lucas James Pace",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 2,
-   "ts": 1793303249,
-   "photo": "photos/VAN_PACE_LUCAS_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_LANE_CURTIS_2026-10-29",
-   "name": "Curtis Michael Louis Lane",
-   "age": "34",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Accident Leave The Scene",
-   "more": 0,
-   "ts": 1793296041,
-   "photo": "photos/POR_LANE_CURTIS_2026-10-29.jpg"
   }
  ]
 }
