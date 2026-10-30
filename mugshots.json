@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-30T08:48:58+00:00",
+ "updated": "2026-10-30T09:49:05+00:00",
  "items": [
+  {
+   "key": "MAD_WATSON_TYQUAN_2026-10-30",
+   "name": "Ty'Quan Raymon Watson",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793353735,
+   "photo": "photos/MAD_WATSON_TYQUAN_2026-10-30.jpg"
+  },
+  {
+   "key": "MAD_NEVINGS_TOMMIE_2026-10-30",
+   "name": "Tommie Lee Junior Nevings",
+   "age": "55",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1793353700,
+   "photo": "photos/MAD_NEVINGS_TOMMIE_2026-10-30.jpg"
+  },
+  {
+   "key": "MAD_MCBEE_CODY_2026-10-30",
+   "name": "Cody Mcbee",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession of Contr Sub: Schedule II,III,IV",
+   "more": 2,
+   "ts": 1793353687,
+   "photo": null
+  },
   {
    "key": "POR_DOAN_TESSA_2026-10-30",
    "name": "Tessa Michelle Doan",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793296038,
    "photo": "photos/POR_BIVENS_TAMIKA_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_MCCAULEY_NICHOLAS_2026-10-29",
-   "name": "Nicholas Lee Mccauley",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793292518,
-   "photo": "photos/MAD_MCCAULEY_NICHOLAS_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_HUNTER_AMBER_2026-10-29",
-   "name": "Amber Jo Hunter",
-   "age": "42",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793292503,
-   "photo": "photos/MAD_HUNTER_AMBER_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_MADDEN_RICHARD_2026-10-29",
-   "name": "Richard Patrick Madden",
-   "age": "38",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793292451,
-   "photo": "photos/POR_MADDEN_RICHARD_2026-10-29.jpg"
   }
  ]
 }
