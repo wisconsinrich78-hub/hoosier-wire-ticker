@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T12:49:19+00:00",
+ "updated": "2026-10-31T13:49:23+00:00",
  "items": [
+  {
+   "key": "ALL_JONES_NYEAUHNNA_2026-10-31",
+   "name": "Nyeauhnna Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder",
+   "more": 0,
+   "ts": 1793454430,
+   "photo": "photos/ALL_JONES_NYEAUHNNA_2026-10-31.jpg"
+  },
   {
    "key": "MAD_TROUT_ANDREW_2026-10-31",
    "name": "Andrew Richard Trout",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1793400448,
    "photo": null
-  },
-  {
-   "key": "ALL_RIVAS_MELINA_2026-10-30",
-   "name": "Melina Rivas",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793400445,
-   "photo": "photos/ALL_RIVAS_MELINA_2026-10-30.jpg"
   }
  ]
 }
