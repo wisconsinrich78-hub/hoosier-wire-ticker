@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-31T05:49:35+00:00",
+ "updated": "2026-10-31T06:50:07+00:00",
  "items": [
+  {
+   "key": "POR_LEWIS_PEYTON_2026-10-31",
+   "name": "Peyton Josephine Lewis",
+   "age": "18",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Minor Consume An Alcoholic Beverage",
+   "more": 0,
+   "ts": 1793429251,
+   "photo": null
+  },
+  {
+   "key": "POR_PAAPE_LINDZIE_2026-10-31",
+   "name": "Lindzie Rose Paape",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Minor Consume An Alcoholic Beverage",
+   "more": 0,
+   "ts": 1793429250,
+   "photo": null
+  },
+  {
+   "key": "POR_SEARS_KAYLEE_2026-10-31",
+   "name": "Kaylee Sears",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Minor Consume An Alcoholic Beverage",
+   "more": 0,
+   "ts": 1793429248,
+   "photo": null
+  },
+  {
+   "key": "VAN_MONOHANPETTINATO_KELLY_2026-10-30",
+   "name": "Kelly Marie Monohan Pettinato",
+   "age": "61",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 1,
+   "ts": 1793429244,
+   "photo": "photos/VAN_MONOHANPETTINATO_KELLY_2026-10-30.jpg"
+  },
+  {
+   "key": "VAN_PACHECOPINEDA_ANGEL_2026-10-31",
+   "name": "Angel Daniel Pacheco-Pineda",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Reckless Driving",
+   "more": 2,
+   "ts": 1793429243,
+   "photo": "photos/VAN_PACHECOPINEDA_ANGEL_2026-10-31.jpg"
+  },
+  {
+   "key": "ALL_WALLACE_MARQUAVION_2026-10-31",
+   "name": "Marquavion Wallace",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793429240,
+   "photo": "photos/ALL_WALLACE_MARQUAVION_2026-10-31.jpg"
+  },
+  {
+   "key": "ALL_RHINESMITH_PAULA_2026-10-31",
+   "name": "Paula Rhinesmith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia",
+   "more": 0,
+   "ts": 1793429236,
+   "photo": "photos/ALL_RHINESMITH_PAULA_2026-10-31.jpg"
+  },
+  {
+   "key": "ALL_DIAZDIAZ_JENNIFER_2026-10-31",
+   "name": "Jennifer Diaz-Diaz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia - Prior Judgement Or Conviction",
+   "more": 0,
+   "ts": 1793429232,
+   "photo": "photos/ALL_DIAZDIAZ_JENNIFER_2026-10-31.jpg"
+  },
   {
    "key": "MAD_STEVENS_CURTIS_2026-10-31",
    "name": "Curtis Shawn Stevens",
@@ -440,94 +528,6 @@
    "more": 0,
    "ts": 1793382443,
    "photo": "photos/POR_TON_QUOCVIET_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_PRIETO_KEVIN_2026-10-30",
-   "name": "Kevin Yajell Prieto",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793382441,
-   "photo": "photos/VAN_PRIETO_KEVIN_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_TOMLINSON_TAURUS_2026-10-30",
-   "name": "Taurus Sorrell Tomlinson",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Fraud On A Financial Institution",
-   "more": 2,
-   "ts": 1793382439,
-   "photo": "photos/VAN_TOMLINSON_TAURUS_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_WILLMAN_JOSHUA_2026-10-30",
-   "name": "Joshua Willman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Shoplifting Value Of Property At Least 750 And Less Than 50K",
-   "more": 0,
-   "ts": 1793382435,
-   "photo": "photos/ALL_WILLMAN_JOSHUA_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_PARKHURST_KEVIN_2026-10-30",
-   "name": "Kevin Dale Junior Parkhurst",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Parole Violation - Jail Booking",
-   "more": 0,
-   "ts": 1793378938,
-   "photo": "photos/MAD_PARKHURST_KEVIN_2026-10-30.jpg"
-  },
-  {
-   "key": "POR_MCDANIEL_BREANNA_2026-10-30",
-   "name": "Breanna Lee Mcdaniel",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793378855,
-   "photo": "photos/POR_MCDANIEL_BREANNA_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_BLYTHE_SABRINA_2026-10-30",
-   "name": "Sabrina Nichael Blythe",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 3,
-   "ts": 1793378852,
-   "photo": "photos/VAN_BLYTHE_SABRINA_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_BENNINGFIELD_KRISTINA_2026-10-30",
-   "name": "Kristina Dawn Benningfield",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Paraphernalia",
-   "more": 0,
-   "ts": 1793378851,
-   "photo": "photos/VAN_BENNINGFIELD_KRISTINA_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_KHAN_CHASITY_2026-10-30",
-   "name": "Chasity Alyssa Khan",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possession Schedule I, Ii, Iii, Iv, V",
-   "more": 2,
-   "ts": 1793378848,
-   "photo": "photos/VAN_KHAN_CHASITY_2026-10-30.jpg"
   }
  ]
 }
