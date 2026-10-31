@@ -1,6 +1,61 @@
 {
- "updated": "2026-10-31T07:49:38+00:00",
+ "updated": "2026-10-31T08:49:27+00:00",
  "items": [
+  {
+   "key": "POR_LINDAHL_KELLY_2026-10-31",
+   "name": "Kelly Jean Lindahl",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 1,
+   "ts": 1793436443,
+   "photo": null
+  },
+  {
+   "key": "POR_GARCIA_ALICIA_2026-10-31",
+   "name": "Alicia Garcia",
+   "age": "20",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Minor Consume An Alcoholic Beverage",
+   "more": 0,
+   "ts": 1793436442,
+   "photo": null
+  },
+  {
+   "key": "POR_RAMIREZ_JENNIFER_2026-10-31",
+   "name": "Jennifer Ramirez",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1793436439,
+   "photo": null
+  },
+  {
+   "key": "ALL_DOMINGUEZ_KAITLYN_2026-10-31",
+   "name": "Kaitlyn Dominguez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1793436436,
+   "photo": "photos/ALL_DOMINGUEZ_KAITLYN_2026-10-31.jpg"
+  },
+  {
+   "key": "ALL_DERRICK_JOSIYAH_2026-10-31",
+   "name": "Josiyah Derrick",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 6,
+   "ts": 1793436432,
+   "photo": "photos/ALL_DERRICK_JOSIYAH_2026-10-31.jpg"
+  },
   {
    "key": "VAN_SAVOYARD_KAYLIE_2026-10-31",
    "name": "Kaylie Erin Savoyard",
@@ -473,61 +528,6 @@
    "more": 0,
    "ts": 1793389632,
    "photo": null
-  },
-  {
-   "key": "MAD_OUSLEY_MYEKEL_2026-10-30",
-   "name": "Myekel Antonio Ousley",
-   "age": "48",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Adult Day Reporting - Jail Booking",
-   "more": 0,
-   "ts": 1793386117,
-   "photo": "photos/MAD_OUSLEY_MYEKEL_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_MOORE_JODY_2026-10-30",
-   "name": "Jody Ray Moore",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793386110,
-   "photo": "photos/MAD_MOORE_JODY_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_ROGERS_SETH_2026-10-30",
-   "name": "Seth Jacob Rogers",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793386040,
-   "photo": "photos/VAN_ROGERS_SETH_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_SHANNON_RICHARD_2026-10-30",
-   "name": "Richard Shannon",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1793386036,
-   "photo": "photos/ALL_SHANNON_RICHARD_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_MOMMER_MARK_2026-10-30",
-   "name": "Mark Mommer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793386032,
-   "photo": "photos/ALL_MOMMER_MARK_2026-10-30.jpg"
   }
  ]
 }
