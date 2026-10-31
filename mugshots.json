@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T17:49:49+00:00",
+ "updated": "2026-10-31T18:49:26+00:00",
  "items": [
+  {
+   "key": "VAN_GROVES_NICHOLE_2026-10-31",
+   "name": "Nichole Michelle Groves",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793472431,
+   "photo": "photos/VAN_GROVES_NICHOLE_2026-10-31.jpg"
+  },
   {
    "key": "MAD_SPOONER_ETHAN_2026-10-31",
    "name": "Ethan Spooner",
@@ -516,17 +527,6 @@
    "charge": "Domestic battery-adult against family or member less than 14 years old",
    "more": 1,
    "ts": 1793404037,
-   "photo": null
-  },
-  {
-   "key": "VAN_MOBLEY_KEVIN_2026-10-30",
-   "name": "Kevin Matthew Mobley",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 5,
-   "ts": 1793404029,
    "photo": null
   }
  ]
