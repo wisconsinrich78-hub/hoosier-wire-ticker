@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-31T06:50:07+00:00",
+ "updated": "2026-10-31T07:49:38+00:00",
  "items": [
+  {
+   "key": "VAN_SAVOYARD_KAYLIE_2026-10-31",
+   "name": "Kaylie Erin Savoyard",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 1,
+   "ts": 1793432835,
+   "photo": "photos/VAN_SAVOYARD_KAYLIE_2026-10-31.jpg"
+  },
+  {
+   "key": "VAN_LINDSEY_HUNTER_2026-10-31",
+   "name": "Hunter Jacob Lindsey",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 1,
+   "ts": 1793432834,
+   "photo": "photos/VAN_LINDSEY_HUNTER_2026-10-31.jpg"
+  },
+  {
+   "key": "ALL_PRICE_LAMOTTE_2026-10-31",
+   "name": "Lamotte Price",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing In Cocaine Or Narcotic Drug",
+   "more": 1,
+   "ts": 1793432830,
+   "photo": "photos/ALL_PRICE_LAMOTTE_2026-10-31.jpg"
+  },
   {
    "key": "POR_LEWIS_PEYTON_2026-10-31",
    "name": "Peyton Josephine Lewis",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793386032,
    "photo": "photos/ALL_MOMMER_MARK_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_SOZAGRANADOS_RICHARD_2026-10-30",
-   "name": "Richard Soza-Granados",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for ICE - Jail Booking",
-   "more": 1,
-   "ts": 1793382546,
-   "photo": "photos/MAD_SOZAGRANADOS_RICHARD_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_SOTELO_JAIME_2026-10-30",
-   "name": "Jaime Sotelo",
-   "age": "22",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793382542,
-   "photo": null
-  },
-  {
-   "key": "POR_TON_QUOCVIET_2026-10-30",
-   "name": "Quocviet Ton",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793382443,
-   "photo": "photos/POR_TON_QUOCVIET_2026-10-30.jpg"
   }
  ]
 }
