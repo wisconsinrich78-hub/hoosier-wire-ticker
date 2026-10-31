@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-31T09:49:20+00:00",
+ "updated": "2026-10-31T10:47:24+00:00",
  "items": [
+  {
+   "key": "POR_SHADOWEN_TRISTAN_2026-10-31",
+   "name": "Tristan Jeremiah Shadowen",
+   "age": "20",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Minor Consume An Alcoholic Beverage",
+   "more": 0,
+   "ts": 1793443633,
+   "photo": "photos/POR_SHADOWEN_TRISTAN_2026-10-31.jpg"
+  },
+  {
+   "key": "POR_PAUL_SAMARA_2026-10-31",
+   "name": "Samara Skye Paul",
+   "age": "24",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 2,
+   "ts": 1793443633,
+   "photo": null
+  },
+  {
+   "key": "VAN_SMITH_CARMELLO_2026-10-31",
+   "name": "Carmello Dakwon Corona Smith",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 2,
+   "ts": 1793443630,
+   "photo": "photos/VAN_SMITH_CARMELLO_2026-10-31.jpg"
+  },
+  {
+   "key": "VAN_LOWE_CHEYENNE_2026-10-31",
+   "name": "Cheyenne Deanna Lowe",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1793443629,
+   "photo": "photos/VAN_LOWE_CHEYENNE_2026-10-31.jpg"
+  },
   {
    "key": "MAD_RAMIREZ_FERNANDO_2026-10-31",
    "name": "Fernando Emisael Ramirez",
@@ -483,50 +527,6 @@
    "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or",
    "more": 0,
    "ts": 1793396844,
-   "photo": null
-  },
-  {
-   "key": "ALL_SPARKMAN_ADON_2026-10-30",
-   "name": "Adon Sparkman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1793396842,
-   "photo": null
-  },
-  {
-   "key": "ALL_MURPHY_CASEY_2026-10-30",
-   "name": "Casey Murphy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 0,
-   "ts": 1793396839,
-   "photo": "photos/ALL_MURPHY_CASEY_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_ROBISON_LORAN_2026-10-30",
-   "name": "Loran Wayne Robison",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft",
-   "more": 0,
-   "ts": 1793393237,
-   "photo": null
-  },
-  {
-   "key": "VAN_FRY_LAURA_2026-10-30",
-   "name": "Laura Gail Fry",
-   "age": "59",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating While Intoxicated \u2013 Serious Bodily Injury",
-   "more": 1,
-   "ts": 1793393237,
    "photo": null
   }
  ]
