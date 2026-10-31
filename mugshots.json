@@ -1,6 +1,39 @@
 {
- "updated": "2026-10-31T00:49:26+00:00",
+ "updated": "2026-10-31T01:49:32+00:00",
  "items": [
+  {
+   "key": "MAD_SYLVESTER_CONNOR_2026-10-30",
+   "name": "Connor R Sylvester",
+   "age": "19",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793411354,
+   "photo": null
+  },
+  {
+   "key": "MAD_ROSENBAUM_KAYLEE_2026-10-30",
+   "name": "Kaylee Renee Rosenbaum",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793411335,
+   "photo": null
+  },
+  {
+   "key": "MAD_CRONK_KRISTA_2026-10-30",
+   "name": "Krista K Cronk",
+   "age": "40",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1793411263,
+   "photo": "photos/MAD_CRONK_KRISTA_2026-10-30.jpg"
+  },
   {
    "key": "MAD_MILLER_KAYCE_2026-10-30",
    "name": "Kayce Nicole Miller",
@@ -495,39 +528,6 @@
    "more": 1,
    "ts": 1793375233,
    "photo": "photos/ALL_JACKSON_REILLY_2026-10-30.jpg"
-  },
-  {
-   "key": "POR_BURGESS_KOLIN_2026-10-30",
-   "name": "Kolin Jay Burgess",
-   "age": "27",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793371641,
-   "photo": null
-  },
-  {
-   "key": "POR_DEMONBREUN_LELAND_2026-10-30",
-   "name": "Leland Joyce Demonbreun",
-   "age": "60",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Cruelty To Animals",
-   "more": 0,
-   "ts": 1793371638,
-   "photo": null
-  },
-  {
-   "key": "ALL_SPECK_DANIEL_2026-10-30",
-   "name": "Daniel Speck",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793371634,
-   "photo": "photos/ALL_SPECK_DANIEL_2026-10-30.jpg"
   }
  ]
 }
