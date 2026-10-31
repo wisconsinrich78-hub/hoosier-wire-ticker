@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T16:49:22+00:00",
+ "updated": "2026-10-31T17:49:49+00:00",
  "items": [
+  {
+   "key": "MAD_SPOONER_ETHAN_2026-10-31",
+   "name": "Ethan Spooner",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793468958,
+   "photo": null
+  },
   {
    "key": "POR_PROUD_OTTO_2026-10-31",
    "name": "Otto Gabriel Proud",
@@ -515,17 +526,6 @@
    "region": "south",
    "charge": "Court Ordered Confinement",
    "more": 5,
-   "ts": 1793404029,
-   "photo": null
-  },
-  {
-   "key": "VAN_OMERSPAHIC_SALIH_2026-10-30",
-   "name": "Salih Nmn Omerspahic",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Writ Of Attachment",
-   "more": 2,
    "ts": 1793404029,
    "photo": null
   }
