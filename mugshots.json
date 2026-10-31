@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T15:49:46+00:00",
+ "updated": "2026-10-31T16:49:22+00:00",
  "items": [
+  {
+   "key": "POR_PROUD_OTTO_2026-10-31",
+   "name": "Otto Gabriel Proud",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793465231,
+   "photo": "photos/POR_PROUD_OTTO_2026-10-31.jpg"
+  },
   {
    "key": "MAD_CASH_BROOKE_2026-10-31",
    "name": "Brooke Nicole Cash",
@@ -517,17 +528,6 @@
    "more": 2,
    "ts": 1793404029,
    "photo": null
-  },
-  {
-   "key": "MAD_BUTCHER_DATHANIEL_2026-10-30",
-   "name": "Dathaniel Lee Butcher",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793400477,
-   "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-10-30.jpg"
   }
  ]
 }
