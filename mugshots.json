@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-30T23:49:28+00:00",
+ "updated": "2026-10-31T00:49:26+00:00",
  "items": [
+  {
+   "key": "MAD_MILLER_KAYCE_2026-10-30",
+   "name": "Kayce Nicole Miller",
+   "age": "23",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793407707,
+   "photo": "photos/MAD_MILLER_KAYCE_2026-10-30.jpg"
+  },
   {
    "key": "MAD_ANDERSON_VICTOR_2026-10-30",
    "name": "Victor Everett Anderson",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793371634,
    "photo": "photos/ALL_SPECK_DANIEL_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_JOHNSON_MICHAEL_2026-10-30",
-   "name": "Michael Tyrone Junior Johnson",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793357281,
-   "photo": "photos/MAD_JOHNSON_MICHAEL_2026-10-30.jpg"
   }
  ]
 }
