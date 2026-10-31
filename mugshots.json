@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T18:49:26+00:00",
+ "updated": "2026-10-31T19:49:32+00:00",
  "items": [
+  {
+   "key": "MAD_JONES_CIARA_2026-10-31",
+   "name": "Ciara Maria Jones",
+   "age": "21",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession cocaine or narcotic drug",
+   "more": 0,
+   "ts": 1793476089,
+   "photo": "photos/MAD_JONES_CIARA_2026-10-31.jpg"
+  },
   {
    "key": "VAN_GROVES_NICHOLE_2026-10-31",
    "name": "Nichole Michelle Groves",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793407707,
    "photo": "photos/MAD_MILLER_KAYCE_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_ANDERSON_VICTOR_2026-10-30",
-   "name": "Victor Everett Anderson",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery-adult against family or member less than 14 years old",
-   "more": 1,
-   "ts": 1793404037,
-   "photo": null
   }
  ]
 }
