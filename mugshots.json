@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-31T01:49:32+00:00",
+ "updated": "2026-10-31T03:50:16+00:00",
  "items": [
+  {
+   "key": "POR_COOK_ANGELA_2026-10-30",
+   "name": "Angela Elaine Cook",
+   "age": "54",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 2,
+   "ts": 1793418445,
+   "photo": "photos/POR_COOK_ANGELA_2026-10-30.jpg"
+  },
+  {
+   "key": "ALL_DENNIS_CHRISTOPHER_2026-10-30",
+   "name": "Christopher Dennis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1793418435,
+   "photo": "photos/ALL_DENNIS_CHRISTOPHER_2026-10-30.jpg"
+  },
   {
    "key": "MAD_SYLVESTER_CONNOR_2026-10-30",
    "name": "Connor R Sylvester",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1793375241,
    "photo": "photos/ALL_VAUGHNFOSTER_DAVION_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_PARRISH_THOMAS_2026-10-30",
-   "name": "Thomas Parrish",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1793375237,
-   "photo": "photos/ALL_PARRISH_THOMAS_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_JACKSON_REILLY_2026-10-30",
-   "name": "Reilly Jackson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Gun Poss/Serious Violent Felon",
-   "more": 1,
-   "ts": 1793375233,
-   "photo": "photos/ALL_JACKSON_REILLY_2026-10-30.jpg"
   }
  ]
 }
