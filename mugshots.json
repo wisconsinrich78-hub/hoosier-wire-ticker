@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-31T04:50:11+00:00",
+ "updated": "2026-10-31T05:49:35+00:00",
  "items": [
+  {
+   "key": "MAD_STEVENS_CURTIS_2026-10-31",
+   "name": "Curtis Shawn Stevens",
+   "age": "40",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793425751,
+   "photo": null
+  },
+  {
+   "key": "MAD_PULIS_RAVEN_2026-10-31",
+   "name": "Raven Xavier Pulis",
+   "age": "30",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "more": 1,
+   "ts": 1793425735,
+   "photo": "photos/MAD_PULIS_RAVEN_2026-10-31.jpg"
+  },
+  {
+   "key": "MAD_LOCKHART_JEROME_2026-10-31",
+   "name": "Jerome Cornelious Lockhart",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1793425702,
+   "photo": null
+  },
+  {
+   "key": "POR_MORRIS_DENISE_2026-10-30",
+   "name": "Denise Diane Morris",
+   "age": "66",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating While Intoxicated - Serious Bodily Injury",
+   "more": 2,
+   "ts": 1793425637,
+   "photo": "photos/POR_MORRIS_DENISE_2026-10-30.jpg"
+  },
+  {
+   "key": "ALL_COOK_GRACE_2026-10-31",
+   "name": "Grace Cook",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Neglect Of Dependent",
+   "more": 4,
+   "ts": 1793425633,
+   "photo": "photos/ALL_COOK_GRACE_2026-10-31.jpg"
+  },
+  {
+   "key": "ALL_BURTON_CALVIN_2026-10-31",
+   "name": "Calvin Burton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 1,
+   "ts": 1793425629,
+   "photo": "photos/ALL_BURTON_CALVIN_2026-10-31.jpg"
+  },
   {
    "key": "POR_ALEGRIA_RUDY_2026-10-30",
    "name": "Rudy Lee Alegria",
@@ -462,72 +528,6 @@
    "more": 2,
    "ts": 1793378848,
    "photo": "photos/VAN_KHAN_CHASITY_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_GIBBS_DANIEL_2026-10-30",
-   "name": "Daniel Gibbs",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery",
-   "more": 0,
-   "ts": 1793378839,
-   "photo": null
-  },
-  {
-   "key": "ALL_AMIKER_ANTWOINE_2026-10-30",
-   "name": "Antwoine Amiker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793378835,
-   "photo": "photos/ALL_AMIKER_ANTWOINE_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_YOUNG_CARLTON_2026-10-30",
-   "name": "Carlton Martell Young",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1793375363,
-   "photo": "photos/MAD_YOUNG_CARLTON_2026-10-30.jpg"
-  },
-  {
-   "key": "POR_MOSLEY_BRUCE_2026-10-30",
-   "name": "Bruce L Mosley",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Auto Theft",
-   "more": 2,
-   "ts": 1793375248,
-   "photo": null
-  },
-  {
-   "key": "POR_BARE_THOMAS_2026-10-30",
-   "name": "Thomas Bare",
-   "age": "24",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft",
-   "more": 0,
-   "ts": 1793375248,
-   "photo": null
-  },
-  {
-   "key": "POR_OLSON_KRYSTAL_2026-10-30",
-   "name": "Krystal Marie Olson",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 0,
-   "ts": 1793375245,
-   "photo": null
   }
  ]
 }
