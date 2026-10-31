@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T03:50:16+00:00",
+ "updated": "2026-10-31T04:50:11+00:00",
  "items": [
+  {
+   "key": "POR_ALEGRIA_RUDY_2026-10-30",
+   "name": "Rudy Lee Alegria",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
+   "more": 0,
+   "ts": 1793422044,
+   "photo": "photos/POR_ALEGRIA_RUDY_2026-10-30.jpg"
+  },
   {
    "key": "POR_COOK_ANGELA_2026-10-30",
    "name": "Angela Elaine Cook",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793375245,
    "photo": null
-  },
-  {
-   "key": "ALL_VAUGHNFOSTER_DAVION_2026-10-30",
-   "name": "Davion Vaughnfoster",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Reckless Homicide",
-   "more": 0,
-   "ts": 1793375241,
-   "photo": "photos/ALL_VAUGHNFOSTER_DAVION_2026-10-30.jpg"
   }
  ]
 }
