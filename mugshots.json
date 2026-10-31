@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T20:49:41+00:00",
+ "updated": "2026-10-31T21:49:48+00:00",
  "items": [
+  {
+   "key": "POR_CHIPSCUNNINGHAM_DAKOTA_2026-10-31",
+   "name": "Dakota Chips-Cunningham",
+   "age": "27",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 1,
+   "ts": 1793483231,
+   "photo": null
+  },
   {
    "key": "VAN_PILAND_TAMMY_2026-10-31",
    "name": "Tammy Violet Piland",
@@ -517,17 +528,6 @@
    "more": 0,
    "ts": 1793411335,
    "photo": null
-  },
-  {
-   "key": "MAD_CRONK_KRISTA_2026-10-30",
-   "name": "Krista K Cronk",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1793411263,
-   "photo": "photos/MAD_CRONK_KRISTA_2026-10-30.jpg"
   }
  ]
 }
