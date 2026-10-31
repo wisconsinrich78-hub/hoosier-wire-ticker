@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-31T13:49:23+00:00",
+ "updated": "2026-10-31T15:49:46+00:00",
  "items": [
+  {
+   "key": "MAD_CASH_BROOKE_2026-10-31",
+   "name": "Brooke Nicole Cash",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1793461651,
+   "photo": "photos/MAD_CASH_BROOKE_2026-10-31.jpg"
+  },
+  {
+   "key": "VAN_HEROY_LOGAN_2026-10-31",
+   "name": "Logan Matthew Heroy",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 4,
+   "ts": 1793461628,
+   "photo": null
+  },
   {
    "key": "ALL_JONES_NYEAUHNNA_2026-10-31",
    "name": "Nyeauhnna Jones",
@@ -506,28 +528,6 @@
    "more": 0,
    "ts": 1793400477,
    "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_JEFFERY_2026-10-30",
-   "name": "Jeffery Dewayne Johnson",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Sex Crime- Child Molest",
-   "more": 1,
-   "ts": 1793400448,
-   "photo": null
-  },
-  {
-   "key": "VAN_MILLS_ASHLEY_2026-10-30",
-   "name": "Ashley Marie Mills",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 2,
-   "ts": 1793400448,
-   "photo": null
   }
  ]
 }
