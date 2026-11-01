@@ -1,6 +1,17 @@
 {
- "updated": "2026-10-31T23:49:39+00:00",
+ "updated": "2026-11-01T00:47:27+00:00",
  "items": [
+  {
+   "key": "VAN_LOPEZ_PAUL_2026-10-31",
+   "name": "Paul Socorro Lopez",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Recklessness W/Deadly Weapon",
+   "more": 2,
+   "ts": 1793494031,
+   "photo": "photos/VAN_LOPEZ_PAUL_2026-10-31.jpg"
+  },
   {
    "key": "MAD_JENKINS_DON_2026-10-31",
    "name": "Don B Second Jenkins",
@@ -517,17 +528,6 @@
    "more": 1,
    "ts": 1793425629,
    "photo": "photos/ALL_BURTON_CALVIN_2026-10-31.jpg"
-  },
-  {
-   "key": "POR_ALEGRIA_RUDY_2026-10-30",
-   "name": "Rudy Lee Alegria",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
-   "more": 0,
-   "ts": 1793422044,
-   "photo": "photos/POR_ALEGRIA_RUDY_2026-10-30.jpg"
   }
  ]
 }
