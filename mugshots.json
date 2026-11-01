@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-01T20:47:50+00:00",
+ "updated": "2026-11-01T20:49:57+00:00",
  "items": [
+  {
+   "key": "MAD_PITTMAN_WALTER_2026-11-01",
+   "name": "Walter L Junior Pittman",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793566121,
+   "photo": "photos/MAD_PITTMAN_WALTER_2026-11-01.jpg"
+  },
   {
    "key": "VAN_ADAMS_ETHAN_2026-11-01",
    "name": "Ethan Kent Adams",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793497637,
    "photo": "photos/ALL_ELWAER_ASHLEY_2026-10-31.jpg"
-  },
-  {
-   "key": "MAD_JENKINS_DON_2026-10-31",
-   "name": "Don B Second Jenkins",
-   "age": "65",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated- endangerment",
-   "more": 1,
-   "ts": 1793490500,
-   "photo": "photos/MAD_JENKINS_DON_2026-10-31.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_PITTMAN_WALTER_2026-11-01",
+   "name": "Walter L Junior Pittman",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793566121,
+   "photo": "photos/MAD_PITTMAN_WALTER_2026-11-01.jpg"
+  },
   {
    "key": "VAN_ADAMS_ETHAN_2026-11-01",
    "name": "Ethan Kent Adams",
