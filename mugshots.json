@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:47:23+00:00",
+ "updated": "2026-11-01T15:49:44+00:00",
  "items": [
   {
    "key": "ALL_PERKINS_MELVIN_2026-11-01",
@@ -2851,50 +2851,6 @@
    "more": 1,
    "ts": 1793292435,
    "photo": "photos/ALL_FAUST_JONNIE_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_WINSTON_MARTEL_2026-10-29",
-   "name": "Martel Lee Winston",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Parole Violation - Jail Booking",
-   "more": 0,
-   "ts": 1793288950,
-   "photo": "photos/MAD_WINSTON_MARTEL_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_SUTTON_DEONTE_2026-10-29",
-   "name": "Deonte Lamar Sutton",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793288941,
-   "photo": "photos/MAD_SUTTON_DEONTE_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_JARVIS_ANGEL_2026-10-29",
-   "name": "Angel Marie Jarvis",
-   "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Community Corrections",
-   "more": 0,
-   "ts": 1793288895,
-   "photo": "photos/MAD_JARVIS_ANGEL_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_ALLEN_SPELMON_2026-10-29",
-   "name": "Spelmon Sean Allen",
-   "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Contempt of Court - Jail Booking",
-   "more": 0,
-   "ts": 1793288849,
-   "photo": "photos/MAD_ALLEN_SPELMON_2026-10-29.jpg"
   }
  ]
 }
