@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-01T16:49:31+00:00",
+ "updated": "2026-11-01T17:49:48+00:00",
  "items": [
+  {
+   "key": "MAD_GIVENS_CHRISTOPHER_2026-11-01",
+   "name": "Christopher E Givens",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793555274,
+   "photo": "photos/MAD_GIVENS_CHRISTOPHER_2026-11-01.jpg"
+  },
+  {
+   "key": "MAD_DAVENPORT_RONALD_2026-11-01",
+   "name": "Ronald Jeffrey Davenport",
+   "age": "54",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1793555263,
+   "photo": "photos/MAD_DAVENPORT_RONALD_2026-11-01.jpg"
+  },
+  {
+   "key": "ALL_WEBER_JESSICA_2026-11-01",
+   "name": "Jessica Weber",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793555235,
+   "photo": "photos/ALL_WEBER_JESSICA_2026-11-01.jpg"
+  },
   {
    "key": "MAD_DAVIS_DAVID_2026-11-01",
    "name": "David Lynn Davis",
@@ -495,42 +528,42 @@
    "more": 1,
    "ts": 1793483231,
    "photo": null
-  },
-  {
-   "key": "VAN_PILAND_TAMMY_2026-10-31",
-   "name": "Tammy Violet Piland",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Auto Theft - Where Intent Is To Deprive Owner Of Value Or",
-   "more": 1,
-   "ts": 1793479632,
-   "photo": "photos/VAN_PILAND_TAMMY_2026-10-31.jpg"
-  },
-  {
-   "key": "MAD_JONES_CIARA_2026-10-31",
-   "name": "Ciara Maria Jones",
-   "age": "21",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession cocaine or narcotic drug",
-   "more": 0,
-   "ts": 1793476089,
-   "photo": "photos/MAD_JONES_CIARA_2026-10-31.jpg"
-  },
-  {
-   "key": "VAN_GROVES_NICHOLE_2026-10-31",
-   "name": "Nichole Michelle Groves",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793472431,
-   "photo": "photos/VAN_GROVES_NICHOLE_2026-10-31.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_GIVENS_CHRISTOPHER_2026-11-01",
+   "name": "Christopher E Givens",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793555274,
+   "photo": "photos/MAD_GIVENS_CHRISTOPHER_2026-11-01.jpg"
+  },
+  {
+   "key": "MAD_DAVENPORT_RONALD_2026-11-01",
+   "name": "Ronald Jeffrey Davenport",
+   "age": "54",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1793555263,
+   "photo": "photos/MAD_DAVENPORT_RONALD_2026-11-01.jpg"
+  },
+  {
+   "key": "ALL_WEBER_JESSICA_2026-11-01",
+   "name": "Jessica Weber",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793555235,
+   "photo": "photos/ALL_WEBER_JESSICA_2026-11-01.jpg"
+  },
   {
    "key": "MAD_DAVIS_DAVID_2026-11-01",
    "name": "David Lynn Davis",
@@ -2730,50 +2763,6 @@
    "more": 0,
    "ts": 1793299637,
    "photo": "photos/ALL_CHARLTON_DARIN_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_LANE_CURTIS_2026-10-29",
-   "name": "Curtis Michael Louis Lane",
-   "age": "34",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Accident Leave The Scene",
-   "more": 0,
-   "ts": 1793296041,
-   "photo": "photos/POR_LANE_CURTIS_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_DUNCAN_PATRICIA_2026-10-29",
-   "name": "Patricia Mae Duncan",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
-   "more": 2,
-   "ts": 1793296040,
-   "photo": "photos/POR_DUNCAN_PATRICIA_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_BIVENS_TAMIKA_2026-10-29",
-   "name": "Tamika Latoya Bivens",
-   "age": "49",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793296038,
-   "photo": "photos/POR_BIVENS_TAMIKA_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_ALASAL_MOHAMED_2026-10-29",
-   "name": "Mohamed Alasal",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Habitual Traffic Violator",
-   "more": 0,
-   "ts": 1793296035,
-   "photo": "photos/ALL_ALASAL_MOHAMED_2026-10-29.jpg"
   }
  ]
 }
