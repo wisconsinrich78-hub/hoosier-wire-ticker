@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-01T19:49:41+00:00",
+ "updated": "2026-11-01T20:47:50+00:00",
  "items": [
+  {
+   "key": "VAN_ADAMS_ETHAN_2026-11-01",
+   "name": "Ethan Kent Adams",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793566046,
+   "photo": "photos/VAN_ADAMS_ETHAN_2026-11-01.jpg"
+  },
+  {
+   "key": "POR_RITTEL_JOHN_2026-11-01",
+   "name": "John Edward Rittel",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft - Vehicle : 6 : F",
+   "more": 0,
+   "ts": 1793566045,
+   "photo": "photos/POR_RITTEL_JOHN_2026-11-01.jpg"
+  },
+  {
+   "key": "VAN_WENK_ASHLEY_2026-11-01",
+   "name": "Ashley Faye Wenk",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or",
+   "more": 1,
+   "ts": 1793566043,
+   "photo": null
+  },
+  {
+   "key": "ALL_SCHMUCKER_JASON_2026-11-01",
+   "name": "Jason Schmucker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793566032,
+   "photo": null
+  },
   {
    "key": "VAN_REYES_ALESSANDRO_2026-11-01",
    "name": "Alessandro Manuel Reyes",
@@ -475,17 +519,6 @@
    "photo": "photos/ALL_ELWAER_ASHLEY_2026-10-31.jpg"
   },
   {
-   "key": "VAN_LOPEZ_PAUL_2026-10-31",
-   "name": "Paul Socorro Lopez",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Recklessness W/Deadly Weapon",
-   "more": 2,
-   "ts": 1793494031,
-   "photo": "photos/VAN_LOPEZ_PAUL_2026-10-31.jpg"
-  },
-  {
    "key": "MAD_JENKINS_DON_2026-10-31",
    "name": "Don B Second Jenkins",
    "age": "65",
@@ -495,42 +528,53 @@
    "more": 1,
    "ts": 1793490500,
    "photo": "photos/MAD_JENKINS_DON_2026-10-31.jpg"
-  },
-  {
-   "key": "POR_LACEY_TRONESE_2026-10-31",
-   "name": "Tronese L Lacey",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Shoplifting - Nibrs",
-   "more": 0,
-   "ts": 1793490444,
-   "photo": null
-  },
-  {
-   "key": "ALL_BURKS_RONALD_2026-10-31",
-   "name": "Ronald Burks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 2,
-   "ts": 1793490432,
-   "photo": "photos/ALL_BURKS_RONALD_2026-10-31.jpg"
-  },
-  {
-   "key": "POR_DONELSON_LA_2026-10-31",
-   "name": "La Trey Ty Re Mitchell Donelson",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Shoplifting - Nibrs",
-   "more": 0,
-   "ts": 1793486830,
-   "photo": "photos/POR_DONELSON_LA_2026-10-31.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_ADAMS_ETHAN_2026-11-01",
+   "name": "Ethan Kent Adams",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793566046,
+   "photo": "photos/VAN_ADAMS_ETHAN_2026-11-01.jpg"
+  },
+  {
+   "key": "POR_RITTEL_JOHN_2026-11-01",
+   "name": "John Edward Rittel",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Theft - Vehicle : 6 : F",
+   "more": 0,
+   "ts": 1793566045,
+   "photo": "photos/POR_RITTEL_JOHN_2026-11-01.jpg"
+  },
+  {
+   "key": "VAN_WENK_ASHLEY_2026-11-01",
+   "name": "Ashley Faye Wenk",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or",
+   "more": 1,
+   "ts": 1793566043,
+   "photo": null
+  },
+  {
+   "key": "ALL_SCHMUCKER_JASON_2026-11-01",
+   "name": "Jason Schmucker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793566032,
+   "photo": null
+  },
   {
    "key": "VAN_REYES_ALESSANDRO_2026-11-01",
    "name": "Alessandro Manuel Reyes",
@@ -2620,83 +2664,6 @@
    "more": 0,
    "ts": 1793310437,
    "photo": "photos/VAN_DILLS_RYAN_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_GOFF_XAVIER_2026-10-29",
-   "name": "Xavier Christopher Ju Goff",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1793306855,
-   "photo": "photos/VAN_GOFF_XAVIER_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_MANE_ADAM_2026-10-29",
-   "name": "Adam Justin Mane",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793306854,
-   "photo": "photos/VAN_MANE_ADAM_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_PATEL_RAJESH_2026-10-29",
-   "name": "Rajesh Patel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793306850,
-   "photo": "photos/ALL_PATEL_RAJESH_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_MASTERSON_DAVID_2026-10-29",
-   "name": "David Masterson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793306846,
-   "photo": "photos/ALL_MASTERSON_DAVID_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_BURNETT_ANGELO_2026-10-29",
-   "name": "Angelo Burnett",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 2,
-   "ts": 1793306842,
-   "photo": "photos/ALL_BURNETT_ANGELO_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_BRANGMAN_DAJA_2026-10-29",
-   "name": "Daja Brangman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery Result In Bodily Injury",
-   "more": 0,
-   "ts": 1793306838,
-   "photo": "photos/ALL_BRANGMAN_DAJA_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_ABERCROMBIE_CASSIE_2026-10-29",
-   "name": "Cassie Abercrombie",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793306834,
-   "photo": "photos/ALL_ABERCROMBIE_CASSIE_2026-10-29.jpg"
   }
  ]
 }
