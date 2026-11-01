@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-01T15:49:44+00:00",
+ "updated": "2026-11-01T16:49:31+00:00",
  "items": [
+  {
+   "key": "MAD_DAVIS_DAVID_2026-11-01",
+   "name": "David Lynn Davis",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793551654,
+   "photo": "photos/MAD_DAVIS_DAVID_2026-11-01.jpg"
+  },
   {
    "key": "ALL_PERKINS_MELVIN_2026-11-01",
    "name": "Melvin Perkins",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793472431,
    "photo": "photos/VAN_GROVES_NICHOLE_2026-10-31.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_SPOONER_ETHAN_2026-10-31",
-   "name": "Ethan Spooner",
-   "age": "28",
+   "key": "MAD_DAVIS_DAVID_2026-11-01",
+   "name": "David Lynn Davis",
+   "age": "48",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1793468958,
-   "photo": null
-  }
- ],
- "all_items": [
+   "ts": 1793551654,
+   "photo": "photos/MAD_DAVIS_DAVID_2026-11-01.jpg"
+  },
   {
    "key": "ALL_PERKINS_MELVIN_2026-11-01",
    "name": "Melvin Perkins",
@@ -2763,94 +2774,6 @@
    "more": 0,
    "ts": 1793296035,
    "photo": "photos/ALL_ALASAL_MOHAMED_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_MCCAULEY_NICHOLAS_2026-10-29",
-   "name": "Nicholas Lee Mccauley",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793292518,
-   "photo": "photos/MAD_MCCAULEY_NICHOLAS_2026-10-29.jpg"
-  },
-  {
-   "key": "MAD_HUNTER_AMBER_2026-10-29",
-   "name": "Amber Jo Hunter",
-   "age": "42",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793292503,
-   "photo": "photos/MAD_HUNTER_AMBER_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_MADDEN_RICHARD_2026-10-29",
-   "name": "Richard Patrick Madden",
-   "age": "38",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793292451,
-   "photo": "photos/POR_MADDEN_RICHARD_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_MILLER_KENNY_2026-10-29",
-   "name": "Kenny Frank Miller",
-   "age": "38",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Burglary",
-   "more": 0,
-   "ts": 1793292450,
-   "photo": null
-  },
-  {
-   "key": "VAN_GRAVES_KELSEY_2026-10-29",
-   "name": "Kelsey Olivia Graves",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 2,
-   "ts": 1793292447,
-   "photo": "photos/VAN_GRAVES_KELSEY_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_WEBB_KEIONTAE_2026-10-29",
-   "name": "Keiontae Webb",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing In Marijuana/Hash",
-   "more": 1,
-   "ts": 1793292443,
-   "photo": "photos/ALL_WEBB_KEIONTAE_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_GIL_JOE_2026-10-29",
-   "name": "Joe Gil",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 1,
-   "ts": 1793292439,
-   "photo": "photos/ALL_GIL_JOE_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_FAUST_JONNIE_2026-10-29",
-   "name": "Jonnie Faust",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Confinement",
-   "more": 1,
-   "ts": 1793292435,
-   "photo": "photos/ALL_FAUST_JONNIE_2026-10-29.jpg"
   }
  ]
 }
