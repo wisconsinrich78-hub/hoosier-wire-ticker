@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T06:49:07+00:00",
+ "updated": "2026-11-01T07:49:01+00:00",
  "items": [
+  {
+   "key": "MAD_STANSBERRY_DARRELL_2026-11-01",
+   "name": "Darrell Christopher Stansberry",
+   "age": "54",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-moderate bodily injury",
+   "more": 0,
+   "ts": 1793519319,
+   "photo": "photos/MAD_STANSBERRY_DARRELL_2026-11-01.jpg"
+  },
+  {
+   "key": "POR_NEVINS_AVA_2026-11-01",
+   "name": "Ava M Nevins",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Minor Consume An Alcoholic Beverage",
+   "more": 0,
+   "ts": 1793519232,
+   "photo": null
+  },
   {
    "key": "MAD_SANTIAGOHERNANDEZ_JAVIER_2026-11-01",
    "name": "Javier Santiago Hernandez",
@@ -506,28 +528,6 @@
    "more": 1,
    "ts": 1793432834,
    "photo": "photos/VAN_LINDSEY_HUNTER_2026-10-31.jpg"
-  },
-  {
-   "key": "ALL_PRICE_LAMOTTE_2026-10-31",
-   "name": "Lamotte Price",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing In Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1793432830,
-   "photo": "photos/ALL_PRICE_LAMOTTE_2026-10-31.jpg"
-  },
-  {
-   "key": "POR_LEWIS_PEYTON_2026-10-31",
-   "name": "Peyton Josephine Lewis",
-   "age": "18",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Minor Consume An Alcoholic Beverage",
-   "more": 0,
-   "ts": 1793429251,
-   "photo": null
   }
  ]
 }
