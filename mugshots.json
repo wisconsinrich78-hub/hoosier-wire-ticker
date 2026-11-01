@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-01T20:49:57+00:00",
+ "updated": "2026-11-01T21:49:35+00:00",
  "items": [
+  {
+   "key": "POR_JOHNS_TRACY_2026-11-01",
+   "name": "Tracy Lee Johns",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Possession Marijuana",
+   "more": 0,
+   "ts": 1793569632,
+   "photo": "photos/POR_JOHNS_TRACY_2026-11-01.jpg"
+  },
   {
    "key": "MAD_PITTMAN_WALTER_2026-11-01",
    "name": "Walter L Junior Pittman",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793497640,
    "photo": "photos/VAN_PUND_ETHAN_2026-10-31.jpg"
-  },
-  {
-   "key": "ALL_ELWAER_ASHLEY_2026-10-31",
-   "name": "Ashley Elwaer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1793497637,
-   "photo": "photos/ALL_ELWAER_ASHLEY_2026-10-31.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_JOHNS_TRACY_2026-11-01",
+   "name": "Tracy Lee Johns",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Possession Marijuana",
+   "more": 0,
+   "ts": 1793569632,
+   "photo": "photos/POR_JOHNS_TRACY_2026-11-01.jpg"
+  },
   {
    "key": "MAD_PITTMAN_WALTER_2026-11-01",
    "name": "Walter L Junior Pittman",
@@ -2653,28 +2664,6 @@
    "more": 0,
    "ts": 1793314035,
    "photo": "photos/ALL_BROWN_MARKUS_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_VANHOOSER_CHRISTINA_2026-10-29",
-   "name": "Christina Nicole Vanhooser",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 2,
-   "ts": 1793310438,
-   "photo": "photos/VAN_VANHOOSER_CHRISTINA_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_DILLS_RYAN_2026-10-29",
-   "name": "Ryan Wesley Dills",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1793310437,
-   "photo": "photos/VAN_DILLS_RYAN_2026-10-29.jpg"
   }
  ]
 }
