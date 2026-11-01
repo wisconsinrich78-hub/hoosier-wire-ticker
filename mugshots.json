@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-01T01:50:01+00:00",
+ "updated": "2026-11-01T03:49:36+00:00",
  "items": [
+  {
+   "key": "MAD_PERRY_DONALD_2026-10-31",
+   "name": "Donald James Perry",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Disorderly conduct",
+   "more": 2,
+   "ts": 1793504925,
+   "photo": null
+  },
+  {
+   "key": "POR_ZINSOU_FREJUS_2026-10-31",
+   "name": "Frejus Zinsou",
+   "age": "24",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 0,
+   "ts": 1793504833,
+   "photo": null
+  },
+  {
+   "key": "VAN_SADLER_TIMOTHY_2026-10-31",
+   "name": "Timothy Ray Sadler",
+   "age": "60",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
+   "more": 0,
+   "ts": 1793504831,
+   "photo": null
+  },
   {
    "key": "VAN_PUND_ETHAN_2026-10-31",
    "name": "Ethan Andrew Pund",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793425751,
    "photo": null
-  },
-  {
-   "key": "MAD_PULIS_RAVEN_2026-10-31",
-   "name": "Raven Xavier Pulis",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated- endangerment",
-   "more": 1,
-   "ts": 1793425735,
-   "photo": "photos/MAD_PULIS_RAVEN_2026-10-31.jpg"
-  },
-  {
-   "key": "MAD_LOCKHART_JEROME_2026-10-31",
-   "name": "Jerome Cornelious Lockhart",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1793425702,
-   "photo": null
-  },
-  {
-   "key": "POR_MORRIS_DENISE_2026-10-30",
-   "name": "Denise Diane Morris",
-   "age": "66",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating While Intoxicated - Serious Bodily Injury",
-   "more": 2,
-   "ts": 1793425637,
-   "photo": "photos/POR_MORRIS_DENISE_2026-10-30.jpg"
   }
  ]
 }
