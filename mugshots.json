@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-01T05:49:36+00:00",
+ "updated": "2026-11-01T06:49:07+00:00",
  "items": [
+  {
+   "key": "MAD_SANTIAGOHERNANDEZ_JAVIER_2026-11-01",
+   "name": "Javier Santiago Hernandez",
+   "age": "33",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793515715,
+   "photo": null
+  },
+  {
+   "key": "MAD_BARNES_JAHEIM_2026-11-01",
+   "name": "Jaheim Barnes",
+   "age": "23",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating with controlled substance in body",
+   "more": 2,
+   "ts": 1793515648,
+   "photo": "photos/MAD_BARNES_JAHEIM_2026-11-01.jpg"
+  },
+  {
+   "key": "POR_ENSIGN_VALERIE_2026-11-01",
+   "name": "Valerie Lynn Ensign",
+   "age": "24",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 0,
+   "ts": 1793515637,
+   "photo": null
+  },
+  {
+   "key": "ALL_CLAUSS_NASHAUN_2026-11-01",
+   "name": "Nashaun Clauss",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "DISORDERLY CONDUCT a person who recklessly, knowingly, or intentionall",
+   "more": 0,
+   "ts": 1793515630,
+   "photo": "photos/ALL_CLAUSS_NASHAUN_2026-11-01.jpg"
+  },
   {
    "key": "MAD_RICHARD_BRANDY_2026-11-01",
    "name": "Brandy L Richard",
@@ -484,50 +528,6 @@
    "more": 0,
    "ts": 1793429251,
    "photo": null
-  },
-  {
-   "key": "POR_PAAPE_LINDZIE_2026-10-31",
-   "name": "Lindzie Rose Paape",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Minor Consume An Alcoholic Beverage",
-   "more": 0,
-   "ts": 1793429250,
-   "photo": null
-  },
-  {
-   "key": "POR_SEARS_KAYLEE_2026-10-31",
-   "name": "Kaylee Sears",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Minor Consume An Alcoholic Beverage",
-   "more": 0,
-   "ts": 1793429248,
-   "photo": null
-  },
-  {
-   "key": "VAN_MONOHANPETTINATO_KELLY_2026-10-30",
-   "name": "Kelly Marie Monohan Pettinato",
-   "age": "61",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
-   "more": 1,
-   "ts": 1793429244,
-   "photo": "photos/VAN_MONOHANPETTINATO_KELLY_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_WALLACE_MARQUAVION_2026-10-31",
-   "name": "Marquavion Wallace",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793429240,
-   "photo": "photos/ALL_WALLACE_MARQUAVION_2026-10-31.jpg"
   }
  ]
 }
