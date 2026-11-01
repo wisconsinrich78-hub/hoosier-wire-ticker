@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-01T04:49:12+00:00",
+ "updated": "2026-11-01T05:49:36+00:00",
  "items": [
+  {
+   "key": "MAD_RICHARD_BRANDY_2026-11-01",
+   "name": "Brandy L Richard",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Obstruction of justice",
+   "more": 2,
+   "ts": 1793512109,
+   "photo": "photos/MAD_RICHARD_BRANDY_2026-11-01.jpg"
+  },
+  {
+   "key": "MAD_LEWIS_MARCUS_2026-11-01",
+   "name": "Marcus Eugene Lewis",
+   "age": "30",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793512077,
+   "photo": "photos/MAD_LEWIS_MARCUS_2026-11-01.jpg"
+  },
+  {
+   "key": "POR_DUCHETEAU_JEREMY_2026-10-31",
+   "name": "Jeremy Bryan Ducheteau",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol",
+   "more": 0,
+   "ts": 1793512034,
+   "photo": null
+  },
   {
    "key": "VAN_BETTAG_TOMMY_2026-10-31",
    "name": "Tommy Lee Bettag",
@@ -495,39 +528,6 @@
    "more": 0,
    "ts": 1793429240,
    "photo": "photos/ALL_WALLACE_MARQUAVION_2026-10-31.jpg"
-  },
-  {
-   "key": "ALL_RHINESMITH_PAULA_2026-10-31",
-   "name": "Paula Rhinesmith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Paraphernalia",
-   "more": 0,
-   "ts": 1793429236,
-   "photo": "photos/ALL_RHINESMITH_PAULA_2026-10-31.jpg"
-  },
-  {
-   "key": "ALL_DIAZDIAZ_JENNIFER_2026-10-31",
-   "name": "Jennifer Diaz-Diaz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Paraphernalia - Prior Judgement Or Conviction",
-   "more": 0,
-   "ts": 1793429232,
-   "photo": "photos/ALL_DIAZDIAZ_JENNIFER_2026-10-31.jpg"
-  },
-  {
-   "key": "MAD_STEVENS_CURTIS_2026-10-31",
-   "name": "Curtis Shawn Stevens",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793425751,
-   "photo": null
   }
  ]
 }
