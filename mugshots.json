@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-01T13:49:31+00:00",
+ "updated": "2026-11-01T14:49:16+00:00",
  "items": [
+  {
+   "key": "POR_MAZERAT_JEREMY_2026-11-01",
+   "name": "Jeremy Mazerat",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1793544429,
+   "photo": null
+  },
   {
    "key": "MAD_VANCE_JOHN_2026-11-01",
    "name": "John Lamar Vance",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793465231,
    "photo": "photos/POR_PROUD_OTTO_2026-10-31.jpg"
-  },
-  {
-   "key": "MAD_CASH_BROOKE_2026-10-31",
-   "name": "Brooke Nicole Cash",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1793461651,
-   "photo": "photos/MAD_CASH_BROOKE_2026-10-31.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_MAZERAT_JEREMY_2026-11-01",
+   "name": "Jeremy Mazerat",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1793544429,
+   "photo": null
+  },
   {
    "key": "MAD_VANCE_JOHN_2026-11-01",
    "name": "John Lamar Vance",
@@ -2906,28 +2917,6 @@
    "more": 0,
    "ts": 1793288831,
    "photo": "photos/ALL_COPELAND_LORENZO_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_FLEMING_KEVIN_2026-10-29",
-   "name": "Kevin Ray Fleming",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1793285241,
-   "photo": "photos/VAN_FLEMING_KEVIN_2026-10-29.jpg"
-  },
-  {
-   "key": "POR_ALEXANDER_TIFFANY_2026-10-28",
-   "name": "Tiffany Ann Alexander",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1793285239,
-   "photo": "photos/POR_ALEXANDER_TIFFANY_2026-10-28.jpg"
   }
  ]
 }
