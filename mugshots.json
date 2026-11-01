@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-01T03:49:36+00:00",
+ "updated": "2026-11-01T04:49:12+00:00",
  "items": [
+  {
+   "key": "VAN_BETTAG_TOMMY_2026-10-31",
+   "name": "Tommy Lee Bettag",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793508430,
+   "photo": "photos/VAN_BETTAG_TOMMY_2026-10-31.jpg"
+  },
   {
    "key": "MAD_PERRY_DONALD_2026-10-31",
    "name": "Donald James Perry",
@@ -473,17 +484,6 @@
    "more": 1,
    "ts": 1793429244,
    "photo": "photos/VAN_MONOHANPETTINATO_KELLY_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_PACHECOPINEDA_ANGEL_2026-10-31",
-   "name": "Angel Daniel Pacheco-Pineda",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Reckless Driving",
-   "more": 2,
-   "ts": 1793429243,
-   "photo": "photos/VAN_PACHECOPINEDA_ANGEL_2026-10-31.jpg"
   },
   {
    "key": "ALL_WALLACE_MARQUAVION_2026-10-31",
