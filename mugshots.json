@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T09:49:13+00:00",
+ "updated": "2026-11-02T10:49:04+00:00",
  "items": [
   {
    "key": "ALL_RUANOCORADO_TOMAS_2026-11-02",
@@ -2708,28 +2708,6 @@
    "more": 2,
    "ts": 1793360832,
    "photo": "photos/ALL_MARTIN_TONESHA_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_JOHNSON_MICHAEL_2026-10-30",
-   "name": "Michael Tyrone Junior Johnson",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793357281,
-   "photo": "photos/MAD_JOHNSON_MICHAEL_2026-10-30.jpg"
-  },
-  {
-   "key": "POR_PHELPS_JACOB_2026-10-30",
-   "name": "Jacob Graham Phelps",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 3,
-   "ts": 1793357229,
-   "photo": null
   }
  ]
 }
