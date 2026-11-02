@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-02T19:49:32+00:00",
+ "updated": "2026-11-02T20:49:41+00:00",
  "items": [
+  {
+   "key": "VAN_MCMILLEN_AARON_2026-11-02",
+   "name": "Aaron Michael Mcmillen",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793652455,
+   "photo": "photos/VAN_MCMILLEN_AARON_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_MATHIS_ANDREW_2026-11-02",
+   "name": "Andrew Lee Mathis",
+   "age": "52",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793652452,
+   "photo": null
+  },
+  {
+   "key": "VAN_COOK_DEONTAY_2026-11-02",
+   "name": "Deontay Jerome Cook",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1793652452,
+   "photo": null
+  },
+  {
+   "key": "ALL_PESINA_ESPERANZA_2026-11-02",
+   "name": "Esperanza Pesina",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1793652451,
+   "photo": "photos/ALL_PESINA_ESPERANZA_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_DEREMER_DUSTIN_2026-11-02",
+   "name": "Dustin Deremer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 3,
+   "ts": 1793652446,
+   "photo": "photos/ALL_DEREMER_DUSTIN_2026-11-02.jpg"
+  },
   {
    "key": "ALL_ROSADOPEREZ_RAUL_2026-11-02",
    "name": "Raul Rosadoperez",
@@ -376,17 +431,6 @@
    "photo": "photos/ALL_HALL_QUINCY_2026-11-02.jpg"
   },
   {
-   "key": "ALL_BRIGHT_LOUIS_2026-11-02",
-   "name": "Louis Bright",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1793605635,
-   "photo": "photos/ALL_BRIGHT_LOUIS_2026-11-02.jpg"
-  },
-  {
    "key": "MAD_GREGG_MERCEDES_2026-11-02",
    "name": "Mercedes Elizabeth Gregg",
    "age": "24",
@@ -418,17 +462,6 @@
    "more": 0,
    "ts": 1793602046,
    "photo": "photos/VAN_TOWNSON_FRANK_2026-11-01.jpg"
-  },
-  {
-   "key": "ALL_ULRICH_WESTON_2026-11-02",
-   "name": "Weston Ulrich",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Fleeing",
-   "more": 0,
-   "ts": 1793602041,
-   "photo": "photos/ALL_ULRICH_WESTON_2026-11-02.jpg"
   },
   {
    "key": "VAN_RAMASWAMY_MARIA_2026-11-01",
@@ -495,42 +528,64 @@
    "more": 2,
    "ts": 1793587641,
    "photo": "photos/VAN_FOWLER_WILLIAM_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_JOSEPH_LAKEISHA_2026-11-01",
-   "name": "Lakeisha Anna Joseph",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 0,
-   "ts": 1793587638,
-   "photo": null
-  },
-  {
-   "key": "MAD_RANDLE_MICHAEL_2026-11-01",
-   "name": "Michael De-Mone Randle",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery-deadly weapon",
-   "more": 3,
-   "ts": 1793584128,
-   "photo": "photos/MAD_RANDLE_MICHAEL_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_SHUCK_MORGAN_2026-11-01",
-   "name": "Morgan Morgan Shuck",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/",
-   "more": 1,
-   "ts": 1793584037,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_MCMILLEN_AARON_2026-11-02",
+   "name": "Aaron Michael Mcmillen",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793652455,
+   "photo": "photos/VAN_MCMILLEN_AARON_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_MATHIS_ANDREW_2026-11-02",
+   "name": "Andrew Lee Mathis",
+   "age": "52",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793652452,
+   "photo": null
+  },
+  {
+   "key": "VAN_COOK_DEONTAY_2026-11-02",
+   "name": "Deontay Jerome Cook",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1793652452,
+   "photo": null
+  },
+  {
+   "key": "ALL_PESINA_ESPERANZA_2026-11-02",
+   "name": "Esperanza Pesina",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1793652451,
+   "photo": "photos/ALL_PESINA_ESPERANZA_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_DEREMER_DUSTIN_2026-11-02",
+   "name": "Dustin Deremer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 3,
+   "ts": 1793652446,
+   "photo": "photos/ALL_DEREMER_DUSTIN_2026-11-02.jpg"
+  },
   {
    "key": "ALL_ROSADOPEREZ_RAUL_2026-11-02",
    "name": "Raul Rosadoperez",
@@ -2477,39 +2532,6 @@
    "more": 0,
    "ts": 1793396839,
    "photo": "photos/ALL_MURPHY_CASEY_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_ROBISON_LORAN_2026-10-30",
-   "name": "Loran Wayne Robison",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft",
-   "more": 0,
-   "ts": 1793393237,
-   "photo": null
-  },
-  {
-   "key": "VAN_FRY_LAURA_2026-10-30",
-   "name": "Laura Gail Fry",
-   "age": "59",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating While Intoxicated \u2013 Serious Bodily Injury",
-   "more": 1,
-   "ts": 1793393237,
-   "photo": null
-  },
-  {
-   "key": "VAN_SCHMITT_LOGAN_2026-10-30",
-   "name": "Logan James Schmitt",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating While Intoxicated \u2013 Serious Bodily Injury",
-   "more": 2,
-   "ts": 1793393237,
-   "photo": null
   }
  ]
 }
