@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-02T05:47:28+00:00",
+ "updated": "2026-11-02T06:49:30+00:00",
  "items": [
+  {
+   "key": "MAD_GREGG_MERCEDES_2026-11-02",
+   "name": "Mercedes Elizabeth Gregg",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Intimidation w/ Deadly Weapon",
+   "more": 1,
+   "ts": 1793602081,
+   "photo": "photos/MAD_GREGG_MERCEDES_2026-11-02.jpg"
+  },
+  {
+   "key": "MAD_BOUKAL_MASON_2026-11-02",
+   "name": "Mason Lee Boukal",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1793602059,
+   "photo": null
+  },
+  {
+   "key": "VAN_TOWNSON_FRANK_2026-11-01",
+   "name": "Frank Nmn Townson",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793602046,
+   "photo": "photos/VAN_TOWNSON_FRANK_2026-11-01.jpg"
+  },
+  {
+   "key": "ALL_ULRICH_WESTON_2026-11-02",
+   "name": "Weston Ulrich",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 0,
+   "ts": 1793602041,
+   "photo": "photos/ALL_ULRICH_WESTON_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_SCOTT_JAMES_2026-11-02",
+   "name": "James Scott",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Possession Of Syringe",
+   "more": 4,
+   "ts": 1793602037,
+   "photo": "photos/ALL_SCOTT_JAMES_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_RANGEL_IVAN_2026-11-02",
+   "name": "Ivan Rangel",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793602033,
+   "photo": "photos/ALL_RANGEL_IVAN_2026-11-02.jpg"
+  },
   {
    "key": "ALL_RENTERIA_MARISSA_2026-11-01",
    "name": "Marissa Renteria",
@@ -442,17 +508,6 @@
    "photo": "photos/VAN_NUNN_DREDON_2026-11-01.jpg"
   },
   {
-   "key": "VAN_BACON_EROCK_2026-11-01",
-   "name": "Erock Lee Bacon",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 2,
-   "ts": 1793533628,
-   "photo": "photos/VAN_BACON_EROCK_2026-11-01.jpg"
-  },
-  {
    "key": "MAD_HODGE_KEANU_2026-11-01",
    "name": "Keanu Malique Hodge",
    "age": "27",
@@ -473,64 +528,75 @@
    "more": 0,
    "ts": 1793530035,
    "photo": "photos/POR_FERGUSON_JULIA_2026-11-01.jpg"
-  },
-  {
-   "key": "POR_BENNETT_ESSENCE_2026-11-01",
-   "name": "Essence Allante Bennett",
-   "age": "28",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793530033,
-   "photo": "photos/POR_BENNETT_ESSENCE_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_HATTER_EDDIE_2026-11-01",
-   "name": "Eddie Lee Hatter",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793526464,
-   "photo": null
-  },
-  {
-   "key": "MAD_ALMATULY_YASER_2026-11-01",
-   "name": "Yaser Z Almatuly",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated",
-   "more": 2,
-   "ts": 1793526439,
-   "photo": null
-  },
-  {
-   "key": "MAD_GOINS_JESSICA_2026-11-01",
-   "name": "Jessica Jo Goins",
-   "age": "50",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793522861,
-   "photo": "photos/MAD_GOINS_JESSICA_2026-11-01.jpg"
-  },
-  {
-   "key": "POR_QUESADA_YESENIA_2026-11-01",
-   "name": "Yesenia Marie Quesada",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Battery - Misdemeanor",
-   "more": 0,
-   "ts": 1793522835,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_GREGG_MERCEDES_2026-11-02",
+   "name": "Mercedes Elizabeth Gregg",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Intimidation w/ Deadly Weapon",
+   "more": 1,
+   "ts": 1793602081,
+   "photo": "photos/MAD_GREGG_MERCEDES_2026-11-02.jpg"
+  },
+  {
+   "key": "MAD_BOUKAL_MASON_2026-11-02",
+   "name": "Mason Lee Boukal",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1793602059,
+   "photo": null
+  },
+  {
+   "key": "VAN_TOWNSON_FRANK_2026-11-01",
+   "name": "Frank Nmn Townson",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793602046,
+   "photo": "photos/VAN_TOWNSON_FRANK_2026-11-01.jpg"
+  },
+  {
+   "key": "ALL_ULRICH_WESTON_2026-11-02",
+   "name": "Weston Ulrich",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 0,
+   "ts": 1793602041,
+   "photo": "photos/ALL_ULRICH_WESTON_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_SCOTT_JAMES_2026-11-02",
+   "name": "James Scott",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Possession Of Syringe",
+   "more": 4,
+   "ts": 1793602037,
+   "photo": "photos/ALL_SCOTT_JAMES_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_RANGEL_IVAN_2026-11-02",
+   "name": "Ivan Rangel",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793602033,
+   "photo": "photos/ALL_RANGEL_IVAN_2026-11-02.jpg"
+  },
   {
    "key": "ALL_RENTERIA_MARISSA_2026-11-01",
    "name": "Marissa Renteria",
@@ -2598,50 +2664,6 @@
    "more": 1,
    "ts": 1793346452,
    "photo": "photos/ALL_THOMPSON_CALEB_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_MERRITT_STEVEN_2026-10-30",
-   "name": "Steven Scott Merritt",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Criminal Vandalism (B/M)",
-   "more": 0,
-   "ts": 1793342891,
-   "photo": "photos/MAD_MERRITT_STEVEN_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_HILL_CAMERON_2026-10-30",
-   "name": "Cameron Nathanael-Ichiro Hill",
-   "age": "23",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating with controlled substance in body",
-   "more": 1,
-   "ts": 1793342872,
-   "photo": null
-  },
-  {
-   "key": "MAD_DICKEY_SHERMAN_2026-10-30",
-   "name": "Sherman Everette Dickey",
-   "age": "47",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession paraphernalia",
-   "more": 6,
-   "ts": 1793342854,
-   "photo": null
-  },
-  {
-   "key": "ALL_HINTON_GARY_2026-10-30",
-   "name": "Gary Hinton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 1,
-   "ts": 1793342833,
-   "photo": "photos/ALL_HINTON_GARY_2026-10-30.jpg"
   }
  ]
 }
