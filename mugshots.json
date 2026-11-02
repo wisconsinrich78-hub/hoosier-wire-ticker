@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-02T18:49:58+00:00",
+ "updated": "2026-11-02T19:49:32+00:00",
  "items": [
+  {
+   "key": "ALL_ROSADOPEREZ_RAUL_2026-11-02",
+   "name": "Raul Rosadoperez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > Or = To .15%",
+   "more": 2,
+   "ts": 1793648842,
+   "photo": "photos/ALL_ROSADOPEREZ_RAUL_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_KIDD_GARY_2026-11-02",
+   "name": "Gary Kidd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Controlled Substance",
+   "more": 4,
+   "ts": 1793648837,
+   "photo": "photos/ALL_KIDD_GARY_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_MOORE_JAMES_2026-11-02",
+   "name": "James Wesley Moore",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
+   "more": 8,
+   "ts": 1793648836,
+   "photo": "photos/VAN_MOORE_JAMES_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_TEER_SEAN_2026-11-02",
+   "name": "Sean Eric Teer",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 0,
+   "ts": 1793648835,
+   "photo": "photos/VAN_TEER_SEAN_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_PUERTZER_ALIK_2026-11-02",
+   "name": "Alik James Puertzer",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793648835,
+   "photo": null
+  },
+  {
+   "key": "POR_BAZALDUA_RYAN_2026-11-02",
+   "name": "Ryan Michael Bazaldua",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 2,
+   "ts": 1793648834,
+   "photo": "photos/POR_BAZALDUA_RYAN_2026-11-02.jpg"
+  },
   {
    "key": "POR_LOPEZ_LIONEL_2026-11-02",
    "name": "Lionel Figueroa Lopez",
@@ -365,28 +431,6 @@
    "photo": "photos/ALL_ULRICH_WESTON_2026-11-02.jpg"
   },
   {
-   "key": "ALL_SCOTT_JAMES_2026-11-02",
-   "name": "James Scott",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Possession Of Syringe",
-   "more": 4,
-   "ts": 1793602037,
-   "photo": "photos/ALL_SCOTT_JAMES_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_RANGEL_IVAN_2026-11-02",
-   "name": "Ivan Rangel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793602033,
-   "photo": "photos/ALL_RANGEL_IVAN_2026-11-02.jpg"
-  },
-  {
    "key": "VAN_RAMASWAMY_MARIA_2026-11-01",
    "name": "Maria Gita Ramaswamy",
    "age": "51",
@@ -484,53 +528,75 @@
    "more": 1,
    "ts": 1793584037,
    "photo": null
-  },
-  {
-   "key": "VAN_BLIKKEN_KRISTEN_2026-11-01",
-   "name": "Kristen Anne Blikken",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Simple Assault - Nibrs",
-   "more": 0,
-   "ts": 1793580440,
-   "photo": "photos/VAN_BLIKKEN_KRISTEN_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_MCLEAN_JAMES_2026-11-01",
-   "name": "James Louis Mclean",
-   "age": "69",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793580437,
-   "photo": null
-  },
-  {
-   "key": "VAN_TERRY_AYRYAN_2026-11-01",
-   "name": "Ayryan Jayshon Terry",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793580437,
-   "photo": "photos/VAN_TERRY_AYRYAN_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_KELLEY_MAHOGANY_2026-11-01",
-   "name": "Mahogany K Kelley",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793576886,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_ROSADOPEREZ_RAUL_2026-11-02",
+   "name": "Raul Rosadoperez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > Or = To .15%",
+   "more": 2,
+   "ts": 1793648842,
+   "photo": "photos/ALL_ROSADOPEREZ_RAUL_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_KIDD_GARY_2026-11-02",
+   "name": "Gary Kidd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Controlled Substance",
+   "more": 4,
+   "ts": 1793648837,
+   "photo": "photos/ALL_KIDD_GARY_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_MOORE_JAMES_2026-11-02",
+   "name": "James Wesley Moore",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
+   "more": 8,
+   "ts": 1793648836,
+   "photo": "photos/VAN_MOORE_JAMES_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_TEER_SEAN_2026-11-02",
+   "name": "Sean Eric Teer",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 0,
+   "ts": 1793648835,
+   "photo": "photos/VAN_TEER_SEAN_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_PUERTZER_ALIK_2026-11-02",
+   "name": "Alik James Puertzer",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793648835,
+   "photo": null
+  },
+  {
+   "key": "POR_BAZALDUA_RYAN_2026-11-02",
+   "name": "Ryan Michael Bazaldua",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 2,
+   "ts": 1793648834,
+   "photo": "photos/POR_BAZALDUA_RYAN_2026-11-02.jpg"
+  },
   {
    "key": "POR_LOPEZ_LIONEL_2026-11-02",
    "name": "Lionel Figueroa Lopez",
@@ -2443,50 +2509,6 @@
    "charge": "Operating While Intoxicated \u2013 Serious Bodily Injury",
    "more": 2,
    "ts": 1793393237,
-   "photo": null
-  },
-  {
-   "key": "VAN_LANE_DANIEL_2026-10-30",
-   "name": "Daniel Eugene Lane",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft",
-   "more": 3,
-   "ts": 1793389637,
-   "photo": null
-  },
-  {
-   "key": "VAN_DEEN_DEREK_2026-10-30",
-   "name": "Derek Eugene Deen",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793389637,
-   "photo": null
-  },
-  {
-   "key": "ALL_WALLACE_JAYLEN_2026-10-30",
-   "name": "Jaylen Wallace",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving The Scene Of A Crash - Property Damage",
-   "more": 1,
-   "ts": 1793389636,
-   "photo": "photos/ALL_WALLACE_JAYLEN_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_TILLINGHAST_KEVIN_2026-10-30",
-   "name": "Kevin Tillinghast",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving The Scene-Driver Fails To Immediately Stop At The Scene Of The",
-   "more": 0,
-   "ts": 1793389632,
    "photo": null
   }
  ]
