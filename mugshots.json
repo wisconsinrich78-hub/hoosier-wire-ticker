@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T01:49:32+00:00",
+ "updated": "2026-11-02T02:49:47+00:00",
  "items": [
+  {
+   "key": "MAD_ELLIS_JEFFREY_2026-11-01",
+   "name": "Jeffrey Scott Ellis",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 1,
+   "ts": 1793587672,
+   "photo": "photos/MAD_ELLIS_JEFFREY_2026-11-01.jpg"
+  },
+  {
+   "key": "VAN_FOWLER_WILLIAM_2026-11-01",
+   "name": "William George Fowler",
+   "age": "51",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 2,
+   "ts": 1793587641,
+   "photo": "photos/VAN_FOWLER_WILLIAM_2026-11-01.jpg"
+  },
+  {
+   "key": "VAN_JOSEPH_LAKEISHA_2026-11-01",
+   "name": "Lakeisha Anna Joseph",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 0,
+   "ts": 1793587638,
+   "photo": null
+  },
+  {
+   "key": "ALL_RODRIGUEZ_JOSE_2026-11-01",
+   "name": "Jose Rodriguez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Firearm In School",
+   "more": 0,
+   "ts": 1793587637,
+   "photo": "photos/ALL_RODRIGUEZ_JOSE_2026-11-01.jpg"
+  },
   {
    "key": "MAD_RANDLE_MICHAEL_2026-11-01",
    "name": "Michael De-Mone Randle",
@@ -409,17 +453,6 @@
    "photo": null
   },
   {
-   "key": "VAN_GRIGSBY_JESSE_2026-11-01",
-   "name": "Jesse Lee Grigsby",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Indecency- Indecent Exposure",
-   "more": 1,
-   "ts": 1793526429,
-   "photo": "photos/VAN_GRIGSBY_JESSE_2026-11-01.jpg"
-  },
-  {
    "key": "MAD_GOINS_JESSICA_2026-11-01",
    "name": "Jessica Jo Goins",
    "age": "50",
@@ -451,17 +484,6 @@
    "more": 0,
    "ts": 1793522833,
    "photo": null
-  },
-  {
-   "key": "VAN_KANIPE_HANNAH_2026-11-01",
-   "name": "Hannah Elaine Kanipe",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1793522830,
-   "photo": "photos/VAN_KANIPE_HANNAH_2026-11-01.jpg"
   },
   {
    "key": "MAD_STANSBERRY_DARRELL_2026-11-01",
@@ -506,31 +528,53 @@
    "more": 2,
    "ts": 1793515648,
    "photo": "photos/MAD_BARNES_JAHEIM_2026-11-01.jpg"
-  },
-  {
-   "key": "POR_ENSIGN_VALERIE_2026-11-01",
-   "name": "Valerie Lynn Ensign",
-   "age": "24",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 0,
-   "ts": 1793515637,
-   "photo": null
-  },
-  {
-   "key": "ALL_CLAUSS_NASHAUN_2026-11-01",
-   "name": "Nashaun Clauss",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "DISORDERLY CONDUCT a person who recklessly, knowingly, or intentionall",
-   "more": 0,
-   "ts": 1793515630,
-   "photo": "photos/ALL_CLAUSS_NASHAUN_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_ELLIS_JEFFREY_2026-11-01",
+   "name": "Jeffrey Scott Ellis",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 1,
+   "ts": 1793587672,
+   "photo": "photos/MAD_ELLIS_JEFFREY_2026-11-01.jpg"
+  },
+  {
+   "key": "VAN_FOWLER_WILLIAM_2026-11-01",
+   "name": "William George Fowler",
+   "age": "51",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 2,
+   "ts": 1793587641,
+   "photo": "photos/VAN_FOWLER_WILLIAM_2026-11-01.jpg"
+  },
+  {
+   "key": "VAN_JOSEPH_LAKEISHA_2026-11-01",
+   "name": "Lakeisha Anna Joseph",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 0,
+   "ts": 1793587638,
+   "photo": null
+  },
+  {
+   "key": "ALL_RODRIGUEZ_JOSE_2026-11-01",
+   "name": "Jose Rodriguez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Firearm In School",
+   "more": 0,
+   "ts": 1793587637,
+   "photo": "photos/ALL_RODRIGUEZ_JOSE_2026-11-01.jpg"
+  },
   {
    "key": "MAD_RANDLE_MICHAEL_2026-11-01",
    "name": "Michael De-Mone Randle",
@@ -2620,17 +2664,6 @@
    "more": 0,
    "ts": 1793332031,
    "photo": "photos/ALL_FAIRCHILD_COURTNEY_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_DOERR_TIMOTHY_2026-10-29",
-   "name": "Timothy Logan Doerr",
-   "age": "62",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 1,
-   "ts": 1793328434,
-   "photo": null
   }
  ]
 }
