@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T16:47:30+00:00",
+ "updated": "2026-11-02T16:47:49+00:00",
  "items": [
   {
    "key": "VAN_MEREDITH_MELISSA_2026-11-02",
@@ -2488,39 +2488,6 @@
    "more": 0,
    "ts": 1793378938,
    "photo": "photos/MAD_PARKHURST_KEVIN_2026-10-30.jpg"
-  },
-  {
-   "key": "POR_MCDANIEL_BREANNA_2026-10-30",
-   "name": "Breanna Lee Mcdaniel",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793378855,
-   "photo": "photos/POR_MCDANIEL_BREANNA_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_BLYTHE_SABRINA_2026-10-30",
-   "name": "Sabrina Nichael Blythe",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 3,
-   "ts": 1793378852,
-   "photo": "photos/VAN_BLYTHE_SABRINA_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_BENNINGFIELD_KRISTINA_2026-10-30",
-   "name": "Kristina Dawn Benningfield",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Paraphernalia",
-   "more": 0,
-   "ts": 1793378851,
-   "photo": "photos/VAN_BENNINGFIELD_KRISTINA_2026-10-30.jpg"
   }
  ]
 }
