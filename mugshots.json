@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T13:49:17+00:00",
+ "updated": "2026-11-02T14:47:29+00:00",
  "items": [
   {
    "key": "ALL_COLLINS_RONALD_2026-11-02",
@@ -2631,50 +2631,6 @@
    "more": 1,
    "ts": 1793375233,
    "photo": "photos/ALL_JACKSON_REILLY_2026-10-30.jpg"
-  },
-  {
-   "key": "POR_BURGESS_KOLIN_2026-10-30",
-   "name": "Kolin Jay Burgess",
-   "age": "27",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793371641,
-   "photo": null
-  },
-  {
-   "key": "POR_DEMONBREUN_LELAND_2026-10-30",
-   "name": "Leland Joyce Demonbreun",
-   "age": "60",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Cruelty To Animals",
-   "more": 0,
-   "ts": 1793371638,
-   "photo": null
-  },
-  {
-   "key": "ALL_SPECK_DANIEL_2026-10-30",
-   "name": "Daniel Speck",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793371634,
-   "photo": "photos/ALL_SPECK_DANIEL_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_BROWN_SHAWNTE_2026-10-30",
-   "name": "Shawnte Brown",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt Of Court-Civil",
-   "more": 0,
-   "ts": 1793371630,
-   "photo": "photos/ALL_BROWN_SHAWNTE_2026-10-30.jpg"
   }
  ]
 }
