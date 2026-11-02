@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T16:47:49+00:00",
+ "updated": "2026-11-02T17:06:14+00:00",
  "items": [
   {
    "key": "VAN_MEREDITH_MELISSA_2026-11-02",
@@ -2477,17 +2477,6 @@
    "more": 0,
    "ts": 1793382435,
    "photo": "photos/ALL_WILLMAN_JOSHUA_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_PARKHURST_KEVIN_2026-10-30",
-   "name": "Kevin Dale Junior Parkhurst",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Parole Violation - Jail Booking",
-   "more": 0,
-   "ts": 1793378938,
-   "photo": "photos/MAD_PARKHURST_KEVIN_2026-10-30.jpg"
   }
  ]
 }
