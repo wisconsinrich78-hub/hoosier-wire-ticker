@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-02T07:49:30+00:00",
+ "updated": "2026-11-02T08:49:28+00:00",
  "items": [
+  {
+   "key": "POR_HARDY_BREANNA_2026-11-02",
+   "name": "Breanna Chell Hardy",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 3,
+   "ts": 1793609243,
+   "photo": "photos/POR_HARDY_BREANNA_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_SMITH_XAVIER_2026-11-02",
+   "name": "Xavier Raheem Smith",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 1,
+   "ts": 1793609241,
+   "photo": "photos/VAN_SMITH_XAVIER_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_HATTENDORF_KAIDANCE_2026-11-02",
+   "name": "Kaidance Hattendorf",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1793609237,
+   "photo": "photos/ALL_HATTENDORF_KAIDANCE_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_HALE_ADAM_2026-11-02",
+   "name": "Adam Hale",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793609233,
+   "photo": "photos/ALL_HALE_ADAM_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_BROKAW_JACKSON_2026-11-02",
+   "name": "Jackson Brokaw",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793609230,
+   "photo": "photos/ALL_BROKAW_JACKSON_2026-11-02.jpg"
+  },
   {
    "key": "POR_PITTS_TAMARA_2026-11-02",
    "name": "Tamara Lasha Pitts",
@@ -387,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "ALL_SCHMUCKER_JASON_2026-11-01",
-   "name": "Jason Schmucker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793566032,
-   "photo": null
-  },
-  {
    "key": "VAN_REYES_ALESSANDRO_2026-11-01",
    "name": "Alessandro Manuel Reyes",
    "age": "22",
@@ -431,17 +475,6 @@
    "photo": "photos/MAD_DAVENPORT_RONALD_2026-11-01.jpg"
   },
   {
-   "key": "ALL_WEBER_JESSICA_2026-11-01",
-   "name": "Jessica Weber",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793555235,
-   "photo": "photos/ALL_WEBER_JESSICA_2026-11-01.jpg"
-  },
-  {
    "key": "MAD_DAVIS_DAVID_2026-11-01",
    "name": "David Lynn Davis",
    "age": "48",
@@ -451,17 +484,6 @@
    "more": 0,
    "ts": 1793551654,
    "photo": "photos/MAD_DAVIS_DAVID_2026-11-01.jpg"
-  },
-  {
-   "key": "ALL_PERKINS_MELVIN_2026-11-01",
-   "name": "Melvin Perkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 1,
-   "ts": 1793548034,
-   "photo": "photos/ALL_PERKINS_MELVIN_2026-11-01.jpg"
   },
   {
    "key": "POR_MAZERAT_JEREMY_2026-11-01",
@@ -506,31 +528,64 @@
    "more": 2,
    "ts": 1793537234,
    "photo": "photos/VAN_COOPER_CHALAIYAH_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_CARTWRIGHT_GARY_2026-11-01",
-   "name": "Gary Jamal Cartwright",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1793537231,
-   "photo": null
-  },
-  {
-   "key": "VAN_NUNN_DREDON_2026-11-01",
-   "name": "Dredon Everett Nunn",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 1,
-   "ts": 1793533629,
-   "photo": "photos/VAN_NUNN_DREDON_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_HARDY_BREANNA_2026-11-02",
+   "name": "Breanna Chell Hardy",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 3,
+   "ts": 1793609243,
+   "photo": "photos/POR_HARDY_BREANNA_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_SMITH_XAVIER_2026-11-02",
+   "name": "Xavier Raheem Smith",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 1,
+   "ts": 1793609241,
+   "photo": "photos/VAN_SMITH_XAVIER_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_HATTENDORF_KAIDANCE_2026-11-02",
+   "name": "Kaidance Hattendorf",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1793609237,
+   "photo": "photos/ALL_HATTENDORF_KAIDANCE_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_HALE_ADAM_2026-11-02",
+   "name": "Adam Hale",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793609233,
+   "photo": "photos/ALL_HALE_ADAM_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_BROKAW_JACKSON_2026-11-02",
+   "name": "Jackson Brokaw",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793609230,
+   "photo": "photos/ALL_BROKAW_JACKSON_2026-11-02.jpg"
+  },
   {
    "key": "POR_PITTS_TAMARA_2026-11-02",
    "name": "Tamara Lasha Pitts",
@@ -2685,17 +2740,6 @@
    "charge": "Possession of Contr Sub: Schedule II,III,IV",
    "more": 2,
    "ts": 1793353687,
-   "photo": null
-  },
-  {
-   "key": "POR_DOAN_TESSA_2026-10-30",
-   "name": "Tessa Michelle Doan",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1793350031,
    "photo": null
   }
  ]
