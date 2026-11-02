@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-02T08:49:28+00:00",
+ "updated": "2026-11-02T09:49:13+00:00",
  "items": [
+  {
+   "key": "ALL_RUANOCORADO_TOMAS_2026-11-02",
+   "name": "Tomas Ruanocorado",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 3,
+   "ts": 1793612832,
+   "photo": "photos/ALL_RUANOCORADO_TOMAS_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_RIDDLE_TOREE_2026-11-02",
+   "name": "Toree Riddle",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Escape",
+   "more": 1,
+   "ts": 1793612828,
+   "photo": "photos/ALL_RIDDLE_TOREE_2026-11-02.jpg"
+  },
   {
    "key": "POR_HARDY_BREANNA_2026-11-02",
    "name": "Breanna Chell Hardy",
@@ -321,17 +343,6 @@
    "photo": "photos/ALL_JENKINS_RICHARD_2026-11-01.jpg"
   },
   {
-   "key": "ALL_ARNETT_RIKIA_2026-11-01",
-   "name": "Rikia Arnett",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1793584031,
-   "photo": "photos/ALL_ARNETT_RIKIA_2026-11-01.jpg"
-  },
-  {
    "key": "VAN_BLIKKEN_KRISTEN_2026-11-01",
    "name": "Kristen Anne Blikken",
    "age": "36",
@@ -363,17 +374,6 @@
    "more": 0,
    "ts": 1793580437,
    "photo": "photos/VAN_TERRY_AYRYAN_2026-11-01.jpg"
-  },
-  {
-   "key": "ALL_BUMAN_LEVI_2026-11-01",
-   "name": "Levi Buman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing In Schedule I,Ii,Iii",
-   "more": 4,
-   "ts": 1793580435,
-   "photo": "photos/ALL_BUMAN_LEVI_2026-11-01.jpg"
   },
   {
    "key": "MAD_KELLEY_MAHOGANY_2026-11-01",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_RUANOCORADO_TOMAS_2026-11-02",
+   "name": "Tomas Ruanocorado",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 3,
+   "ts": 1793612832,
+   "photo": "photos/ALL_RUANOCORADO_TOMAS_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_RIDDLE_TOREE_2026-11-02",
+   "name": "Toree Riddle",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Escape",
+   "more": 1,
+   "ts": 1793612828,
+   "photo": "photos/ALL_RIDDLE_TOREE_2026-11-02.jpg"
+  },
   {
    "key": "POR_HARDY_BREANNA_2026-11-02",
    "name": "Breanna Chell Hardy",
@@ -2707,39 +2729,6 @@
    "charge": "Operating A Vehicle With An BAC Of .15 Or More",
    "more": 3,
    "ts": 1793357229,
-   "photo": null
-  },
-  {
-   "key": "MAD_WATSON_TYQUAN_2026-10-30",
-   "name": "Ty'Quan Raymon Watson",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793353735,
-   "photo": "photos/MAD_WATSON_TYQUAN_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_NEVINGS_TOMMIE_2026-10-30",
-   "name": "Tommie Lee Junior Nevings",
-   "age": "55",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1793353700,
-   "photo": "photos/MAD_NEVINGS_TOMMIE_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_MCBEE_CODY_2026-10-30",
-   "name": "Cody Mcbee",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession of Contr Sub: Schedule II,III,IV",
-   "more": 2,
-   "ts": 1793353687,
    "photo": null
   }
  ]
