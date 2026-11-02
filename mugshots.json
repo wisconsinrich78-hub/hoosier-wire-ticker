@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T14:47:29+00:00",
+ "updated": "2026-11-02T14:51:10+00:00",
  "items": [
+  {
+   "key": "MAD_WILBURN_MELINA_2026-11-02",
+   "name": "Melina Ann Wilburn",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793630957,
+   "photo": "photos/MAD_WILBURN_MELINA_2026-11-02.jpg"
+  },
   {
    "key": "ALL_COLLINS_RONALD_2026-11-02",
    "name": "Ronald Collins",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1793540838,
    "photo": "photos/VAN_SEARS_AVA_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_COOPER_CHALAIYAH_2026-11-01",
-   "name": "Chalaiyah Marie Cooper",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery - Against Public Safety Official Engaged In Official",
-   "more": 2,
-   "ts": 1793537234,
-   "photo": "photos/VAN_COOPER_CHALAIYAH_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WILBURN_MELINA_2026-11-02",
+   "name": "Melina Ann Wilburn",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793630957,
+   "photo": "photos/MAD_WILBURN_MELINA_2026-11-02.jpg"
+  },
   {
    "key": "ALL_COLLINS_RONALD_2026-11-02",
    "name": "Ronald Collins",
