@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-02T02:49:47+00:00",
+ "updated": "2026-11-02T03:49:48+00:00",
  "items": [
+  {
+   "key": "MAD_RUBLE_BYRON_2026-11-01",
+   "name": "Byron Thaddeus Ruble",
+   "age": "55",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793591343,
+   "photo": "photos/MAD_RUBLE_BYRON_2026-11-01.jpg"
+  },
+  {
+   "key": "MAD_DUNHAM_DAVID_2026-11-01",
+   "name": "David Ernest Dunham",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1793591272,
+   "photo": "photos/MAD_DUNHAM_DAVID_2026-11-01.jpg"
+  },
   {
    "key": "MAD_ELLIS_JEFFREY_2026-11-01",
    "name": "Jeffrey Scott Ellis",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1793519232,
    "photo": null
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_SANTIAGOHERNANDEZ_JAVIER_2026-11-01",
-   "name": "Javier Santiago Hernandez",
-   "age": "33",
+   "key": "MAD_RUBLE_BYRON_2026-11-01",
+   "name": "Byron Thaddeus Ruble",
+   "age": "55",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1793515715,
-   "photo": null
+   "ts": 1793591343,
+   "photo": "photos/MAD_RUBLE_BYRON_2026-11-01.jpg"
   },
   {
-   "key": "MAD_BARNES_JAHEIM_2026-11-01",
-   "name": "Jaheim Barnes",
-   "age": "23",
+   "key": "MAD_DUNHAM_DAVID_2026-11-01",
+   "name": "David Ernest Dunham",
+   "age": "34",
    "county": "Madison County",
    "region": "central",
-   "charge": "Operating with controlled substance in body",
-   "more": 2,
-   "ts": 1793515648,
-   "photo": "photos/MAD_BARNES_JAHEIM_2026-11-01.jpg"
-  }
- ],
- "all_items": [
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1793591272,
+   "photo": "photos/MAD_DUNHAM_DAVID_2026-11-01.jpg"
+  },
   {
    "key": "MAD_ELLIS_JEFFREY_2026-11-01",
    "name": "Jeffrey Scott Ellis",
@@ -2631,39 +2653,6 @@
    "more": 0,
    "ts": 1793335631,
    "photo": "photos/ALL_CONEY_EDWARD_2026-10-29.jpg"
-  },
-  {
-   "key": "VAN_SPAIN_JEMEEREO_2026-10-29",
-   "name": "Jemeereo Laron Spain",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
-   "more": 2,
-   "ts": 1793332037,
-   "photo": null
-  },
-  {
-   "key": "ALL_ZAN_RAM_2026-10-29",
-   "name": "Ram Zan",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Fleeing",
-   "more": 2,
-   "ts": 1793332036,
-   "photo": "photos/ALL_ZAN_RAM_2026-10-29.jpg"
-  },
-  {
-   "key": "ALL_FAIRCHILD_COURTNEY_2026-10-29",
-   "name": "Courtney Fairchild",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793332031,
-   "photo": "photos/ALL_FAIRCHILD_COURTNEY_2026-10-29.jpg"
   }
  ]
 }
