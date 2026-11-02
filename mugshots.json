@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T06:49:30+00:00",
+ "updated": "2026-11-02T07:49:30+00:00",
  "items": [
+  {
+   "key": "POR_PITTS_TAMARA_2026-11-02",
+   "name": "Tamara Lasha Pitts",
+   "age": "27",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 0,
+   "ts": 1793605647,
+   "photo": "photos/POR_PITTS_TAMARA_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_STEPHENS_CASEY_2026-11-02",
+   "name": "Casey Stephens",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793605643,
+   "photo": "photos/ALL_STEPHENS_CASEY_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_HALL_QUINCY_2026-11-02",
+   "name": "Quincy Hall",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793605639,
+   "photo": "photos/ALL_HALL_QUINCY_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_BRIGHT_LOUIS_2026-11-02",
+   "name": "Louis Bright",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1793605635,
+   "photo": "photos/ALL_BRIGHT_LOUIS_2026-11-02.jpg"
+  },
   {
    "key": "MAD_GREGG_MERCEDES_2026-11-02",
    "name": "Mercedes Elizabeth Gregg",
@@ -453,28 +497,6 @@
    "photo": "photos/VAN_SEARS_AVA_2026-11-01.jpg"
   },
   {
-   "key": "ALL_ROBINSON_ADISON_2026-11-01",
-   "name": "Adison Robinson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% And < .15%",
-   "more": 1,
-   "ts": 1793540835,
-   "photo": "photos/ALL_ROBINSON_ADISON_2026-11-01.jpg"
-  },
-  {
-   "key": "ALL_PARRISH_RICO_2026-11-01",
-   "name": "Rico Parrish",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery Enhanced With Previous Unrelated Conviction(S)",
-   "more": 1,
-   "ts": 1793540830,
-   "photo": "photos/ALL_PARRISH_RICO_2026-11-01.jpg"
-  },
-  {
    "key": "VAN_COOPER_CHALAIYAH_2026-11-01",
    "name": "Chalaiyah Marie Cooper",
    "age": "23",
@@ -506,31 +528,53 @@
    "more": 1,
    "ts": 1793533629,
    "photo": "photos/VAN_NUNN_DREDON_2026-11-01.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_HODGE_KEANU_2026-11-01",
-   "name": "Keanu Malique Hodge",
+   "key": "POR_PITTS_TAMARA_2026-11-02",
+   "name": "Tamara Lasha Pitts",
    "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793530070,
-   "photo": null
-  },
-  {
-   "key": "POR_FERGUSON_JULIA_2026-11-01",
-   "name": "Julia Ann Ferguson",
-   "age": "29",
    "county": "Porter County",
    "region": "northwest",
    "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
    "more": 0,
-   "ts": 1793530035,
-   "photo": "photos/POR_FERGUSON_JULIA_2026-11-01.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1793605647,
+   "photo": "photos/POR_PITTS_TAMARA_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_STEPHENS_CASEY_2026-11-02",
+   "name": "Casey Stephens",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793605643,
+   "photo": "photos/ALL_STEPHENS_CASEY_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_HALL_QUINCY_2026-11-02",
+   "name": "Quincy Hall",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793605639,
+   "photo": "photos/ALL_HALL_QUINCY_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_BRIGHT_LOUIS_2026-11-02",
+   "name": "Louis Bright",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1793605635,
+   "photo": "photos/ALL_BRIGHT_LOUIS_2026-11-02.jpg"
+  },
   {
    "key": "MAD_GREGG_MERCEDES_2026-11-02",
    "name": "Mercedes Elizabeth Gregg",
@@ -2653,17 +2697,6 @@
    "more": 2,
    "ts": 1793350031,
    "photo": null
-  },
-  {
-   "key": "ALL_THOMPSON_CALEB_2026-10-30",
-   "name": "Caleb Thompson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 1,
-   "ts": 1793346452,
-   "photo": "photos/ALL_THOMPSON_CALEB_2026-10-30.jpg"
   }
  ]
 }
