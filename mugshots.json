@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T10:49:04+00:00",
+ "updated": "2026-11-02T11:49:04+00:00",
  "items": [
   {
    "key": "ALL_RUANOCORADO_TOMAS_2026-11-02",
@@ -2697,17 +2697,6 @@
    "more": 0,
    "ts": 1793368032,
    "photo": "photos/ALL_DEMITSAS_LUKAS_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_MARTIN_TONESHA_2026-10-30",
-   "name": "Tonesha Martin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% And < .15%",
-   "more": 2,
-   "ts": 1793360832,
-   "photo": "photos/ALL_MARTIN_TONESHA_2026-10-30.jpg"
   }
  ]
 }
