@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-02T17:06:14+00:00",
+ "updated": "2026-11-02T17:47:34+00:00",
  "items": [
+  {
+   "key": "POR_CORNEJO_LUCIA_2026-11-02",
+   "name": "Lucia Grace Cornejo",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 1,
+   "ts": 1793641647,
+   "photo": "photos/POR_CORNEJO_LUCIA_2026-11-02.jpg"
+  },
+  {
+   "key": "POR_LIONE_RACHEL_2026-11-02",
+   "name": "Rachel Anne Lione",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Unlisted/ Unknown Charge",
+   "more": 0,
+   "ts": 1793641646,
+   "photo": "photos/POR_LIONE_RACHEL_2026-11-02.jpg"
+  },
+  {
+   "key": "POR_RHINEFIELD_KELSEY_2026-11-02",
+   "name": "Kelsey Nicole Rhinefield",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Unlisted/ Unknown Charge",
+   "more": 2,
+   "ts": 1793641643,
+   "photo": "photos/POR_RHINEFIELD_KELSEY_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_HIGGINBOTHAM_GARY_2026-11-02",
+   "name": "Gary Lee Higginbotham",
+   "age": "66",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Parole Violation",
+   "more": 3,
+   "ts": 1793641641,
+   "photo": "photos/VAN_HIGGINBOTHAM_GARY_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_DANIELS_ANTWION_2026-11-02",
+   "name": "Antwion Demarco Daniels",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793641638,
+   "photo": null
+  },
+  {
+   "key": "ALL_LEE_JASMINE_2026-11-02",
+   "name": "Jasmine Lee",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1793641637,
+   "photo": "photos/ALL_LEE_JASMINE_2026-11-02.jpg"
+  },
   {
    "key": "VAN_MEREDITH_MELISSA_2026-11-02",
    "name": "Melissa Dawn Meredith",
@@ -299,17 +365,6 @@
    "photo": null
   },
   {
-   "key": "ALL_MACKIN_PAUL_2026-11-01",
-   "name": "Paul Mackin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1793594831,
-   "photo": "photos/ALL_MACKIN_PAUL_2026-11-01.jpg"
-  },
-  {
    "key": "MAD_RUBLE_BYRON_2026-11-01",
    "name": "Byron Thaddeus Ruble",
    "age": "55",
@@ -473,64 +528,75 @@
    "more": 0,
    "ts": 1793566045,
    "photo": "photos/POR_RITTEL_JOHN_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_WENK_ASHLEY_2026-11-01",
-   "name": "Ashley Faye Wenk",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or",
-   "more": 1,
-   "ts": 1793566043,
-   "photo": null
-  },
-  {
-   "key": "VAN_REYES_ALESSANDRO_2026-11-01",
-   "name": "Alessandro Manuel Reyes",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating Without Ever Obtaining License",
-   "more": 0,
-   "ts": 1793558830,
-   "photo": "photos/VAN_REYES_ALESSANDRO_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_GIVENS_CHRISTOPHER_2026-11-01",
-   "name": "Christopher E Givens",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793555274,
-   "photo": "photos/MAD_GIVENS_CHRISTOPHER_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_DAVENPORT_RONALD_2026-11-01",
-   "name": "Ronald Jeffrey Davenport",
-   "age": "54",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1793555263,
-   "photo": "photos/MAD_DAVENPORT_RONALD_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_DAVIS_DAVID_2026-11-01",
-   "name": "David Lynn Davis",
-   "age": "48",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793551654,
-   "photo": "photos/MAD_DAVIS_DAVID_2026-11-01.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_CORNEJO_LUCIA_2026-11-02",
+   "name": "Lucia Grace Cornejo",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 1,
+   "ts": 1793641647,
+   "photo": "photos/POR_CORNEJO_LUCIA_2026-11-02.jpg"
+  },
+  {
+   "key": "POR_LIONE_RACHEL_2026-11-02",
+   "name": "Rachel Anne Lione",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Unlisted/ Unknown Charge",
+   "more": 0,
+   "ts": 1793641646,
+   "photo": "photos/POR_LIONE_RACHEL_2026-11-02.jpg"
+  },
+  {
+   "key": "POR_RHINEFIELD_KELSEY_2026-11-02",
+   "name": "Kelsey Nicole Rhinefield",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Unlisted/ Unknown Charge",
+   "more": 2,
+   "ts": 1793641643,
+   "photo": "photos/POR_RHINEFIELD_KELSEY_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_HIGGINBOTHAM_GARY_2026-11-02",
+   "name": "Gary Lee Higginbotham",
+   "age": "66",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Parole Violation",
+   "more": 3,
+   "ts": 1793641641,
+   "photo": "photos/VAN_HIGGINBOTHAM_GARY_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_DANIELS_ANTWION_2026-11-02",
+   "name": "Antwion Demarco Daniels",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793641638,
+   "photo": null
+  },
+  {
+   "key": "ALL_LEE_JASMINE_2026-11-02",
+   "name": "Jasmine Lee",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1793641637,
+   "photo": "photos/ALL_LEE_JASMINE_2026-11-02.jpg"
+  },
   {
    "key": "VAN_MEREDITH_MELISSA_2026-11-02",
    "name": "Melissa Dawn Meredith",
@@ -2433,50 +2499,6 @@
    "more": 0,
    "ts": 1793382542,
    "photo": null
-  },
-  {
-   "key": "POR_TON_QUOCVIET_2026-10-30",
-   "name": "Quocviet Ton",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793382443,
-   "photo": "photos/POR_TON_QUOCVIET_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_PRIETO_KEVIN_2026-10-30",
-   "name": "Kevin Yajell Prieto",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793382441,
-   "photo": "photos/VAN_PRIETO_KEVIN_2026-10-30.jpg"
-  },
-  {
-   "key": "VAN_TOMLINSON_TAURUS_2026-10-30",
-   "name": "Taurus Sorrell Tomlinson",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Fraud On A Financial Institution",
-   "more": 2,
-   "ts": 1793382439,
-   "photo": "photos/VAN_TOMLINSON_TAURUS_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_WILLMAN_JOSHUA_2026-10-30",
-   "name": "Joshua Willman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Shoplifting Value Of Property At Least 750 And Less Than 50K",
-   "more": 0,
-   "ts": 1793382435,
-   "photo": "photos/ALL_WILLMAN_JOSHUA_2026-10-30.jpg"
   }
  ]
 }
