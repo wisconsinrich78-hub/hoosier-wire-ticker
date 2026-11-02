@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-02T00:50:20+00:00",
+ "updated": "2026-11-02T01:49:32+00:00",
  "items": [
+  {
+   "key": "MAD_RANDLE_MICHAEL_2026-11-01",
+   "name": "Michael De-Mone Randle",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-deadly weapon",
+   "more": 3,
+   "ts": 1793584128,
+   "photo": "photos/MAD_RANDLE_MICHAEL_2026-11-01.jpg"
+  },
+  {
+   "key": "VAN_SHUCK_MORGAN_2026-11-01",
+   "name": "Morgan Morgan Shuck",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/",
+   "more": 1,
+   "ts": 1793584037,
+   "photo": null
+  },
+  {
+   "key": "ALL_JENKINS_RICHARD_2026-11-01",
+   "name": "Richard Jenkins",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 0,
+   "ts": 1793584035,
+   "photo": "photos/ALL_JENKINS_RICHARD_2026-11-01.jpg"
+  },
+  {
+   "key": "ALL_ARNETT_RIKIA_2026-11-01",
+   "name": "Rikia Arnett",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1793584031,
+   "photo": "photos/ALL_ARNETT_RIKIA_2026-11-01.jpg"
+  },
   {
    "key": "VAN_BLIKKEN_KRISTEN_2026-11-01",
    "name": "Kristen Anne Blikken",
@@ -420,17 +464,6 @@
    "photo": "photos/VAN_KANIPE_HANNAH_2026-11-01.jpg"
   },
   {
-   "key": "VAN_PERSINGER_CHRISTOPHER_2026-11-01",
-   "name": "Christopher David Persinger",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1793522829,
-   "photo": "photos/VAN_PERSINGER_CHRISTOPHER_2026-11-01.jpg"
-  },
-  {
    "key": "MAD_STANSBERRY_DARRELL_2026-11-01",
    "name": "Darrell Christopher Stansberry",
    "age": "54",
@@ -495,42 +528,53 @@
    "more": 0,
    "ts": 1793515630,
    "photo": "photos/ALL_CLAUSS_NASHAUN_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_RICHARD_BRANDY_2026-11-01",
-   "name": "Brandy L Richard",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Obstruction of justice",
-   "more": 2,
-   "ts": 1793512109,
-   "photo": "photos/MAD_RICHARD_BRANDY_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_LEWIS_MARCUS_2026-11-01",
-   "name": "Marcus Eugene Lewis",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793512077,
-   "photo": "photos/MAD_LEWIS_MARCUS_2026-11-01.jpg"
-  },
-  {
-   "key": "POR_DUCHETEAU_JEREMY_2026-10-31",
-   "name": "Jeremy Bryan Ducheteau",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol",
-   "more": 0,
-   "ts": 1793512034,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_RANDLE_MICHAEL_2026-11-01",
+   "name": "Michael De-Mone Randle",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-deadly weapon",
+   "more": 3,
+   "ts": 1793584128,
+   "photo": "photos/MAD_RANDLE_MICHAEL_2026-11-01.jpg"
+  },
+  {
+   "key": "VAN_SHUCK_MORGAN_2026-11-01",
+   "name": "Morgan Morgan Shuck",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/",
+   "more": 1,
+   "ts": 1793584037,
+   "photo": null
+  },
+  {
+   "key": "ALL_JENKINS_RICHARD_2026-11-01",
+   "name": "Richard Jenkins",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 0,
+   "ts": 1793584035,
+   "photo": "photos/ALL_JENKINS_RICHARD_2026-11-01.jpg"
+  },
+  {
+   "key": "ALL_ARNETT_RIKIA_2026-11-01",
+   "name": "Rikia Arnett",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1793584031,
+   "photo": "photos/ALL_ARNETT_RIKIA_2026-11-01.jpg"
+  },
   {
    "key": "VAN_BLIKKEN_KRISTEN_2026-11-01",
    "name": "Kristen Anne Blikken",
@@ -2586,28 +2630,6 @@
    "charge": "Other Agencies Charges",
    "more": 1,
    "ts": 1793328434,
-   "photo": null
-  },
-  {
-   "key": "POR_VAZQUEZ_LOUIS_2026-10-29",
-   "name": "Louis Anthony Vazquez",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793324841,
-   "photo": null
-  },
-  {
-   "key": "VAN_TUTTLE_MATTHEW_2026-10-29",
-   "name": "Matthew John Tuttle",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation With A Deadly Weapon",
-   "more": 0,
-   "ts": 1793324837,
    "photo": null
   }
  ]
