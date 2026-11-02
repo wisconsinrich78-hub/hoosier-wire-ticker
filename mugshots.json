@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-02T11:49:04+00:00",
+ "updated": "2026-11-02T13:49:17+00:00",
  "items": [
+  {
+   "key": "ALL_COLLINS_RONALD_2026-11-02",
+   "name": "Ronald Collins",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1793627232,
+   "photo": "photos/ALL_COLLINS_RONALD_2026-11-02.jpg"
+  },
   {
    "key": "ALL_RUANOCORADO_TOMAS_2026-11-02",
    "name": "Tomas Ruanocorado",
@@ -332,17 +343,6 @@
    "photo": null
   },
   {
-   "key": "ALL_JENKINS_RICHARD_2026-11-01",
-   "name": "Richard Jenkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Fleeing",
-   "more": 0,
-   "ts": 1793584035,
-   "photo": "photos/ALL_JENKINS_RICHARD_2026-11-01.jpg"
-  },
-  {
    "key": "VAN_BLIKKEN_KRISTEN_2026-11-01",
    "name": "Kristen Anne Blikken",
    "age": "36",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_COLLINS_RONALD_2026-11-02",
+   "name": "Ronald Collins",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1793627232,
+   "photo": "photos/ALL_COLLINS_RONALD_2026-11-02.jpg"
+  },
   {
    "key": "ALL_RUANOCORADO_TOMAS_2026-11-02",
    "name": "Tomas Ruanocorado",
@@ -2664,39 +2675,6 @@
    "more": 0,
    "ts": 1793371630,
    "photo": "photos/ALL_BROWN_SHAWNTE_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_RONNING_BRAYDEN_2026-10-30",
-   "name": "Brayden Ronning",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 4,
-   "ts": 1793368040,
-   "photo": "photos/ALL_RONNING_BRAYDEN_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_LANGSTON_NATHAN_2026-10-30",
-   "name": "Nathan Langston",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
-   "more": 2,
-   "ts": 1793368036,
-   "photo": "photos/ALL_LANGSTON_NATHAN_2026-10-30.jpg"
-  },
-  {
-   "key": "ALL_DEMITSAS_LUKAS_2026-10-30",
-   "name": "Lukas Demitsas",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793368032,
-   "photo": "photos/ALL_DEMITSAS_LUKAS_2026-10-30.jpg"
   }
  ]
 }
