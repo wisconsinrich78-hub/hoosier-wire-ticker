@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:49:21+00:00",
+ "updated": "2026-11-02T15:54:47+00:00",
  "items": [
   {
    "key": "POR_REDMOND_MICHAEL_2026-11-02",
@@ -2598,17 +2598,6 @@
    "more": 0,
    "ts": 1793378835,
    "photo": "photos/ALL_AMIKER_ANTWOINE_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_YOUNG_CARLTON_2026-10-30",
-   "name": "Carlton Martell Young",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1793375363,
-   "photo": "photos/MAD_YOUNG_CARLTON_2026-10-30.jpg"
   }
  ]
 }
