@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-03T12:49:08+00:00",
+ "updated": "2026-11-03T13:49:33+00:00",
  "items": [
+  {
+   "key": "MAD_JONES_ANTHONY_2026-11-03",
+   "name": "Anthony Malek Jones",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793713710,
+   "photo": "photos/MAD_JONES_ANTHONY_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_WEEKS_MARQUE_2026-11-03",
+   "name": "Marque Weeks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793713658,
+   "photo": "photos/ALL_WEEKS_MARQUE_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_WALLACE_ANTHONY_2026-11-03",
+   "name": "Anthony Wallace",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1793713654,
+   "photo": "photos/ALL_WALLACE_ANTHONY_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_HARVEY_ARITHA_2026-11-03",
+   "name": "Aritha Harvey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793713650,
+   "photo": "photos/ALL_HARVEY_ARITHA_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_DAVIS_SANDERS_2026-11-03",
+   "name": "Sanders Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793713645,
+   "photo": "photos/ALL_DAVIS_SANDERS_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_BRYANT_SIMONE_2026-11-03",
+   "name": "Simone Bryant",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1793713641,
+   "photo": "photos/ALL_BRYANT_SIMONE_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_BRYANT_HENRY_2026-11-03",
+   "name": "Henry Bryant",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793713638,
+   "photo": "photos/ALL_BRYANT_HENRY_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_ARRINGTON_WILLIE_2026-11-03",
+   "name": "Willie Arrington",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793713634,
+   "photo": "photos/ALL_ARRINGTON_WILLIE_2026-11-03.jpg"
+  },
   {
    "key": "MAD_KASSOUMIS_SOCRATES_2026-11-03",
    "name": "Socrates Kassoumis",
@@ -189,17 +277,6 @@
    "photo": null
   },
   {
-   "key": "ALL_PHENGPHONGSAVANH_BANNHONG_2026-11-02",
-   "name": "Bannhong Phengphongsavanh",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Paraphernalia",
-   "more": 0,
-   "ts": 1793674031,
-   "photo": "photos/ALL_PHENGPHONGSAVANH_BANNHONG_2026-11-02.jpg"
-  },
-  {
    "key": "POR_YUHASZ_EDMUND_2026-11-02",
    "name": "Edmund David Yuhasz",
    "age": "57",
@@ -321,17 +398,6 @@
    "photo": null
   },
   {
-   "key": "ALL_STACY_BRITANY_2026-11-02",
-   "name": "Britany Stacy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793656043,
-   "photo": "photos/ALL_STACY_BRITANY_2026-11-02.jpg"
-  },
-  {
    "key": "VAN_MCMILLEN_AARON_2026-11-02",
    "name": "Aaron Michael Mcmillen",
    "age": "34",
@@ -363,50 +429,6 @@
    "more": 0,
    "ts": 1793652452,
    "photo": null
-  },
-  {
-   "key": "ALL_PESINA_ESPERANZA_2026-11-02",
-   "name": "Esperanza Pesina",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793652451,
-   "photo": "photos/ALL_PESINA_ESPERANZA_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_DEREMER_DUSTIN_2026-11-02",
-   "name": "Dustin Deremer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 3,
-   "ts": 1793652446,
-   "photo": "photos/ALL_DEREMER_DUSTIN_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_ROSADOPEREZ_RAUL_2026-11-02",
-   "name": "Raul Rosadoperez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > Or = To .15%",
-   "more": 2,
-   "ts": 1793648842,
-   "photo": "photos/ALL_ROSADOPEREZ_RAUL_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_KIDD_GARY_2026-11-02",
-   "name": "Gary Kidd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Controlled Substance",
-   "more": 4,
-   "ts": 1793648837,
-   "photo": "photos/ALL_KIDD_GARY_2026-11-02.jpg"
   },
   {
    "key": "VAN_MOORE_JAMES_2026-11-02",
@@ -475,17 +497,6 @@
    "photo": "photos/VAN_LUCKETT_STEPHAN_2026-11-02.jpg"
   },
   {
-   "key": "ALL_GERBER_AARON_2026-11-02",
-   "name": "Aaron Gerber",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793645238,
-   "photo": "photos/ALL_GERBER_AARON_2026-11-02.jpg"
-  },
-  {
    "key": "MAD_WATSON_TYQUAN_2026-11-02",
    "name": "Ty'Quan Raymon Watson",
    "age": "32",
@@ -517,20 +528,97 @@
    "more": 1,
    "ts": 1793641647,
    "photo": "photos/POR_CORNEJO_LUCIA_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_LIONE_RACHEL_2026-11-02",
-   "name": "Rachel Anne Lione",
-   "age": "45",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Unlisted/ Unknown Charge",
-   "more": 0,
-   "ts": 1793641646,
-   "photo": "photos/POR_LIONE_RACHEL_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_JONES_ANTHONY_2026-11-03",
+   "name": "Anthony Malek Jones",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793713710,
+   "photo": "photos/MAD_JONES_ANTHONY_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_WEEKS_MARQUE_2026-11-03",
+   "name": "Marque Weeks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793713658,
+   "photo": "photos/ALL_WEEKS_MARQUE_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_WALLACE_ANTHONY_2026-11-03",
+   "name": "Anthony Wallace",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1793713654,
+   "photo": "photos/ALL_WALLACE_ANTHONY_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_HARVEY_ARITHA_2026-11-03",
+   "name": "Aritha Harvey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793713650,
+   "photo": "photos/ALL_HARVEY_ARITHA_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_DAVIS_SANDERS_2026-11-03",
+   "name": "Sanders Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793713645,
+   "photo": "photos/ALL_DAVIS_SANDERS_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_BRYANT_SIMONE_2026-11-03",
+   "name": "Simone Bryant",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1793713641,
+   "photo": "photos/ALL_BRYANT_SIMONE_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_BRYANT_HENRY_2026-11-03",
+   "name": "Henry Bryant",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793713638,
+   "photo": "photos/ALL_BRYANT_HENRY_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_ARRINGTON_WILLIE_2026-11-03",
+   "name": "Willie Arrington",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793713634,
+   "photo": "photos/ALL_ARRINGTON_WILLIE_2026-11-03.jpg"
+  },
   {
    "key": "MAD_KASSOUMIS_SOCRATES_2026-11-03",
    "name": "Socrates Kassoumis",
@@ -2268,17 +2356,6 @@
    "more": 4,
    "ts": 1793461628,
    "photo": null
-  },
-  {
-   "key": "ALL_JONES_NYEAUHNNA_2026-10-31",
-   "name": "Nyeauhnna Jones",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Murder",
-   "more": 0,
-   "ts": 1793454430,
-   "photo": "photos/ALL_JONES_NYEAUHNNA_2026-10-31.jpg"
   }
  ]
 }
