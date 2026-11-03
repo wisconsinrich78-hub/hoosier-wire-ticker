@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-03T00:50:56+00:00",
+ "updated": "2026-11-03T01:49:18+00:00",
  "items": [
+  {
+   "key": "POR_YUHASZ_EDMUND_2026-11-02",
+   "name": "Edmund David Yuhasz",
+   "age": "57",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Commitment Prior Charge",
+   "more": 0,
+   "ts": 1793670433,
+   "photo": "photos/POR_YUHASZ_EDMUND_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_MITCHELL_MICHAEL_2026-11-02",
+   "name": "Michael Jefon Mitchell",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Dom Battery-Adlt Agnst Family Mmbr Less Than 14 W/Body Inj",
+   "more": 0,
+   "ts": 1793670431,
+   "photo": "photos/VAN_MITCHELL_MICHAEL_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_DARRETT_ANWON_2026-11-02",
+   "name": "Anwon Jermaine Darrett",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1793670428,
+   "photo": null
+  },
   {
    "key": "POR_EDWARDS_LAUREN_2026-11-02",
    "name": "Lauren Elizabeth Edwards",
@@ -354,17 +387,6 @@
    "photo": "photos/ALL_LEE_JASMINE_2026-11-02.jpg"
   },
   {
-   "key": "VAN_MEREDITH_MELISSA_2026-11-02",
-   "name": "Melissa Dawn Meredith",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1793638029,
-   "photo": "photos/VAN_MEREDITH_MELISSA_2026-11-02.jpg"
-  },
-  {
    "key": "POR_REDMOND_MICHAEL_2026-11-02",
    "name": "Michael Lamont Redmond",
    "age": "37",
@@ -453,17 +475,6 @@
    "photo": "photos/POR_HARDY_BREANNA_2026-11-02.jpg"
   },
   {
-   "key": "VAN_SMITH_XAVIER_2026-11-02",
-   "name": "Xavier Raheem Smith",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 1,
-   "ts": 1793609241,
-   "photo": "photos/VAN_SMITH_XAVIER_2026-11-02.jpg"
-  },
-  {
    "key": "ALL_HATTENDORF_KAIDANCE_2026-11-02",
    "name": "Kaidance Hattendorf",
    "age": "",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1793605643,
    "photo": "photos/ALL_STEPHENS_CASEY_2026-11-02.jpg"
-  },
-  {
-   "key": "MAD_GREGG_MERCEDES_2026-11-02",
-   "name": "Mercedes Elizabeth Gregg",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Intimidation w/ Deadly Weapon",
-   "more": 1,
-   "ts": 1793602081,
-   "photo": "photos/MAD_GREGG_MERCEDES_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_YUHASZ_EDMUND_2026-11-02",
+   "name": "Edmund David Yuhasz",
+   "age": "57",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Commitment Prior Charge",
+   "more": 0,
+   "ts": 1793670433,
+   "photo": "photos/POR_YUHASZ_EDMUND_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_MITCHELL_MICHAEL_2026-11-02",
+   "name": "Michael Jefon Mitchell",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Dom Battery-Adlt Agnst Family Mmbr Less Than 14 W/Body Inj",
+   "more": 0,
+   "ts": 1793670431,
+   "photo": "photos/VAN_MITCHELL_MICHAEL_2026-11-02.jpg"
+  },
+  {
+   "key": "VAN_DARRETT_ANWON_2026-11-02",
+   "name": "Anwon Jermaine Darrett",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1793670428,
+   "photo": null
+  },
   {
    "key": "POR_EDWARDS_LAUREN_2026-11-02",
    "name": "Lauren Elizabeth Edwards",
@@ -2455,39 +2488,6 @@
    "more": 0,
    "ts": 1793418435,
    "photo": "photos/ALL_DENNIS_CHRISTOPHER_2026-10-30.jpg"
-  },
-  {
-   "key": "MAD_SYLVESTER_CONNOR_2026-10-30",
-   "name": "Connor R Sylvester",
-   "age": "19",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793411354,
-   "photo": null
-  },
-  {
-   "key": "MAD_ROSENBAUM_KAYLEE_2026-10-30",
-   "name": "Kaylee Renee Rosenbaum",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793411335,
-   "photo": null
-  },
-  {
-   "key": "MAD_CRONK_KRISTA_2026-10-30",
-   "name": "Krista K Cronk",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1793411263,
-   "photo": "photos/MAD_CRONK_KRISTA_2026-10-30.jpg"
   }
  ]
 }
