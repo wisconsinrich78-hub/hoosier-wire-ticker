@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-03T22:49:22+00:00",
+ "updated": "2026-11-03T23:49:22+00:00",
  "items": [
+  {
+   "key": "POR_WAGNER_JESSICA_2026-11-03",
+   "name": "Jessica Lynn Wagner",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793749639,
+   "photo": "photos/POR_WAGNER_JESSICA_2026-11-03.jpg"
+  },
+  {
+   "key": "POR_LEATO_JORDAN_2026-11-03",
+   "name": "Jordan Ann Leato",
+   "age": "24",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793749637,
+   "photo": "photos/POR_LEATO_JORDAN_2026-11-03.jpg"
+  },
+  {
+   "key": "VAN_IDRISOV_ELIMDAR_2026-11-03",
+   "name": "Elimdar Idrisov",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Reckless Driving",
+   "more": 0,
+   "ts": 1793749634,
+   "photo": "photos/VAN_IDRISOV_ELIMDAR_2026-11-03.jpg"
+  },
+  {
+   "key": "VAN_AGNEW_MARKEL_2026-11-03",
+   "name": "Markel Lashon Agnew",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1793749634,
+   "photo": "photos/VAN_AGNEW_MARKEL_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_COLE_SAMSON_2026-11-03",
+   "name": "Samson Cole",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1793749630,
+   "photo": "photos/ALL_COLE_SAMSON_2026-11-03.jpg"
+  },
   {
    "key": "MAD_PRICE_SYLVESTER_2026-11-03",
    "name": "Sylvester Darius Price",
@@ -277,28 +332,6 @@
    "photo": "photos/ALL_CROSKEY_ROBERT_2026-11-03.jpg"
   },
   {
-   "key": "VAN_PATTON_NATHANIEL_2026-11-03",
-   "name": "Nathaniel Rashon Patton",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793738833,
-   "photo": "photos/VAN_PATTON_NATHANIEL_2026-11-03.jpg"
-  },
-  {
-   "key": "VAN_MILLER_JASON_2026-11-03",
-   "name": "Jason Alan Miller",
-   "age": "53",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793738832,
-   "photo": "photos/VAN_MILLER_JASON_2026-11-03.jpg"
-  },
-  {
    "key": "MAD_WILLS_GAVIN_2026-11-03",
    "name": "Gavin Darnell Wills",
    "age": "18",
@@ -453,17 +486,6 @@
    "photo": "photos/MAD_JONES_ANTHONY_2026-11-03.jpg"
   },
   {
-   "key": "ALL_WEEKS_MARQUE_2026-11-03",
-   "name": "Marque Weeks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793713658,
-   "photo": "photos/ALL_WEEKS_MARQUE_2026-11-03.jpg"
-  },
-  {
    "key": "MAD_KASSOUMIS_SOCRATES_2026-11-03",
    "name": "Socrates Kassoumis",
    "age": "19",
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1793688441,
    "photo": "photos/POR_FAYSON_MICHAEL_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_WHITESEL_AMY_2026-11-02",
-   "name": "Amy Lynn Whitesel",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793677747,
-   "photo": "photos/MAD_WHITESEL_AMY_2026-11-02.jpg"
-  },
-  {
-   "key": "MAD_BROWN_DAQUAN_2026-11-02",
-   "name": "Daquan Lamar Brown",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793677649,
-   "photo": "photos/MAD_BROWN_DAQUAN_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_WAGNER_JESSICA_2026-11-03",
+   "name": "Jessica Lynn Wagner",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793749639,
+   "photo": "photos/POR_WAGNER_JESSICA_2026-11-03.jpg"
+  },
+  {
+   "key": "POR_LEATO_JORDAN_2026-11-03",
+   "name": "Jordan Ann Leato",
+   "age": "24",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793749637,
+   "photo": "photos/POR_LEATO_JORDAN_2026-11-03.jpg"
+  },
+  {
+   "key": "VAN_IDRISOV_ELIMDAR_2026-11-03",
+   "name": "Elimdar Idrisov",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Reckless Driving",
+   "more": 0,
+   "ts": 1793749634,
+   "photo": "photos/VAN_IDRISOV_ELIMDAR_2026-11-03.jpg"
+  },
+  {
+   "key": "VAN_AGNEW_MARKEL_2026-11-03",
+   "name": "Markel Lashon Agnew",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1793749634,
+   "photo": "photos/VAN_AGNEW_MARKEL_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_COLE_SAMSON_2026-11-03",
+   "name": "Samson Cole",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1793749630,
+   "photo": "photos/ALL_COLE_SAMSON_2026-11-03.jpg"
+  },
   {
    "key": "MAD_PRICE_SYLVESTER_2026-11-03",
    "name": "Sylvester Darius Price",
@@ -2675,39 +2730,6 @@
    "more": 2,
    "ts": 1793494031,
    "photo": "photos/VAN_LOPEZ_PAUL_2026-10-31.jpg"
-  },
-  {
-   "key": "MAD_JENKINS_DON_2026-10-31",
-   "name": "Don B Second Jenkins",
-   "age": "65",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated- endangerment",
-   "more": 1,
-   "ts": 1793490500,
-   "photo": "photos/MAD_JENKINS_DON_2026-10-31.jpg"
-  },
-  {
-   "key": "POR_LACEY_TRONESE_2026-10-31",
-   "name": "Tronese L Lacey",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Shoplifting - Nibrs",
-   "more": 0,
-   "ts": 1793490444,
-   "photo": null
-  },
-  {
-   "key": "ALL_BURKS_RONALD_2026-10-31",
-   "name": "Ronald Burks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 2,
-   "ts": 1793490432,
-   "photo": "photos/ALL_BURKS_RONALD_2026-10-31.jpg"
   }
  ]
 }
