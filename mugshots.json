@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-03T21:49:43+00:00",
+ "updated": "2026-11-03T22:49:22+00:00",
  "items": [
+  {
+   "key": "MAD_PRICE_SYLVESTER_2026-11-03",
+   "name": "Sylvester Darius Price",
+   "age": "40",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793746123,
+   "photo": "photos/MAD_PRICE_SYLVESTER_2026-11-03.jpg"
+  },
+  {
+   "key": "MAD_PIERCE_TINA_2026-11-03",
+   "name": "Tina Marie Pierce",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793746116,
+   "photo": "photos/MAD_PIERCE_TINA_2026-11-03.jpg"
+  },
+  {
+   "key": "POR_BACH_JESSICA_2026-11-03",
+   "name": "Jessica Ann Bach",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Possession Of Cocaine",
+   "more": 1,
+   "ts": 1793746039,
+   "photo": "photos/POR_BACH_JESSICA_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_SULLIVAN_MELINDA_2026-11-03",
+   "name": "Melinda Sullivan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793746035,
+   "photo": "photos/ALL_SULLIVAN_MELINDA_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_DOWNS_DUSTIN_2026-11-03",
+   "name": "Dustin Downs",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "False Informing",
+   "more": 1,
+   "ts": 1793746031,
+   "photo": "photos/ALL_DOWNS_DUSTIN_2026-11-03.jpg"
+  },
   {
    "key": "VAN_WILSON_KATIE_2026-11-03",
    "name": "Katie Gayle Wilson",
@@ -409,28 +464,6 @@
    "photo": "photos/ALL_WEEKS_MARQUE_2026-11-03.jpg"
   },
   {
-   "key": "ALL_WALLACE_ANTHONY_2026-11-03",
-   "name": "Anthony Wallace",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793713654,
-   "photo": "photos/ALL_WALLACE_ANTHONY_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_HARVEY_ARITHA_2026-11-03",
-   "name": "Aritha Harvey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793713650,
-   "photo": "photos/ALL_HARVEY_ARITHA_2026-11-03.jpg"
-  },
-  {
    "key": "MAD_KASSOUMIS_SOCRATES_2026-11-03",
    "name": "Socrates Kassoumis",
    "age": "19",
@@ -495,42 +528,64 @@
    "more": 0,
    "ts": 1793677649,
    "photo": "photos/MAD_BROWN_DAQUAN_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_GMITEREK_BRENT_2026-11-02",
-   "name": "Brent C Gmiterek",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Deadly Weapon",
-   "more": 1,
-   "ts": 1793677631,
-   "photo": "photos/POR_GMITEREK_BRENT_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_YUHASZ_EDMUND_2026-11-02",
-   "name": "Edmund David Yuhasz",
-   "age": "57",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Commitment Prior Charge",
-   "more": 0,
-   "ts": 1793670433,
-   "photo": "photos/POR_YUHASZ_EDMUND_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_EDWARDS_LAUREN_2026-11-02",
-   "name": "Lauren Elizabeth Edwards",
-   "age": "33",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Commitment Prior Charge",
-   "more": 0,
-   "ts": 1793666880,
-   "photo": "photos/POR_EDWARDS_LAUREN_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_PRICE_SYLVESTER_2026-11-03",
+   "name": "Sylvester Darius Price",
+   "age": "40",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793746123,
+   "photo": "photos/MAD_PRICE_SYLVESTER_2026-11-03.jpg"
+  },
+  {
+   "key": "MAD_PIERCE_TINA_2026-11-03",
+   "name": "Tina Marie Pierce",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793746116,
+   "photo": "photos/MAD_PIERCE_TINA_2026-11-03.jpg"
+  },
+  {
+   "key": "POR_BACH_JESSICA_2026-11-03",
+   "name": "Jessica Ann Bach",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Possession Of Cocaine",
+   "more": 1,
+   "ts": 1793746039,
+   "photo": "photos/POR_BACH_JESSICA_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_SULLIVAN_MELINDA_2026-11-03",
+   "name": "Melinda Sullivan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793746035,
+   "photo": "photos/ALL_SULLIVAN_MELINDA_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_DOWNS_DUSTIN_2026-11-03",
+   "name": "Dustin Downs",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "False Informing",
+   "more": 1,
+   "ts": 1793746031,
+   "photo": "photos/ALL_DOWNS_DUSTIN_2026-11-03.jpg"
+  },
   {
    "key": "VAN_WILSON_KATIE_2026-11-03",
    "name": "Katie Gayle Wilson",
@@ -2653,17 +2708,6 @@
    "more": 2,
    "ts": 1793490432,
    "photo": "photos/ALL_BURKS_RONALD_2026-10-31.jpg"
-  },
-  {
-   "key": "POR_DONELSON_LA_2026-10-31",
-   "name": "La Trey Ty Re Mitchell Donelson",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Shoplifting - Nibrs",
-   "more": 0,
-   "ts": 1793486830,
-   "photo": "photos/POR_DONELSON_LA_2026-10-31.jpg"
   }
  ]
 }
