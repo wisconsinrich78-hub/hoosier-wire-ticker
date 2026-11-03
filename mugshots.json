@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T03:49:29+00:00",
+ "updated": "2026-11-03T04:49:19+00:00",
  "items": [
+  {
+   "key": "ALL_SEXTON_NICHOLAS_2026-11-02",
+   "name": "Nicholas Sexton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1793681236,
+   "photo": "photos/ALL_SEXTON_NICHOLAS_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_RILEY_CHRISTIAN_2026-11-02",
+   "name": "Christian Riley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Recklessness",
+   "more": 0,
+   "ts": 1793681232,
+   "photo": "photos/ALL_RILEY_CHRISTIAN_2026-11-02.jpg"
+  },
   {
    "key": "MAD_WHITESEL_AMY_2026-11-02",
    "name": "Amy Lynn Whitesel",
@@ -506,31 +528,31 @@
    "more": 1,
    "ts": 1793612828,
    "photo": "photos/ALL_RIDDLE_TOREE_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_HARDY_BREANNA_2026-11-02",
-   "name": "Breanna Chell Hardy",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 3,
-   "ts": 1793609243,
-   "photo": "photos/POR_HARDY_BREANNA_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_HATTENDORF_KAIDANCE_2026-11-02",
-   "name": "Kaidance Hattendorf",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1793609237,
-   "photo": "photos/ALL_HATTENDORF_KAIDANCE_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_SEXTON_NICHOLAS_2026-11-02",
+   "name": "Nicholas Sexton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1793681236,
+   "photo": "photos/ALL_SEXTON_NICHOLAS_2026-11-02.jpg"
+  },
+  {
+   "key": "ALL_RILEY_CHRISTIAN_2026-11-02",
+   "name": "Christian Riley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Recklessness",
+   "more": 0,
+   "ts": 1793681232,
+   "photo": "photos/ALL_RILEY_CHRISTIAN_2026-11-02.jpg"
+  },
   {
    "key": "MAD_WHITESEL_AMY_2026-11-02",
    "name": "Amy Lynn Whitesel",
@@ -2510,17 +2532,6 @@
    "more": 1,
    "ts": 1793425629,
    "photo": "photos/ALL_BURTON_CALVIN_2026-10-31.jpg"
-  },
-  {
-   "key": "POR_ALEGRIA_RUDY_2026-10-30",
-   "name": "Rudy Lee Alegria",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
-   "more": 0,
-   "ts": 1793422044,
-   "photo": "photos/POR_ALEGRIA_RUDY_2026-10-30.jpg"
   }
  ]
 }
