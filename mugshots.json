@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T07:48:50+00:00",
+ "updated": "2026-11-03T08:48:56+00:00",
  "items": [
+  {
+   "key": "MAD_BARTON_EDGE_2026-11-03",
+   "name": "Edge Daniel Barton",
+   "age": "19",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Minor consume alcoholic beverage",
+   "more": 1,
+   "ts": 1793695638,
+   "photo": null
+  },
   {
    "key": "POR_FAYSON_MICHAEL_2026-11-03",
    "name": "Michael Fayson",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793634437,
    "photo": "photos/POR_REDMOND_MICHAEL_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_LEWANDOWSKI_THOMAS_2026-11-02",
-   "name": "Thomas Jesse Lewandowski",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793634435,
-   "photo": "photos/POR_LEWANDOWSKI_THOMAS_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_BARTON_EDGE_2026-11-03",
+   "name": "Edge Daniel Barton",
+   "age": "19",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Minor consume alcoholic beverage",
+   "more": 1,
+   "ts": 1793695638,
+   "photo": null
+  },
   {
    "key": "POR_FAYSON_MICHAEL_2026-11-03",
    "name": "Michael Fayson",
@@ -2345,61 +2356,6 @@
    "more": 0,
    "ts": 1793440027,
    "photo": "photos/VAN_SADLER_TARZANA_2026-10-31.jpg"
-  },
-  {
-   "key": "POR_LINDAHL_KELLY_2026-10-31",
-   "name": "Kelly Jean Lindahl",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1793436443,
-   "photo": null
-  },
-  {
-   "key": "POR_GARCIA_ALICIA_2026-10-31",
-   "name": "Alicia Garcia",
-   "age": "20",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Minor Consume An Alcoholic Beverage",
-   "more": 0,
-   "ts": 1793436442,
-   "photo": null
-  },
-  {
-   "key": "POR_RAMIREZ_JENNIFER_2026-10-31",
-   "name": "Jennifer Ramirez",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1793436439,
-   "photo": null
-  },
-  {
-   "key": "ALL_DOMINGUEZ_KAITLYN_2026-10-31",
-   "name": "Kaitlyn Dominguez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 0,
-   "ts": 1793436436,
-   "photo": "photos/ALL_DOMINGUEZ_KAITLYN_2026-10-31.jpg"
-  },
-  {
-   "key": "ALL_DERRICK_JOSIYAH_2026-10-31",
-   "name": "Josiyah Derrick",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 6,
-   "ts": 1793436432,
-   "photo": "photos/ALL_DERRICK_JOSIYAH_2026-10-31.jpg"
   }
  ]
 }
