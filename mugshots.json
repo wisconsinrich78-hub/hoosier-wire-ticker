@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-03T17:49:31+00:00",
+ "updated": "2026-11-03T18:49:40+00:00",
  "items": [
+  {
+   "key": "MAD_FRAZEE_LEE_2026-11-03",
+   "name": "Lee Frazee",
+   "age": "58",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Probation - Jail Booking",
+   "more": 0,
+   "ts": 1793731667,
+   "photo": "photos/MAD_FRAZEE_LEE_2026-11-03.jpg"
+  },
   {
    "key": "MAD_HAFNER_MICHAEL_2026-11-03",
    "name": "Michael Gabriel Hafner",
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1793648834,
    "photo": "photos/POR_BAZALDUA_RYAN_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_LOPEZ_LIONEL_2026-11-02",
-   "name": "Lionel Figueroa Lopez",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
-   "more": 0,
-   "ts": 1793645245,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_FRAZEE_LEE_2026-11-03",
+   "name": "Lee Frazee",
+   "age": "58",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Probation - Jail Booking",
+   "more": 0,
+   "ts": 1793731667,
+   "photo": "photos/MAD_FRAZEE_LEE_2026-11-03.jpg"
+  },
   {
    "key": "MAD_HAFNER_MICHAEL_2026-11-03",
    "name": "Michael Gabriel Hafner",
@@ -2411,17 +2422,6 @@
    "more": 0,
    "ts": 1793476089,
    "photo": "photos/MAD_JONES_CIARA_2026-10-31.jpg"
-  },
-  {
-   "key": "VAN_GROVES_NICHOLE_2026-10-31",
-   "name": "Nichole Michelle Groves",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793472431,
-   "photo": "photos/VAN_GROVES_NICHOLE_2026-10-31.jpg"
   }
  ]
 }
