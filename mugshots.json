@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T08:48:56+00:00",
+ "updated": "2026-11-03T09:49:05+00:00",
  "items": [
   {
    "key": "MAD_BARTON_EDGE_2026-11-03",
@@ -2301,61 +2301,6 @@
    "more": 2,
    "ts": 1793443629,
    "photo": "photos/VAN_LOWE_CHEYENNE_2026-10-31.jpg"
-  },
-  {
-   "key": "MAD_RAMIREZ_FERNANDO_2026-10-31",
-   "name": "Fernando Emisael Ramirez",
-   "age": "19",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793440121,
-   "photo": null
-  },
-  {
-   "key": "MAD_HANNAH_HEAVEN_2026-10-31",
-   "name": "Heaven Renae Hannah",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793440075,
-   "photo": null
-  },
-  {
-   "key": "MAD_ABBOTT_JAMES_2026-10-31",
-   "name": "James Patrick Abbott",
-   "age": "33",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Community Corrections",
-   "more": 1,
-   "ts": 1793440035,
-   "photo": "photos/MAD_ABBOTT_JAMES_2026-10-31.jpg"
-  },
-  {
-   "key": "VAN_HEINLIN_IAN_2026-10-31",
-   "name": "Ian Alan Heinlin",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 0,
-   "ts": 1793440028,
-   "photo": "photos/VAN_HEINLIN_IAN_2026-10-31.jpg"
-  },
-  {
-   "key": "VAN_SADLER_TARZANA_2026-10-31",
-   "name": "Tarzana Lynn Sadler",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 0,
-   "ts": 1793440027,
-   "photo": "photos/VAN_SADLER_TARZANA_2026-10-31.jpg"
   }
  ]
 }
