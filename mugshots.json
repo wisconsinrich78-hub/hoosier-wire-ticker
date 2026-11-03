@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T20:49:37+00:00",
+ "updated": "2026-11-03T21:49:43+00:00",
  "items": [
+  {
+   "key": "VAN_WILSON_KATIE_2026-11-03",
+   "name": "Katie Gayle Wilson",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793742456,
+   "photo": "photos/VAN_WILSON_KATIE_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_CALMES_SAMUEL_2026-11-03",
+   "name": "Samuel Calmes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing In Cocaine Or Narcotic Drug",
+   "more": 1,
+   "ts": 1793742452,
+   "photo": "photos/ALL_CALMES_SAMUEL_2026-11-03.jpg"
+  },
   {
    "key": "ALL_GRIGSBY_RODGRELL_2026-11-03",
    "name": "Rodgrell Grigsby",
@@ -222,17 +244,6 @@
    "photo": "photos/VAN_MILLER_JASON_2026-11-03.jpg"
   },
   {
-   "key": "VAN_HOOK_ADEN_2026-11-03",
-   "name": "Aden Lee Matthew Hook",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793738830,
-   "photo": null
-  },
-  {
    "key": "MAD_WILLS_GAVIN_2026-11-03",
    "name": "Gavin Darnell Wills",
    "age": "18",
@@ -420,17 +431,6 @@
    "photo": "photos/ALL_HARVEY_ARITHA_2026-11-03.jpg"
   },
   {
-   "key": "ALL_DAVIS_SANDERS_2026-11-03",
-   "name": "Sanders Davis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793713645,
-   "photo": "photos/ALL_DAVIS_SANDERS_2026-11-03.jpg"
-  },
-  {
    "key": "MAD_KASSOUMIS_SOCRATES_2026-11-03",
    "name": "Socrates Kassoumis",
    "age": "19",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_WILSON_KATIE_2026-11-03",
+   "name": "Katie Gayle Wilson",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793742456,
+   "photo": "photos/VAN_WILSON_KATIE_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_CALMES_SAMUEL_2026-11-03",
+   "name": "Samuel Calmes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing In Cocaine Or Narcotic Drug",
+   "more": 1,
+   "ts": 1793742452,
+   "photo": "photos/ALL_CALMES_SAMUEL_2026-11-03.jpg"
+  },
   {
    "key": "ALL_GRIGSBY_RODGRELL_2026-11-03",
    "name": "Rodgrell Grigsby",
@@ -2642,17 +2664,6 @@
    "more": 0,
    "ts": 1793486830,
    "photo": "photos/POR_DONELSON_LA_2026-10-31.jpg"
-  },
-  {
-   "key": "POR_CHIPSCUNNINGHAM_DAKOTA_2026-10-31",
-   "name": "Dakota Chips-Cunningham",
-   "age": "27",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Paraphernalia",
-   "more": 1,
-   "ts": 1793483231,
-   "photo": null
   }
  ]
 }
