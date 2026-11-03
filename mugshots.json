@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T18:49:40+00:00",
+ "updated": "2026-11-03T19:49:38+00:00",
  "items": [
+  {
+   "key": "MAD_WILLS_GAVIN_2026-11-03",
+   "name": "Gavin Darnell Wills",
+   "age": "18",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793735362,
+   "photo": null
+  },
+  {
+   "key": "ALL_MOORE_KANDACE_2026-11-03",
+   "name": "Kandace Moore",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 1,
+   "ts": 1793735246,
+   "photo": "photos/ALL_MOORE_KANDACE_2026-11-03.jpg"
+  },
   {
    "key": "MAD_FRAZEE_LEE_2026-11-03",
    "name": "Lee Frazee",
@@ -242,17 +264,6 @@
    "more": 0,
    "ts": 1793710036,
    "photo": "photos/ALL_MACON_ODEAN_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_COOPER_NEWELL_2026-11-03",
-   "name": "Newell Cooper",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793710032,
-   "photo": "photos/ALL_COOPER_NEWELL_2026-11-03.jpg"
   },
   {
    "key": "POR_MCCALEBB_JOEL_2026-11-03",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793648835,
    "photo": null
-  },
-  {
-   "key": "POR_BAZALDUA_RYAN_2026-11-02",
-   "name": "Ryan Michael Bazaldua",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 2,
-   "ts": 1793648834,
-   "photo": "photos/POR_BAZALDUA_RYAN_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WILLS_GAVIN_2026-11-03",
+   "name": "Gavin Darnell Wills",
+   "age": "18",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793735362,
+   "photo": null
+  },
+  {
+   "key": "ALL_MOORE_KANDACE_2026-11-03",
+   "name": "Kandace Moore",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 1,
+   "ts": 1793735246,
+   "photo": "photos/ALL_MOORE_KANDACE_2026-11-03.jpg"
+  },
   {
    "key": "MAD_FRAZEE_LEE_2026-11-03",
    "name": "Lee Frazee",
@@ -2411,17 +2433,6 @@
    "more": 1,
    "ts": 1793479632,
    "photo": "photos/VAN_PILAND_TAMMY_2026-10-31.jpg"
-  },
-  {
-   "key": "MAD_JONES_CIARA_2026-10-31",
-   "name": "Ciara Maria Jones",
-   "age": "21",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession cocaine or narcotic drug",
-   "more": 0,
-   "ts": 1793476089,
-   "photo": "photos/MAD_JONES_CIARA_2026-10-31.jpg"
   }
  ]
 }
