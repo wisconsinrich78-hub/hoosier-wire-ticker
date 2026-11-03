@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-03T15:49:34+00:00",
+ "updated": "2026-11-03T16:49:08+00:00",
  "items": [
+  {
+   "key": "ALL_MORGAN_DEMARCUS_2026-11-03",
+   "name": "Demarcus Morgan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793724433,
+   "photo": "photos/ALL_MORGAN_DEMARCUS_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_BENGE_KRISTA_2026-11-03",
+   "name": "Krista Benge",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 1,
+   "ts": 1793724429,
+   "photo": "photos/ALL_BENGE_KRISTA_2026-11-03.jpg"
+  },
   {
    "key": "ALL_MOORE_MARQUISE_2026-11-03",
    "name": "Marquise Moore",
@@ -220,28 +242,6 @@
    "more": 0,
    "ts": 1793688441,
    "photo": "photos/POR_FAYSON_MICHAEL_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_SHERRILL_DEAYRIS_2026-11-03",
-   "name": "Deayris Sherrill",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1793688436,
-   "photo": "photos/ALL_SHERRILL_DEAYRIS_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_LANE_JAYSON_2026-11-03",
-   "name": "Jayson Lane",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1793688433,
-   "photo": "photos/ALL_LANE_JAYSON_2026-11-03.jpg"
   },
   {
    "key": "MAD_WHITESEL_AMY_2026-11-02",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_MORGAN_DEMARCUS_2026-11-03",
+   "name": "Demarcus Morgan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793724433,
+   "photo": "photos/ALL_MORGAN_DEMARCUS_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_BENGE_KRISTA_2026-11-03",
+   "name": "Krista Benge",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 1,
+   "ts": 1793724429,
+   "photo": "photos/ALL_BENGE_KRISTA_2026-11-03.jpg"
+  },
   {
    "key": "ALL_MOORE_MARQUISE_2026-11-03",
    "name": "Marquise Moore",
@@ -2378,17 +2400,6 @@
    "more": 0,
    "ts": 1793468958,
    "photo": null
-  },
-  {
-   "key": "POR_PROUD_OTTO_2026-10-31",
-   "name": "Otto Gabriel Proud",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793465231,
-   "photo": "photos/POR_PROUD_OTTO_2026-10-31.jpg"
   }
  ]
 }
