@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-03T13:49:33+00:00",
+ "updated": "2026-11-03T14:49:29+00:00",
  "items": [
+  {
+   "key": "MAD_WALKER_AMIAH_2026-11-03",
+   "name": "Amiah Angel Walker",
+   "age": "22",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Theft- all other larceny - value of property at least $750 and less th",
+   "more": 1,
+   "ts": 1793717352,
+   "photo": "photos/MAD_WALKER_AMIAH_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_MCCARTER_DARREISE_2026-11-03",
+   "name": "Darreise Mccarter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1793717237,
+   "photo": "photos/ALL_MCCARTER_DARREISE_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_DIAZ_ELLIOT_2026-11-03",
+   "name": "Elliot Diaz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793717233,
+   "photo": "photos/ALL_DIAZ_ELLIOT_2026-11-03.jpg"
+  },
   {
    "key": "MAD_JONES_ANTHONY_2026-11-03",
    "name": "Anthony Malek Jones",
@@ -209,28 +242,6 @@
    "more": 0,
    "ts": 1793684835,
    "photo": "photos/ALL_WILLIAMS_ERIC_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_SEXTON_NICHOLAS_2026-11-02",
-   "name": "Nicholas Sexton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1793681236,
-   "photo": "photos/ALL_SEXTON_NICHOLAS_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_RILEY_CHRISTIAN_2026-11-02",
-   "name": "Christian Riley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Recklessness",
-   "more": 0,
-   "ts": 1793681232,
-   "photo": "photos/ALL_RILEY_CHRISTIAN_2026-11-02.jpg"
   },
   {
    "key": "MAD_WHITESEL_AMY_2026-11-02",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1793641752,
    "photo": "photos/MAD_TROUT_ANDREW_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_CORNEJO_LUCIA_2026-11-02",
-   "name": "Lucia Grace Cornejo",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1793641647,
-   "photo": "photos/POR_CORNEJO_LUCIA_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WALKER_AMIAH_2026-11-03",
+   "name": "Amiah Angel Walker",
+   "age": "22",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Theft- all other larceny - value of property at least $750 and less th",
+   "more": 1,
+   "ts": 1793717352,
+   "photo": "photos/MAD_WALKER_AMIAH_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_MCCARTER_DARREISE_2026-11-03",
+   "name": "Darreise Mccarter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1793717237,
+   "photo": "photos/ALL_MCCARTER_DARREISE_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_DIAZ_ELLIOT_2026-11-03",
+   "name": "Elliot Diaz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793717233,
+   "photo": "photos/ALL_DIAZ_ELLIOT_2026-11-03.jpg"
+  },
   {
    "key": "MAD_JONES_ANTHONY_2026-11-03",
    "name": "Anthony Malek Jones",
