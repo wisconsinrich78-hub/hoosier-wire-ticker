@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T13:47:57+00:00",
+ "updated": "2026-11-04T13:52:05+00:00",
  "items": [
   {
    "key": "ALL_ROONEY_LEEANN_2026-11-04",
@@ -2763,17 +2763,6 @@
    "more": 0,
    "ts": 1793544429,
    "photo": null
-  },
-  {
-   "key": "MAD_VANCE_JOHN_2026-11-01",
-   "name": "John Lamar Vance",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1793540953,
-   "photo": "photos/MAD_VANCE_JOHN_2026-11-01.jpg"
   }
  ]
 }
