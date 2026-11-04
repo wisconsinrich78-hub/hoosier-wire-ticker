@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-04T08:47:43+00:00",
+ "updated": "2026-11-04T09:47:45+00:00",
  "items": [
+  {
+   "key": "ALL_HADE_THOMAS_2026-11-04",
+   "name": "Thomas Hade",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1793785643,
+   "photo": "photos/ALL_HADE_THOMAS_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_DALMAN_ANTHONY_2026-11-04",
+   "name": "Anthony Dalman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Mischief",
+   "more": 1,
+   "ts": 1793785638,
+   "photo": "photos/ALL_DALMAN_ANTHONY_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_BUCHANAN_DONALD_2026-11-04",
+   "name": "Donald Buchanan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Protection Order In Effect",
+   "more": 4,
+   "ts": 1793785634,
+   "photo": "photos/ALL_BUCHANAN_DONALD_2026-11-04.jpg"
+  },
   {
    "key": "ALL_VILLANUEVA_ANGELA_2026-11-04",
    "name": "Angela Villanueva",
@@ -442,17 +475,6 @@
    "photo": "photos/ALL_SULLIVAN_MELINDA_2026-11-03.jpg"
   },
   {
-   "key": "ALL_DOWNS_DUSTIN_2026-11-03",
-   "name": "Dustin Downs",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "False Informing",
-   "more": 1,
-   "ts": 1793746031,
-   "photo": "photos/ALL_DOWNS_DUSTIN_2026-11-03.jpg"
-  },
-  {
    "key": "VAN_WILSON_KATIE_2026-11-03",
    "name": "Katie Gayle Wilson",
    "age": "27",
@@ -462,28 +484,6 @@
    "more": 0,
    "ts": 1793742456,
    "photo": "photos/VAN_WILSON_KATIE_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_CALMES_SAMUEL_2026-11-03",
-   "name": "Samuel Calmes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing In Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1793742452,
-   "photo": "photos/ALL_CALMES_SAMUEL_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_GRIGSBY_RODGRELL_2026-11-03",
-   "name": "Rodgrell Grigsby",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt Of Court-Civil",
-   "more": 1,
-   "ts": 1793738913,
-   "photo": "photos/ALL_GRIGSBY_RODGRELL_2026-11-03.jpg"
   },
   {
    "key": "VAN_BROWN_ROBERT_2026-11-02",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_HADE_THOMAS_2026-11-04",
+   "name": "Thomas Hade",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1793785643,
+   "photo": "photos/ALL_HADE_THOMAS_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_DALMAN_ANTHONY_2026-11-04",
+   "name": "Anthony Dalman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Mischief",
+   "more": 1,
+   "ts": 1793785638,
+   "photo": "photos/ALL_DALMAN_ANTHONY_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_BUCHANAN_DONALD_2026-11-04",
+   "name": "Donald Buchanan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Protection Order In Effect",
+   "more": 4,
+   "ts": 1793785634,
+   "photo": "photos/ALL_BUCHANAN_DONALD_2026-11-04.jpg"
+  },
   {
    "key": "ALL_VILLANUEVA_ANGELA_2026-11-04",
    "name": "Angela Villanueva",
@@ -2807,39 +2840,6 @@
    "more": 2,
    "ts": 1793530030,
    "photo": "photos/VAN_SERGENT_BRETT_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_HATTER_EDDIE_2026-11-01",
-   "name": "Eddie Lee Hatter",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793526464,
-   "photo": null
-  },
-  {
-   "key": "MAD_ALMATULY_YASER_2026-11-01",
-   "name": "Yaser Z Almatuly",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated",
-   "more": 2,
-   "ts": 1793526439,
-   "photo": null
-  },
-  {
-   "key": "VAN_GRIGSBY_JESSE_2026-11-01",
-   "name": "Jesse Lee Grigsby",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Indecency- Indecent Exposure",
-   "more": 1,
-   "ts": 1793526429,
-   "photo": "photos/VAN_GRIGSBY_JESSE_2026-11-01.jpg"
   }
  ]
 }
