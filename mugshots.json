@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-04T19:48:14+00:00",
+ "updated": "2026-11-04T20:47:31+00:00",
  "items": [
+  {
+   "key": "POR_NICHOLAS_MICHAEL_2026-11-04",
+   "name": "Michael Robert Nicholas",
+   "age": "51",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Arson",
+   "more": 1,
+   "ts": 1793825246,
+   "photo": "photos/POR_NICHOLAS_MICHAEL_2026-11-04.jpg"
+  },
+  {
+   "key": "VAN_LUCKETT_SAVON_2026-11-04",
+   "name": "Savon Delmar Luckett",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement 2 Priors/Creates Substanial Risk",
+   "more": 1,
+   "ts": 1793825241,
+   "photo": "photos/VAN_LUCKETT_SAVON_2026-11-04.jpg"
+  },
   {
    "key": "VAN_SINCLAIR_BLAKE_2026-11-04",
    "name": "Blake Andrew Sinclair",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1793757119,
    "photo": "photos/MAD_PROFFITT_MARK_2026-11-03.jpg"
-  },
-  {
-   "key": "VAN_JOYCE_ROBERT_2026-11-03",
-   "name": "Robert Louis Joyce",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
-   "more": 0,
-   "ts": 1793756890,
-   "photo": "photos/VAN_JOYCE_ROBERT_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_MUNDELL_PAMELA_2026-11-03",
-   "name": "Pamela Jean Mundell",
-   "age": "63",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793753303,
-   "photo": "photos/MAD_MUNDELL_PAMELA_2026-11-03.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_NICHOLAS_MICHAEL_2026-11-04",
+   "name": "Michael Robert Nicholas",
+   "age": "51",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Arson",
+   "more": 1,
+   "ts": 1793825246,
+   "photo": "photos/POR_NICHOLAS_MICHAEL_2026-11-04.jpg"
+  },
+  {
+   "key": "VAN_LUCKETT_SAVON_2026-11-04",
+   "name": "Savon Delmar Luckett",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement 2 Priors/Creates Substanial Risk",
+   "more": 1,
+   "ts": 1793825241,
+   "photo": "photos/VAN_LUCKETT_SAVON_2026-11-04.jpg"
+  },
   {
    "key": "VAN_SINCLAIR_BLAKE_2026-11-04",
    "name": "Blake Andrew Sinclair",
@@ -2818,50 +2840,6 @@
    "more": 0,
    "ts": 1793566121,
    "photo": "photos/MAD_PITTMAN_WALTER_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_ADAMS_ETHAN_2026-11-01",
-   "name": "Ethan Kent Adams",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793566046,
-   "photo": "photos/VAN_ADAMS_ETHAN_2026-11-01.jpg"
-  },
-  {
-   "key": "POR_RITTEL_JOHN_2026-11-01",
-   "name": "John Edward Rittel",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft - Vehicle : 6 : F",
-   "more": 0,
-   "ts": 1793566045,
-   "photo": "photos/POR_RITTEL_JOHN_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_WENK_ASHLEY_2026-11-01",
-   "name": "Ashley Faye Wenk",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or",
-   "more": 1,
-   "ts": 1793566043,
-   "photo": null
-  },
-  {
-   "key": "ALL_SCHMUCKER_JASON_2026-11-01",
-   "name": "Jason Schmucker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793566032,
-   "photo": null
   }
  ]
 }
