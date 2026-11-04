@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T21:47:53+00:00",
+ "updated": "2026-11-04T22:47:51+00:00",
  "items": [
+  {
+   "key": "ALL_FOWLKES_HEAVEN_2026-11-04",
+   "name": "Heaven Fowlkes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1793832429,
+   "photo": "photos/ALL_FOWLKES_HEAVEN_2026-11-04.jpg"
+  },
   {
    "key": "ALL_PARMENTER_GAVIN_2026-11-04",
    "name": "Gavin Parmenter",
@@ -420,17 +431,6 @@
    "photo": "photos/VAN_ORR_DEVERY_2026-11-04.jpg"
   },
   {
-   "key": "ALL_SWIFT_TIMOTHY_2026-11-04",
-   "name": "Timothy Swift",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 2,
-   "ts": 1793778439,
-   "photo": "photos/ALL_SWIFT_TIMOTHY_2026-11-04.jpg"
-  },
-  {
    "key": "VAN_STCLAIR_BRENT_2026-11-03",
    "name": "Brent William St Clair",
    "age": "31",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_FOWLKES_HEAVEN_2026-11-04",
+   "name": "Heaven Fowlkes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1793832429,
+   "photo": "photos/ALL_FOWLKES_HEAVEN_2026-11-04.jpg"
+  },
   {
    "key": "ALL_PARMENTER_GAVIN_2026-11-04",
    "name": "Gavin Parmenter",
