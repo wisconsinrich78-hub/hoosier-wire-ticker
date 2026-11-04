@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-03T23:49:22+00:00",
+ "updated": "2026-11-04T00:49:17+00:00",
  "items": [
+  {
+   "key": "MAD_MUNDELL_PAMELA_2026-11-03",
+   "name": "Pamela Jean Mundell",
+   "age": "63",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793753303,
+   "photo": "photos/MAD_MUNDELL_PAMELA_2026-11-03.jpg"
+  },
+  {
+   "key": "VAN_LAUGHARY_WILLIAM_2026-11-03",
+   "name": "William Robert Laughary",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793753235,
+   "photo": "photos/VAN_LAUGHARY_WILLIAM_2026-11-03.jpg"
+  },
+  {
+   "key": "POR_ADAMS_HUNTER_2026-11-03",
+   "name": "Hunter Brett Adams",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 1,
+   "ts": 1793753233,
+   "photo": "photos/POR_ADAMS_HUNTER_2026-11-03.jpg"
+  },
+  {
+   "key": "VAN_HAYDEN_LUKE_2026-11-03",
+   "name": "Luke Anthony Hayden",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Prior Unrelated Conviction For Theft Or Conversion",
+   "more": 1,
+   "ts": 1793753231,
+   "photo": null
+  },
   {
    "key": "POR_WAGNER_JESSICA_2026-11-03",
    "name": "Jessica Lynn Wagner",
@@ -299,28 +343,6 @@
    "photo": "photos/ALL_DUNNING_ENNIS_2026-11-03.jpg"
   },
   {
-   "key": "VAN_HARMON_OLIVER_2026-11-03",
-   "name": "Oliver Dubois Harmon",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
-   "more": 0,
-   "ts": 1793738837,
-   "photo": "photos/VAN_HARMON_OLIVER_2026-11-03.jpg"
-  },
-  {
-   "key": "VAN_BELL_QUATREZ_2026-11-03",
-   "name": "Quatrez Devontae Bell",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793738836,
-   "photo": "photos/VAN_BELL_QUATREZ_2026-11-03.jpg"
-  },
-  {
    "key": "ALL_CROSKEY_ROBERT_2026-11-03",
    "name": "Robert Croskey",
    "age": "",
@@ -506,31 +528,53 @@
    "more": 2,
    "ts": 1793702829,
    "photo": "photos/POR_MCCALEBB_JOEL_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_BARTON_EDGE_2026-11-03",
-   "name": "Edge Daniel Barton",
-   "age": "19",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Minor consume alcoholic beverage",
-   "more": 1,
-   "ts": 1793695638,
-   "photo": null
-  },
-  {
-   "key": "POR_FAYSON_MICHAEL_2026-11-03",
-   "name": "Michael Fayson",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793688441,
-   "photo": "photos/POR_FAYSON_MICHAEL_2026-11-03.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_MUNDELL_PAMELA_2026-11-03",
+   "name": "Pamela Jean Mundell",
+   "age": "63",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793753303,
+   "photo": "photos/MAD_MUNDELL_PAMELA_2026-11-03.jpg"
+  },
+  {
+   "key": "VAN_LAUGHARY_WILLIAM_2026-11-03",
+   "name": "William Robert Laughary",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793753235,
+   "photo": "photos/VAN_LAUGHARY_WILLIAM_2026-11-03.jpg"
+  },
+  {
+   "key": "POR_ADAMS_HUNTER_2026-11-03",
+   "name": "Hunter Brett Adams",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 1,
+   "ts": 1793753233,
+   "photo": "photos/POR_ADAMS_HUNTER_2026-11-03.jpg"
+  },
+  {
+   "key": "VAN_HAYDEN_LUKE_2026-11-03",
+   "name": "Luke Anthony Hayden",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Prior Unrelated Conviction For Theft Or Conversion",
+   "more": 1,
+   "ts": 1793753231,
+   "photo": null
+  },
   {
    "key": "POR_WAGNER_JESSICA_2026-11-03",
    "name": "Jessica Lynn Wagner",
@@ -2719,17 +2763,6 @@
    "more": 0,
    "ts": 1793497637,
    "photo": "photos/ALL_ELWAER_ASHLEY_2026-10-31.jpg"
-  },
-  {
-   "key": "VAN_LOPEZ_PAUL_2026-10-31",
-   "name": "Paul Socorro Lopez",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Recklessness W/Deadly Weapon",
-   "more": 2,
-   "ts": 1793494031,
-   "photo": "photos/VAN_LOPEZ_PAUL_2026-10-31.jpg"
   }
  ]
 }
