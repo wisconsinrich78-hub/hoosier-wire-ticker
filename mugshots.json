@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T07:47:51+00:00",
+ "updated": "2026-11-04T07:51:20+00:00",
  "items": [
   {
    "key": "POR_BIELECKI_ZACHARY_2026-11-04",
@@ -2862,17 +2862,6 @@
    "more": 1,
    "ts": 1793522829,
    "photo": "photos/VAN_PERSINGER_CHRISTOPHER_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_STANSBERRY_DARRELL_2026-11-01",
-   "name": "Darrell Christopher Stansberry",
-   "age": "54",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery-moderate bodily injury",
-   "more": 0,
-   "ts": 1793519319,
-   "photo": "photos/MAD_STANSBERRY_DARRELL_2026-11-01.jpg"
   }
  ]
 }
