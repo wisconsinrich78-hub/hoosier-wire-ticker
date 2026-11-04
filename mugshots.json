@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-04T14:47:41+00:00",
+ "updated": "2026-11-04T15:47:27+00:00",
  "items": [
+  {
+   "key": "MAD_PIERCE_CLIFFORD_2026-11-04",
+   "name": "Clifford Manis Third Pierce",
+   "age": "51",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793807245,
+   "photo": "photos/MAD_PIERCE_CLIFFORD_2026-11-04.jpg"
+  },
+  {
+   "key": "MAD_PATTERSON_AIDAN_2026-11-04",
+   "name": "Aidan L Patterson",
+   "age": "19",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1793807244,
+   "photo": "photos/MAD_PATTERSON_AIDAN_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_TIEMPOSPARRA_FERNANDO_2026-11-04",
+   "name": "Fernando Tiemposparra",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1793807232,
+   "photo": "photos/ALL_TIEMPOSPARRA_FERNANDO_2026-11-04.jpg"
+  },
   {
    "key": "MAD_WALLACE_JASON_2026-11-04",
    "name": "Jason Joe Wallace",
@@ -365,17 +398,6 @@
    "photo": "photos/VAN_GRIDDINS_JARMAN_2026-11-03.jpg"
   },
   {
-   "key": "ALL_SINGH_ARSHDEEP_2026-11-03",
-   "name": "Arshdeep Singh",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny",
-   "more": 4,
-   "ts": 1793767636,
-   "photo": "photos/ALL_SINGH_ARSHDEEP_2026-11-03.jpg"
-  },
-  {
    "key": "POR_GRIMES_BRETT_2026-11-03",
    "name": "Brett William Grimes",
    "age": "37",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1793746123,
    "photo": "photos/MAD_PRICE_SYLVESTER_2026-11-03.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_PIERCE_TINA_2026-11-03",
-   "name": "Tina Marie Pierce",
-   "age": "46",
+   "key": "MAD_PIERCE_CLIFFORD_2026-11-04",
+   "name": "Clifford Manis Third Pierce",
+   "age": "51",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1793746116,
-   "photo": "photos/MAD_PIERCE_TINA_2026-11-03.jpg"
+   "ts": 1793807245,
+   "photo": "photos/MAD_PIERCE_CLIFFORD_2026-11-04.jpg"
   },
   {
-   "key": "POR_BACH_JESSICA_2026-11-03",
-   "name": "Jessica Ann Bach",
-   "age": "45",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Possession Of Cocaine",
+   "key": "MAD_PATTERSON_AIDAN_2026-11-04",
+   "name": "Aidan L Patterson",
+   "age": "19",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1793807244,
+   "photo": "photos/MAD_PATTERSON_AIDAN_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_TIEMPOSPARRA_FERNANDO_2026-11-04",
+   "name": "Fernando Tiemposparra",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
    "more": 1,
-   "ts": 1793746039,
-   "photo": "photos/POR_BACH_JESSICA_2026-11-03.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1793807232,
+   "photo": "photos/ALL_TIEMPOSPARRA_FERNANDO_2026-11-04.jpg"
+  },
   {
    "key": "MAD_WALLACE_JASON_2026-11-04",
    "name": "Jason Joe Wallace",
@@ -2763,17 +2796,6 @@
    "more": 0,
    "ts": 1793551654,
    "photo": "photos/MAD_DAVIS_DAVID_2026-11-01.jpg"
-  },
-  {
-   "key": "ALL_PERKINS_MELVIN_2026-11-01",
-   "name": "Melvin Perkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 1,
-   "ts": 1793548034,
-   "photo": "photos/ALL_PERKINS_MELVIN_2026-11-01.jpg"
   }
  ]
 }
