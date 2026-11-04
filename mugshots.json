@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-04T20:47:31+00:00",
+ "updated": "2026-11-04T21:47:53+00:00",
  "items": [
+  {
+   "key": "ALL_PARMENTER_GAVIN_2026-11-04",
+   "name": "Gavin Parmenter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793828853,
+   "photo": "photos/ALL_PARMENTER_GAVIN_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_HESS_SHANTELL_2026-11-04",
+   "name": "Shantell Hess",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 1,
+   "ts": 1793828849,
+   "photo": "photos/ALL_HESS_SHANTELL_2026-11-04.jpg"
+  },
+  {
+   "key": "MAD_WHITNEY_NICKOLAS_2026-11-04",
+   "name": "Nickolas Ryan Whitney",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 1,
+   "ts": 1793825262,
+   "photo": "photos/MAD_WHITNEY_NICKOLAS_2026-11-04.jpg"
+  },
   {
    "key": "POR_NICHOLAS_MICHAEL_2026-11-04",
    "name": "Michael Robert Nicholas",
@@ -398,28 +431,6 @@
    "photo": "photos/ALL_SWIFT_TIMOTHY_2026-11-04.jpg"
   },
   {
-   "key": "ALL_BLACK_RANIYAH_2026-11-04",
-   "name": "Raniyah Black",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1793778435,
-   "photo": "photos/ALL_BLACK_RANIYAH_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_ALEXANDER_LAQUANDRE_2026-11-04",
-   "name": "Laquandre Alexander",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 2,
-   "ts": 1793778431,
-   "photo": "photos/ALL_ALEXANDER_LAQUANDRE_2026-11-04.jpg"
-  },
-  {
    "key": "VAN_STCLAIR_BRENT_2026-11-03",
    "name": "Brent William St Clair",
    "age": "31",
@@ -517,20 +528,42 @@
    "more": 3,
    "ts": 1793764036,
    "photo": null
-  },
-  {
-   "key": "MAD_PROFFITT_MARK_2026-11-03",
-   "name": "Mark Allen Proffitt",
-   "age": "65",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793757119,
-   "photo": "photos/MAD_PROFFITT_MARK_2026-11-03.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_PARMENTER_GAVIN_2026-11-04",
+   "name": "Gavin Parmenter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793828853,
+   "photo": "photos/ALL_PARMENTER_GAVIN_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_HESS_SHANTELL_2026-11-04",
+   "name": "Shantell Hess",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 1,
+   "ts": 1793828849,
+   "photo": "photos/ALL_HESS_SHANTELL_2026-11-04.jpg"
+  },
+  {
+   "key": "MAD_WHITNEY_NICKOLAS_2026-11-04",
+   "name": "Nickolas Ryan Whitney",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 1,
+   "ts": 1793825262,
+   "photo": "photos/MAD_WHITNEY_NICKOLAS_2026-11-04.jpg"
+  },
   {
    "key": "POR_NICHOLAS_MICHAEL_2026-11-04",
    "name": "Michael Robert Nicholas",
@@ -2818,28 +2851,6 @@
    "more": 0,
    "ts": 1793576886,
    "photo": null
-  },
-  {
-   "key": "POR_JOHNS_TRACY_2026-11-01",
-   "name": "Tracy Lee Johns",
-   "age": "60",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Possession Marijuana",
-   "more": 0,
-   "ts": 1793569632,
-   "photo": "photos/POR_JOHNS_TRACY_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_PITTMAN_WALTER_2026-11-01",
-   "name": "Walter L Junior Pittman",
-   "age": "42",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793566121,
-   "photo": "photos/MAD_PITTMAN_WALTER_2026-11-01.jpg"
   }
  ]
 }
