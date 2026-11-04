@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-04T05:56:08+00:00",
+ "updated": "2026-11-04T06:47:35+00:00",
  "items": [
+  {
+   "key": "VAN_STCLAIR_BRENT_2026-11-03",
+   "name": "Brent William St Clair",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "more": 1,
+   "ts": 1793774836,
+   "photo": null
+  },
+  {
+   "key": "ALL_RAMIREZ_CARINA_2026-11-04",
+   "name": "Carina Ramirez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 0,
+   "ts": 1793774833,
+   "photo": "photos/ALL_RAMIREZ_CARINA_2026-11-04.jpg"
+  },
   {
    "key": "POR_GAWNE_TAMMY_2026-11-03",
    "name": "Tammy Arlene Gawne",
@@ -431,17 +453,6 @@
    "photo": "photos/VAN_DORRIS_MICHAEL_2026-11-03.jpg"
   },
   {
-   "key": "VAN_CARTER_CHRISTOPHER_2026-11-03",
-   "name": "Christopher Wayne Carter",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Unlawful Use Of 911 Service",
-   "more": 0,
-   "ts": 1793738844,
-   "photo": "photos/VAN_CARTER_CHRISTOPHER_2026-11-03.jpg"
-  },
-  {
    "key": "ALL_FIELDS_JOHN_2026-11-03",
    "name": "John Fields",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793728081,
    "photo": "photos/MAD_HAFNER_MICHAEL_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_BUCKLEY_TIFFANY_2026-11-03",
-   "name": "Tiffany Nicole Buckley",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Residential Entry",
-   "more": 3,
-   "ts": 1793728061,
-   "photo": "photos/MAD_BUCKLEY_TIFFANY_2026-11-03.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_STCLAIR_BRENT_2026-11-03",
+   "name": "Brent William St Clair",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "more": 1,
+   "ts": 1793774836,
+   "photo": null
+  },
+  {
+   "key": "ALL_RAMIREZ_CARINA_2026-11-04",
+   "name": "Carina Ramirez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 0,
+   "ts": 1793774833,
+   "photo": "photos/ALL_RAMIREZ_CARINA_2026-11-04.jpg"
+  },
   {
    "key": "POR_GAWNE_TAMMY_2026-11-03",
    "name": "Tammy Arlene Gawne",
@@ -2785,39 +2807,6 @@
    "more": 0,
    "ts": 1793515715,
    "photo": null
-  },
-  {
-   "key": "MAD_BARNES_JAHEIM_2026-11-01",
-   "name": "Jaheim Barnes",
-   "age": "23",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating with controlled substance in body",
-   "more": 2,
-   "ts": 1793515648,
-   "photo": "photos/MAD_BARNES_JAHEIM_2026-11-01.jpg"
-  },
-  {
-   "key": "POR_ENSIGN_VALERIE_2026-11-01",
-   "name": "Valerie Lynn Ensign",
-   "age": "24",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 0,
-   "ts": 1793515637,
-   "photo": null
-  },
-  {
-   "key": "ALL_CLAUSS_NASHAUN_2026-11-01",
-   "name": "Nashaun Clauss",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "DISORDERLY CONDUCT a person who recklessly, knowingly, or intentionall",
-   "more": 0,
-   "ts": 1793515630,
-   "photo": "photos/ALL_CLAUSS_NASHAUN_2026-11-01.jpg"
   }
  ]
 }
