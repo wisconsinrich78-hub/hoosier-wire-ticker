@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T23:47:40+00:00",
+ "updated": "2026-11-04T23:49:31+00:00",
  "items": [
   {
    "key": "MAD_EDMONDS_LASHANNA_2026-11-04",
@@ -2895,17 +2895,6 @@
    "more": 4,
    "ts": 1793580435,
    "photo": "photos/ALL_BUMAN_LEVI_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_KELLEY_MAHOGANY_2026-11-01",
-   "name": "Mahogany K Kelley",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793576886,
-   "photo": null
   }
  ]
 }
