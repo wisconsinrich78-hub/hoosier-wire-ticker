@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T10:48:01+00:00",
+ "updated": "2026-11-04T11:47:26+00:00",
  "items": [
+  {
+   "key": "POR_GARRETT_DARIUS_2026-11-04",
+   "name": "Darius A Garrett",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 3,
+   "ts": 1793792832,
+   "photo": null
+  },
   {
    "key": "POR_GASKEY_ASHTYN_2026-11-04",
    "name": "Ashtyn Gaskey",
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1793738855,
    "photo": "photos/VAN_BROWN_ROBERT_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_DANIELS_JONATHON_2026-11-02",
-   "name": "Jonathon Woodring Daniels",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or",
-   "more": 0,
-   "ts": 1793738855,
-   "photo": "photos/VAN_DANIELS_JONATHON_2026-11-02.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_GARRETT_DARIUS_2026-11-04",
+   "name": "Darius A Garrett",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 3,
+   "ts": 1793792832,
+   "photo": null
+  },
   {
    "key": "POR_GASKEY_ASHTYN_2026-11-04",
    "name": "Ashtyn Gaskey",
@@ -2785,28 +2796,6 @@
    "more": 0,
    "ts": 1793537231,
    "photo": null
-  },
-  {
-   "key": "VAN_NUNN_DREDON_2026-11-01",
-   "name": "Dredon Everett Nunn",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 1,
-   "ts": 1793533629,
-   "photo": "photos/VAN_NUNN_DREDON_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_BACON_EROCK_2026-11-01",
-   "name": "Erock Lee Bacon",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 2,
-   "ts": 1793533628,
-   "photo": "photos/VAN_BACON_EROCK_2026-11-01.jpg"
   }
  ]
 }
