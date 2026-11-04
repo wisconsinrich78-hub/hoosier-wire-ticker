@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-04T22:47:51+00:00",
+ "updated": "2026-11-04T23:47:40+00:00",
  "items": [
+  {
+   "key": "MAD_EDMONDS_LASHANNA_2026-11-04",
+   "name": "Lashanna Montee Edmonds",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Theft- all other larceny - value of property at least $750 and less th",
+   "more": 0,
+   "ts": 1793836045,
+   "photo": "photos/MAD_EDMONDS_LASHANNA_2026-11-04.jpg"
+  },
+  {
+   "key": "MAD_CLEARY_MATTHEW_2026-11-04",
+   "name": "Matthew John Cleary",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Parole Violation - Jail Booking",
+   "more": 2,
+   "ts": 1793836044,
+   "photo": "photos/MAD_CLEARY_MATTHEW_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_PLOTT_CLIFTON_2026-11-04",
+   "name": "Clifton Plott",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia - Prior Judgement Or Conviction",
+   "more": 0,
+   "ts": 1793836038,
+   "photo": "photos/ALL_PLOTT_CLIFTON_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_MADDOX_NATHAN_2026-11-04",
+   "name": "Nathan Maddox",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793836034,
+   "photo": "photos/ALL_MADDOX_NATHAN_2026-11-04.jpg"
+  },
   {
    "key": "ALL_FOWLKES_HEAVEN_2026-11-04",
    "name": "Heaven Fowlkes",
@@ -354,28 +398,6 @@
    "photo": "photos/ALL_VILLANUEVA_ANGELA_2026-11-04.jpg"
   },
   {
-   "key": "ALL_TAYLOR_ISREAL_2026-11-04",
-   "name": "Isreal Taylor",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793782041,
-   "photo": "photos/ALL_TAYLOR_ISREAL_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_LOVE_JESSE_2026-11-04",
-   "name": "Jesse Love",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1793782036,
-   "photo": "photos/ALL_LOVE_JESSE_2026-11-04.jpg"
-  },
-  {
    "key": "POR_BIELECKI_ZACHARY_2026-11-04",
    "name": "Zachary Scott Bielecki",
    "age": "35",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1793767644,
    "photo": "photos/POR_BUTTON_JAMES_2026-11-03.jpg"
-  },
-  {
-   "key": "VAN_GRIDDINS_JARMAN_2026-11-03",
-   "name": "Jarman Anthony Griddins",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft : A : M",
-   "more": 0,
-   "ts": 1793767640,
-   "photo": "photos/VAN_GRIDDINS_JARMAN_2026-11-03.jpg"
-  },
-  {
-   "key": "POR_GRIMES_BRETT_2026-11-03",
-   "name": "Brett William Grimes",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Prior Conviction",
-   "more": 3,
-   "ts": 1793764036,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_EDMONDS_LASHANNA_2026-11-04",
+   "name": "Lashanna Montee Edmonds",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Theft- all other larceny - value of property at least $750 and less th",
+   "more": 0,
+   "ts": 1793836045,
+   "photo": "photos/MAD_EDMONDS_LASHANNA_2026-11-04.jpg"
+  },
+  {
+   "key": "MAD_CLEARY_MATTHEW_2026-11-04",
+   "name": "Matthew John Cleary",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Parole Violation - Jail Booking",
+   "more": 2,
+   "ts": 1793836044,
+   "photo": "photos/MAD_CLEARY_MATTHEW_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_PLOTT_CLIFTON_2026-11-04",
+   "name": "Clifton Plott",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia - Prior Judgement Or Conviction",
+   "more": 0,
+   "ts": 1793836038,
+   "photo": "photos/ALL_PLOTT_CLIFTON_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_MADDOX_NATHAN_2026-11-04",
+   "name": "Nathan Maddox",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793836034,
+   "photo": "photos/ALL_MADDOX_NATHAN_2026-11-04.jpg"
+  },
   {
    "key": "ALL_FOWLKES_HEAVEN_2026-11-04",
    "name": "Heaven Fowlkes",
