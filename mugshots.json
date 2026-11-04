@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-04T03:47:45+00:00",
+ "updated": "2026-11-04T04:47:55+00:00",
  "items": [
+  {
+   "key": "MAD_VAZQUEZDIAZ_MISAEL_2026-11-03",
+   "name": "Misael R Vazquez-Diaz",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operator Never Licensed",
+   "more": 1,
+   "ts": 1793767659,
+   "photo": null
+  },
+  {
+   "key": "POR_WITT_CONNIE_2026-11-03",
+   "name": "Connie Witt",
+   "age": "55",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
+   "more": 0,
+   "ts": 1793767645,
+   "photo": null
+  },
+  {
+   "key": "POR_BUTTON_JAMES_2026-11-03",
+   "name": "James Edward Button",
+   "age": "58",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
+   "more": 0,
+   "ts": 1793767644,
+   "photo": "photos/POR_BUTTON_JAMES_2026-11-03.jpg"
+  },
+  {
+   "key": "VAN_GRIDDINS_JARMAN_2026-11-03",
+   "name": "Jarman Anthony Griddins",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft : A : M",
+   "more": 0,
+   "ts": 1793767640,
+   "photo": "photos/VAN_GRIDDINS_JARMAN_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_SINGH_ARSHDEEP_2026-11-03",
+   "name": "Arshdeep Singh",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny",
+   "more": 4,
+   "ts": 1793767636,
+   "photo": "photos/ALL_SINGH_ARSHDEEP_2026-11-03.jpg"
+  },
   {
    "key": "POR_GRIMES_BRETT_2026-11-03",
    "name": "Brett William Grimes",
@@ -354,17 +409,6 @@
    "photo": "photos/ALL_FIELDS_JOHN_2026-11-03.jpg"
   },
   {
-   "key": "VAN_FOWLER_GAVEN_2026-11-03",
-   "name": "Gaven Michael Fowler",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Reckless Driving",
-   "more": 1,
-   "ts": 1793738841,
-   "photo": "photos/VAN_FOWLER_GAVEN_2026-11-03.jpg"
-  },
-  {
    "key": "ALL_DUNNING_ENNIS_2026-11-03",
    "name": "Ennis Dunning",
    "age": "",
@@ -484,53 +528,64 @@
    "more": 0,
    "ts": 1793720837,
    "photo": "photos/ALL_MOORE_MARQUISE_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_GIBSON_JIMMIE_2026-11-03",
-   "name": "Jimmie Gibson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1793720833,
-   "photo": "photos/ALL_GIBSON_JIMMIE_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_WALKER_AMIAH_2026-11-03",
-   "name": "Amiah Angel Walker",
-   "age": "22",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Theft- all other larceny - value of property at least $750 and less th",
-   "more": 1,
-   "ts": 1793717352,
-   "photo": "photos/MAD_WALKER_AMIAH_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_MCCARTER_DARREISE_2026-11-03",
-   "name": "Darreise Mccarter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1793717237,
-   "photo": "photos/ALL_MCCARTER_DARREISE_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_JONES_ANTHONY_2026-11-03",
-   "name": "Anthony Malek Jones",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793713710,
-   "photo": "photos/MAD_JONES_ANTHONY_2026-11-03.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_VAZQUEZDIAZ_MISAEL_2026-11-03",
+   "name": "Misael R Vazquez-Diaz",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operator Never Licensed",
+   "more": 1,
+   "ts": 1793767659,
+   "photo": null
+  },
+  {
+   "key": "POR_WITT_CONNIE_2026-11-03",
+   "name": "Connie Witt",
+   "age": "55",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
+   "more": 0,
+   "ts": 1793767645,
+   "photo": null
+  },
+  {
+   "key": "POR_BUTTON_JAMES_2026-11-03",
+   "name": "James Edward Button",
+   "age": "58",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
+   "more": 0,
+   "ts": 1793767644,
+   "photo": "photos/POR_BUTTON_JAMES_2026-11-03.jpg"
+  },
+  {
+   "key": "VAN_GRIDDINS_JARMAN_2026-11-03",
+   "name": "Jarman Anthony Griddins",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft : A : M",
+   "more": 0,
+   "ts": 1793767640,
+   "photo": "photos/VAN_GRIDDINS_JARMAN_2026-11-03.jpg"
+  },
+  {
+   "key": "ALL_SINGH_ARSHDEEP_2026-11-03",
+   "name": "Arshdeep Singh",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny",
+   "more": 4,
+   "ts": 1793767636,
+   "photo": "photos/ALL_SINGH_ARSHDEEP_2026-11-03.jpg"
+  },
   {
    "key": "POR_GRIMES_BRETT_2026-11-03",
    "name": "Brett William Grimes",
@@ -2740,28 +2795,6 @@
    "charge": "Alcoholic Beverage- Public Intoxication By Alcohol",
    "more": 0,
    "ts": 1793512034,
-   "photo": null
-  },
-  {
-   "key": "VAN_BETTAG_TOMMY_2026-10-31",
-   "name": "Tommy Lee Bettag",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793508430,
-   "photo": "photos/VAN_BETTAG_TOMMY_2026-10-31.jpg"
-  },
-  {
-   "key": "MAD_PERRY_DONALD_2026-10-31",
-   "name": "Donald James Perry",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Disorderly conduct",
-   "more": 2,
-   "ts": 1793504925,
    "photo": null
   }
  ]
