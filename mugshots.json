@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:47:26+00:00",
+ "updated": "2026-11-04T12:47:32+00:00",
  "items": [
   {
    "key": "POR_GARRETT_DARIUS_2026-11-04",
@@ -2774,28 +2774,6 @@
    "more": 1,
    "ts": 1793540830,
    "photo": "photos/ALL_PARRISH_RICO_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_COOPER_CHALAIYAH_2026-11-01",
-   "name": "Chalaiyah Marie Cooper",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery - Against Public Safety Official Engaged In Official",
-   "more": 2,
-   "ts": 1793537234,
-   "photo": "photos/VAN_COOPER_CHALAIYAH_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_CARTWRIGHT_GARY_2026-11-01",
-   "name": "Gary Jamal Cartwright",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1793537231,
-   "photo": null
   }
  ]
 }
