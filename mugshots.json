@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-04T06:50:37+00:00",
+ "updated": "2026-11-04T07:47:51+00:00",
  "items": [
+  {
+   "key": "POR_BIELECKI_ZACHARY_2026-11-04",
+   "name": "Zachary Scott Bielecki",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1793778450,
+   "photo": "photos/POR_BIELECKI_ZACHARY_2026-11-04.jpg"
+  },
+  {
+   "key": "POR_ALKUHALI_SAMIRA_2026-11-04",
+   "name": "Samira Tawfik Alkuhali",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1793778449,
+   "photo": null
+  },
+  {
+   "key": "POR_BISCHOFFPARTON_RAYMON_2026-11-04",
+   "name": "Raymon Jacob Bischoff-Parton",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 4,
+   "ts": 1793778446,
+   "photo": null
+  },
+  {
+   "key": "VAN_LOWRY_KENNETH_2026-11-04",
+   "name": "Kenneth Eugene Lowry",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery-Committed With A Deadly Weapon-Felony",
+   "more": 1,
+   "ts": 1793778443,
+   "photo": "photos/VAN_LOWRY_KENNETH_2026-11-04.jpg"
+  },
+  {
+   "key": "VAN_ORR_DEVERY_2026-11-04",
+   "name": "Devery Lee Orr",
+   "age": "64",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery-Committed With A Deadly Weapon-Felony",
+   "more": 1,
+   "ts": 1793778442,
+   "photo": "photos/VAN_ORR_DEVERY_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_SWIFT_TIMOTHY_2026-11-04",
+   "name": "Timothy Swift",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 2,
+   "ts": 1793778439,
+   "photo": "photos/ALL_SWIFT_TIMOTHY_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_BLACK_RANIYAH_2026-11-04",
+   "name": "Raniyah Black",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1793778435,
+   "photo": "photos/ALL_BLACK_RANIYAH_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_ALEXANDER_LAQUANDRE_2026-11-04",
+   "name": "Laquandre Alexander",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1793778431,
+   "photo": "photos/ALL_ALEXANDER_LAQUANDRE_2026-11-04.jpg"
+  },
   {
    "key": "VAN_STCLAIR_BRENT_2026-11-03",
    "name": "Brent William St Clair",
@@ -431,28 +519,6 @@
    "photo": "photos/VAN_VANWINKLE_MARK_2026-11-02.jpg"
   },
   {
-   "key": "VAN_ELDRIDGE_ROWLAND_2026-11-02",
-   "name": "Rowland Patrick Eldridge",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793738848,
-   "photo": "photos/VAN_ELDRIDGE_ROWLAND_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_DORRIS_MICHAEL_2026-11-03",
-   "name": "Michael Anthony Dorris",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Child Support - Writ Of Attachment",
-   "more": 0,
-   "ts": 1793738847,
-   "photo": "photos/VAN_DORRIS_MICHAEL_2026-11-03.jpg"
-  },
-  {
    "key": "ALL_FIELDS_JOHN_2026-11-03",
    "name": "John Fields",
    "age": "",
@@ -462,75 +528,97 @@
    "more": 3,
    "ts": 1793738842,
    "photo": "photos/ALL_FIELDS_JOHN_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_DUNNING_ENNIS_2026-11-03",
-   "name": "Ennis Dunning",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery Enhanced With Previous Unrelated Conviction(S)",
-   "more": 1,
-   "ts": 1793738838,
-   "photo": "photos/ALL_DUNNING_ENNIS_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_CROSKEY_ROBERT_2026-11-03",
-   "name": "Robert Croskey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793738834,
-   "photo": "photos/ALL_CROSKEY_ROBERT_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_WILLS_GAVIN_2026-11-03",
-   "name": "Gavin Darnell Wills",
-   "age": "18",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793735362,
-   "photo": null
-  },
-  {
-   "key": "ALL_MOORE_KANDACE_2026-11-03",
-   "name": "Kandace Moore",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 1,
-   "ts": 1793735246,
-   "photo": "photos/ALL_MOORE_KANDACE_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_FRAZEE_LEE_2026-11-03",
-   "name": "Lee Frazee",
-   "age": "58",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Probation - Jail Booking",
-   "more": 0,
-   "ts": 1793731667,
-   "photo": "photos/MAD_FRAZEE_LEE_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_HAFNER_MICHAEL_2026-11-03",
-   "name": "Michael Gabriel Hafner",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Continuum Sanctions",
-   "more": 0,
-   "ts": 1793728081,
-   "photo": "photos/MAD_HAFNER_MICHAEL_2026-11-03.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_BIELECKI_ZACHARY_2026-11-04",
+   "name": "Zachary Scott Bielecki",
+   "age": "35",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1793778450,
+   "photo": "photos/POR_BIELECKI_ZACHARY_2026-11-04.jpg"
+  },
+  {
+   "key": "POR_ALKUHALI_SAMIRA_2026-11-04",
+   "name": "Samira Tawfik Alkuhali",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1793778449,
+   "photo": null
+  },
+  {
+   "key": "POR_BISCHOFFPARTON_RAYMON_2026-11-04",
+   "name": "Raymon Jacob Bischoff-Parton",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
+   "more": 4,
+   "ts": 1793778446,
+   "photo": null
+  },
+  {
+   "key": "VAN_LOWRY_KENNETH_2026-11-04",
+   "name": "Kenneth Eugene Lowry",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery-Committed With A Deadly Weapon-Felony",
+   "more": 1,
+   "ts": 1793778443,
+   "photo": "photos/VAN_LOWRY_KENNETH_2026-11-04.jpg"
+  },
+  {
+   "key": "VAN_ORR_DEVERY_2026-11-04",
+   "name": "Devery Lee Orr",
+   "age": "64",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery-Committed With A Deadly Weapon-Felony",
+   "more": 1,
+   "ts": 1793778442,
+   "photo": "photos/VAN_ORR_DEVERY_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_SWIFT_TIMOTHY_2026-11-04",
+   "name": "Timothy Swift",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 2,
+   "ts": 1793778439,
+   "photo": "photos/ALL_SWIFT_TIMOTHY_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_BLACK_RANIYAH_2026-11-04",
+   "name": "Raniyah Black",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1793778435,
+   "photo": "photos/ALL_BLACK_RANIYAH_2026-11-04.jpg"
+  },
+  {
+   "key": "ALL_ALEXANDER_LAQUANDRE_2026-11-04",
+   "name": "Laquandre Alexander",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1793778431,
+   "photo": "photos/ALL_ALEXANDER_LAQUANDRE_2026-11-04.jpg"
+  },
   {
    "key": "VAN_STCLAIR_BRENT_2026-11-03",
    "name": "Brent William St Clair",
@@ -2785,17 +2873,6 @@
    "more": 0,
    "ts": 1793519319,
    "photo": "photos/MAD_STANSBERRY_DARRELL_2026-11-01.jpg"
-  },
-  {
-   "key": "POR_NEVINS_AVA_2026-11-01",
-   "name": "Ava M Nevins",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Minor Consume An Alcoholic Beverage",
-   "more": 0,
-   "ts": 1793519232,
-   "photo": null
   }
  ]
 }
