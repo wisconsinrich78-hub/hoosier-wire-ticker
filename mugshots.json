@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T05:47:56+00:00",
+ "updated": "2026-11-04T05:56:08+00:00",
  "items": [
   {
    "key": "POR_GAWNE_TAMMY_2026-11-03",
@@ -2818,28 +2818,6 @@
    "more": 0,
    "ts": 1793515630,
    "photo": "photos/ALL_CLAUSS_NASHAUN_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_RICHARD_BRANDY_2026-11-01",
-   "name": "Brandy L Richard",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Obstruction of justice",
-   "more": 2,
-   "ts": 1793512109,
-   "photo": "photos/MAD_RICHARD_BRANDY_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_LEWIS_MARCUS_2026-11-01",
-   "name": "Marcus Eugene Lewis",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793512077,
-   "photo": "photos/MAD_LEWIS_MARCUS_2026-11-01.jpg"
   }
  ]
 }
