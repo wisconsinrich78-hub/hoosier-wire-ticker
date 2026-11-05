@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-05T16:47:45+00:00",
+ "updated": "2026-11-05T17:47:28+00:00",
  "items": [
+  {
+   "key": "MAD_SPEARS_DANIEL_2026-11-05",
+   "name": "Daniel Wayne Spears",
+   "age": "58",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession paraphernalia",
+   "more": 1,
+   "ts": 1793900839,
+   "photo": null
+  },
+  {
+   "key": "MAD_POTTSCHMIDT_REED_2026-11-05",
+   "name": "Reed Evan Pottschmidt",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793900838,
+   "photo": null
+  },
+  {
+   "key": "MAD_LONDON_CHRISTINA_2026-11-05",
+   "name": "Christina Nicole London",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession paraphernalia",
+   "more": 3,
+   "ts": 1793900837,
+   "photo": "photos/MAD_LONDON_CHRISTINA_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_HAHN_CRAIG_2026-11-05",
+   "name": "Craig Mendel Hahn",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793900831,
+   "photo": "photos/VAN_HAHN_CRAIG_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_SISK_KATIE_2026-11-05",
+   "name": "Katie Anne Sisk",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793900830,
+   "photo": "photos/VAN_SISK_KATIE_2026-11-05.jpg"
+  },
   {
    "key": "ALL_HODGES_CHRISTOPHER_2026-11-05",
    "name": "Christopher Hodges",
@@ -473,64 +528,64 @@
    "more": 1,
    "ts": 1793825262,
    "photo": "photos/MAD_WHITNEY_NICKOLAS_2026-11-04.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "POR_NICHOLAS_MICHAEL_2026-11-04",
-   "name": "Michael Robert Nicholas",
-   "age": "51",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Arson",
+   "key": "MAD_SPEARS_DANIEL_2026-11-05",
+   "name": "Daniel Wayne Spears",
+   "age": "58",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession paraphernalia",
    "more": 1,
-   "ts": 1793825246,
-   "photo": "photos/POR_NICHOLAS_MICHAEL_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_LUCKETT_SAVON_2026-11-04",
-   "name": "Savon Delmar Luckett",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement 2 Priors/Creates Substanial Risk",
-   "more": 1,
-   "ts": 1793825241,
-   "photo": "photos/VAN_LUCKETT_SAVON_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_SINCLAIR_BLAKE_2026-11-04",
-   "name": "Blake Andrew Sinclair",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Auto Theft - Where Intent Is To Deprive Owner Of Value Or",
-   "more": 0,
-   "ts": 1793821641,
+   "ts": 1793900839,
    "photo": null
   },
   {
-   "key": "VAN_KIMPLING_PHILIP_2026-11-04",
-   "name": "Philip James Kimpling",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Rape - Intercourse",
+   "key": "MAD_POTTSCHMIDT_REED_2026-11-05",
+   "name": "Reed Evan Pottschmidt",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
    "more": 0,
-   "ts": 1793818035,
-   "photo": "photos/VAN_KIMPLING_PHILIP_2026-11-04.jpg"
+   "ts": 1793900838,
+   "photo": null
   },
   {
-   "key": "VAN_GARDNER_TODD_2026-11-04",
-   "name": "Todd Dustin Gardner",
-   "age": "30",
+   "key": "MAD_LONDON_CHRISTINA_2026-11-05",
+   "name": "Christina Nicole London",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession paraphernalia",
+   "more": 3,
+   "ts": 1793900837,
+   "photo": "photos/MAD_LONDON_CHRISTINA_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_HAHN_CRAIG_2026-11-05",
+   "name": "Craig Mendel Hahn",
+   "age": "42",
    "county": "Vanderburgh County",
    "region": "south",
    "charge": "Petition To Revoke Probation",
    "more": 0,
-   "ts": 1793818034,
-   "photo": "photos/VAN_GARDNER_TODD_2026-11-04.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1793900831,
+   "photo": "photos/VAN_HAHN_CRAIG_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_SISK_KATIE_2026-11-05",
+   "name": "Katie Anne Sisk",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793900830,
+   "photo": "photos/VAN_SISK_KATIE_2026-11-05.jpg"
+  },
   {
    "key": "ALL_HODGES_CHRISTOPHER_2026-11-05",
    "name": "Christopher Hodges",
@@ -2785,72 +2840,6 @@
    "more": 0,
    "ts": 1793641752,
    "photo": "photos/MAD_TROUT_ANDREW_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_CORNEJO_LUCIA_2026-11-02",
-   "name": "Lucia Grace Cornejo",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1793641647,
-   "photo": "photos/POR_CORNEJO_LUCIA_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_LIONE_RACHEL_2026-11-02",
-   "name": "Rachel Anne Lione",
-   "age": "45",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Unlisted/ Unknown Charge",
-   "more": 0,
-   "ts": 1793641646,
-   "photo": "photos/POR_LIONE_RACHEL_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_RHINEFIELD_KELSEY_2026-11-02",
-   "name": "Kelsey Nicole Rhinefield",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Unlisted/ Unknown Charge",
-   "more": 2,
-   "ts": 1793641643,
-   "photo": "photos/POR_RHINEFIELD_KELSEY_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_HIGGINBOTHAM_GARY_2026-11-02",
-   "name": "Gary Lee Higginbotham",
-   "age": "66",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 3,
-   "ts": 1793641641,
-   "photo": "photos/VAN_HIGGINBOTHAM_GARY_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_DANIELS_ANTWION_2026-11-02",
-   "name": "Antwion Demarco Daniels",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793641638,
-   "photo": null
-  },
-  {
-   "key": "ALL_LEE_JASMINE_2026-11-02",
-   "name": "Jasmine Lee",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1793641637,
-   "photo": "photos/ALL_LEE_JASMINE_2026-11-02.jpg"
   }
  ]
 }
