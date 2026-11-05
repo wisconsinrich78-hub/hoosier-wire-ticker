@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T01:47:35+00:00",
+ "updated": "2026-11-05T01:49:40+00:00",
  "items": [
   {
    "key": "VAN_STRONG_SAVANNAH_2026-11-04",
@@ -2862,17 +2862,6 @@
    "more": 0,
    "ts": 1793587637,
    "photo": "photos/ALL_RODRIGUEZ_JOSE_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_RANDLE_MICHAEL_2026-11-01",
-   "name": "Michael De-Mone Randle",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery-deadly weapon",
-   "more": 3,
-   "ts": 1793584128,
-   "photo": "photos/MAD_RANDLE_MICHAEL_2026-11-01.jpg"
   }
  ]
 }
