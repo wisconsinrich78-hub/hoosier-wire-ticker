@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T03:47:30+00:00",
+ "updated": "2026-11-05T03:49:44+00:00",
  "items": [
   {
    "key": "POR_PAWLUS_BRIAN_2026-11-04",
@@ -2829,28 +2829,6 @@
    "more": 1,
    "ts": 1793594831,
    "photo": "photos/ALL_MACKIN_PAUL_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_RUBLE_BYRON_2026-11-01",
-   "name": "Byron Thaddeus Ruble",
-   "age": "55",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793591343,
-   "photo": "photos/MAD_RUBLE_BYRON_2026-11-01.jpg"
-  },
-  {
-   "key": "MAD_DUNHAM_DAVID_2026-11-01",
-   "name": "David Ernest Dunham",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1793591272,
-   "photo": "photos/MAD_DUNHAM_DAVID_2026-11-01.jpg"
   }
  ]
 }
