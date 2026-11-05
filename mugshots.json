@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T15:50:15+00:00",
+ "updated": "2026-11-05T16:47:45+00:00",
  "items": [
+  {
+   "key": "ALL_HODGES_CHRISTOPHER_2026-11-05",
+   "name": "Christopher Hodges",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1793897245,
+   "photo": "photos/ALL_HODGES_CHRISTOPHER_2026-11-05.jpg"
+  },
+  {
+   "key": "POR_LIDDELL_HERSCHEL_2026-11-05",
+   "name": "Herschel Josiah Liddell",
+   "age": "31",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793897242,
+   "photo": "photos/POR_LIDDELL_HERSCHEL_2026-11-05.jpg"
+  },
   {
    "key": "MAD_MORELAND_DUSTIN_2026-11-05",
    "name": "Dustin Wayne Moreland",
@@ -442,17 +464,6 @@
    "photo": "photos/ALL_MADDOX_NATHAN_2026-11-04.jpg"
   },
   {
-   "key": "ALL_FOWLKES_HEAVEN_2026-11-04",
-   "name": "Heaven Fowlkes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
-   "more": 0,
-   "ts": 1793832429,
-   "photo": "photos/ALL_FOWLKES_HEAVEN_2026-11-04.jpg"
-  },
-  {
    "key": "MAD_WHITNEY_NICKOLAS_2026-11-04",
    "name": "Nickolas Ryan Whitney",
    "age": "24",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1793818034,
    "photo": "photos/VAN_GARDNER_TODD_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_PORTER_AMANDA_2026-11-04",
-   "name": "Amanda Ann Porter",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793818031,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_HODGES_CHRISTOPHER_2026-11-05",
+   "name": "Christopher Hodges",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1793897245,
+   "photo": "photos/ALL_HODGES_CHRISTOPHER_2026-11-05.jpg"
+  },
+  {
+   "key": "POR_LIDDELL_HERSCHEL_2026-11-05",
+   "name": "Herschel Josiah Liddell",
+   "age": "31",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1793897242,
+   "photo": "photos/POR_LIDDELL_HERSCHEL_2026-11-05.jpg"
+  },
   {
    "key": "MAD_MORELAND_DUSTIN_2026-11-05",
    "name": "Dustin Wayne Moreland",
@@ -2829,17 +2851,6 @@
    "more": 0,
    "ts": 1793641637,
    "photo": "photos/ALL_LEE_JASMINE_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_MEREDITH_MELISSA_2026-11-02",
-   "name": "Melissa Dawn Meredith",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1793638029,
-   "photo": "photos/VAN_MEREDITH_MELISSA_2026-11-02.jpg"
   }
  ]
 }
