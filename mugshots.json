@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T11:47:28+00:00",
+ "updated": "2026-11-05T13:47:37+00:00",
  "items": [
+  {
+   "key": "ALL_THOMAS_XAVIER_2026-11-05",
+   "name": "Xavier Thomas",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia",
+   "more": 1,
+   "ts": 1793886438,
+   "photo": "photos/ALL_THOMAS_XAVIER_2026-11-05.jpg"
+  },
   {
    "key": "POR_REYES_JESSE_2026-11-05",
    "name": "Jesse Tomas Reyes",
@@ -409,17 +420,6 @@
    "photo": "photos/ALL_FOWLKES_HEAVEN_2026-11-04.jpg"
   },
   {
-   "key": "ALL_PARMENTER_GAVIN_2026-11-04",
-   "name": "Gavin Parmenter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793828853,
-   "photo": "photos/ALL_PARMENTER_GAVIN_2026-11-04.jpg"
-  },
-  {
    "key": "MAD_WHITNEY_NICKOLAS_2026-11-04",
    "name": "Nickolas Ryan Whitney",
    "age": "24",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_THOMAS_XAVIER_2026-11-05",
+   "name": "Xavier Thomas",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia",
+   "more": 1,
+   "ts": 1793886438,
+   "photo": "photos/ALL_THOMAS_XAVIER_2026-11-05.jpg"
+  },
   {
    "key": "POR_REYES_JESSE_2026-11-05",
    "name": "Jesse Tomas Reyes",
@@ -2840,17 +2851,6 @@
    "more": 0,
    "ts": 1793630957,
    "photo": "photos/MAD_WILBURN_MELINA_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_COLLINS_RONALD_2026-11-02",
-   "name": "Ronald Collins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 2,
-   "ts": 1793627232,
-   "photo": "photos/ALL_COLLINS_RONALD_2026-11-02.jpg"
   }
  ]
 }
