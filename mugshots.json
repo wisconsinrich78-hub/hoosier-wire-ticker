@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-05T00:47:37+00:00",
+ "updated": "2026-11-05T01:47:35+00:00",
  "items": [
+  {
+   "key": "VAN_STRONG_SAVANNAH_2026-11-04",
+   "name": "Savannah Marie Strong",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1793843231,
+   "photo": "photos/VAN_STRONG_SAVANNAH_2026-11-04.jpg"
+  },
+  {
+   "key": "POR_TUPPERSZESNY_LORI_2026-11-04",
+   "name": "Lori J Tupper-Szesny",
+   "age": "62",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
+   "more": 2,
+   "ts": 1793843230,
+   "photo": "photos/POR_TUPPERSZESNY_LORI_2026-11-04.jpg"
+  },
   {
    "key": "VAN_RUSSELL_BROOKLYN_2026-11-04",
    "name": "Brooklyn Ryan Russell",
@@ -506,31 +528,31 @@
    "more": 3,
    "ts": 1793771255,
    "photo": null
-  },
-  {
-   "key": "VAN_PEARCE_CRAIG_2026-11-03",
-   "name": "Craig Michael Pearce",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 1,
-   "ts": 1793771252,
-   "photo": "photos/VAN_PEARCE_CRAIG_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_VAZQUEZDIAZ_MISAEL_2026-11-03",
-   "name": "Misael R Vazquez-Diaz",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operator Never Licensed",
-   "more": 1,
-   "ts": 1793767659,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_STRONG_SAVANNAH_2026-11-04",
+   "name": "Savannah Marie Strong",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1793843231,
+   "photo": "photos/VAN_STRONG_SAVANNAH_2026-11-04.jpg"
+  },
+  {
+   "key": "POR_TUPPERSZESNY_LORI_2026-11-04",
+   "name": "Lori J Tupper-Szesny",
+   "age": "62",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
+   "more": 2,
+   "ts": 1793843230,
+   "photo": "photos/POR_TUPPERSZESNY_LORI_2026-11-04.jpg"
+  },
   {
    "key": "VAN_RUSSELL_BROOKLYN_2026-11-04",
    "name": "Brooklyn Ryan Russell",
@@ -2851,39 +2873,6 @@
    "more": 3,
    "ts": 1793584128,
    "photo": "photos/MAD_RANDLE_MICHAEL_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_SHUCK_MORGAN_2026-11-01",
-   "name": "Morgan Morgan Shuck",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/",
-   "more": 1,
-   "ts": 1793584037,
-   "photo": null
-  },
-  {
-   "key": "ALL_JENKINS_RICHARD_2026-11-01",
-   "name": "Richard Jenkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Fleeing",
-   "more": 0,
-   "ts": 1793584035,
-   "photo": "photos/ALL_JENKINS_RICHARD_2026-11-01.jpg"
-  },
-  {
-   "key": "ALL_ARNETT_RIKIA_2026-11-01",
-   "name": "Rikia Arnett",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1793584031,
-   "photo": "photos/ALL_ARNETT_RIKIA_2026-11-01.jpg"
   }
  ]
 }
