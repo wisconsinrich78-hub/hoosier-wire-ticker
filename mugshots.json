@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T05:47:21+00:00",
+ "updated": "2026-11-05T05:49:35+00:00",
  "items": [
   {
    "key": "ALL_HERD_CORBIN_2026-11-04",
@@ -2818,17 +2818,6 @@
    "more": 0,
    "ts": 1793602033,
    "photo": "photos/ALL_RANGEL_IVAN_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_RENTERIA_MARISSA_2026-11-01",
-   "name": "Marissa Renteria",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Strangulation Simple No Or Minor Injury",
-   "more": 1,
-   "ts": 1793598442,
-   "photo": "photos/ALL_RENTERIA_MARISSA_2026-11-01.jpg"
   }
  ]
 }
