@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-05T19:47:38+00:00",
+ "updated": "2026-11-05T20:47:44+00:00",
  "items": [
+  {
+   "key": "VAN_GUTIERREZ_KATHERYN_2026-11-05",
+   "name": "Katheryn Terese Gutierrez",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793911643,
+   "photo": "photos/VAN_GUTIERREZ_KATHERYN_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_STEWART_JONATHAN_2026-11-05",
+   "name": "Jonathan David Stewart",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1793911641,
+   "photo": null
+  },
+  {
+   "key": "ALL_WILCOXON_DENISE_2026-11-05",
+   "name": "Denise Wilcoxon",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Burglary - Dwelling",
+   "more": 0,
+   "ts": 1793911640,
+   "photo": "photos/ALL_WILCOXON_DENISE_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_CHILCOTE_DAVID_2026-11-05",
+   "name": "David Chilcote",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Habitual Traffic Violator",
+   "more": 3,
+   "ts": 1793911636,
+   "photo": "photos/ALL_CHILCOTE_DAVID_2026-11-05.jpg"
+  },
   {
    "key": "MAD_WEILEMAN_CHAD_2026-11-05",
    "name": "Chad Allen Weileman",
@@ -475,17 +519,6 @@
    "photo": "photos/ALL_ANDERSON_ZACHARY_2026-11-05.jpg"
   },
   {
-   "key": "ALL_HERD_CORBIN_2026-11-04",
-   "name": "Corbin Herd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793857629,
-   "photo": "photos/ALL_HERD_CORBIN_2026-11-04.jpg"
-  },
-  {
    "key": "MAD_POWERS_MAVERICK_2026-11-04",
    "name": "Maverick Weston Powers",
    "age": "20",
@@ -495,42 +528,53 @@
    "more": 0,
    "ts": 1793854035,
    "photo": "photos/MAD_POWERS_MAVERICK_2026-11-04.jpg"
-  },
-  {
-   "key": "MAD_LAMB_JACOB_2026-11-04",
-   "name": "Jacob Michael Lamb",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated",
-   "more": 1,
-   "ts": 1793854034,
-   "photo": null
-  },
-  {
-   "key": "MAD_DUNCAN_NEILL_2026-11-04",
-   "name": "Neill Stuart Duncan",
-   "age": "69",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for 10 day Probation Violation - Jail Booking",
-   "more": 1,
-   "ts": 1793854031,
-   "photo": "photos/MAD_DUNCAN_NEILL_2026-11-04.jpg"
-  },
-  {
-   "key": "POR_PAWLUS_BRIAN_2026-11-04",
-   "name": "Brian Pawlus",
-   "age": "57",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
-   "more": 2,
-   "ts": 1793850436,
-   "photo": "photos/POR_PAWLUS_BRIAN_2026-11-04.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_GUTIERREZ_KATHERYN_2026-11-05",
+   "name": "Katheryn Terese Gutierrez",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793911643,
+   "photo": "photos/VAN_GUTIERREZ_KATHERYN_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_STEWART_JONATHAN_2026-11-05",
+   "name": "Jonathan David Stewart",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1793911641,
+   "photo": null
+  },
+  {
+   "key": "ALL_WILCOXON_DENISE_2026-11-05",
+   "name": "Denise Wilcoxon",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Burglary - Dwelling",
+   "more": 0,
+   "ts": 1793911640,
+   "photo": "photos/ALL_WILCOXON_DENISE_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_CHILCOTE_DAVID_2026-11-05",
+   "name": "David Chilcote",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Habitual Traffic Violator",
+   "more": 3,
+   "ts": 1793911636,
+   "photo": "photos/ALL_CHILCOTE_DAVID_2026-11-05.jpg"
+  },
   {
    "key": "MAD_WEILEMAN_CHAD_2026-11-05",
    "name": "Chad Allen Weileman",
@@ -2785,61 +2829,6 @@
    "more": 0,
    "ts": 1793656043,
    "photo": "photos/ALL_STACY_BRITANY_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_MCMILLEN_AARON_2026-11-02",
-   "name": "Aaron Michael Mcmillen",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793652455,
-   "photo": "photos/VAN_MCMILLEN_AARON_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_MATHIS_ANDREW_2026-11-02",
-   "name": "Andrew Lee Mathis",
-   "age": "52",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793652452,
-   "photo": null
-  },
-  {
-   "key": "VAN_COOK_DEONTAY_2026-11-02",
-   "name": "Deontay Jerome Cook",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1793652452,
-   "photo": null
-  },
-  {
-   "key": "ALL_PESINA_ESPERANZA_2026-11-02",
-   "name": "Esperanza Pesina",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793652451,
-   "photo": "photos/ALL_PESINA_ESPERANZA_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_DEREMER_DUSTIN_2026-11-02",
-   "name": "Dustin Deremer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 3,
-   "ts": 1793652446,
-   "photo": "photos/ALL_DEREMER_DUSTIN_2026-11-02.jpg"
   }
  ]
 }
