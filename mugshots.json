@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:47:28+00:00",
+ "updated": "2026-11-05T18:16:10+00:00",
  "items": [
   {
    "key": "MAD_SPEARS_DANIEL_2026-11-05",
@@ -2818,28 +2818,6 @@
    "more": 0,
    "ts": 1793645234,
    "photo": "photos/ALL_BEAUCHEMIN_DYLAN_2026-11-02.jpg"
-  },
-  {
-   "key": "MAD_WATSON_TYQUAN_2026-11-02",
-   "name": "Ty'Quan Raymon Watson",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793641756,
-   "photo": "photos/MAD_WATSON_TYQUAN_2026-11-02.jpg"
-  },
-  {
-   "key": "MAD_TROUT_ANDREW_2026-11-02",
-   "name": "Andrew R Trout",
-   "age": "66",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793641752,
-   "photo": "photos/MAD_TROUT_ANDREW_2026-11-02.jpg"
   }
  ]
 }
