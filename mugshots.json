@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:48:00+00:00",
+ "updated": "2026-11-05T07:42:48+00:00",
  "items": [
   {
    "key": "POR_TARPLEY_WALTER_2026-11-04",
@@ -2818,17 +2818,6 @@
    "more": 0,
    "ts": 1793605635,
    "photo": "photos/ALL_BRIGHT_LOUIS_2026-11-02.jpg"
-  },
-  {
-   "key": "MAD_GREGG_MERCEDES_2026-11-02",
-   "name": "Mercedes Elizabeth Gregg",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Intimidation w/ Deadly Weapon",
-   "more": 1,
-   "ts": 1793602081,
-   "photo": "photos/MAD_GREGG_MERCEDES_2026-11-02.jpg"
   }
  ]
 }
