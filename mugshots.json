@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T14:48:04+00:00",
+ "updated": "2026-11-05T15:50:15+00:00",
  "items": [
+  {
+   "key": "MAD_MORELAND_DUSTIN_2026-11-05",
+   "name": "Dustin Wayne Moreland",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for 10 day Probation Violation - Jail Booking",
+   "more": 1,
+   "ts": 1793893689,
+   "photo": "photos/MAD_MORELAND_DUSTIN_2026-11-05.jpg"
+  },
   {
    "key": "POR_RICE_DAVID_2026-11-05",
    "name": "David Dean Rice",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1793818031,
    "photo": null
-  },
-  {
-   "key": "MAD_WILSON_JESSICA_2026-11-04",
-   "name": "Jessica Dawn Wilson",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793814456,
-   "photo": "photos/MAD_WILSON_JESSICA_2026-11-04.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_MORELAND_DUSTIN_2026-11-05",
+   "name": "Dustin Wayne Moreland",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for 10 day Probation Violation - Jail Booking",
+   "more": 1,
+   "ts": 1793893689,
+   "photo": "photos/MAD_MORELAND_DUSTIN_2026-11-05.jpg"
+  },
   {
    "key": "POR_RICE_DAVID_2026-11-05",
    "name": "David Dean Rice",
@@ -2829,50 +2840,6 @@
    "more": 0,
    "ts": 1793638029,
    "photo": "photos/VAN_MEREDITH_MELISSA_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_REDMOND_MICHAEL_2026-11-02",
-   "name": "Michael Lamont Redmond",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
-   "more": 0,
-   "ts": 1793634437,
-   "photo": "photos/POR_REDMOND_MICHAEL_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_LEWANDOWSKI_THOMAS_2026-11-02",
-   "name": "Thomas Jesse Lewandowski",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793634435,
-   "photo": "photos/POR_LEWANDOWSKI_THOMAS_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_GORDON_KESHON_2026-11-02",
-   "name": "Keshon Gordon",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail To Register - Prior",
-   "more": 2,
-   "ts": 1793634431,
-   "photo": "photos/ALL_GORDON_KESHON_2026-11-02.jpg"
-  },
-  {
-   "key": "MAD_WILBURN_MELINA_2026-11-02",
-   "name": "Melina Ann Wilburn",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793630957,
-   "photo": "photos/MAD_WILBURN_MELINA_2026-11-02.jpg"
   }
  ]
 }
