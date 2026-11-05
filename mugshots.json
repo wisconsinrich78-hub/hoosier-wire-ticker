@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T10:47:22+00:00",
+ "updated": "2026-11-05T11:47:28+00:00",
  "items": [
+  {
+   "key": "POR_REYES_JESSE_2026-11-05",
+   "name": "Jesse Tomas Reyes",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 1,
+   "ts": 1793879234,
+   "photo": "photos/POR_REYES_JESSE_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_ADAM_VICTORIA_2026-11-05",
+   "name": "Victoria Irene Adam",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 5,
+   "ts": 1793879231,
+   "photo": null
+  },
+  {
+   "key": "ALL_JONES_TORY_2026-11-05",
+   "name": "Tory Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793879230,
+   "photo": "photos/ALL_JONES_TORY_2026-11-05.jpg"
+  },
   {
    "key": "POR_PATTON_SIDNEY_2026-11-05",
    "name": "Sidney Courteney Patton",
@@ -387,17 +420,6 @@
    "photo": "photos/ALL_PARMENTER_GAVIN_2026-11-04.jpg"
   },
   {
-   "key": "ALL_HESS_SHANTELL_2026-11-04",
-   "name": "Shantell Hess",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 1,
-   "ts": 1793828849,
-   "photo": "photos/ALL_HESS_SHANTELL_2026-11-04.jpg"
-  },
-  {
    "key": "MAD_WHITNEY_NICKOLAS_2026-11-04",
    "name": "Nickolas Ryan Whitney",
    "age": "24",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1793810831,
    "photo": null
-  },
-  {
-   "key": "MAD_WILLS_RICKIA_2026-11-04",
-   "name": "Rickia Mary Louise Wills",
-   "age": "23",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Theft- all other larceny - value of property at least $750 and less th",
-   "more": 1,
-   "ts": 1793807251,
-   "photo": null
-  },
-  {
-   "key": "MAD_PIERCE_CLIFFORD_2026-11-04",
-   "name": "Clifford Manis Third Pierce",
-   "age": "51",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793807245,
-   "photo": "photos/MAD_PIERCE_CLIFFORD_2026-11-04.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_REYES_JESSE_2026-11-05",
+   "name": "Jesse Tomas Reyes",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 1,
+   "ts": 1793879234,
+   "photo": "photos/POR_REYES_JESSE_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_ADAM_VICTORIA_2026-11-05",
+   "name": "Victoria Irene Adam",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 5,
+   "ts": 1793879231,
+   "photo": null
+  },
+  {
+   "key": "ALL_JONES_TORY_2026-11-05",
+   "name": "Tory Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793879230,
+   "photo": "photos/ALL_JONES_TORY_2026-11-05.jpg"
+  },
   {
    "key": "POR_PATTON_SIDNEY_2026-11-05",
    "name": "Sidney Courteney Patton",
