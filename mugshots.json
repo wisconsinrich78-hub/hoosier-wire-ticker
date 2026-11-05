@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-05T22:47:38+00:00",
+ "updated": "2026-11-05T23:47:40+00:00",
  "items": [
+  {
+   "key": "MAD_WILLHOITE_TAYLOR_2026-11-05",
+   "name": "Taylor Marie Willhoite",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 2,
+   "ts": 1793922454,
+   "photo": "photos/MAD_WILLHOITE_TAYLOR_2026-11-05.jpg"
+  },
+  {
+   "key": "POR_JONES_DOMINIQUE_2026-11-05",
+   "name": "Dominique Jones",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793922445,
+   "photo": null
+  },
+  {
+   "key": "VAN_ELOI_PROFAITE_2026-11-05",
+   "name": "Profaite Nmn Eloi",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793922442,
+   "photo": "photos/VAN_ELOI_PROFAITE_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_FLEEGER_DANIEL_2026-11-05",
+   "name": "Daniel Edward Fleeger",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1793922442,
+   "photo": "photos/VAN_FLEEGER_DANIEL_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_ROSENKOETTER_DAVID_2026-11-05",
+   "name": "David Rosenkoetter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 1,
+   "ts": 1793922438,
+   "photo": "photos/ALL_ROSENKOETTER_DAVID_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_LEE_VINCENT_2026-11-05",
+   "name": "Vincent Lee",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1793922433,
+   "photo": "photos/ALL_LEE_VINCENT_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_BOLEN_MACHAELA_2026-11-05",
+   "name": "Machaela Bolen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793922429,
+   "photo": "photos/ALL_BOLEN_MACHAELA_2026-11-05.jpg"
+  },
   {
    "key": "VAN_THAXTON_ISAIAH_2026-11-05",
    "name": "Isaiah Anthony Thaxton",
@@ -255,17 +332,6 @@
    "photo": "photos/VAN_STEIN_CHRISTOPHER_2026-11-05.jpg"
   },
   {
-   "key": "VAN_HEROY_LOGAN_2026-11-05",
-   "name": "Logan Matthew Heroy",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1793904447,
-   "photo": "photos/VAN_HEROY_LOGAN_2026-11-05.jpg"
-  },
-  {
    "key": "ALL_WALKER_LATONDRA_2026-11-05",
    "name": "Latondra Walker",
    "age": "",
@@ -308,17 +374,6 @@
    "more": 3,
    "ts": 1793900837,
    "photo": "photos/MAD_LONDON_CHRISTINA_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_HAHN_CRAIG_2026-11-05",
-   "name": "Craig Mendel Hahn",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793900831,
-   "photo": "photos/VAN_HAHN_CRAIG_2026-11-05.jpg"
   },
   {
    "key": "ALL_HODGES_CHRISTOPHER_2026-11-05",
@@ -473,64 +528,86 @@
    "more": 2,
    "ts": 1793868445,
    "photo": "photos/POR_JOHNSON_ISAIAH_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_ERIC_2026-11-05",
-   "name": "Eric Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1793868437,
-   "photo": "photos/ALL_WILLIAMS_ERIC_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_DENNIS_CHRISTOPHER_2026-11-05",
-   "name": "Christopher Dennis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1793868433,
-   "photo": "photos/ALL_DENNIS_CHRISTOPHER_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_JONES_JEREMY_2026-11-05",
-   "name": "Jeremy Josiah Jones",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 1,
-   "ts": 1793864836,
-   "photo": "photos/POR_JONES_JEREMY_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_ALI_FNU_2026-11-05",
-   "name": "Fnu Ali",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793864831,
-   "photo": "photos/ALL_ALI_FNU_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_TARPLEY_WALTER_2026-11-04",
-   "name": "Walter Allen Tarpley",
-   "age": "49",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1793861253,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WILLHOITE_TAYLOR_2026-11-05",
+   "name": "Taylor Marie Willhoite",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 2,
+   "ts": 1793922454,
+   "photo": "photos/MAD_WILLHOITE_TAYLOR_2026-11-05.jpg"
+  },
+  {
+   "key": "POR_JONES_DOMINIQUE_2026-11-05",
+   "name": "Dominique Jones",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1793922445,
+   "photo": null
+  },
+  {
+   "key": "VAN_ELOI_PROFAITE_2026-11-05",
+   "name": "Profaite Nmn Eloi",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793922442,
+   "photo": "photos/VAN_ELOI_PROFAITE_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_FLEEGER_DANIEL_2026-11-05",
+   "name": "Daniel Edward Fleeger",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1793922442,
+   "photo": "photos/VAN_FLEEGER_DANIEL_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_ROSENKOETTER_DAVID_2026-11-05",
+   "name": "David Rosenkoetter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 1,
+   "ts": 1793922438,
+   "photo": "photos/ALL_ROSENKOETTER_DAVID_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_LEE_VINCENT_2026-11-05",
+   "name": "Vincent Lee",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1793922433,
+   "photo": "photos/ALL_LEE_VINCENT_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_BOLEN_MACHAELA_2026-11-05",
+   "name": "Machaela Bolen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1793922429,
+   "photo": "photos/ALL_BOLEN_MACHAELA_2026-11-05.jpg"
+  },
   {
    "key": "VAN_THAXTON_ISAIAH_2026-11-05",
    "name": "Isaiah Anthony Thaxton",
@@ -2873,17 +2950,6 @@
    "more": 1,
    "ts": 1793666868,
    "photo": null
-  },
-  {
-   "key": "VAN_BROOKS_JILL_2026-11-02",
-   "name": "Jill Amanda Brooks",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793663237,
-   "photo": "photos/VAN_BROOKS_JILL_2026-11-02.jpg"
   }
  ]
 }
