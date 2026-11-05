@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-05T20:47:44+00:00",
+ "updated": "2026-11-05T21:47:43+00:00",
  "items": [
+  {
+   "key": "MAD_HERNDON_GEORGE_2026-11-05",
+   "name": "George Charles Third Herndon",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793915246,
+   "photo": null
+  },
+  {
+   "key": "VAN_TEVAULT_ADAM_2026-11-05",
+   "name": "Adam John Tevault",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Child Support - Writ Of Attachment",
+   "more": 0,
+   "ts": 1793915235,
+   "photo": "photos/VAN_TEVAULT_ADAM_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_MILLER_BLAKE_2026-11-05",
+   "name": "Blake Anthony Miller",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793915235,
+   "photo": "photos/VAN_MILLER_BLAKE_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_CLARK_RODELL_2026-11-05",
+   "name": "Rodell Duane Devaughn Clark",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 2,
+   "ts": 1793915232,
+   "photo": null
+  },
   {
    "key": "VAN_GUTIERREZ_KATHERYN_2026-11-05",
    "name": "Katheryn Terese Gutierrez",
@@ -484,53 +528,53 @@
    "more": 0,
    "ts": 1793861249,
    "photo": null
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "ALL_WILKINS_ETHAN_2026-11-05",
-   "name": "Ethan Wilkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt Of Court-Civil",
-   "more": 0,
-   "ts": 1793861248,
-   "photo": "photos/ALL_WILKINS_ETHAN_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_TIPTON_BRITTANY_2026-11-05",
-   "name": "Brittany Tipton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1793861244,
-   "photo": "photos/ALL_TIPTON_BRITTANY_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_ANDERSON_ZACHARY_2026-11-05",
-   "name": "Zachary Anderson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 0,
-   "ts": 1793861239,
-   "photo": "photos/ALL_ANDERSON_ZACHARY_2026-11-05.jpg"
-  },
-  {
-   "key": "MAD_POWERS_MAVERICK_2026-11-04",
-   "name": "Maverick Weston Powers",
-   "age": "20",
+   "key": "MAD_HERNDON_GEORGE_2026-11-05",
+   "name": "George Charles Third Herndon",
+   "age": "56",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1793854035,
-   "photo": "photos/MAD_POWERS_MAVERICK_2026-11-04.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1793915246,
+   "photo": null
+  },
+  {
+   "key": "VAN_TEVAULT_ADAM_2026-11-05",
+   "name": "Adam John Tevault",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Child Support - Writ Of Attachment",
+   "more": 0,
+   "ts": 1793915235,
+   "photo": "photos/VAN_TEVAULT_ADAM_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_MILLER_BLAKE_2026-11-05",
+   "name": "Blake Anthony Miller",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793915235,
+   "photo": "photos/VAN_MILLER_BLAKE_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_CLARK_RODELL_2026-11-05",
+   "name": "Rodell Duane Devaughn Clark",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 2,
+   "ts": 1793915232,
+   "photo": null
+  },
   {
    "key": "VAN_GUTIERREZ_KATHERYN_2026-11-05",
    "name": "Katheryn Terese Gutierrez",
@@ -2796,39 +2840,6 @@
    "more": 0,
    "ts": 1793656128,
    "photo": "photos/MAD_NICCUM_SCOTT_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_PETERS_DYLAN_2026-11-02",
-   "name": "Dylan Andersen Peters",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793656045,
-   "photo": null
-  },
-  {
-   "key": "VAN_HAYHURST_STEPHEN_2026-11-02",
-   "name": "Stephen Eugene Hayhurst",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 2,
-   "ts": 1793656045,
-   "photo": null
-  },
-  {
-   "key": "ALL_STACY_BRITANY_2026-11-02",
-   "name": "Britany Stacy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793656043,
-   "photo": "photos/ALL_STACY_BRITANY_2026-11-02.jpg"
   }
  ]
 }
