@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-05T03:49:44+00:00",
+ "updated": "2026-11-05T04:47:28+00:00",
  "items": [
+  {
+   "key": "MAD_POWERS_MAVERICK_2026-11-04",
+   "name": "Maverick Weston Powers",
+   "age": "20",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793854035,
+   "photo": "photos/MAD_POWERS_MAVERICK_2026-11-04.jpg"
+  },
+  {
+   "key": "MAD_LAMB_JACOB_2026-11-04",
+   "name": "Jacob Michael Lamb",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated",
+   "more": 1,
+   "ts": 1793854034,
+   "photo": null
+  },
+  {
+   "key": "MAD_DUNCAN_NEILL_2026-11-04",
+   "name": "Neill Stuart Duncan",
+   "age": "69",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for 10 day Probation Violation - Jail Booking",
+   "more": 1,
+   "ts": 1793854031,
+   "photo": "photos/MAD_DUNCAN_NEILL_2026-11-04.jpg"
+  },
   {
    "key": "POR_PAWLUS_BRIAN_2026-11-04",
    "name": "Brian Pawlus",
@@ -495,42 +528,42 @@
    "more": 4,
    "ts": 1793778446,
    "photo": null
-  },
-  {
-   "key": "VAN_LOWRY_KENNETH_2026-11-04",
-   "name": "Kenneth Eugene Lowry",
-   "age": "58",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery-Committed With A Deadly Weapon-Felony",
-   "more": 1,
-   "ts": 1793778443,
-   "photo": "photos/VAN_LOWRY_KENNETH_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_ORR_DEVERY_2026-11-04",
-   "name": "Devery Lee Orr",
-   "age": "64",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery-Committed With A Deadly Weapon-Felony",
-   "more": 1,
-   "ts": 1793778442,
-   "photo": "photos/VAN_ORR_DEVERY_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_STCLAIR_BRENT_2026-11-03",
-   "name": "Brent William St Clair",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
-   "more": 1,
-   "ts": 1793774836,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_POWERS_MAVERICK_2026-11-04",
+   "name": "Maverick Weston Powers",
+   "age": "20",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793854035,
+   "photo": "photos/MAD_POWERS_MAVERICK_2026-11-04.jpg"
+  },
+  {
+   "key": "MAD_LAMB_JACOB_2026-11-04",
+   "name": "Jacob Michael Lamb",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated",
+   "more": 1,
+   "ts": 1793854034,
+   "photo": null
+  },
+  {
+   "key": "MAD_DUNCAN_NEILL_2026-11-04",
+   "name": "Neill Stuart Duncan",
+   "age": "69",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for 10 day Probation Violation - Jail Booking",
+   "more": 1,
+   "ts": 1793854031,
+   "photo": "photos/MAD_DUNCAN_NEILL_2026-11-04.jpg"
+  },
   {
    "key": "POR_PAWLUS_BRIAN_2026-11-04",
    "name": "Brian Pawlus",
@@ -2796,39 +2829,6 @@
    "more": 0,
    "ts": 1793598438,
    "photo": "photos/ALL_LAMB_ABIGAIL_2026-11-01.jpg"
-  },
-  {
-   "key": "VAN_RAMASWAMY_MARIA_2026-11-01",
-   "name": "Maria Gita Ramaswamy",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793594832,
-   "photo": null
-  },
-  {
-   "key": "VAN_AUBERRY_COREY_2026-11-01",
-   "name": "Corey Daniel Auberry",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation With A Deadly Weapon",
-   "more": 6,
-   "ts": 1793594832,
-   "photo": null
-  },
-  {
-   "key": "ALL_MACKIN_PAUL_2026-11-01",
-   "name": "Paul Mackin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1793594831,
-   "photo": "photos/ALL_MACKIN_PAUL_2026-11-01.jpg"
   }
  ]
 }
