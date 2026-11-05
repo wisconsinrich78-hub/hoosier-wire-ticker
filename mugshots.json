@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-05T18:47:45+00:00",
+ "updated": "2026-11-05T19:47:38+00:00",
  "items": [
+  {
+   "key": "MAD_WEILEMAN_CHAD_2026-11-05",
+   "name": "Chad Allen Weileman",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 4,
+   "ts": 1793908053,
+   "photo": "photos/MAD_WEILEMAN_CHAD_2026-11-05.jpg"
+  },
+  {
+   "key": "POR_NORMAN_JUSTIN_2026-11-05",
+   "name": "Justin Leroy Norman",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
+   "more": 4,
+   "ts": 1793908043,
+   "photo": "photos/POR_NORMAN_JUSTIN_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_LIGGETT_CHRISTOPHER_2026-11-05",
+   "name": "Christopher Michael Liggett",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1793908040,
+   "photo": "photos/VAN_LIGGETT_CHRISTOPHER_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_REDFIELD_JOSHUA_2026-11-05",
+   "name": "Joshua Steven Redfield",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 2,
+   "ts": 1793908040,
+   "photo": null
+  },
+  {
+   "key": "VAN_BELLAMY_TIFFANY_2026-11-05",
+   "name": "Tiffany Ann Bellamy",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1793908039,
+   "photo": "photos/VAN_BELLAMY_TIFFANY_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_SMITH_TYAIRAH_2026-11-05",
+   "name": "Tyairah Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793908035,
+   "photo": "photos/ALL_SMITH_TYAIRAH_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_BRATTON_ABIODUN_2026-11-05",
+   "name": "Abiodun Bratton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793908031,
+   "photo": "photos/ALL_BRATTON_ABIODUN_2026-11-05.jpg"
+  },
   {
    "key": "MAD_NORTON_JOSHUA_2026-11-05",
    "name": "Joshua Lee Norton",
@@ -451,86 +528,86 @@
    "more": 2,
    "ts": 1793850436,
    "photo": "photos/POR_PAWLUS_BRIAN_2026-11-04.jpg"
-  },
-  {
-   "key": "POR_HUDSON_COLE_2026-11-04",
-   "name": "Cole Thomas Hudson",
-   "age": "25",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Family Offense- Invasion Of Privacy",
-   "more": 0,
-   "ts": 1793850433,
-   "photo": "photos/POR_HUDSON_COLE_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_MENIFEE_TYREECE_2026-11-04",
-   "name": "Tyreece Menifee",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1793850430,
-   "photo": "photos/ALL_MENIFEE_TYREECE_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_STRONG_SAVANNAH_2026-11-04",
-   "name": "Savannah Marie Strong",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1793843231,
-   "photo": "photos/VAN_STRONG_SAVANNAH_2026-11-04.jpg"
-  },
-  {
-   "key": "POR_TUPPERSZESNY_LORI_2026-11-04",
-   "name": "Lori J Tupper-Szesny",
-   "age": "62",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 2,
-   "ts": 1793843230,
-   "photo": "photos/POR_TUPPERSZESNY_LORI_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_RUSSELL_BROOKLYN_2026-11-04",
-   "name": "Brooklyn Ryan Russell",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793839634,
-   "photo": "photos/VAN_RUSSELL_BROOKLYN_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_TENBARGE_ASHLEY_2026-11-04",
-   "name": "Ashley Lane Tenbarge",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Against Family Or Member Less Than 14",
-   "more": 0,
-   "ts": 1793839634,
-   "photo": "photos/VAN_TENBARGE_ASHLEY_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_MAGANAPIZANO_CRISTHIAN_2026-11-04",
-   "name": "Cristhian Magana-Pizano",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 3,
-   "ts": 1793839630,
-   "photo": "photos/ALL_MAGANAPIZANO_CRISTHIAN_2026-11-04.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WEILEMAN_CHAD_2026-11-05",
+   "name": "Chad Allen Weileman",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 4,
+   "ts": 1793908053,
+   "photo": "photos/MAD_WEILEMAN_CHAD_2026-11-05.jpg"
+  },
+  {
+   "key": "POR_NORMAN_JUSTIN_2026-11-05",
+   "name": "Justin Leroy Norman",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
+   "more": 4,
+   "ts": 1793908043,
+   "photo": "photos/POR_NORMAN_JUSTIN_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_LIGGETT_CHRISTOPHER_2026-11-05",
+   "name": "Christopher Michael Liggett",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1793908040,
+   "photo": "photos/VAN_LIGGETT_CHRISTOPHER_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_REDFIELD_JOSHUA_2026-11-05",
+   "name": "Joshua Steven Redfield",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 2,
+   "ts": 1793908040,
+   "photo": null
+  },
+  {
+   "key": "VAN_BELLAMY_TIFFANY_2026-11-05",
+   "name": "Tiffany Ann Bellamy",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1793908039,
+   "photo": "photos/VAN_BELLAMY_TIFFANY_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_SMITH_TYAIRAH_2026-11-05",
+   "name": "Tyairah Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793908035,
+   "photo": "photos/ALL_SMITH_TYAIRAH_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_BRATTON_ABIODUN_2026-11-05",
+   "name": "Abiodun Bratton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1793908031,
+   "photo": "photos/ALL_BRATTON_ABIODUN_2026-11-05.jpg"
+  },
   {
    "key": "MAD_NORTON_JOSHUA_2026-11-05",
    "name": "Joshua Lee Norton",
@@ -2763,72 +2840,6 @@
    "more": 3,
    "ts": 1793652446,
    "photo": "photos/ALL_DEREMER_DUSTIN_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_ROSADOPEREZ_RAUL_2026-11-02",
-   "name": "Raul Rosadoperez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > Or = To .15%",
-   "more": 2,
-   "ts": 1793648842,
-   "photo": "photos/ALL_ROSADOPEREZ_RAUL_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_KIDD_GARY_2026-11-02",
-   "name": "Gary Kidd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Controlled Substance",
-   "more": 4,
-   "ts": 1793648837,
-   "photo": "photos/ALL_KIDD_GARY_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_MOORE_JAMES_2026-11-02",
-   "name": "James Wesley Moore",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
-   "more": 8,
-   "ts": 1793648836,
-   "photo": "photos/VAN_MOORE_JAMES_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_TEER_SEAN_2026-11-02",
-   "name": "Sean Eric Teer",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1793648835,
-   "photo": "photos/VAN_TEER_SEAN_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_PUERTZER_ALIK_2026-11-02",
-   "name": "Alik James Puertzer",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793648835,
-   "photo": null
-  },
-  {
-   "key": "POR_BAZALDUA_RYAN_2026-11-02",
-   "name": "Ryan Michael Bazaldua",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 2,
-   "ts": 1793648834,
-   "photo": "photos/POR_BAZALDUA_RYAN_2026-11-02.jpg"
   }
  ]
 }
