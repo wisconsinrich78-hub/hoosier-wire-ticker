@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-05T04:47:28+00:00",
+ "updated": "2026-11-05T05:47:21+00:00",
  "items": [
+  {
+   "key": "ALL_HERD_CORBIN_2026-11-04",
+   "name": "Corbin Herd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1793857629,
+   "photo": "photos/ALL_HERD_CORBIN_2026-11-04.jpg"
+  },
   {
    "key": "MAD_POWERS_MAVERICK_2026-11-04",
    "name": "Maverick Weston Powers",
@@ -486,17 +497,6 @@
    "photo": "photos/ALL_HADE_THOMAS_2026-11-04.jpg"
   },
   {
-   "key": "ALL_DALMAN_ANTHONY_2026-11-04",
-   "name": "Anthony Dalman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Mischief",
-   "more": 1,
-   "ts": 1793785638,
-   "photo": "photos/ALL_DALMAN_ANTHONY_2026-11-04.jpg"
-  },
-  {
    "key": "POR_BIELECKI_ZACHARY_2026-11-04",
    "name": "Zachary Scott Bielecki",
    "age": "35",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_HERD_CORBIN_2026-11-04",
+   "name": "Corbin Herd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1793857629,
+   "photo": "photos/ALL_HERD_CORBIN_2026-11-04.jpg"
+  },
   {
    "key": "MAD_POWERS_MAVERICK_2026-11-04",
    "name": "Maverick Weston Powers",
@@ -2818,17 +2829,6 @@
    "more": 1,
    "ts": 1793598442,
    "photo": "photos/ALL_RENTERIA_MARISSA_2026-11-01.jpg"
-  },
-  {
-   "key": "ALL_LAMB_ABIGAIL_2026-11-01",
-   "name": "Abigail Lamb",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793598438,
-   "photo": "photos/ALL_LAMB_ABIGAIL_2026-11-01.jpg"
   }
  ]
 }
