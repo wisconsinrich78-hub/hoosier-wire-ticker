@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T21:47:43+00:00",
+ "updated": "2026-11-05T21:50:29+00:00",
  "items": [
   {
    "key": "MAD_HERNDON_GEORGE_2026-11-05",
@@ -2829,17 +2829,6 @@
    "more": 0,
    "ts": 1793663237,
    "photo": "photos/VAN_BROOKS_JILL_2026-11-02.jpg"
-  },
-  {
-   "key": "MAD_NICCUM_SCOTT_2026-11-02",
-   "name": "Scott Allen Niccum",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1793656128,
-   "photo": "photos/MAD_NICCUM_SCOTT_2026-11-02.jpg"
   }
  ]
 }
