@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T20:47:48+00:00",
+ "updated": "2026-11-06T20:53:43+00:00",
  "items": [
   {
    "key": "MAD_THOMPSON_RONYAI_2026-11-06",
@@ -2807,28 +2807,6 @@
    "more": 1,
    "ts": 1793742452,
    "photo": "photos/ALL_CALMES_SAMUEL_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_GRIGSBY_RODGRELL_2026-11-03",
-   "name": "Rodgrell Grigsby",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt Of Court-Civil",
-   "more": 1,
-   "ts": 1793738913,
-   "photo": "photos/ALL_GRIGSBY_RODGRELL_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_GRIFFIN_DAWAN_2026-11-03",
-   "name": "Dawan Griffin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail To Register - Prior",
-   "more": 1,
-   "ts": 1793738909,
-   "photo": "photos/ALL_GRIFFIN_DAWAN_2026-11-03.jpg"
   }
  ]
 }
