@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T19:47:58+00:00",
+ "updated": "2026-11-06T19:53:10+00:00",
  "items": [
   {
    "key": "MAD_SIMMONS_ISAIAH_2026-11-06",
@@ -3015,17 +3015,6 @@
    "charge": "Public Administration- Fail To Appear",
    "more": 0,
    "ts": 1793738830,
-   "photo": null
-  },
-  {
-   "key": "MAD_WILLS_GAVIN_2026-11-03",
-   "name": "Gavin Darnell Wills",
-   "age": "18",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793735362,
    "photo": null
   }
  ]
