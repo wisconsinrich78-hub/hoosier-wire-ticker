@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-06T15:48:48+00:00",
+ "updated": "2026-11-06T16:48:19+00:00",
  "items": [
+  {
+   "key": "MAD_WESTON_DONALD_2026-11-06",
+   "name": "Donald Weston",
+   "age": "80",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793983688,
+   "photo": null
+  },
+  {
+   "key": "MAD_STANSBERRY_JEROD_2026-11-06",
+   "name": "Jerod Paul Stansberry",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793983685,
+   "photo": "photos/MAD_STANSBERRY_JEROD_2026-11-06.jpg"
+  },
+  {
+   "key": "VAN_ALLRED_JAROD_2026-11-06",
+   "name": "Jarod Glen Allred",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793983658,
+   "photo": "photos/VAN_ALLRED_JAROD_2026-11-06.jpg"
+  },
+  {
+   "key": "VAN_OWENS_MARCUS_2026-11-06",
+   "name": "Marcus Ray Owens",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793983652,
+   "photo": "photos/VAN_OWENS_MARCUS_2026-11-06.jpg"
+  },
   {
    "key": "MAD_FITE_JACOB_2026-11-06",
    "name": "Jacob B Fite",
@@ -464,28 +508,6 @@
    "photo": "photos/VAN_ELOI_PROFAITE_2026-11-05.jpg"
   },
   {
-   "key": "VAN_FLEEGER_DANIEL_2026-11-05",
-   "name": "Daniel Edward Fleeger",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1793922442,
-   "photo": "photos/VAN_FLEEGER_DANIEL_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_THAXTON_ISAIAH_2026-11-05",
-   "name": "Isaiah Anthony Thaxton",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 1,
-   "ts": 1793918839,
-   "photo": "photos/VAN_THAXTON_ISAIAH_2026-11-05.jpg"
-  },
-  {
    "key": "MAD_HERNDON_GEORGE_2026-11-05",
    "name": "George Charles Third Herndon",
    "age": "56",
@@ -506,31 +528,53 @@
    "more": 4,
    "ts": 1793908053,
    "photo": "photos/MAD_WEILEMAN_CHAD_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_NORMAN_JUSTIN_2026-11-05",
-   "name": "Justin Leroy Norman",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 4,
-   "ts": 1793908043,
-   "photo": "photos/POR_NORMAN_JUSTIN_2026-11-05.jpg"
-  },
-  {
-   "key": "MAD_NORTON_JOSHUA_2026-11-05",
-   "name": "Joshua Lee Norton",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery - against public safety official (level 6 felony)",
-   "more": 0,
-   "ts": 1793904458,
-   "photo": "photos/MAD_NORTON_JOSHUA_2026-11-05.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WESTON_DONALD_2026-11-06",
+   "name": "Donald Weston",
+   "age": "80",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793983688,
+   "photo": null
+  },
+  {
+   "key": "MAD_STANSBERRY_JEROD_2026-11-06",
+   "name": "Jerod Paul Stansberry",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793983685,
+   "photo": "photos/MAD_STANSBERRY_JEROD_2026-11-06.jpg"
+  },
+  {
+   "key": "VAN_ALLRED_JAROD_2026-11-06",
+   "name": "Jarod Glen Allred",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1793983658,
+   "photo": "photos/VAN_ALLRED_JAROD_2026-11-06.jpg"
+  },
+  {
+   "key": "VAN_OWENS_MARCUS_2026-11-06",
+   "name": "Marcus Ray Owens",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793983652,
+   "photo": "photos/VAN_OWENS_MARCUS_2026-11-06.jpg"
+  },
   {
    "key": "MAD_FITE_JACOB_2026-11-06",
    "name": "Jacob B Fite",
@@ -2950,28 +2994,6 @@
    "more": 0,
    "ts": 1793728042,
    "photo": null
-  },
-  {
-   "key": "ALL_MORGAN_DEMARCUS_2026-11-03",
-   "name": "Demarcus Morgan",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793724433,
-   "photo": "photos/ALL_MORGAN_DEMARCUS_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_BENGE_KRISTA_2026-11-03",
-   "name": "Krista Benge",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 1,
-   "ts": 1793724429,
-   "photo": "photos/ALL_BENGE_KRISTA_2026-11-03.jpg"
   }
  ]
 }
