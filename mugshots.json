@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:47:35+00:00",
+ "updated": "2026-11-06T21:50:17+00:00",
  "items": [
   {
    "key": "MAD_CHAMBERS_TIMOTHY_2026-11-06",
@@ -2818,17 +2818,6 @@
    "more": 1,
    "ts": 1793746031,
    "photo": "photos/ALL_DOWNS_DUSTIN_2026-11-03.jpg"
-  },
-  {
-   "key": "VAN_WILSON_KATIE_2026-11-03",
-   "name": "Katie Gayle Wilson",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793742456,
-   "photo": "photos/VAN_WILSON_KATIE_2026-11-03.jpg"
   }
  ]
 }
