@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-06T05:48:13+00:00",
+ "updated": "2026-11-06T06:47:37+00:00",
  "items": [
+  {
+   "key": "VAN_BOATMAN_DAMION_2026-11-05",
+   "name": "Damion Austin Boatman",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793947642,
+   "photo": "photos/VAN_BOATMAN_DAMION_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_ULMER_RUSTY_2026-11-06",
+   "name": "Rusty Ulmer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1793947639,
+   "photo": "photos/ALL_ULMER_RUSTY_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_RODENBECK_JUSTIN_2026-11-06",
+   "name": "Justin Rodenbeck",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793947635,
+   "photo": "photos/ALL_RODENBECK_JUSTIN_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_JONES_MANDY_2026-11-06",
+   "name": "Mandy Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793947630,
+   "photo": "photos/ALL_JONES_MANDY_2026-11-06.jpg"
+  },
   {
    "key": "POR_BEAUDRY_KIRK_2026-11-05",
    "name": "Kirk Anthony Beaudry",
@@ -398,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "VAN_GUTIERREZ_KATHERYN_2026-11-05",
-   "name": "Katheryn Terese Gutierrez",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793911643,
-   "photo": "photos/VAN_GUTIERREZ_KATHERYN_2026-11-05.jpg"
-  },
-  {
    "key": "ALL_WILCOXON_DENISE_2026-11-05",
    "name": "Denise Wilcoxon",
    "age": "",
@@ -453,28 +486,6 @@
    "photo": "photos/POR_NORMAN_JUSTIN_2026-11-05.jpg"
   },
   {
-   "key": "ALL_SMITH_TYAIRAH_2026-11-05",
-   "name": "Tyairah Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793908035,
-   "photo": "photos/ALL_SMITH_TYAIRAH_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_BRATTON_ABIODUN_2026-11-05",
-   "name": "Abiodun Bratton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793908031,
-   "photo": "photos/ALL_BRATTON_ABIODUN_2026-11-05.jpg"
-  },
-  {
    "key": "MAD_NORTON_JOSHUA_2026-11-05",
    "name": "Joshua Lee Norton",
    "age": "43",
@@ -484,17 +495,6 @@
    "more": 0,
    "ts": 1793904458,
    "photo": "photos/MAD_NORTON_JOSHUA_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_WALKER_LATONDRA_2026-11-05",
-   "name": "Latondra Walker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1793904436,
-   "photo": "photos/ALL_WALKER_LATONDRA_2026-11-05.jpg"
   },
   {
    "key": "MAD_SPEARS_DANIEL_2026-11-05",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BOATMAN_DAMION_2026-11-05",
+   "name": "Damion Austin Boatman",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793947642,
+   "photo": "photos/VAN_BOATMAN_DAMION_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_ULMER_RUSTY_2026-11-06",
+   "name": "Rusty Ulmer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1793947639,
+   "photo": "photos/ALL_ULMER_RUSTY_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_RODENBECK_JUSTIN_2026-11-06",
+   "name": "Justin Rodenbeck",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1793947635,
+   "photo": "photos/ALL_RODENBECK_JUSTIN_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_JONES_MANDY_2026-11-06",
+   "name": "Mandy Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1793947630,
+   "photo": "photos/ALL_JONES_MANDY_2026-11-06.jpg"
+  },
   {
    "key": "POR_BEAUDRY_KIRK_2026-11-05",
    "name": "Kirk Anthony Beaudry",
@@ -2961,50 +3005,6 @@
    "more": 1,
    "ts": 1793695638,
    "photo": null
-  },
-  {
-   "key": "POR_FAYSON_MICHAEL_2026-11-03",
-   "name": "Michael Fayson",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1793688441,
-   "photo": "photos/POR_FAYSON_MICHAEL_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_SHERRILL_DEAYRIS_2026-11-03",
-   "name": "Deayris Sherrill",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1793688436,
-   "photo": "photos/ALL_SHERRILL_DEAYRIS_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_LANE_JAYSON_2026-11-03",
-   "name": "Jayson Lane",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1793688433,
-   "photo": "photos/ALL_LANE_JAYSON_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_AUSTIN_TRAVICIA_2026-11-03",
-   "name": "Travicia Austin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 1,
-   "ts": 1793688429,
-   "photo": "photos/ALL_AUSTIN_TRAVICIA_2026-11-03.jpg"
   }
  ]
 }
