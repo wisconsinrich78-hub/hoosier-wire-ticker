@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T13:47:28+00:00",
+ "updated": "2026-11-06T13:58:00+00:00",
  "items": [
   {
    "key": "VAN_DORTCH_MARSAILLES_2026-11-06",
@@ -2983,50 +2983,6 @@
    "more": 0,
    "ts": 1793717233,
    "photo": "photos/ALL_DIAZ_ELLIOT_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_JONES_ANTHONY_2026-11-03",
-   "name": "Anthony Malek Jones",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793713710,
-   "photo": "photos/MAD_JONES_ANTHONY_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_WEEKS_MARQUE_2026-11-03",
-   "name": "Marque Weeks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793713658,
-   "photo": "photos/ALL_WEEKS_MARQUE_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_WALLACE_ANTHONY_2026-11-03",
-   "name": "Anthony Wallace",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793713654,
-   "photo": "photos/ALL_WALLACE_ANTHONY_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_HARVEY_ARITHA_2026-11-03",
-   "name": "Aritha Harvey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793713650,
-   "photo": "photos/ALL_HARVEY_ARITHA_2026-11-03.jpg"
   }
  ]
 }
