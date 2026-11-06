@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-06T04:47:32+00:00",
+ "updated": "2026-11-06T05:48:13+00:00",
  "items": [
+  {
+   "key": "POR_BEAUDRY_KIRK_2026-11-05",
+   "name": "Kirk Anthony Beaudry",
+   "age": "54",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 0,
+   "ts": 1793944064,
+   "photo": "photos/POR_BEAUDRY_KIRK_2026-11-05.jpg"
+  },
+  {
+   "key": "POR_PLATT_LAURA_2026-11-05",
+   "name": "Laura Lynn Platt",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 0,
+   "ts": 1793944061,
+   "photo": "photos/POR_PLATT_LAURA_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_JONES_BERNARD_2026-11-05",
+   "name": "Bernard Jones",
+   "age": "48",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 0,
+   "ts": 1793944054,
+   "photo": "photos/VAN_JONES_BERNARD_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_KENDALL_NICHOLAS_2026-11-06",
+   "name": "Nicholas Kendall",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 0,
+   "ts": 1793944048,
+   "photo": "photos/ALL_KENDALL_NICHOLAS_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_BRYANT_MERVIN_2026-11-05",
+   "name": "Mervin Bryant",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing In Cocaine Or Narcotic Drug",
+   "more": 0,
+   "ts": 1793944043,
+   "photo": "photos/ALL_BRYANT_MERVIN_2026-11-05.jpg"
+  },
   {
    "key": "MAD_VANEK_EMILY_2026-11-05",
    "name": "Emily B Vanek",
@@ -354,17 +409,6 @@
    "photo": "photos/VAN_GUTIERREZ_KATHERYN_2026-11-05.jpg"
   },
   {
-   "key": "VAN_STEWART_JONATHAN_2026-11-05",
-   "name": "Jonathan David Stewart",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1793911641,
-   "photo": null
-  },
-  {
    "key": "ALL_WILCOXON_DENISE_2026-11-05",
    "name": "Denise Wilcoxon",
    "age": "",
@@ -484,53 +528,64 @@
    "more": 3,
    "ts": 1793900837,
    "photo": "photos/MAD_LONDON_CHRISTINA_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_HODGES_CHRISTOPHER_2026-11-05",
-   "name": "Christopher Hodges",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1793897245,
-   "photo": "photos/ALL_HODGES_CHRISTOPHER_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_LIDDELL_HERSCHEL_2026-11-05",
-   "name": "Herschel Josiah Liddell",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793897242,
-   "photo": "photos/POR_LIDDELL_HERSCHEL_2026-11-05.jpg"
-  },
-  {
-   "key": "MAD_MORELAND_DUSTIN_2026-11-05",
-   "name": "Dustin Wayne Moreland",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for 10 day Probation Violation - Jail Booking",
-   "more": 1,
-   "ts": 1793893689,
-   "photo": "photos/MAD_MORELAND_DUSTIN_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_RICE_DAVID_2026-11-05",
-   "name": "David Dean Rice",
-   "age": "65",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1793890051,
-   "photo": "photos/POR_RICE_DAVID_2026-11-05.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_BEAUDRY_KIRK_2026-11-05",
+   "name": "Kirk Anthony Beaudry",
+   "age": "54",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 0,
+   "ts": 1793944064,
+   "photo": "photos/POR_BEAUDRY_KIRK_2026-11-05.jpg"
+  },
+  {
+   "key": "POR_PLATT_LAURA_2026-11-05",
+   "name": "Laura Lynn Platt",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 0,
+   "ts": 1793944061,
+   "photo": "photos/POR_PLATT_LAURA_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_JONES_BERNARD_2026-11-05",
+   "name": "Bernard Jones",
+   "age": "48",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 0,
+   "ts": 1793944054,
+   "photo": "photos/VAN_JONES_BERNARD_2026-11-05.jpg"
+  },
+  {
+   "key": "ALL_KENDALL_NICHOLAS_2026-11-06",
+   "name": "Nicholas Kendall",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 0,
+   "ts": 1793944048,
+   "photo": "photos/ALL_KENDALL_NICHOLAS_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_BRYANT_MERVIN_2026-11-05",
+   "name": "Mervin Bryant",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing In Cocaine Or Narcotic Drug",
+   "more": 0,
+   "ts": 1793944043,
+   "photo": "photos/ALL_BRYANT_MERVIN_2026-11-05.jpg"
+  },
   {
    "key": "MAD_VANEK_EMILY_2026-11-05",
    "name": "Emily B Vanek",
@@ -2950,17 +3005,6 @@
    "more": 1,
    "ts": 1793688429,
    "photo": "photos/ALL_AUSTIN_TRAVICIA_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_ERIC_2026-11-02",
-   "name": "Eric Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1793684835,
-   "photo": "photos/ALL_WILLIAMS_ERIC_2026-11-02.jpg"
   }
  ]
 }
