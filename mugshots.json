@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T02:48:01+00:00",
+ "updated": "2026-11-06T03:47:23+00:00",
  "items": [
+  {
+   "key": "VAN_MATTHEWS_ASHLEY_2026-11-05",
+   "name": "Ashley Nicole Matthews",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1793936834,
+   "photo": "photos/VAN_MATTHEWS_ASHLEY_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_FARRAR_MORISA_2026-11-05",
+   "name": "Morisa Lee Farrar",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793936832,
+   "photo": null
+  },
   {
    "key": "MAD_ROBINSON_JACOB_2026-11-05",
    "name": "Jacob Timothy Robinson",
@@ -365,28 +387,6 @@
    "photo": "photos/POR_NORMAN_JUSTIN_2026-11-05.jpg"
   },
   {
-   "key": "VAN_LIGGETT_CHRISTOPHER_2026-11-05",
-   "name": "Christopher Michael Liggett",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1793908040,
-   "photo": "photos/VAN_LIGGETT_CHRISTOPHER_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_REDFIELD_JOSHUA_2026-11-05",
-   "name": "Joshua Steven Redfield",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 2,
-   "ts": 1793908040,
-   "photo": null
-  },
-  {
    "key": "ALL_SMITH_TYAIRAH_2026-11-05",
    "name": "Tyairah Smith",
    "age": "",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_MATTHEWS_ASHLEY_2026-11-05",
+   "name": "Ashley Nicole Matthews",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1793936834,
+   "photo": "photos/VAN_MATTHEWS_ASHLEY_2026-11-05.jpg"
+  },
+  {
+   "key": "VAN_FARRAR_MORISA_2026-11-05",
+   "name": "Morisa Lee Farrar",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1793936832,
+   "photo": null
+  },
   {
    "key": "MAD_ROBINSON_JACOB_2026-11-05",
    "name": "Jacob Timothy Robinson",
@@ -2961,17 +2983,6 @@
    "more": 0,
    "ts": 1793677649,
    "photo": "photos/MAD_BROWN_DAQUAN_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_GMITEREK_BRENT_2026-11-02",
-   "name": "Brent C Gmiterek",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Deadly Weapon",
-   "more": 1,
-   "ts": 1793677631,
-   "photo": "photos/POR_GMITEREK_BRENT_2026-11-02.jpg"
   }
  ]
 }
