@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-06T20:53:43+00:00",
+ "updated": "2026-11-06T21:47:35+00:00",
  "items": [
+  {
+   "key": "MAD_CHAMBERS_TIMOTHY_2026-11-06",
+   "name": "Timothy Jack Chambers",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1794001640,
+   "photo": "photos/MAD_CHAMBERS_TIMOTHY_2026-11-06.jpg"
+  },
+  {
+   "key": "VAN_UNDERWOOD_CASEY_2026-11-06",
+   "name": "Casey Lee Underwood",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794001635,
+   "photo": "photos/VAN_UNDERWOOD_CASEY_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_AUSTIN_JARREN_2026-11-06",
+   "name": "Jarren Austin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine",
+   "more": 2,
+   "ts": 1794001631,
+   "photo": "photos/ALL_AUSTIN_JARREN_2026-11-06.jpg"
+  },
   {
    "key": "MAD_THOMPSON_RONYAI_2026-11-06",
    "name": "Ronyai D Thompson",
@@ -420,17 +453,6 @@
    "photo": "photos/ALL_KENDALL_NICHOLAS_2026-11-06.jpg"
   },
   {
-   "key": "ALL_BRYANT_MERVIN_2026-11-05",
-   "name": "Mervin Bryant",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing In Cocaine Or Narcotic Drug",
-   "more": 0,
-   "ts": 1793944043,
-   "photo": "photos/ALL_BRYANT_MERVIN_2026-11-05.jpg"
-  },
-  {
    "key": "MAD_VANEK_EMILY_2026-11-05",
    "name": "Emily B Vanek",
    "age": "32",
@@ -506,31 +528,42 @@
    "more": 2,
    "ts": 1793929634,
    "photo": "photos/VAN_LANE_MICHAEL_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_COX_CARTER_2026-11-05",
-   "name": "Carter Reese Cox",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 0,
-   "ts": 1793929633,
-   "photo": "photos/VAN_COX_CARTER_2026-11-05.jpg"
-  },
-  {
-   "key": "MAD_DIXON_THOMAS_2026-11-05",
-   "name": "Thomas Robert Dixon",
-   "age": "59",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793926036,
-   "photo": "photos/MAD_DIXON_THOMAS_2026-11-05.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_CHAMBERS_TIMOTHY_2026-11-06",
+   "name": "Timothy Jack Chambers",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1794001640,
+   "photo": "photos/MAD_CHAMBERS_TIMOTHY_2026-11-06.jpg"
+  },
+  {
+   "key": "VAN_UNDERWOOD_CASEY_2026-11-06",
+   "name": "Casey Lee Underwood",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794001635,
+   "photo": "photos/VAN_UNDERWOOD_CASEY_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_AUSTIN_JARREN_2026-11-06",
+   "name": "Jarren Austin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine",
+   "more": 2,
+   "ts": 1794001631,
+   "photo": "photos/ALL_AUSTIN_JARREN_2026-11-06.jpg"
+  },
   {
    "key": "MAD_THOMPSON_RONYAI_2026-11-06",
    "name": "Ronyai D Thompson",
@@ -2796,17 +2829,6 @@
    "more": 0,
    "ts": 1793742456,
    "photo": "photos/VAN_WILSON_KATIE_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_CALMES_SAMUEL_2026-11-03",
-   "name": "Samuel Calmes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing In Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1793742452,
-   "photo": "photos/ALL_CALMES_SAMUEL_2026-11-03.jpg"
   }
  ]
 }
