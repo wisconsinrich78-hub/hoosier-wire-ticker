@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:50:09+00:00",
+ "updated": "2026-11-06T13:47:28+00:00",
  "items": [
   {
    "key": "VAN_DORTCH_MARSAILLES_2026-11-06",
@@ -3027,50 +3027,6 @@
    "more": 0,
    "ts": 1793713650,
    "photo": "photos/ALL_HARVEY_ARITHA_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_DAVIS_SANDERS_2026-11-03",
-   "name": "Sanders Davis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793713645,
-   "photo": "photos/ALL_DAVIS_SANDERS_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_BRYANT_SIMONE_2026-11-03",
-   "name": "Simone Bryant",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1793713641,
-   "photo": "photos/ALL_BRYANT_SIMONE_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_BRYANT_HENRY_2026-11-03",
-   "name": "Henry Bryant",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793713638,
-   "photo": "photos/ALL_BRYANT_HENRY_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_ARRINGTON_WILLIE_2026-11-03",
-   "name": "Willie Arrington",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793713634,
-   "photo": "photos/ALL_ARRINGTON_WILLIE_2026-11-03.jpg"
   }
  ]
 }
