@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:47:32+00:00",
+ "updated": "2026-11-06T12:50:09+00:00",
  "items": [
   {
    "key": "VAN_DORTCH_MARSAILLES_2026-11-06",
@@ -10,7 +10,7 @@
    "charge": "Petition To Revoke Probation",
    "more": 0,
    "ts": 1793969230,
-   "photo": null
+   "photo": "photos/VAN_DORTCH_MARSAILLES_2026-11-06.jpg"
   },
   {
    "key": "VAN_MERIWETHER_DREAUNA_2026-11-06",
@@ -540,7 +540,7 @@
    "charge": "Petition To Revoke Probation",
    "more": 0,
    "ts": 1793969230,
-   "photo": null
+   "photo": "photos/VAN_DORTCH_MARSAILLES_2026-11-06.jpg"
   },
   {
    "key": "VAN_MERIWETHER_DREAUNA_2026-11-06",
@@ -3071,17 +3071,6 @@
    "more": 0,
    "ts": 1793713634,
    "photo": "photos/ALL_ARRINGTON_WILLIE_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_KASSOUMIS_SOCRATES_2026-11-03",
-   "name": "Socrates Kassoumis",
-   "age": "19",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession machine gun w/out license",
-   "more": 0,
-   "ts": 1793710090,
-   "photo": "photos/MAD_KASSOUMIS_SOCRATES_2026-11-03.jpg"
   }
  ]
 }
