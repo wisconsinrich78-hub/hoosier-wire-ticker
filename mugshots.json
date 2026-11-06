@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-06T18:58:08+00:00",
+ "updated": "2026-11-06T19:47:58+00:00",
  "items": [
+  {
+   "key": "MAD_SIMMONS_ISAIAH_2026-11-06",
+   "name": "Isaiah Tyrice Simmons",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793994461,
+   "photo": null
+  },
+  {
+   "key": "MAD_MCDANIEL_ROBERT_2026-11-06",
+   "name": "Robert Reece Mcdaniel",
+   "age": "74",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Child Molest L4 - Child <14 perf/sub to fondling, of child/older perso",
+   "more": 1,
+   "ts": 1793994457,
+   "photo": null
+  },
+  {
+   "key": "MAD_CARLIN_SHELLEY_2026-11-06",
+   "name": "Shelley Ray Carlin",
+   "age": "55",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1793994452,
+   "photo": "photos/MAD_CARLIN_SHELLEY_2026-11-06.jpg"
+  },
+  {
+   "key": "MAD_AKIN_MICHAEL_2026-11-06",
+   "name": "Michael Paul Akin",
+   "age": "47",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1793994450,
+   "photo": "photos/MAD_AKIN_MICHAEL_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_JACKSON_CHRISTINA_2026-11-06",
+   "name": "Christina Jackson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1793994442,
+   "photo": "photos/ALL_JACKSON_CHRISTINA_2026-11-06.jpg"
+  },
   {
    "key": "VAN_STANTON_ROSELYN_2026-11-06",
    "name": "Roselyn Venessa Stanton",
@@ -431,17 +486,6 @@
    "photo": "photos/VAN_GIBSON_PHILLIP_2026-11-05.jpg"
   },
   {
-   "key": "ALL_SWAIN_KAMYRON_2026-11-05",
-   "name": "Kamyron Swain",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1793933243,
-   "photo": "photos/ALL_SWAIN_KAMYRON_2026-11-05.jpg"
-  },
-  {
    "key": "VAN_LANE_MICHAEL_2026-11-05",
    "name": "Michael William Lane",
    "age": "45",
@@ -484,53 +528,64 @@
    "more": 0,
    "ts": 1793926035,
    "photo": "photos/POR_HOLTZ_JOSHUA_2026-11-05.jpg"
-  },
-  {
-   "key": "MAD_WILLHOITE_TAYLOR_2026-11-05",
-   "name": "Taylor Marie Willhoite",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 2,
-   "ts": 1793922454,
-   "photo": "photos/MAD_WILLHOITE_TAYLOR_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_JONES_DOMINIQUE_2026-11-05",
-   "name": "Dominique Jones",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793922445,
-   "photo": null
-  },
-  {
-   "key": "MAD_HERNDON_GEORGE_2026-11-05",
-   "name": "George Charles Third Herndon",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793915246,
-   "photo": null
-  },
-  {
-   "key": "MAD_WEILEMAN_CHAD_2026-11-05",
-   "name": "Chad Allen Weileman",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 4,
-   "ts": 1793908053,
-   "photo": "photos/MAD_WEILEMAN_CHAD_2026-11-05.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SIMMONS_ISAIAH_2026-11-06",
+   "name": "Isaiah Tyrice Simmons",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1793994461,
+   "photo": null
+  },
+  {
+   "key": "MAD_MCDANIEL_ROBERT_2026-11-06",
+   "name": "Robert Reece Mcdaniel",
+   "age": "74",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Child Molest L4 - Child <14 perf/sub to fondling, of child/older perso",
+   "more": 1,
+   "ts": 1793994457,
+   "photo": null
+  },
+  {
+   "key": "MAD_CARLIN_SHELLEY_2026-11-06",
+   "name": "Shelley Ray Carlin",
+   "age": "55",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1793994452,
+   "photo": "photos/MAD_CARLIN_SHELLEY_2026-11-06.jpg"
+  },
+  {
+   "key": "MAD_AKIN_MICHAEL_2026-11-06",
+   "name": "Michael Paul Akin",
+   "age": "47",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1793994450,
+   "photo": "photos/MAD_AKIN_MICHAEL_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_JACKSON_CHRISTINA_2026-11-06",
+   "name": "Christina Jackson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1793994442,
+   "photo": "photos/ALL_JACKSON_CHRISTINA_2026-11-06.jpg"
+  },
   {
    "key": "VAN_STANTON_ROSELYN_2026-11-06",
    "name": "Roselyn Venessa Stanton",
@@ -2972,17 +3027,6 @@
    "more": 0,
    "ts": 1793735362,
    "photo": null
-  },
-  {
-   "key": "ALL_MOORE_KANDACE_2026-11-03",
-   "name": "Kandace Moore",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 1,
-   "ts": 1793735246,
-   "photo": "photos/ALL_MOORE_KANDACE_2026-11-03.jpg"
   }
  ]
 }
