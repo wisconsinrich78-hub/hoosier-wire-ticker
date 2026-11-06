@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T22:47:55+00:00",
+ "updated": "2026-11-06T22:50:24+00:00",
  "items": [
   {
    "key": "MAD_TIPTON_RILEY_2026-11-06",
@@ -2807,28 +2807,6 @@
    "more": 2,
    "ts": 1793749630,
    "photo": "photos/ALL_COLE_SAMSON_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_PRICE_SYLVESTER_2026-11-03",
-   "name": "Sylvester Darius Price",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793746123,
-   "photo": "photos/MAD_PRICE_SYLVESTER_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_PIERCE_TINA_2026-11-03",
-   "name": "Tina Marie Pierce",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793746116,
-   "photo": "photos/MAD_PIERCE_TINA_2026-11-03.jpg"
   }
  ]
 }
