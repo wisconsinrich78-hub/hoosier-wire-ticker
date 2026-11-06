@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-06T16:48:19+00:00",
+ "updated": "2026-11-06T17:47:39+00:00",
  "items": [
+  {
+   "key": "VAN_STANTON_ROSELYN_2026-11-06",
+   "name": "Roselyn Venessa Stanton",
+   "age": "55",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "more": 1,
+   "ts": 1793987237,
+   "photo": "photos/VAN_STANTON_ROSELYN_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_ROGERS_MICHAEL_2026-11-06",
+   "name": "Michael Rogers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery Result In Bodily Injury",
+   "more": 0,
+   "ts": 1793987233,
+   "photo": "photos/ALL_ROGERS_MICHAEL_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_RILEY_TRACY_2026-11-06",
+   "name": "Tracy Riley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1793987230,
+   "photo": "photos/ALL_RILEY_TRACY_2026-11-06.jpg"
+  },
   {
    "key": "MAD_WESTON_DONALD_2026-11-06",
    "name": "Donald Weston",
@@ -431,28 +464,6 @@
    "photo": "photos/VAN_COX_CARTER_2026-11-05.jpg"
   },
   {
-   "key": "ALL_SMITH_MICAIAH_2026-11-05",
-   "name": "Micaiah Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery Enhanced With Previous Unrelated Conviction(S)",
-   "more": 0,
-   "ts": 1793929629,
-   "photo": "photos/ALL_SMITH_MICAIAH_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_CORNETT_CODY_2026-11-05",
-   "name": "Cody Cornett",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Possession Of Syringe",
-   "more": 1,
-   "ts": 1793926044,
-   "photo": "photos/ALL_CORNETT_CODY_2026-11-05.jpg"
-  },
-  {
    "key": "MAD_DIXON_THOMAS_2026-11-05",
    "name": "Thomas Robert Dixon",
    "age": "59",
@@ -497,17 +508,6 @@
    "photo": null
   },
   {
-   "key": "VAN_ELOI_PROFAITE_2026-11-05",
-   "name": "Profaite Nmn Eloi",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793922442,
-   "photo": "photos/VAN_ELOI_PROFAITE_2026-11-05.jpg"
-  },
-  {
    "key": "MAD_HERNDON_GEORGE_2026-11-05",
    "name": "George Charles Third Herndon",
    "age": "56",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_STANTON_ROSELYN_2026-11-06",
+   "name": "Roselyn Venessa Stanton",
+   "age": "55",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "more": 1,
+   "ts": 1793987237,
+   "photo": "photos/VAN_STANTON_ROSELYN_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_ROGERS_MICHAEL_2026-11-06",
+   "name": "Michael Rogers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery Result In Bodily Injury",
+   "more": 0,
+   "ts": 1793987233,
+   "photo": "photos/ALL_ROGERS_MICHAEL_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_RILEY_TRACY_2026-11-06",
+   "name": "Tracy Riley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1793987230,
+   "photo": "photos/ALL_RILEY_TRACY_2026-11-06.jpg"
+  },
   {
    "key": "MAD_WESTON_DONALD_2026-11-06",
    "name": "Donald Weston",
@@ -2983,17 +3016,6 @@
    "more": 3,
    "ts": 1793728061,
    "photo": "photos/MAD_BUCKLEY_TIFFANY_2026-11-03.jpg"
-  },
-  {
-   "key": "POR_ESCALONAZABALETA_JOSE_2026-11-03",
-   "name": "Jose Escalona-Zabaleta",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Resisting Law Enforcement Def. Uses A Vehicle.",
-   "more": 0,
-   "ts": 1793728042,
-   "photo": null
   }
  ]
 }
