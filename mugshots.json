@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T03:51:19+00:00",
+ "updated": "2026-11-06T04:47:32+00:00",
  "items": [
+  {
+   "key": "MAD_VANEK_EMILY_2026-11-05",
+   "name": "Emily B Vanek",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession methamphetamine",
+   "more": 0,
+   "ts": 1793940445,
+   "photo": null
+  },
+  {
+   "key": "ALL_RAGSDALE_FELICIA_2026-11-05",
+   "name": "Felicia Ragsdale",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation With A Deadly Weapon",
+   "more": 1,
+   "ts": 1793940435,
+   "photo": "photos/ALL_RAGSDALE_FELICIA_2026-11-05.jpg"
+  },
   {
    "key": "VAN_MATTHEWS_ASHLEY_2026-11-05",
    "name": "Ashley Nicole Matthews",
@@ -506,31 +528,31 @@
    "more": 1,
    "ts": 1793890051,
    "photo": "photos/POR_RICE_DAVID_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_HILLIARD_KEVIN_2026-11-05",
-   "name": "Kevin Lamar Hilliard",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or Conversio",
-   "more": 1,
-   "ts": 1793890048,
-   "photo": "photos/POR_HILLIARD_KEVIN_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_THOMAS_XAVIER_2026-11-05",
-   "name": "Xavier Thomas",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Paraphernalia",
-   "more": 1,
-   "ts": 1793886438,
-   "photo": "photos/ALL_THOMAS_XAVIER_2026-11-05.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_VANEK_EMILY_2026-11-05",
+   "name": "Emily B Vanek",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession methamphetamine",
+   "more": 0,
+   "ts": 1793940445,
+   "photo": null
+  },
+  {
+   "key": "ALL_RAGSDALE_FELICIA_2026-11-05",
+   "name": "Felicia Ragsdale",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation With A Deadly Weapon",
+   "more": 1,
+   "ts": 1793940435,
+   "photo": "photos/ALL_RAGSDALE_FELICIA_2026-11-05.jpg"
+  },
   {
    "key": "VAN_MATTHEWS_ASHLEY_2026-11-05",
    "name": "Ashley Nicole Matthews",
@@ -2939,28 +2961,6 @@
    "more": 0,
    "ts": 1793684835,
    "photo": "photos/ALL_WILLIAMS_ERIC_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_SEXTON_NICHOLAS_2026-11-02",
-   "name": "Nicholas Sexton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1793681236,
-   "photo": "photos/ALL_SEXTON_NICHOLAS_2026-11-02.jpg"
-  },
-  {
-   "key": "ALL_RILEY_CHRISTIAN_2026-11-02",
-   "name": "Christian Riley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Recklessness",
-   "more": 0,
-   "ts": 1793681232,
-   "photo": "photos/ALL_RILEY_CHRISTIAN_2026-11-02.jpg"
   }
  ]
 }
