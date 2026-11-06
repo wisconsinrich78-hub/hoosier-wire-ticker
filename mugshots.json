@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-06T22:50:24+00:00",
+ "updated": "2026-11-06T23:48:31+00:00",
  "items": [
+  {
+   "key": "VAN_JACKSON_SIRENA_2026-11-06",
+   "name": "Sirena Kay Jackson",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794008864,
+   "photo": null
+  },
   {
    "key": "MAD_TIPTON_RILEY_2026-11-06",
    "name": "Riley Michael Tipton",
@@ -508,17 +519,6 @@
    "photo": "photos/VAN_MATTHEWS_ASHLEY_2026-11-05.jpg"
   },
   {
-   "key": "VAN_FARRAR_MORISA_2026-11-05",
-   "name": "Morisa Lee Farrar",
-   "age": "58",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793936832,
-   "photo": null
-  },
-  {
    "key": "MAD_ROBINSON_JACOB_2026-11-05",
    "name": "Jacob Timothy Robinson",
    "age": "30",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_JACKSON_SIRENA_2026-11-06",
+   "name": "Sirena Kay Jackson",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794008864,
+   "photo": null
+  },
   {
    "key": "MAD_TIPTON_RILEY_2026-11-06",
    "name": "Riley Michael Tipton",
@@ -2752,61 +2763,6 @@
    "more": 1,
    "ts": 1793753231,
    "photo": null
-  },
-  {
-   "key": "POR_WAGNER_JESSICA_2026-11-03",
-   "name": "Jessica Lynn Wagner",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793749639,
-   "photo": "photos/POR_WAGNER_JESSICA_2026-11-03.jpg"
-  },
-  {
-   "key": "POR_LEATO_JORDAN_2026-11-03",
-   "name": "Jordan Ann Leato",
-   "age": "24",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793749637,
-   "photo": "photos/POR_LEATO_JORDAN_2026-11-03.jpg"
-  },
-  {
-   "key": "VAN_IDRISOV_ELIMDAR_2026-11-03",
-   "name": "Elimdar Idrisov",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Reckless Driving",
-   "more": 0,
-   "ts": 1793749634,
-   "photo": "photos/VAN_IDRISOV_ELIMDAR_2026-11-03.jpg"
-  },
-  {
-   "key": "VAN_AGNEW_MARKEL_2026-11-03",
-   "name": "Markel Lashon Agnew",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1793749634,
-   "photo": "photos/VAN_AGNEW_MARKEL_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_COLE_SAMSON_2026-11-03",
-   "name": "Samson Cole",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1793749630,
-   "photo": "photos/ALL_COLE_SAMSON_2026-11-03.jpg"
   }
  ]
 }
