@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:47:33+00:00",
+ "updated": "2026-11-06T00:50:35+00:00",
  "items": [
   {
    "key": "ALL_CORNETT_CODY_2026-11-05",
@@ -2949,50 +2949,6 @@
    "charge": "Public Administration- Fail To Appear",
    "more": 3,
    "ts": 1793670428,
-   "photo": null
-  },
-  {
-   "key": "POR_EDWARDS_LAUREN_2026-11-02",
-   "name": "Lauren Elizabeth Edwards",
-   "age": "33",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Commitment Prior Charge",
-   "more": 0,
-   "ts": 1793666880,
-   "photo": "photos/POR_EDWARDS_LAUREN_2026-11-02.jpg"
-  },
-  {
-   "key": "POR_SILVA_CHRISTIAN_2026-11-02",
-   "name": "Christian C Silva",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Commitment Prior Charge",
-   "more": 0,
-   "ts": 1793666877,
-   "photo": "photos/POR_SILVA_CHRISTIAN_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_KOCH_MERSADES_2026-11-02",
-   "name": "Mersades Lynn Koch",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1793666871,
-   "photo": "photos/VAN_KOCH_MERSADES_2026-11-02.jpg"
-  },
-  {
-   "key": "VAN_WOODS_HEATHER_2026-11-02",
-   "name": "Heather Nichole Woods",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 1,
-   "ts": 1793666868,
    "photo": null
   }
  ]
