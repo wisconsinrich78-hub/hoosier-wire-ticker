@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T03:47:23+00:00",
+ "updated": "2026-11-06T03:51:19+00:00",
  "items": [
   {
    "key": "VAN_MATTHEWS_ASHLEY_2026-11-05",
@@ -2961,28 +2961,6 @@
    "more": 0,
    "ts": 1793681232,
    "photo": "photos/ALL_RILEY_CHRISTIAN_2026-11-02.jpg"
-  },
-  {
-   "key": "MAD_WHITESEL_AMY_2026-11-02",
-   "name": "Amy Lynn Whitesel",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793677747,
-   "photo": "photos/MAD_WHITESEL_AMY_2026-11-02.jpg"
-  },
-  {
-   "key": "MAD_BROWN_DAQUAN_2026-11-02",
-   "name": "Daquan Lamar Brown",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793677649,
-   "photo": "photos/MAD_BROWN_DAQUAN_2026-11-02.jpg"
   }
  ]
 }
