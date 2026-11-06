@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T17:47:39+00:00",
+ "updated": "2026-11-06T17:51:43+00:00",
  "items": [
   {
    "key": "VAN_STANTON_ROSELYN_2026-11-06",
@@ -2994,28 +2994,6 @@
    "more": 0,
    "ts": 1793731667,
    "photo": "photos/MAD_FRAZEE_LEE_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_HAFNER_MICHAEL_2026-11-03",
-   "name": "Michael Gabriel Hafner",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Continuum Sanctions",
-   "more": 0,
-   "ts": 1793728081,
-   "photo": "photos/MAD_HAFNER_MICHAEL_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_BUCKLEY_TIFFANY_2026-11-03",
-   "name": "Tiffany Nicole Buckley",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Residential Entry",
-   "more": 3,
-   "ts": 1793728061,
-   "photo": "photos/MAD_BUCKLEY_TIFFANY_2026-11-03.jpg"
   }
  ]
 }
