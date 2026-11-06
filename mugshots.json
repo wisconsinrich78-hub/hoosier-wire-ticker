@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T13:58:00+00:00",
+ "updated": "2026-11-06T14:47:47+00:00",
  "items": [
+  {
+   "key": "ALL_JACKSON_DARYCE_2026-11-06",
+   "name": "Daryce Jackson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun - Prior Handgun Conviction",
+   "more": 0,
+   "ts": 1793976433,
+   "photo": "photos/ALL_JACKSON_DARYCE_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_COPELAND_KENNETH_2026-11-06",
+   "name": "Kenneth Copeland",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1793976430,
+   "photo": "photos/ALL_COPELAND_KENNETH_2026-11-06.jpg"
+  },
   {
    "key": "VAN_DORTCH_MARSAILLES_2026-11-06",
    "name": "Marsailles Lamar Dortch",
@@ -442,28 +464,6 @@
    "photo": "photos/VAN_FLEEGER_DANIEL_2026-11-05.jpg"
   },
   {
-   "key": "ALL_ROSENKOETTER_DAVID_2026-11-05",
-   "name": "David Rosenkoetter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 1,
-   "ts": 1793922438,
-   "photo": "photos/ALL_ROSENKOETTER_DAVID_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_LEE_VINCENT_2026-11-05",
-   "name": "Vincent Lee",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 0,
-   "ts": 1793922433,
-   "photo": "photos/ALL_LEE_VINCENT_2026-11-05.jpg"
-  },
-  {
    "key": "VAN_THAXTON_ISAIAH_2026-11-05",
    "name": "Isaiah Anthony Thaxton",
    "age": "21",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_JACKSON_DARYCE_2026-11-06",
+   "name": "Daryce Jackson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun - Prior Handgun Conviction",
+   "more": 0,
+   "ts": 1793976433,
+   "photo": "photos/ALL_JACKSON_DARYCE_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_COPELAND_KENNETH_2026-11-06",
+   "name": "Kenneth Copeland",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1793976430,
+   "photo": "photos/ALL_COPELAND_KENNETH_2026-11-06.jpg"
+  },
   {
    "key": "VAN_DORTCH_MARSAILLES_2026-11-06",
    "name": "Marsailles Lamar Dortch",
@@ -2961,28 +2983,6 @@
    "more": 1,
    "ts": 1793717352,
    "photo": "photos/MAD_WALKER_AMIAH_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_MCCARTER_DARREISE_2026-11-03",
-   "name": "Darreise Mccarter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1793717237,
-   "photo": "photos/ALL_MCCARTER_DARREISE_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_DIAZ_ELLIOT_2026-11-03",
-   "name": "Elliot Diaz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793717233,
-   "photo": "photos/ALL_DIAZ_ELLIOT_2026-11-03.jpg"
   }
  ]
 }
