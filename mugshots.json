@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-06T06:47:37+00:00",
+ "updated": "2026-11-06T07:47:47+00:00",
  "items": [
+  {
+   "key": "ALL_RAMBO_MICHAEL_2026-11-06",
+   "name": "Michael Rambo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793951239,
+   "photo": "photos/ALL_RAMBO_MICHAEL_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_HOUSTON_BRANDON_2026-11-06",
+   "name": "Brandon Houston",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Leaving The Scene Of A Crash - Property Damage",
+   "more": 1,
+   "ts": 1793951235,
+   "photo": "photos/ALL_HOUSTON_BRANDON_2026-11-06.jpg"
+  },
   {
    "key": "VAN_BOATMAN_DAMION_2026-11-05",
    "name": "Damion Austin Boatman",
@@ -442,28 +464,6 @@
    "photo": null
   },
   {
-   "key": "ALL_WILCOXON_DENISE_2026-11-05",
-   "name": "Denise Wilcoxon",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Burglary - Dwelling",
-   "more": 0,
-   "ts": 1793911640,
-   "photo": "photos/ALL_WILCOXON_DENISE_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_CHILCOTE_DAVID_2026-11-05",
-   "name": "David Chilcote",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Habitual Traffic Violator",
-   "more": 3,
-   "ts": 1793911636,
-   "photo": "photos/ALL_CHILCOTE_DAVID_2026-11-05.jpg"
-  },
-  {
    "key": "MAD_WEILEMAN_CHAD_2026-11-05",
    "name": "Chad Allen Weileman",
    "age": "41",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_RAMBO_MICHAEL_2026-11-06",
+   "name": "Michael Rambo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1793951239,
+   "photo": "photos/ALL_RAMBO_MICHAEL_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_HOUSTON_BRANDON_2026-11-06",
+   "name": "Brandon Houston",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Leaving The Scene Of A Crash - Property Damage",
+   "more": 1,
+   "ts": 1793951235,
+   "photo": "photos/ALL_HOUSTON_BRANDON_2026-11-06.jpg"
+  },
   {
    "key": "VAN_BOATMAN_DAMION_2026-11-05",
    "name": "Damion Austin Boatman",
