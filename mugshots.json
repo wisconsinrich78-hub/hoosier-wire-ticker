@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-07T15:38:46+00:00",
+ "updated": "2026-11-07T15:47:30+00:00",
  "items": [
+  {
+   "key": "POR_ROKOSZ_DOMINIC_2026-11-06",
+   "name": "Dominic Gerard Rokosz",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794066437,
+   "photo": "photos/POR_ROKOSZ_DOMINIC_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_WALTERS_CARLOS_2026-11-07",
+   "name": "Carlos Walters",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794066433,
+   "photo": "photos/ALL_WALTERS_CARLOS_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_DELUNA_CESAR_2026-11-07",
+   "name": "Cesar Deluna",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794066429,
+   "photo": "photos/ALL_DELUNA_CESAR_2026-11-07.jpg"
+  },
   {
    "key": "ALL_DIT_AEI_2026-11-07",
    "name": "Aei Dit",
@@ -420,17 +453,6 @@
    "photo": "photos/VAN_DURHAM_DAYTON_2026-11-06.jpg"
   },
   {
-   "key": "ALL_HILLE_JOHN_2026-11-06",
-   "name": "John Hille",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1794005242,
-   "photo": null
-  },
-  {
    "key": "MAD_CHAMBERS_TIMOTHY_2026-11-06",
    "name": "Timothy Jack Chambers",
    "age": "39",
@@ -451,17 +473,6 @@
    "more": 0,
    "ts": 1794001635,
    "photo": "photos/VAN_UNDERWOOD_CASEY_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_AUSTIN_JARREN_2026-11-06",
-   "name": "Jarren Austin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine",
-   "more": 2,
-   "ts": 1794001631,
-   "photo": "photos/ALL_AUSTIN_JARREN_2026-11-06.jpg"
   },
   {
    "key": "MAD_THOMPSON_RONYAI_2026-11-06",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1793994450,
    "photo": "photos/MAD_AKIN_MICHAEL_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_STANTON_ROSELYN_2026-11-06",
-   "name": "Roselyn Venessa Stanton",
-   "age": "55",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
-   "more": 1,
-   "ts": 1793987237,
-   "photo": "photos/VAN_STANTON_ROSELYN_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_ROKOSZ_DOMINIC_2026-11-06",
+   "name": "Dominic Gerard Rokosz",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794066437,
+   "photo": "photos/POR_ROKOSZ_DOMINIC_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_WALTERS_CARLOS_2026-11-07",
+   "name": "Carlos Walters",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794066433,
+   "photo": "photos/ALL_WALTERS_CARLOS_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_DELUNA_CESAR_2026-11-07",
+   "name": "Cesar Deluna",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794066429,
+   "photo": "photos/ALL_DELUNA_CESAR_2026-11-07.jpg"
+  },
   {
    "key": "ALL_DIT_AEI_2026-11-07",
    "name": "Aei Dit",
@@ -2642,39 +2675,6 @@
    "more": 1,
    "ts": 1793807251,
    "photo": null
-  },
-  {
-   "key": "MAD_PIERCE_CLIFFORD_2026-11-04",
-   "name": "Clifford Manis Third Pierce",
-   "age": "51",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793807245,
-   "photo": "photos/MAD_PIERCE_CLIFFORD_2026-11-04.jpg"
-  },
-  {
-   "key": "MAD_PATTERSON_AIDAN_2026-11-04",
-   "name": "Aidan L Patterson",
-   "age": "19",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1793807244,
-   "photo": "photos/MAD_PATTERSON_AIDAN_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_TIEMPOSPARRA_FERNANDO_2026-11-04",
-   "name": "Fernando Tiemposparra",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793807232,
-   "photo": "photos/ALL_TIEMPOSPARRA_FERNANDO_2026-11-04.jpg"
   }
  ]
 }
