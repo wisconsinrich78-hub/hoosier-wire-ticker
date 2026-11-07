@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T13:49:40+00:00",
+ "updated": "2026-11-07T14:47:29+00:00",
  "items": [
   {
    "key": "ALL_STUCKER_MICHAEL_2026-11-07",
@@ -2664,28 +2664,6 @@
    "more": 1,
    "ts": 1793807232,
    "photo": "photos/ALL_TIEMPOSPARRA_FERNANDO_2026-11-04.jpg"
-  },
-  {
-   "key": "MAD_WALLACE_JASON_2026-11-04",
-   "name": "Jason Joe Wallace",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for 10 day Probation Violation - Jail Booking",
-   "more": 6,
-   "ts": 1793803647,
-   "photo": "photos/MAD_WALLACE_JASON_2026-11-04.jpg"
-  },
-  {
-   "key": "POR_BRADLEY_TRINITEE_2026-11-04",
-   "name": "Trinitee Anjalic Bradley",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1793803635,
-   "photo": null
   }
  ]
 }
