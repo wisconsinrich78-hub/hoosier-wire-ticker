@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:47:30+00:00",
+ "updated": "2026-11-07T07:47:25+00:00",
  "items": [
   {
    "key": "VAN_WOOD_KYLE_2026-11-06",
@@ -2587,61 +2587,6 @@
    "more": 4,
    "ts": 1793778446,
    "photo": null
-  },
-  {
-   "key": "VAN_LOWRY_KENNETH_2026-11-04",
-   "name": "Kenneth Eugene Lowry",
-   "age": "58",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery-Committed With A Deadly Weapon-Felony",
-   "more": 1,
-   "ts": 1793778443,
-   "photo": "photos/VAN_LOWRY_KENNETH_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_ORR_DEVERY_2026-11-04",
-   "name": "Devery Lee Orr",
-   "age": "64",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery-Committed With A Deadly Weapon-Felony",
-   "more": 1,
-   "ts": 1793778442,
-   "photo": "photos/VAN_ORR_DEVERY_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_SWIFT_TIMOTHY_2026-11-04",
-   "name": "Timothy Swift",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 2,
-   "ts": 1793778439,
-   "photo": "photos/ALL_SWIFT_TIMOTHY_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_BLACK_RANIYAH_2026-11-04",
-   "name": "Raniyah Black",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1793778435,
-   "photo": "photos/ALL_BLACK_RANIYAH_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_ALEXANDER_LAQUANDRE_2026-11-04",
-   "name": "Laquandre Alexander",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 2,
-   "ts": 1793778431,
-   "photo": "photos/ALL_ALEXANDER_LAQUANDRE_2026-11-04.jpg"
   }
  ]
 }
