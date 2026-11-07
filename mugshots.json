@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-07T12:47:21+00:00",
+ "updated": "2026-11-07T13:47:23+00:00",
  "items": [
+  {
+   "key": "ALL_STUCKER_MICHAEL_2026-11-07",
+   "name": "Michael Stucker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1794059229,
+   "photo": "photos/ALL_STUCKER_MICHAEL_2026-11-07.jpg"
+  },
   {
    "key": "ALL_HELLICK_ARCHER_2026-11-07",
    "name": "Archer Hellick",
@@ -508,17 +519,6 @@
    "photo": "photos/MAD_AKIN_MICHAEL_2026-11-06.jpg"
   },
   {
-   "key": "ALL_JACKSON_CHRISTINA_2026-11-06",
-   "name": "Christina Jackson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 2,
-   "ts": 1793994442,
-   "photo": "photos/ALL_JACKSON_CHRISTINA_2026-11-06.jpg"
-  },
-  {
    "key": "VAN_STANTON_ROSELYN_2026-11-06",
    "name": "Roselyn Venessa Stanton",
    "age": "55",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_STUCKER_MICHAEL_2026-11-07",
+   "name": "Michael Stucker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1794059229,
+   "photo": "photos/ALL_STUCKER_MICHAEL_2026-11-07.jpg"
+  },
   {
    "key": "ALL_HELLICK_ARCHER_2026-11-07",
    "name": "Archer Hellick",
@@ -2686,28 +2697,6 @@
    "more": 1,
    "ts": 1793800049,
    "photo": "photos/ALL_ROONEY_LEEANN_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_LAWRENCE_ROMEROL_2026-11-04",
-   "name": "Romerol Lawrence",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1793800043,
-   "photo": "photos/ALL_LAWRENCE_ROMEROL_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_HUNTER_TRISTEEN_2026-11-04",
-   "name": "Tristeen Hunter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793800039,
-   "photo": "photos/ALL_HUNTER_TRISTEEN_2026-11-04.jpg"
   }
  ]
 }
