@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-07T16:47:35+00:00",
+ "updated": "2026-11-07T17:47:29+00:00",
  "items": [
+  {
+   "key": "POR_FITZHUGH_RYAN_2026-11-06",
+   "name": "Ryan Keith Fitzhugh",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794073635,
+   "photo": "photos/POR_FITZHUGH_RYAN_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_KELSER_DALE_2026-11-06",
+   "name": "Dale Allen Kelser",
+   "age": "56",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1794073632,
+   "photo": "photos/POR_KELSER_DALE_2026-11-06.jpg"
+  },
+  {
+   "key": "VAN_STOCKER_STANLEY_2026-11-07",
+   "name": "Stanley Albert Stocker",
+   "age": "51",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Vccc Filed Ptr",
+   "more": 0,
+   "ts": 1794073629,
+   "photo": "photos/VAN_STOCKER_STANLEY_2026-11-07.jpg"
+  },
   {
    "key": "MAD_CAVENDISH_SIERRA_2026-11-07",
    "name": "Sierra Brooke Cavendish",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1793998056,
    "photo": "photos/MAD_THOMPSON_RONYAI_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_SIMMONS_ISAIAH_2026-11-06",
-   "name": "Isaiah Tyrice Simmons",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793994461,
-   "photo": null
-  },
-  {
-   "key": "MAD_MCDANIEL_ROBERT_2026-11-06",
-   "name": "Robert Reece Mcdaniel",
-   "age": "74",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Child Molest L4 - Child <14 perf/sub to fondling, of child/older perso",
-   "more": 1,
-   "ts": 1793994457,
-   "photo": null
-  },
-  {
-   "key": "MAD_CARLIN_SHELLEY_2026-11-06",
-   "name": "Shelley Ray Carlin",
-   "age": "55",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1793994452,
-   "photo": "photos/MAD_CARLIN_SHELLEY_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_FITZHUGH_RYAN_2026-11-06",
+   "name": "Ryan Keith Fitzhugh",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794073635,
+   "photo": "photos/POR_FITZHUGH_RYAN_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_KELSER_DALE_2026-11-06",
+   "name": "Dale Allen Kelser",
+   "age": "56",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1794073632,
+   "photo": "photos/POR_KELSER_DALE_2026-11-06.jpg"
+  },
+  {
+   "key": "VAN_STOCKER_STANLEY_2026-11-07",
+   "name": "Stanley Albert Stocker",
+   "age": "51",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Vccc Filed Ptr",
+   "more": 0,
+   "ts": 1794073629,
+   "photo": "photos/VAN_STOCKER_STANLEY_2026-11-07.jpg"
+  },
   {
    "key": "MAD_CAVENDISH_SIERRA_2026-11-07",
    "name": "Sierra Brooke Cavendish",
@@ -2642,28 +2675,6 @@
    "more": 0,
    "ts": 1793814456,
    "photo": "photos/MAD_WILSON_JESSICA_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_ODAY_DONALD_2026-11-04",
-   "name": "Donald Oday",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793814441,
-   "photo": "photos/ALL_ODAY_DONALD_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_GREENE_ELIAN_2026-11-04",
-   "name": "Elian Greene",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Of A Firearm",
-   "more": 1,
-   "ts": 1793814436,
-   "photo": "photos/ALL_GREENE_ELIAN_2026-11-04.jpg"
   }
  ]
 }
