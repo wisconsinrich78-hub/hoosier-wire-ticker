@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-07T18:47:54+00:00",
+ "updated": "2026-11-07T19:47:48+00:00",
  "items": [
+  {
+   "key": "POR_ROACH_DANIEL_2026-11-06",
+   "name": "Daniel Richard Roach",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794080848,
+   "photo": "photos/POR_ROACH_DANIEL_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_ROE_WESLEY_2026-11-06",
+   "name": "Wesley Doyle Roe",
+   "age": "58",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Commitment Prior Charge",
+   "more": 0,
+   "ts": 1794080845,
+   "photo": "photos/POR_ROE_WESLEY_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_SELIGER_RYAN_2026-11-06",
+   "name": "Ryan Keith Seliger",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 1,
+   "ts": 1794080844,
+   "photo": "photos/POR_SELIGER_RYAN_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_DIAZ_PESBIT_2026-11-06",
+   "name": "Pesbit Wilfredo Diaz",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1794080841,
+   "photo": "photos/POR_DIAZ_PESBIT_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_ROGERS_ERIC_2026-11-06",
+   "name": "Eric Quentin Rogers",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794080840,
+   "photo": "photos/POR_ROGERS_ERIC_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_GIZYNSKI_MICHAEL_2026-11-06",
+   "name": "Michael George Gizynski",
+   "age": "20",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794080837,
+   "photo": "photos/POR_GIZYNSKI_MICHAEL_2026-11-06.jpg"
+  },
   {
    "key": "MAD_ELLER_JACOB_2026-11-07",
    "name": "Jacob Logan Eller",
@@ -233,28 +299,6 @@
    "photo": "photos/POR_CASTER_DAVID_2026-11-06.jpg"
   },
   {
-   "key": "POR_GREENLAW_ARTTRAIL_2026-11-06",
-   "name": "Arttrail Darnell Greenlaw",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Comply",
-   "more": 0,
-   "ts": 1794048444,
-   "photo": "photos/POR_GREENLAW_ARTTRAIL_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_FRAZIER_NATHAN_2026-11-06",
-   "name": "Nathan Patrick Frazier",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1794048441,
-   "photo": "photos/POR_FRAZIER_NATHAN_2026-11-06.jpg"
-  },
-  {
    "key": "VAN_WILSON_FERNANDO_2026-11-07",
    "name": "Fernando Lon Wilson",
    "age": "38",
@@ -484,53 +528,75 @@
    "more": 1,
    "ts": 1794012430,
    "photo": null
-  },
-  {
-   "key": "VAN_JACKSON_SIRENA_2026-11-06",
-   "name": "Sirena Kay Jackson",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794008864,
-   "photo": "photos/VAN_JACKSON_SIRENA_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_TIPTON_RILEY_2026-11-06",
-   "name": "Riley Michael Tipton",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Reckless Driving",
-   "more": 1,
-   "ts": 1794005257,
-   "photo": "photos/MAD_TIPTON_RILEY_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_ANDERSON_ADRIENNE_2026-11-06",
-   "name": "Adrienne Chae Anderson",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794005246,
-   "photo": "photos/VAN_ANDERSON_ADRIENNE_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_DURHAM_DAYTON_2026-11-06",
-   "name": "Dayton Andrew Durham",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 1,
-   "ts": 1794005245,
-   "photo": "photos/VAN_DURHAM_DAYTON_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_ROACH_DANIEL_2026-11-06",
+   "name": "Daniel Richard Roach",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794080848,
+   "photo": "photos/POR_ROACH_DANIEL_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_ROE_WESLEY_2026-11-06",
+   "name": "Wesley Doyle Roe",
+   "age": "58",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Commitment Prior Charge",
+   "more": 0,
+   "ts": 1794080845,
+   "photo": "photos/POR_ROE_WESLEY_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_SELIGER_RYAN_2026-11-06",
+   "name": "Ryan Keith Seliger",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 1,
+   "ts": 1794080844,
+   "photo": "photos/POR_SELIGER_RYAN_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_DIAZ_PESBIT_2026-11-06",
+   "name": "Pesbit Wilfredo Diaz",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1794080841,
+   "photo": "photos/POR_DIAZ_PESBIT_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_ROGERS_ERIC_2026-11-06",
+   "name": "Eric Quentin Rogers",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794080840,
+   "photo": "photos/POR_ROGERS_ERIC_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_GIZYNSKI_MICHAEL_2026-11-06",
+   "name": "Michael George Gizynski",
+   "age": "20",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794080837,
+   "photo": "photos/POR_GIZYNSKI_MICHAEL_2026-11-06.jpg"
+  },
   {
    "key": "MAD_ELLER_JACOB_2026-11-07",
    "name": "Jacob Logan Eller",
@@ -2642,17 +2708,6 @@
    "more": 1,
    "ts": 1793825241,
    "photo": "photos/VAN_LUCKETT_SAVON_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_SINCLAIR_BLAKE_2026-11-04",
-   "name": "Blake Andrew Sinclair",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Auto Theft - Where Intent Is To Deprive Owner Of Value Or",
-   "more": 0,
-   "ts": 1793821641,
-   "photo": null
   }
  ]
 }
