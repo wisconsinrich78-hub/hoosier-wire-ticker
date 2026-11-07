@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T17:47:29+00:00",
+ "updated": "2026-11-07T17:50:37+00:00",
  "items": [
   {
    "key": "POR_FITZHUGH_RYAN_2026-11-06",
@@ -2664,17 +2664,6 @@
    "more": 0,
    "ts": 1793818030,
    "photo": "photos/ALL_MARKER_DAVID_2026-11-04.jpg"
-  },
-  {
-   "key": "MAD_WILSON_JESSICA_2026-11-04",
-   "name": "Jessica Dawn Wilson",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793814456,
-   "photo": "photos/MAD_WILSON_JESSICA_2026-11-04.jpg"
   }
  ]
 }
