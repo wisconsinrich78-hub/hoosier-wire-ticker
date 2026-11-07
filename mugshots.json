@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-07T03:47:24+00:00",
+ "updated": "2026-11-07T04:47:38+00:00",
  "items": [
+  {
+   "key": "VAN_WOOD_KYLE_2026-11-06",
+   "name": "Kyle Gregory Wood",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 1,
+   "ts": 1794026838,
+   "photo": "photos/VAN_WOOD_KYLE_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_ROBINSON_JEFFERY_2026-11-06",
+   "name": "Jeffery Robinson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "POSSESS MARIJUANA/HASHISH - PRIOR CONVICTION & MORE THAN 30g",
+   "more": 0,
+   "ts": 1794026834,
+   "photo": "photos/ALL_ROBINSON_JEFFERY_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_ALFORD_RICHARD_2026-11-06",
+   "name": "Richard Alford",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 2,
+   "ts": 1794026830,
+   "photo": "photos/ALL_ALFORD_RICHARD_2026-11-06.jpg"
+  },
   {
    "key": "MAD_WOOD_ASHLEY_2026-11-06",
    "name": "Ashley Diane Wood",
@@ -486,39 +519,6 @@
    "photo": "photos/ALL_HOUSTON_BRANDON_2026-11-06.jpg"
   },
   {
-   "key": "VAN_BOATMAN_DAMION_2026-11-05",
-   "name": "Damion Austin Boatman",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793947642,
-   "photo": "photos/VAN_BOATMAN_DAMION_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_ULMER_RUSTY_2026-11-06",
-   "name": "Rusty Ulmer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793947639,
-   "photo": "photos/ALL_ULMER_RUSTY_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_RODENBECK_JUSTIN_2026-11-06",
-   "name": "Justin Rodenbeck",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793947635,
-   "photo": "photos/ALL_RODENBECK_JUSTIN_2026-11-06.jpg"
-  },
-  {
    "key": "POR_BEAUDRY_KIRK_2026-11-05",
    "name": "Kirk Anthony Beaudry",
    "age": "54",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_WOOD_KYLE_2026-11-06",
+   "name": "Kyle Gregory Wood",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 1,
+   "ts": 1794026838,
+   "photo": "photos/VAN_WOOD_KYLE_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_ROBINSON_JEFFERY_2026-11-06",
+   "name": "Jeffery Robinson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "POSSESS MARIJUANA/HASHISH - PRIOR CONVICTION & MORE THAN 30g",
+   "more": 0,
+   "ts": 1794026834,
+   "photo": "photos/ALL_ROBINSON_JEFFERY_2026-11-06.jpg"
+  },
+  {
+   "key": "ALL_ALFORD_RICHARD_2026-11-06",
+   "name": "Richard Alford",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 2,
+   "ts": 1794026830,
+   "photo": "photos/ALL_ALFORD_RICHARD_2026-11-06.jpg"
+  },
   {
    "key": "MAD_WOOD_ASHLEY_2026-11-06",
    "name": "Ashley Diane Wood",
@@ -2697,50 +2730,6 @@
    "more": 1,
    "ts": 1793767659,
    "photo": null
-  },
-  {
-   "key": "POR_WITT_CONNIE_2026-11-03",
-   "name": "Connie Witt",
-   "age": "55",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
-   "more": 0,
-   "ts": 1793767645,
-   "photo": null
-  },
-  {
-   "key": "POR_BUTTON_JAMES_2026-11-03",
-   "name": "James Edward Button",
-   "age": "58",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
-   "more": 0,
-   "ts": 1793767644,
-   "photo": "photos/POR_BUTTON_JAMES_2026-11-03.jpg"
-  },
-  {
-   "key": "VAN_GRIDDINS_JARMAN_2026-11-03",
-   "name": "Jarman Anthony Griddins",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft : A : M",
-   "more": 0,
-   "ts": 1793767640,
-   "photo": "photos/VAN_GRIDDINS_JARMAN_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_SINGH_ARSHDEEP_2026-11-03",
-   "name": "Arshdeep Singh",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny",
-   "more": 4,
-   "ts": 1793767636,
-   "photo": "photos/ALL_SINGH_ARSHDEEP_2026-11-03.jpg"
   }
  ]
 }
