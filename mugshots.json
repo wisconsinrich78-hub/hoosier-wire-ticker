@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-07T17:50:37+00:00",
+ "updated": "2026-11-07T18:47:54+00:00",
  "items": [
+  {
+   "key": "MAD_ELLER_JACOB_2026-11-07",
+   "name": "Jacob Logan Eller",
+   "age": "25",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "RLE - uses a vehicle",
+   "more": 0,
+   "ts": 1794077250,
+   "photo": "photos/MAD_ELLER_JACOB_2026-11-07.jpg"
+  },
+  {
+   "key": "POR_SPARKS_TERA_2026-11-06",
+   "name": "Tera Nicole Sparks",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794077247,
+   "photo": "photos/POR_SPARKS_TERA_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_EASTON_CHRISTA_2026-11-06",
+   "name": "Christa Lee Easton",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Commitment Prior Charge",
+   "more": 0,
+   "ts": 1794077244,
+   "photo": "photos/POR_EASTON_CHRISTA_2026-11-06.jpg"
+  },
   {
    "key": "POR_FITZHUGH_RYAN_2026-11-06",
    "name": "Ryan Keith Fitzhugh",
@@ -495,42 +528,42 @@
    "more": 1,
    "ts": 1794005245,
    "photo": "photos/VAN_DURHAM_DAYTON_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_CHAMBERS_TIMOTHY_2026-11-06",
-   "name": "Timothy Jack Chambers",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1794001640,
-   "photo": "photos/MAD_CHAMBERS_TIMOTHY_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_UNDERWOOD_CASEY_2026-11-06",
-   "name": "Casey Lee Underwood",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794001635,
-   "photo": "photos/VAN_UNDERWOOD_CASEY_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_THOMPSON_RONYAI_2026-11-06",
-   "name": "Ronyai D Thompson",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1793998056,
-   "photo": "photos/MAD_THOMPSON_RONYAI_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_ELLER_JACOB_2026-11-07",
+   "name": "Jacob Logan Eller",
+   "age": "25",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "RLE - uses a vehicle",
+   "more": 0,
+   "ts": 1794077250,
+   "photo": "photos/MAD_ELLER_JACOB_2026-11-07.jpg"
+  },
+  {
+   "key": "POR_SPARKS_TERA_2026-11-06",
+   "name": "Tera Nicole Sparks",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794077247,
+   "photo": "photos/POR_SPARKS_TERA_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_EASTON_CHRISTA_2026-11-06",
+   "name": "Christa Lee Easton",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Commitment Prior Charge",
+   "more": 0,
+   "ts": 1794077244,
+   "photo": "photos/POR_EASTON_CHRISTA_2026-11-06.jpg"
+  },
   {
    "key": "POR_FITZHUGH_RYAN_2026-11-06",
    "name": "Ryan Keith Fitzhugh",
@@ -2620,50 +2653,6 @@
    "more": 0,
    "ts": 1793821641,
    "photo": null
-  },
-  {
-   "key": "VAN_KIMPLING_PHILIP_2026-11-04",
-   "name": "Philip James Kimpling",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Rape - Intercourse",
-   "more": 0,
-   "ts": 1793818035,
-   "photo": "photos/VAN_KIMPLING_PHILIP_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_GARDNER_TODD_2026-11-04",
-   "name": "Todd Dustin Gardner",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793818034,
-   "photo": "photos/VAN_GARDNER_TODD_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_PORTER_AMANDA_2026-11-04",
-   "name": "Amanda Ann Porter",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793818031,
-   "photo": null
-  },
-  {
-   "key": "ALL_MARKER_DAVID_2026-11-04",
-   "name": "David Marker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793818030,
-   "photo": "photos/ALL_MARKER_DAVID_2026-11-04.jpg"
   }
  ]
 }
