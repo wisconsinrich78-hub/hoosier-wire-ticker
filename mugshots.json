@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-07T14:47:29+00:00",
+ "updated": "2026-11-07T15:38:46+00:00",
  "items": [
+  {
+   "key": "ALL_DIT_AEI_2026-11-07",
+   "name": "Aei Dit",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1794064377,
+   "photo": "photos/ALL_DIT_AEI_2026-11-07.jpg"
+  },
   {
    "key": "ALL_STUCKER_MICHAEL_2026-11-07",
    "name": "Michael Stucker",
@@ -464,17 +475,6 @@
    "photo": "photos/MAD_THOMPSON_RONYAI_2026-11-06.jpg"
   },
   {
-   "key": "ALL_ALFORD_SAKIRRA_2026-11-06",
-   "name": "Sakirra Alford",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793998039,
-   "photo": "photos/ALL_ALFORD_SAKIRRA_2026-11-06.jpg"
-  },
-  {
    "key": "MAD_SIMMONS_ISAIAH_2026-11-06",
    "name": "Isaiah Tyrice Simmons",
    "age": "28",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_DIT_AEI_2026-11-07",
+   "name": "Aei Dit",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1794064377,
+   "photo": "photos/ALL_DIT_AEI_2026-11-07.jpg"
+  },
   {
    "key": "ALL_STUCKER_MICHAEL_2026-11-07",
    "name": "Michael Stucker",
