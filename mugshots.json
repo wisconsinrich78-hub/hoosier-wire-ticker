@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:47:30+00:00",
+ "updated": "2026-11-07T15:50:26+00:00",
  "items": [
   {
    "key": "POR_ROKOSZ_DOMINIC_2026-11-06",
@@ -2663,17 +2663,6 @@
    "charge": "Theft",
    "more": 0,
    "ts": 1793810831,
-   "photo": null
-  },
-  {
-   "key": "MAD_WILLS_RICKIA_2026-11-04",
-   "name": "Rickia Mary Louise Wills",
-   "age": "23",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Theft- all other larceny - value of property at least $750 and less th",
-   "more": 1,
-   "ts": 1793807251,
    "photo": null
   }
  ]
