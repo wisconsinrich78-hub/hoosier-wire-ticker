@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T04:50:23+00:00",
+ "updated": "2026-11-07T05:49:29+00:00",
  "items": [
   {
    "key": "VAN_WOOD_KYLE_2026-11-06",
@@ -2664,61 +2664,6 @@
    "more": 0,
    "ts": 1793774833,
    "photo": "photos/ALL_RAMIREZ_CARINA_2026-11-04.jpg"
-  },
-  {
-   "key": "POR_GAWNE_TAMMY_2026-11-03",
-   "name": "Tammy Arlene Gawne",
-   "age": "58",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Intimidation",
-   "more": 0,
-   "ts": 1793771256,
-   "photo": "photos/POR_GAWNE_TAMMY_2026-11-03.jpg"
-  },
-  {
-   "key": "POR_COFFELT_MICHAEL_2026-11-03",
-   "name": "Michael Lee Coffelt",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 3,
-   "ts": 1793771255,
-   "photo": null
-  },
-  {
-   "key": "VAN_PEARCE_CRAIG_2026-11-03",
-   "name": "Craig Michael Pearce",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 1,
-   "ts": 1793771252,
-   "photo": "photos/VAN_PEARCE_CRAIG_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_WOODS_KESHAUN_2026-11-03",
-   "name": "Keshaun Woods",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Firearm Without A License By Convicted Felon",
-   "more": 2,
-   "ts": 1793771247,
-   "photo": "photos/ALL_WOODS_KESHAUN_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_ISRAEL_JACOB_2026-11-03",
-   "name": "Jacob Israel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine - At Least 10 But Less Than 28 Grams And",
-   "more": 3,
-   "ts": 1793771243,
-   "photo": "photos/ALL_ISRAEL_JACOB_2026-11-03.jpg"
   }
  ]
 }
