@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T04:47:38+00:00",
+ "updated": "2026-11-07T04:50:23+00:00",
  "items": [
   {
    "key": "VAN_WOOD_KYLE_2026-11-06",
@@ -2719,17 +2719,6 @@
    "more": 3,
    "ts": 1793771243,
    "photo": "photos/ALL_ISRAEL_JACOB_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_VAZQUEZDIAZ_MISAEL_2026-11-03",
-   "name": "Misael R Vazquez-Diaz",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operator Never Licensed",
-   "more": 1,
-   "ts": 1793767659,
-   "photo": null
   }
  ]
 }
