@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-07T19:47:48+00:00",
+ "updated": "2026-11-07T20:47:26+00:00",
  "items": [
+  {
+   "key": "MAD_SMITH_TANISHA_2026-11-07",
+   "name": "Tanisha Kay Smith",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1794084440,
+   "photo": "photos/MAD_SMITH_TANISHA_2026-11-07.jpg"
+  },
+  {
+   "key": "POR_WARNELL_JENASCIA_2026-11-06",
+   "name": "Jenascia Avery Warnell",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 0,
+   "ts": 1794084432,
+   "photo": "photos/POR_WARNELL_JENASCIA_2026-11-06.jpg"
+  },
   {
    "key": "POR_ROACH_DANIEL_2026-11-06",
    "name": "Daniel Richard Roach",
@@ -288,17 +310,6 @@
    "photo": "photos/POR_PAWELKO_ADAM_2026-11-06.jpg"
   },
   {
-   "key": "POR_CASTER_DAVID_2026-11-06",
-   "name": "David Bryan Caster",
-   "age": "61",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794048445,
-   "photo": "photos/POR_CASTER_DAVID_2026-11-06.jpg"
-  },
-  {
    "key": "VAN_WILSON_FERNANDO_2026-11-07",
    "name": "Fernando Lon Wilson",
    "age": "38",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794012434,
    "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_OCCEDAT_CHERLINE_2026-11-06",
-   "name": "Cherline Nmn Occedat",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation With A Deadly Weapon",
-   "more": 1,
-   "ts": 1794012430,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SMITH_TANISHA_2026-11-07",
+   "name": "Tanisha Kay Smith",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1794084440,
+   "photo": "photos/MAD_SMITH_TANISHA_2026-11-07.jpg"
+  },
+  {
+   "key": "POR_WARNELL_JENASCIA_2026-11-06",
+   "name": "Jenascia Avery Warnell",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "more": 0,
+   "ts": 1794084432,
+   "photo": "photos/POR_WARNELL_JENASCIA_2026-11-06.jpg"
+  },
   {
    "key": "POR_ROACH_DANIEL_2026-11-06",
    "name": "Daniel Richard Roach",
@@ -2686,28 +2708,6 @@
    "more": 1,
    "ts": 1793825262,
    "photo": "photos/MAD_WHITNEY_NICKOLAS_2026-11-04.jpg"
-  },
-  {
-   "key": "POR_NICHOLAS_MICHAEL_2026-11-04",
-   "name": "Michael Robert Nicholas",
-   "age": "51",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Arson",
-   "more": 1,
-   "ts": 1793825246,
-   "photo": "photos/POR_NICHOLAS_MICHAEL_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_LUCKETT_SAVON_2026-11-04",
-   "name": "Savon Delmar Luckett",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement 2 Priors/Creates Substanial Risk",
-   "more": 1,
-   "ts": 1793825241,
-   "photo": "photos/VAN_LUCKETT_SAVON_2026-11-04.jpg"
   }
  ]
 }
