@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:47:27+00:00",
+ "updated": "2026-11-07T00:51:09+00:00",
  "items": [
   {
    "key": "MAD_RITENOUR_DANNIE_2026-11-06",
@@ -2763,17 +2763,6 @@
    "more": 1,
    "ts": 1793756879,
    "photo": "photos/ALL_CHAFFIN_GAGE_2026-11-03.jpg"
-  },
-  {
-   "key": "MAD_MUNDELL_PAMELA_2026-11-03",
-   "name": "Pamela Jean Mundell",
-   "age": "63",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793753303,
-   "photo": "photos/MAD_MUNDELL_PAMELA_2026-11-03.jpg"
   }
  ]
 }
