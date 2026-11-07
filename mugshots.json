@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T20:47:26+00:00",
+ "updated": "2026-11-07T20:49:45+00:00",
  "items": [
   {
    "key": "MAD_SMITH_TANISHA_2026-11-07",
@@ -2697,17 +2697,6 @@
    "more": 1,
    "ts": 1793828849,
    "photo": "photos/ALL_HESS_SHANTELL_2026-11-04.jpg"
-  },
-  {
-   "key": "MAD_WHITNEY_NICKOLAS_2026-11-04",
-   "name": "Nickolas Ryan Whitney",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 1,
-   "ts": 1793825262,
-   "photo": "photos/MAD_WHITNEY_NICKOLAS_2026-11-04.jpg"
   }
  ]
 }
