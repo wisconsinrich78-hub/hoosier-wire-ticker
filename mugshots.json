@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-07T20:49:45+00:00",
+ "updated": "2026-11-07T21:47:49+00:00",
  "items": [
+  {
+   "key": "ALL_GEYER_TASHA_2026-11-07",
+   "name": "Tasha Geyer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia",
+   "more": 0,
+   "ts": 1794088035,
+   "photo": "photos/ALL_GEYER_TASHA_2026-11-07.jpg"
+  },
   {
    "key": "MAD_SMITH_TANISHA_2026-11-07",
    "name": "Tanisha Kay Smith",
@@ -475,17 +486,6 @@
    "photo": "photos/ALL_ROBINSON_JEFFERY_2026-11-06.jpg"
   },
   {
-   "key": "ALL_ALFORD_RICHARD_2026-11-06",
-   "name": "Richard Alford",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 2,
-   "ts": 1794026830,
-   "photo": "photos/ALL_ALFORD_RICHARD_2026-11-06.jpg"
-  },
-  {
    "key": "MAD_WOOD_ASHLEY_2026-11-06",
    "name": "Ashley Diane Wood",
    "age": "42",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_GEYER_TASHA_2026-11-07",
+   "name": "Tasha Geyer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia",
+   "more": 0,
+   "ts": 1794088035,
+   "photo": "photos/ALL_GEYER_TASHA_2026-11-07.jpg"
+  },
   {
    "key": "MAD_SMITH_TANISHA_2026-11-07",
    "name": "Tanisha Kay Smith",
@@ -2675,28 +2686,6 @@
    "more": 0,
    "ts": 1793832429,
    "photo": "photos/ALL_FOWLKES_HEAVEN_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_PARMENTER_GAVIN_2026-11-04",
-   "name": "Gavin Parmenter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793828853,
-   "photo": "photos/ALL_PARMENTER_GAVIN_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_HESS_SHANTELL_2026-11-04",
-   "name": "Shantell Hess",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 1,
-   "ts": 1793828849,
-   "photo": "photos/ALL_HESS_SHANTELL_2026-11-04.jpg"
   }
  ]
 }
