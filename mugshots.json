@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T13:47:23+00:00",
+ "updated": "2026-11-07T13:49:40+00:00",
  "items": [
   {
    "key": "ALL_STUCKER_MICHAEL_2026-11-07",
@@ -2686,17 +2686,6 @@
    "more": 0,
    "ts": 1793803635,
    "photo": null
-  },
-  {
-   "key": "ALL_ROONEY_LEEANN_2026-11-04",
-   "name": "Leeann Rooney",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 1,
-   "ts": 1793800049,
-   "photo": "photos/ALL_ROONEY_LEEANN_2026-11-04.jpg"
   }
  ]
 }
