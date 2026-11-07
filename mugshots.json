@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T00:51:09+00:00",
+ "updated": "2026-11-07T01:53:33+00:00",
  "items": [
   {
    "key": "MAD_RITENOUR_DANNIE_2026-11-06",
@@ -2730,39 +2730,6 @@
    "more": 3,
    "ts": 1793764036,
    "photo": null
-  },
-  {
-   "key": "MAD_PROFFITT_MARK_2026-11-03",
-   "name": "Mark Allen Proffitt",
-   "age": "65",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793757119,
-   "photo": "photos/MAD_PROFFITT_MARK_2026-11-03.jpg"
-  },
-  {
-   "key": "VAN_JOYCE_ROBERT_2026-11-03",
-   "name": "Robert Louis Joyce",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
-   "more": 0,
-   "ts": 1793756890,
-   "photo": "photos/VAN_JOYCE_ROBERT_2026-11-03.jpg"
-  },
-  {
-   "key": "ALL_CHAFFIN_GAGE_2026-11-03",
-   "name": "Gage Chaffin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 1,
-   "ts": 1793756879,
-   "photo": "photos/ALL_CHAFFIN_GAGE_2026-11-03.jpg"
   }
  ]
 }
