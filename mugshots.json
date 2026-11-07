@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-07T11:47:33+00:00",
+ "updated": "2026-11-07T12:47:21+00:00",
  "items": [
+  {
+   "key": "ALL_HELLICK_ARCHER_2026-11-07",
+   "name": "Archer Hellick",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1794055627,
+   "photo": "photos/ALL_HELLICK_ARCHER_2026-11-07.jpg"
+  },
   {
    "key": "VAN_KUNKLER_CALEB_2026-11-07",
    "name": "Caleb Edward Kunkler",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1793987237,
    "photo": "photos/VAN_STANTON_ROSELYN_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_ROGERS_MICHAEL_2026-11-06",
-   "name": "Michael Rogers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery Result In Bodily Injury",
-   "more": 0,
-   "ts": 1793987233,
-   "photo": "photos/ALL_ROGERS_MICHAEL_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_HELLICK_ARCHER_2026-11-07",
+   "name": "Archer Hellick",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1794055627,
+   "photo": "photos/ALL_HELLICK_ARCHER_2026-11-07.jpg"
+  },
   {
    "key": "VAN_KUNKLER_CALEB_2026-11-07",
    "name": "Caleb Edward Kunkler",
