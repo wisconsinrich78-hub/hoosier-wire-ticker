@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-07T07:49:42+00:00",
+ "updated": "2026-11-07T08:47:44+00:00",
  "items": [
+  {
+   "key": "VAN_WAGNER_JOHN_2026-11-07",
+   "name": "John Charles Wagner",
+   "age": "49",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794041245,
+   "photo": "photos/VAN_WAGNER_JOHN_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_STEWART_EMMA_2026-11-07",
+   "name": "Emma Stewart",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794041241,
+   "photo": "photos/ALL_STEWART_EMMA_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_OREBAUGH_MARY_2026-11-07",
+   "name": "Mary Orebaugh",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Controlled Substance",
+   "more": 1,
+   "ts": 1794041237,
+   "photo": "photos/ALL_OREBAUGH_MARY_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_BOOCHER_CHARLES_2026-11-07",
+   "name": "Charles Boocher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Habitual Traffic Violator",
+   "more": 2,
+   "ts": 1794041234,
+   "photo": "photos/ALL_BOOCHER_CHARLES_2026-11-07.jpg"
+  },
   {
    "key": "VAN_WOOD_KYLE_2026-11-06",
    "name": "Kyle Gregory Wood",
@@ -475,50 +519,6 @@
    "photo": "photos/VAN_ESCOBAR_KENNY_2026-11-06.jpg"
   },
   {
-   "key": "VAN_HAAS_MEGAN_2026-11-06",
-   "name": "Megan Samantha Haas",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793954833,
-   "photo": "photos/VAN_HAAS_MEGAN_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_WATERS_STEPHANIE_2026-11-06",
-   "name": "Stephanie Waters",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 0,
-   "ts": 1793954830,
-   "photo": "photos/ALL_WATERS_STEPHANIE_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_RAMBO_MICHAEL_2026-11-06",
-   "name": "Michael Rambo",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793951239,
-   "photo": "photos/ALL_RAMBO_MICHAEL_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_HOUSTON_BRANDON_2026-11-06",
-   "name": "Brandon Houston",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving The Scene Of A Crash - Property Damage",
-   "more": 1,
-   "ts": 1793951235,
-   "photo": "photos/ALL_HOUSTON_BRANDON_2026-11-06.jpg"
-  },
-  {
    "key": "POR_BEAUDRY_KIRK_2026-11-05",
    "name": "Kirk Anthony Beaudry",
    "age": "54",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_WAGNER_JOHN_2026-11-07",
+   "name": "John Charles Wagner",
+   "age": "49",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794041245,
+   "photo": "photos/VAN_WAGNER_JOHN_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_STEWART_EMMA_2026-11-07",
+   "name": "Emma Stewart",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794041241,
+   "photo": "photos/ALL_STEWART_EMMA_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_OREBAUGH_MARY_2026-11-07",
+   "name": "Mary Orebaugh",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Controlled Substance",
+   "more": 1,
+   "ts": 1794041237,
+   "photo": "photos/ALL_OREBAUGH_MARY_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_BOOCHER_CHARLES_2026-11-07",
+   "name": "Charles Boocher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Habitual Traffic Violator",
+   "more": 2,
+   "ts": 1794041234,
+   "photo": "photos/ALL_BOOCHER_CHARLES_2026-11-07.jpg"
+  },
   {
    "key": "VAN_WOOD_KYLE_2026-11-06",
    "name": "Kyle Gregory Wood",
@@ -2521,39 +2565,6 @@
    "more": 4,
    "ts": 1793785634,
    "photo": "photos/ALL_BUCHANAN_DONALD_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_VILLANUEVA_ANGELA_2026-11-04",
-   "name": "Angela Villanueva",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 1,
-   "ts": 1793782044,
-   "photo": "photos/ALL_VILLANUEVA_ANGELA_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_TAYLOR_ISREAL_2026-11-04",
-   "name": "Isreal Taylor",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793782041,
-   "photo": "photos/ALL_TAYLOR_ISREAL_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_LOVE_JESSE_2026-11-04",
-   "name": "Jesse Love",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1793782036,
-   "photo": "photos/ALL_LOVE_JESSE_2026-11-04.jpg"
   }
  ]
 }
