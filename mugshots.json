@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-07T09:47:52+00:00",
+ "updated": "2026-11-07T10:47:55+00:00",
  "items": [
+  {
+   "key": "POR_STACY_WADE_2026-11-06",
+   "name": "Wade Gilbert Stacy",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794048453,
+   "photo": "photos/POR_STACY_WADE_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_SAQUI_MICHELLE_2026-11-06",
+   "name": "Michelle Marie Saqui",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1794048452,
+   "photo": "photos/POR_SAQUI_MICHELLE_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_JETER_ERIC_2026-11-06",
+   "name": "Eric Ramon Jeter",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794048449,
+   "photo": "photos/POR_JETER_ERIC_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_PAWELKO_ADAM_2026-11-06",
+   "name": "Adam Scott Pawelko",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794048448,
+   "photo": "photos/POR_PAWELKO_ADAM_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_CASTER_DAVID_2026-11-06",
+   "name": "David Bryan Caster",
+   "age": "61",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794048445,
+   "photo": "photos/POR_CASTER_DAVID_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_GREENLAW_ARTTRAIL_2026-11-06",
+   "name": "Arttrail Darnell Greenlaw",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Comply",
+   "more": 0,
+   "ts": 1794048444,
+   "photo": "photos/POR_GREENLAW_ARTTRAIL_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_FRAZIER_NATHAN_2026-11-06",
+   "name": "Nathan Patrick Frazier",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794048441,
+   "photo": "photos/POR_FRAZIER_NATHAN_2026-11-06.jpg"
+  },
+  {
+   "key": "VAN_WILSON_FERNANDO_2026-11-07",
+   "name": "Fernando Lon Wilson",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 3,
+   "ts": 1794048438,
+   "photo": "photos/VAN_WILSON_FERNANDO_2026-11-07.jpg"
+  },
+  {
+   "key": "VAN_BUCKLEY_ALVIN_2026-11-07",
+   "name": "Alvin Earl Buckley",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794048437,
+   "photo": "photos/VAN_BUCKLEY_ALVIN_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_WILLIAMS_SULTON_2026-11-07",
+   "name": "Sulton Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Leaving The Scene Of A Crash - Property Damage",
+   "more": 1,
+   "ts": 1794048433,
+   "photo": "photos/ALL_WILLIAMS_SULTON_2026-11-07.jpg"
+  },
   {
    "key": "MAD_HOFFA_AUDREY_2026-11-07",
    "name": "Audrey Elizabeth Hoffa",
@@ -398,17 +508,6 @@
    "photo": "photos/ALL_ROGERS_MICHAEL_2026-11-06.jpg"
   },
   {
-   "key": "ALL_RILEY_TRACY_2026-11-06",
-   "name": "Tracy Riley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1793987230,
-   "photo": "photos/ALL_RILEY_TRACY_2026-11-06.jpg"
-  },
-  {
    "key": "MAD_WESTON_DONALD_2026-11-06",
    "name": "Donald Weston",
    "age": "80",
@@ -429,108 +528,119 @@
    "more": 0,
    "ts": 1793983685,
    "photo": "photos/MAD_STANSBERRY_JEROD_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_ALLRED_JAROD_2026-11-06",
-   "name": "Jarod Glen Allred",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793983658,
-   "photo": "photos/VAN_ALLRED_JAROD_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_OWENS_MARCUS_2026-11-06",
-   "name": "Marcus Ray Owens",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793983652,
-   "photo": "photos/VAN_OWENS_MARCUS_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_FITE_JACOB_2026-11-06",
-   "name": "Jacob B Fite",
-   "age": "38",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793980053,
-   "photo": "photos/MAD_FITE_JACOB_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_DORTCH_MARSAILLES_2026-11-06",
-   "name": "Marsailles Lamar Dortch",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793969230,
-   "photo": "photos/VAN_DORTCH_MARSAILLES_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_MERIWETHER_DREAUNA_2026-11-06",
-   "name": "Dreauna Geri Meriwether",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery - Against Public Safety Official Engaged In Official",
-   "more": 1,
-   "ts": 1793969230,
-   "photo": null
-  },
-  {
-   "key": "VAN_GREENFIELD_JACKSON_2026-11-06",
-   "name": "Jackson James Greenfield",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Recklessness W/Deadly Weapon",
-   "more": 0,
-   "ts": 1793965638,
-   "photo": "photos/VAN_GREENFIELD_JACKSON_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_CARTER_MATTHEW_2026-11-06",
-   "name": "Matthew Wayne Carter",
-   "age": "46",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 1,
-   "ts": 1793962036,
-   "photo": "photos/POR_CARTER_MATTHEW_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_BURTON_ALEXANDER_2026-11-06",
-   "name": "Alexander Scott Burton",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
-   "more": 4,
-   "ts": 1793962033,
-   "photo": "photos/VAN_BURTON_ALEXANDER_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_CAREY_WILLIAM_2026-11-06",
-   "name": "William Ramon Carey",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 2,
-   "ts": 1793958432,
-   "photo": "photos/POR_CAREY_WILLIAM_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_STACY_WADE_2026-11-06",
+   "name": "Wade Gilbert Stacy",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794048453,
+   "photo": "photos/POR_STACY_WADE_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_SAQUI_MICHELLE_2026-11-06",
+   "name": "Michelle Marie Saqui",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1794048452,
+   "photo": "photos/POR_SAQUI_MICHELLE_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_JETER_ERIC_2026-11-06",
+   "name": "Eric Ramon Jeter",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794048449,
+   "photo": "photos/POR_JETER_ERIC_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_PAWELKO_ADAM_2026-11-06",
+   "name": "Adam Scott Pawelko",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794048448,
+   "photo": "photos/POR_PAWELKO_ADAM_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_CASTER_DAVID_2026-11-06",
+   "name": "David Bryan Caster",
+   "age": "61",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794048445,
+   "photo": "photos/POR_CASTER_DAVID_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_GREENLAW_ARTTRAIL_2026-11-06",
+   "name": "Arttrail Darnell Greenlaw",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Comply",
+   "more": 0,
+   "ts": 1794048444,
+   "photo": "photos/POR_GREENLAW_ARTTRAIL_2026-11-06.jpg"
+  },
+  {
+   "key": "POR_FRAZIER_NATHAN_2026-11-06",
+   "name": "Nathan Patrick Frazier",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794048441,
+   "photo": "photos/POR_FRAZIER_NATHAN_2026-11-06.jpg"
+  },
+  {
+   "key": "VAN_WILSON_FERNANDO_2026-11-07",
+   "name": "Fernando Lon Wilson",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 3,
+   "ts": 1794048438,
+   "photo": "photos/VAN_WILSON_FERNANDO_2026-11-07.jpg"
+  },
+  {
+   "key": "VAN_BUCKLEY_ALVIN_2026-11-07",
+   "name": "Alvin Earl Buckley",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794048437,
+   "photo": "photos/VAN_BUCKLEY_ALVIN_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_WILLIAMS_SULTON_2026-11-07",
+   "name": "Sulton Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Leaving The Scene Of A Crash - Property Damage",
+   "more": 1,
+   "ts": 1794048433,
+   "photo": "photos/ALL_WILLIAMS_SULTON_2026-11-07.jpg"
+  },
   {
    "key": "MAD_HOFFA_AUDREY_2026-11-07",
    "name": "Audrey Elizabeth Hoffa",
@@ -2576,28 +2686,6 @@
    "more": 3,
    "ts": 1793792832,
    "photo": null
-  },
-  {
-   "key": "POR_GASKEY_ASHTYN_2026-11-04",
-   "name": "Ashtyn Gaskey",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 1,
-   "ts": 1793789254,
-   "photo": null
-  },
-  {
-   "key": "VAN_HILL_RONNETTA_2026-11-04",
-   "name": "Ronnetta Nicole Hill",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793789241,
-   "photo": "photos/VAN_HILL_RONNETTA_2026-11-04.jpg"
   }
  ]
 }
