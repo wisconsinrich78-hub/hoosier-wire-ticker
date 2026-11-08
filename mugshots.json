@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T05:47:40+00:00",
+ "updated": "2026-11-08T06:47:25+00:00",
  "items": [
+  {
+   "key": "VAN_WITHAM_JONATHAN_2026-11-07",
+   "name": "Jonathan Scott Witham",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794120431,
+   "photo": null
+  },
+  {
+   "key": "ALL_TUCKER_KARA_2026-11-08",
+   "name": "Kara Tucker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1794120430,
+   "photo": "photos/ALL_TUCKER_KARA_2026-11-08.jpg"
+  },
   {
    "key": "VAN_WALTERS_ANTONIO_2026-11-07",
    "name": "Antonio Rodriquez Walters",
@@ -506,31 +528,31 @@
    "more": 3,
    "ts": 1794048438,
    "photo": "photos/VAN_WILSON_FERNANDO_2026-11-07.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "VAN_BUCKLEY_ALVIN_2026-11-07",
-   "name": "Alvin Earl Buckley",
-   "age": "46",
+   "key": "VAN_WITHAM_JONATHAN_2026-11-07",
+   "name": "Jonathan Scott Witham",
+   "age": "39",
    "county": "Vanderburgh County",
    "region": "south",
    "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
    "more": 1,
-   "ts": 1794048437,
-   "photo": "photos/VAN_BUCKLEY_ALVIN_2026-11-07.jpg"
+   "ts": 1794120431,
+   "photo": null
   },
   {
-   "key": "ALL_WILLIAMS_SULTON_2026-11-07",
-   "name": "Sulton Williams",
+   "key": "ALL_TUCKER_KARA_2026-11-08",
+   "name": "Kara Tucker",
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Leaving The Scene Of A Crash - Property Damage",
+   "charge": "Hold For Other Jurisdiction",
    "more": 1,
-   "ts": 1794048433,
-   "photo": "photos/ALL_WILLIAMS_SULTON_2026-11-07.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1794120430,
+   "photo": "photos/ALL_TUCKER_KARA_2026-11-08.jpg"
+  },
   {
    "key": "VAN_WALTERS_ANTONIO_2026-11-07",
    "name": "Antonio Rodriquez Walters",
@@ -2697,28 +2719,6 @@
    "more": 0,
    "ts": 1793861248,
    "photo": "photos/ALL_WILKINS_ETHAN_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_TIPTON_BRITTANY_2026-11-05",
-   "name": "Brittany Tipton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1793861244,
-   "photo": "photos/ALL_TIPTON_BRITTANY_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_ANDERSON_ZACHARY_2026-11-05",
-   "name": "Zachary Anderson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 0,
-   "ts": 1793861239,
-   "photo": "photos/ALL_ANDERSON_ZACHARY_2026-11-05.jpg"
   }
  ]
 }
