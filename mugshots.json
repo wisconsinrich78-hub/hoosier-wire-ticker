@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T00:47:30+00:00",
+ "updated": "2026-11-08T01:47:36+00:00",
  "items": [
+  {
+   "key": "ALL_WOLFCALE_CHRISTOPHER_2026-11-07",
+   "name": "Christopher Wolfcale",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1794102437,
+   "photo": "photos/ALL_WOLFCALE_CHRISTOPHER_2026-11-07.jpg"
+  },
   {
    "key": "POR_KESLER_AMANDA_2026-11-06",
    "name": "Amanda Jayne Kesler",
@@ -486,17 +497,6 @@
    "photo": "photos/ALL_OREBAUGH_MARY_2026-11-07.jpg"
   },
   {
-   "key": "ALL_BOOCHER_CHARLES_2026-11-07",
-   "name": "Charles Boocher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Habitual Traffic Violator",
-   "more": 2,
-   "ts": 1794041234,
-   "photo": "photos/ALL_BOOCHER_CHARLES_2026-11-07.jpg"
-  },
-  {
    "key": "VAN_WOOD_KYLE_2026-11-06",
    "name": "Kyle Gregory Wood",
    "age": "46",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_WOLFCALE_CHRISTOPHER_2026-11-07",
+   "name": "Christopher Wolfcale",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1794102437,
+   "photo": "photos/ALL_WOLFCALE_CHRISTOPHER_2026-11-07.jpg"
+  },
   {
    "key": "POR_KESLER_AMANDA_2026-11-06",
    "name": "Amanda Jayne Kesler",
@@ -2620,28 +2631,6 @@
    "more": 0,
    "ts": 1793850430,
    "photo": "photos/ALL_MENIFEE_TYREECE_2026-11-04.jpg"
-  },
-  {
-   "key": "VAN_STRONG_SAVANNAH_2026-11-04",
-   "name": "Savannah Marie Strong",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1793843231,
-   "photo": "photos/VAN_STRONG_SAVANNAH_2026-11-04.jpg"
-  },
-  {
-   "key": "POR_TUPPERSZESNY_LORI_2026-11-04",
-   "name": "Lori J Tupper-Szesny",
-   "age": "62",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 2,
-   "ts": 1793843230,
-   "photo": "photos/POR_TUPPERSZESNY_LORI_2026-11-04.jpg"
   }
  ]
 }
