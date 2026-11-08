@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T21:47:35+00:00",
+ "updated": "2026-11-08T22:47:41+00:00",
  "items": [
+  {
+   "key": "VAN_GILDERSLEEVE_VIRGINIA_2026-11-08",
+   "name": "Virginia Ruth Gildersleeve",
+   "age": "48",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1794178039,
+   "photo": "photos/VAN_GILDERSLEEVE_VIRGINIA_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_HERRON_PATRICK_2026-11-08",
+   "name": "Patrick Herron",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "False Informing",
+   "more": 1,
+   "ts": 1794178036,
+   "photo": "photos/ALL_HERRON_PATRICK_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_LUNAGARCIA_ISAIAS_2026-11-08",
+   "name": "Isaias Lunagarcia",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794178032,
+   "photo": "photos/ALL_LUNAGARCIA_ISAIAS_2026-11-08.jpg"
+  },
   {
    "key": "ALL_CARPENTER_TATIONNA_2026-11-08",
    "name": "Ta-Tionna Carpenter",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1794084432,
    "photo": "photos/POR_WARNELL_JENASCIA_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_ROACH_DANIEL_2026-11-06",
-   "name": "Daniel Richard Roach",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794080848,
-   "photo": "photos/POR_ROACH_DANIEL_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_ROE_WESLEY_2026-11-06",
-   "name": "Wesley Doyle Roe",
-   "age": "58",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Commitment Prior Charge",
-   "more": 0,
-   "ts": 1794080845,
-   "photo": "photos/POR_ROE_WESLEY_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_SELIGER_RYAN_2026-11-06",
-   "name": "Ryan Keith Seliger",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 1,
-   "ts": 1794080844,
-   "photo": "photos/POR_SELIGER_RYAN_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_GILDERSLEEVE_VIRGINIA_2026-11-08",
+   "name": "Virginia Ruth Gildersleeve",
+   "age": "48",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1794178039,
+   "photo": "photos/VAN_GILDERSLEEVE_VIRGINIA_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_HERRON_PATRICK_2026-11-08",
+   "name": "Patrick Herron",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "False Informing",
+   "more": 1,
+   "ts": 1794178036,
+   "photo": "photos/ALL_HERRON_PATRICK_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_LUNAGARCIA_ISAIAS_2026-11-08",
+   "name": "Isaias Lunagarcia",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794178032,
+   "photo": "photos/ALL_LUNAGARCIA_ISAIAS_2026-11-08.jpg"
+  },
   {
    "key": "ALL_CARPENTER_TATIONNA_2026-11-08",
    "name": "Ta-Tionna Carpenter",
@@ -2345,61 +2378,6 @@
    "more": 1,
    "ts": 1793922429,
    "photo": "photos/ALL_BOLEN_MACHAELA_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_THAXTON_ISAIAH_2026-11-05",
-   "name": "Isaiah Anthony Thaxton",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 1,
-   "ts": 1793918839,
-   "photo": "photos/VAN_THAXTON_ISAIAH_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_LOPEZMATEO_SAUL_2026-11-05",
-   "name": "Saul Lopez Mateo",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 2,
-   "ts": 1793918838,
-   "photo": "photos/VAN_LOPEZMATEO_SAUL_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_GOODWIN_JOSEPH_2026-11-05",
-   "name": "Joseph Raymond Goodwin",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793918836,
-   "photo": "photos/VAN_GOODWIN_JOSEPH_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_PICKETT_MARY_2026-11-05",
-   "name": "Mary Jeanette Pickett",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1793918835,
-   "photo": "photos/VAN_PICKETT_MARY_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_MILLAGE_JEREMY_2026-11-05",
-   "name": "Jeremy Millage",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft Or Conversion",
-   "more": 2,
-   "ts": 1793918831,
-   "photo": "photos/ALL_MILLAGE_JEREMY_2026-11-05.jpg"
   }
  ]
 }
