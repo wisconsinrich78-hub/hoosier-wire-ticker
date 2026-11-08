@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:47:30+00:00",
+ "updated": "2026-11-08T10:47:23+00:00",
  "items": [
   {
    "key": "VAN_STATENDIAL_JORDAN_2026-11-08",
@@ -2653,28 +2653,6 @@
    "more": 0,
    "ts": 1793879230,
    "photo": "photos/ALL_JONES_TORY_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_PATTON_SIDNEY_2026-11-05",
-   "name": "Sidney Courteney Patton",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 1,
-   "ts": 1793875630,
-   "photo": null
-  },
-  {
-   "key": "POR_SCHROEDER_GAVIN_2026-11-05",
-   "name": "Gavin Dean Schroeder",
-   "age": "24",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793875629,
-   "photo": "photos/POR_SCHROEDER_GAVIN_2026-11-05.jpg"
   }
  ]
 }
