@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T06:50:38+00:00",
+ "updated": "2026-11-08T07:47:25+00:00",
  "items": [
+  {
+   "key": "VAN_LATRIK_HERBOT_2026-11-07",
+   "name": "Herbot Bleak Latrik",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794124027,
+   "photo": null
+  },
   {
    "key": "VAN_WITHAM_JONATHAN_2026-11-07",
    "name": "Jonathan Scott Witham",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794052029,
    "photo": "photos/VAN_ALBRIGHT_AARON_2026-11-07.jpg"
-  },
-  {
-   "key": "VAN_WILSON_FERNANDO_2026-11-07",
-   "name": "Fernando Lon Wilson",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
-   "more": 3,
-   "ts": 1794048438,
-   "photo": "photos/VAN_WILSON_FERNANDO_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_LATRIK_HERBOT_2026-11-07",
+   "name": "Herbot Bleak Latrik",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794124027,
+   "photo": null
+  },
   {
    "key": "VAN_WITHAM_JONATHAN_2026-11-07",
    "name": "Jonathan Scott Witham",
@@ -2653,28 +2664,6 @@
    "more": 0,
    "ts": 1793868433,
    "photo": "photos/ALL_DENNIS_CHRISTOPHER_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_JONES_JEREMY_2026-11-05",
-   "name": "Jeremy Josiah Jones",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 1,
-   "ts": 1793864836,
-   "photo": "photos/POR_JONES_JEREMY_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_ALI_FNU_2026-11-05",
-   "name": "Fnu Ali",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793864831,
-   "photo": "photos/ALL_ALI_FNU_2026-11-05.jpg"
   }
  ]
 }
