@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T13:47:25+00:00",
+ "updated": "2026-11-08T14:49:28+00:00",
  "items": [
   {
    "key": "ALL_DOBINE_DEKARI_2026-11-08",
@@ -2620,28 +2620,6 @@
    "more": 1,
    "ts": 1793893689,
    "photo": "photos/MAD_MORELAND_DUSTIN_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_RICE_DAVID_2026-11-05",
-   "name": "David Dean Rice",
-   "age": "65",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1793890051,
-   "photo": "photos/POR_RICE_DAVID_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_HILLIARD_KEVIN_2026-11-05",
-   "name": "Kevin Lamar Hilliard",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Theft- Shoplifting - Prior Unrelated Conviction For Theft Or Conversio",
-   "more": 1,
-   "ts": 1793890048,
-   "photo": "photos/POR_HILLIARD_KEVIN_2026-11-05.jpg"
   }
  ]
 }
