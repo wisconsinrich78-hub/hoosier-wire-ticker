@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:49:15+00:00",
+ "updated": "2026-11-08T16:49:16+00:00",
  "items": [
   {
    "key": "ALL_DOBINE_DEKARI_2026-11-08",
@@ -2587,28 +2587,6 @@
    "more": 0,
    "ts": 1793900830,
    "photo": "photos/VAN_SISK_KATIE_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_HODGES_CHRISTOPHER_2026-11-05",
-   "name": "Christopher Hodges",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1793897245,
-   "photo": "photos/ALL_HODGES_CHRISTOPHER_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_LIDDELL_HERSCHEL_2026-11-05",
-   "name": "Herschel Josiah Liddell",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1793897242,
-   "photo": "photos/POR_LIDDELL_HERSCHEL_2026-11-05.jpg"
   }
  ]
 }
