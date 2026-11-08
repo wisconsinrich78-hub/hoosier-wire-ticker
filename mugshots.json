@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T11:47:24+00:00",
+ "updated": "2026-11-08T13:47:25+00:00",
  "items": [
+  {
+   "key": "ALL_DOBINE_DEKARI_2026-11-08",
+   "name": "Dekari Dobine",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1794145626,
+   "photo": "photos/ALL_DOBINE_DEKARI_2026-11-08.jpg"
+  },
   {
    "key": "VAN_MOORE_JOE_2026-11-08",
    "name": "Joe Lewis Moore",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794073629,
    "photo": "photos/VAN_STOCKER_STANLEY_2026-11-07.jpg"
-  },
-  {
-   "key": "MAD_CAVENDISH_SIERRA_2026-11-07",
-   "name": "Sierra Brooke Cavendish",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Probation - Jail Booking",
-   "more": 0,
-   "ts": 1794070034,
-   "photo": "photos/MAD_CAVENDISH_SIERRA_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_DOBINE_DEKARI_2026-11-08",
+   "name": "Dekari Dobine",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1794145626,
+   "photo": "photos/ALL_DOBINE_DEKARI_2026-11-08.jpg"
+  },
   {
    "key": "VAN_MOORE_JOE_2026-11-08",
    "name": "Joe Lewis Moore",
@@ -2631,17 +2642,6 @@
    "more": 1,
    "ts": 1793890048,
    "photo": "photos/POR_HILLIARD_KEVIN_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_THOMAS_XAVIER_2026-11-05",
-   "name": "Xavier Thomas",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Paraphernalia",
-   "more": 1,
-   "ts": 1793886438,
-   "photo": "photos/ALL_THOMAS_XAVIER_2026-11-05.jpg"
   }
  ]
 }
