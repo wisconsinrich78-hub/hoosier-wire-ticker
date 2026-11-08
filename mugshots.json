@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T20:47:33+00:00",
+ "updated": "2026-11-08T21:47:35+00:00",
  "items": [
+  {
+   "key": "ALL_CARPENTER_TATIONNA_2026-11-08",
+   "name": "Ta-Tionna Carpenter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794174433,
+   "photo": "photos/ALL_CARPENTER_TATIONNA_2026-11-08.jpg"
+  },
   {
    "key": "POR_BAUGHMAN_CLARK_2026-11-07",
    "name": "Clark Dean Baughman",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1794080844,
    "photo": "photos/POR_SELIGER_RYAN_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_DIAZ_PESBIT_2026-11-06",
-   "name": "Pesbit Wilfredo Diaz",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1794080841,
-   "photo": "photos/POR_DIAZ_PESBIT_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_CARPENTER_TATIONNA_2026-11-08",
+   "name": "Ta-Tionna Carpenter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794174433,
+   "photo": "photos/ALL_CARPENTER_TATIONNA_2026-11-08.jpg"
+  },
   {
    "key": "POR_BAUGHMAN_CLARK_2026-11-07",
    "name": "Clark Dean Baughman",
@@ -2389,50 +2400,6 @@
    "more": 2,
    "ts": 1793918831,
    "photo": "photos/ALL_MILLAGE_JEREMY_2026-11-05.jpg"
-  },
-  {
-   "key": "MAD_HERNDON_GEORGE_2026-11-05",
-   "name": "George Charles Third Herndon",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793915246,
-   "photo": null
-  },
-  {
-   "key": "VAN_TEVAULT_ADAM_2026-11-05",
-   "name": "Adam John Tevault",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Child Support - Writ Of Attachment",
-   "more": 0,
-   "ts": 1793915235,
-   "photo": "photos/VAN_TEVAULT_ADAM_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_MILLER_BLAKE_2026-11-05",
-   "name": "Blake Anthony Miller",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793915235,
-   "photo": "photos/VAN_MILLER_BLAKE_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_CLARK_RODELL_2026-11-05",
-   "name": "Rodell Duane Devaughn Clark",
-   "age": "50",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 2,
-   "ts": 1793915232,
-   "photo": null
   }
  ]
 }
