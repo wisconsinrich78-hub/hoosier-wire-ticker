@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-08T02:47:28+00:00",
+ "updated": "2026-11-08T03:47:47+00:00",
  "items": [
+  {
+   "key": "POR_JONESELLIS_GABRIELLE_2026-11-07",
+   "name": "Gabrielle Deborah Jones-Ellis",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Driving While Suspended Prior",
+   "more": 0,
+   "ts": 1794109635,
+   "photo": "photos/POR_JONESELLIS_GABRIELLE_2026-11-07.jpg"
+  },
+  {
+   "key": "VAN_HILL_RAYMOND_2026-11-07",
+   "name": "Raymond Leroy Hill",
+   "age": "54",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1794109632,
+   "photo": null
+  },
+  {
+   "key": "ALL_SENTER_CAMDEN_2026-11-07",
+   "name": "Camden Senter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1794109631,
+   "photo": "photos/ALL_SENTER_CAMDEN_2026-11-07.jpg"
+  },
   {
    "key": "MAD_MERCER_CALEB_2026-11-07",
    "name": "Caleb Blair Mercer",
@@ -398,17 +431,6 @@
    "photo": "photos/POR_SAQUI_MICHELLE_2026-11-06.jpg"
   },
   {
-   "key": "POR_JETER_ERIC_2026-11-06",
-   "name": "Eric Ramon Jeter",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1794048449,
-   "photo": "photos/POR_JETER_ERIC_2026-11-06.jpg"
-  },
-  {
    "key": "VAN_WILSON_FERNANDO_2026-11-07",
    "name": "Fernando Lon Wilson",
    "age": "38",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1794044833,
    "photo": "photos/ALL_DOMINGUEZ_CARLOS_2026-11-07.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "POR_JONESELLIS_GABRIELLE_2026-11-07",
+   "name": "Gabrielle Deborah Jones-Ellis",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Driving While Suspended Prior",
+   "more": 0,
+   "ts": 1794109635,
+   "photo": "photos/POR_JONESELLIS_GABRIELLE_2026-11-07.jpg"
   },
   {
-   "key": "VAN_WAGNER_JOHN_2026-11-07",
-   "name": "John Charles Wagner",
-   "age": "49",
+   "key": "VAN_HILL_RAYMOND_2026-11-07",
+   "name": "Raymond Leroy Hill",
+   "age": "54",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794041245,
-   "photo": "photos/VAN_WAGNER_JOHN_2026-11-07.jpg"
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1794109632,
+   "photo": null
   },
   {
-   "key": "ALL_STEWART_EMMA_2026-11-07",
-   "name": "Emma Stewart",
+   "key": "ALL_SENTER_CAMDEN_2026-11-07",
+   "name": "Camden Senter",
    "age": "",
    "county": "Allen County",
    "region": "northeast",
    "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794041241,
-   "photo": "photos/ALL_STEWART_EMMA_2026-11-07.jpg"
-  }
- ],
- "all_items": [
+   "more": 0,
+   "ts": 1794109631,
+   "photo": "photos/ALL_SENTER_CAMDEN_2026-11-07.jpg"
+  },
   {
    "key": "MAD_MERCER_CALEB_2026-11-07",
    "name": "Caleb Blair Mercer",
@@ -2642,39 +2675,6 @@
    "more": 1,
    "ts": 1793854031,
    "photo": "photos/MAD_DUNCAN_NEILL_2026-11-04.jpg"
-  },
-  {
-   "key": "POR_PAWLUS_BRIAN_2026-11-04",
-   "name": "Brian Pawlus",
-   "age": "57",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
-   "more": 2,
-   "ts": 1793850436,
-   "photo": "photos/POR_PAWLUS_BRIAN_2026-11-04.jpg"
-  },
-  {
-   "key": "POR_HUDSON_COLE_2026-11-04",
-   "name": "Cole Thomas Hudson",
-   "age": "25",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Family Offense- Invasion Of Privacy",
-   "more": 0,
-   "ts": 1793850433,
-   "photo": "photos/POR_HUDSON_COLE_2026-11-04.jpg"
-  },
-  {
-   "key": "ALL_MENIFEE_TYREECE_2026-11-04",
-   "name": "Tyreece Menifee",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1793850430,
-   "photo": "photos/ALL_MENIFEE_TYREECE_2026-11-04.jpg"
   }
  ]
 }
