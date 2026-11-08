@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T10:47:23+00:00",
+ "updated": "2026-11-08T11:47:24+00:00",
  "items": [
+  {
+   "key": "VAN_MOORE_JOE_2026-11-08",
+   "name": "Joe Lewis Moore",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794138430,
+   "photo": "photos/VAN_MOORE_JOE_2026-11-08.jpg"
+  },
+  {
+   "key": "VAN_ROBERTSON_DEVONNE_2026-11-08",
+   "name": "Devonne Curtis Robertson",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1794138427,
+   "photo": null
+  },
   {
    "key": "VAN_STATENDIAL_JORDAN_2026-11-08",
    "name": "Jordan Edward Staten-Dial",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794070034,
    "photo": "photos/MAD_CAVENDISH_SIERRA_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_BERNARD_BRITTANNI_2026-11-07",
-   "name": "Brittanni Bernard",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794070029,
-   "photo": "photos/ALL_BERNARD_BRITTANNI_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_WALTERS_CARLOS_2026-11-07",
-   "name": "Carlos Walters",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794066433,
-   "photo": "photos/ALL_WALTERS_CARLOS_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_MOORE_JOE_2026-11-08",
+   "name": "Joe Lewis Moore",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794138430,
+   "photo": "photos/VAN_MOORE_JOE_2026-11-08.jpg"
+  },
+  {
+   "key": "VAN_ROBERTSON_DEVONNE_2026-11-08",
+   "name": "Devonne Curtis Robertson",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1794138427,
+   "photo": null
+  },
   {
    "key": "VAN_STATENDIAL_JORDAN_2026-11-08",
    "name": "Jordan Edward Staten-Dial",
@@ -2620,39 +2642,6 @@
    "more": 1,
    "ts": 1793886438,
    "photo": "photos/ALL_THOMAS_XAVIER_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_REYES_JESSE_2026-11-05",
-   "name": "Jesse Tomas Reyes",
-   "age": "33",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 1,
-   "ts": 1793879234,
-   "photo": "photos/POR_REYES_JESSE_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_ADAM_VICTORIA_2026-11-05",
-   "name": "Victoria Irene Adam",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Strangulation",
-   "more": 5,
-   "ts": 1793879231,
-   "photo": null
-  },
-  {
-   "key": "ALL_JONES_TORY_2026-11-05",
-   "name": "Tory Jones",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793879230,
-   "photo": "photos/ALL_JONES_TORY_2026-11-05.jpg"
   }
  ]
 }
