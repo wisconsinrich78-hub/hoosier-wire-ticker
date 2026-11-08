@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T19:47:38+00:00",
+ "updated": "2026-11-08T20:47:33+00:00",
  "items": [
+  {
+   "key": "POR_BAUGHMAN_CLARK_2026-11-07",
+   "name": "Clark Dean Baughman",
+   "age": "59",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1794170837,
+   "photo": "photos/POR_BAUGHMAN_CLARK_2026-11-07.jpg"
+  },
+  {
+   "key": "VAN_JONES_CALEB_2026-11-08",
+   "name": "Caleb Micheal Jones",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 2,
+   "ts": 1794170834,
+   "photo": null
+  },
   {
    "key": "POR_SCHWING_COLIN_2026-11-07",
    "name": "Colin Ford Schwing",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794080841,
    "photo": "photos/POR_DIAZ_PESBIT_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_ROGERS_ERIC_2026-11-06",
-   "name": "Eric Quentin Rogers",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794080840,
-   "photo": "photos/POR_ROGERS_ERIC_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_GIZYNSKI_MICHAEL_2026-11-06",
-   "name": "Michael George Gizynski",
-   "age": "20",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794080837,
-   "photo": "photos/POR_GIZYNSKI_MICHAEL_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_BAUGHMAN_CLARK_2026-11-07",
+   "name": "Clark Dean Baughman",
+   "age": "59",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1794170837,
+   "photo": "photos/POR_BAUGHMAN_CLARK_2026-11-07.jpg"
+  },
+  {
+   "key": "VAN_JONES_CALEB_2026-11-08",
+   "name": "Caleb Micheal Jones",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 2,
+   "ts": 1794170834,
+   "photo": null
+  },
   {
    "key": "POR_SCHWING_COLIN_2026-11-07",
    "name": "Colin Ford Schwing",
@@ -2411,50 +2433,6 @@
    "more": 2,
    "ts": 1793915232,
    "photo": null
-  },
-  {
-   "key": "VAN_GUTIERREZ_KATHERYN_2026-11-05",
-   "name": "Katheryn Terese Gutierrez",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793911643,
-   "photo": "photos/VAN_GUTIERREZ_KATHERYN_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_STEWART_JONATHAN_2026-11-05",
-   "name": "Jonathan David Stewart",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1793911641,
-   "photo": null
-  },
-  {
-   "key": "ALL_WILCOXON_DENISE_2026-11-05",
-   "name": "Denise Wilcoxon",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Burglary - Dwelling",
-   "more": 0,
-   "ts": 1793911640,
-   "photo": "photos/ALL_WILCOXON_DENISE_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_CHILCOTE_DAVID_2026-11-05",
-   "name": "David Chilcote",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Habitual Traffic Violator",
-   "more": 3,
-   "ts": 1793911636,
-   "photo": "photos/ALL_CHILCOTE_DAVID_2026-11-05.jpg"
   }
  ]
 }
