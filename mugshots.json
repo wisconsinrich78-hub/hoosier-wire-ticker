@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T06:47:25+00:00",
+ "updated": "2026-11-08T06:50:38+00:00",
  "items": [
   {
    "key": "VAN_WITHAM_JONATHAN_2026-11-07",
@@ -2675,50 +2675,6 @@
    "more": 0,
    "ts": 1793864831,
    "photo": "photos/ALL_ALI_FNU_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_TARPLEY_WALTER_2026-11-04",
-   "name": "Walter Allen Tarpley",
-   "age": "49",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1793861253,
-   "photo": null
-  },
-  {
-   "key": "POR_BESCHINSKI_ISAAC_2026-11-05",
-   "name": "Isaac Daniel Beschinski",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1793861252,
-   "photo": "photos/POR_BESCHINSKI_ISAAC_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_PARRISH_JAMES_2026-11-04",
-   "name": "James Robert Parrish",
-   "age": "64",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
-   "more": 0,
-   "ts": 1793861249,
-   "photo": null
-  },
-  {
-   "key": "ALL_WILKINS_ETHAN_2026-11-05",
-   "name": "Ethan Wilkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt Of Court-Civil",
-   "more": 0,
-   "ts": 1793861248,
-   "photo": "photos/ALL_WILKINS_ETHAN_2026-11-05.jpg"
   }
  ]
 }
