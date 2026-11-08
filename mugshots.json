@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T18:50:07+00:00",
+ "updated": "2026-11-08T19:47:38+00:00",
  "items": [
+  {
+   "key": "POR_SCHWING_COLIN_2026-11-07",
+   "name": "Colin Ford Schwing",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794167239,
+   "photo": "photos/POR_SCHWING_COLIN_2026-11-07.jpg"
+  },
+  {
+   "key": "POR_FOSTER_LISA_2026-11-07",
+   "name": "Lisa Jean Foster",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 0,
+   "ts": 1794167236,
+   "photo": "photos/POR_FOSTER_LISA_2026-11-07.jpg"
+  },
   {
    "key": "POR_GONZALEZ_ROZLYN_2026-11-07",
    "name": "Rozlyn Nicole Gonzalez",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794080837,
    "photo": "photos/POR_GIZYNSKI_MICHAEL_2026-11-06.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_ELLER_JACOB_2026-11-07",
-   "name": "Jacob Logan Eller",
-   "age": "25",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "RLE - uses a vehicle",
-   "more": 0,
-   "ts": 1794077250,
-   "photo": "photos/MAD_ELLER_JACOB_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_SPARKS_TERA_2026-11-06",
-   "name": "Tera Nicole Sparks",
-   "age": "39",
+   "key": "POR_SCHWING_COLIN_2026-11-07",
+   "name": "Colin Ford Schwing",
+   "age": "42",
    "county": "Porter County",
    "region": "northwest",
    "charge": "Weekender",
    "more": 0,
-   "ts": 1794077247,
-   "photo": "photos/POR_SPARKS_TERA_2026-11-06.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1794167239,
+   "photo": "photos/POR_SCHWING_COLIN_2026-11-07.jpg"
+  },
+  {
+   "key": "POR_FOSTER_LISA_2026-11-07",
+   "name": "Lisa Jean Foster",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 0,
+   "ts": 1794167236,
+   "photo": "photos/POR_FOSTER_LISA_2026-11-07.jpg"
+  },
   {
    "key": "POR_GONZALEZ_ROZLYN_2026-11-07",
    "name": "Rozlyn Nicole Gonzalez",
@@ -2433,83 +2455,6 @@
    "more": 3,
    "ts": 1793911636,
    "photo": "photos/ALL_CHILCOTE_DAVID_2026-11-05.jpg"
-  },
-  {
-   "key": "MAD_WEILEMAN_CHAD_2026-11-05",
-   "name": "Chad Allen Weileman",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 4,
-   "ts": 1793908053,
-   "photo": "photos/MAD_WEILEMAN_CHAD_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_NORMAN_JUSTIN_2026-11-05",
-   "name": "Justin Leroy Norman",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 4,
-   "ts": 1793908043,
-   "photo": "photos/POR_NORMAN_JUSTIN_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_LIGGETT_CHRISTOPHER_2026-11-05",
-   "name": "Christopher Michael Liggett",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1793908040,
-   "photo": "photos/VAN_LIGGETT_CHRISTOPHER_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_REDFIELD_JOSHUA_2026-11-05",
-   "name": "Joshua Steven Redfield",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 2,
-   "ts": 1793908040,
-   "photo": null
-  },
-  {
-   "key": "VAN_BELLAMY_TIFFANY_2026-11-05",
-   "name": "Tiffany Ann Bellamy",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1793908039,
-   "photo": "photos/VAN_BELLAMY_TIFFANY_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_SMITH_TYAIRAH_2026-11-05",
-   "name": "Tyairah Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793908035,
-   "photo": "photos/ALL_SMITH_TYAIRAH_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_BRATTON_ABIODUN_2026-11-05",
-   "name": "Abiodun Bratton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1793908031,
-   "photo": "photos/ALL_BRATTON_ABIODUN_2026-11-05.jpg"
   }
  ]
 }
