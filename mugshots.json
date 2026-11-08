@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T18:47:34+00:00",
+ "updated": "2026-11-08T18:50:07+00:00",
  "items": [
   {
    "key": "POR_GONZALEZ_ROZLYN_2026-11-07",
@@ -2510,17 +2510,6 @@
    "more": 0,
    "ts": 1793908031,
    "photo": "photos/ALL_BRATTON_ABIODUN_2026-11-05.jpg"
-  },
-  {
-   "key": "MAD_NORTON_JOSHUA_2026-11-05",
-   "name": "Joshua Lee Norton",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery - against public safety official (level 6 felony)",
-   "more": 0,
-   "ts": 1793904458,
-   "photo": "photos/MAD_NORTON_JOSHUA_2026-11-05.jpg"
   }
  ]
 }
