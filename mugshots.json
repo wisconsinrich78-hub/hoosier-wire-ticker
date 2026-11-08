@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-08T04:51:20+00:00",
+ "updated": "2026-11-08T05:47:40+00:00",
  "items": [
+  {
+   "key": "VAN_WALTERS_ANTONIO_2026-11-07",
+   "name": "Antonio Rodriquez Walters",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 1,
+   "ts": 1794116842,
+   "photo": "photos/VAN_WALTERS_ANTONIO_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_DELIRA_ENRIQUE_2026-11-07",
+   "name": "Enrique Delira",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 1,
+   "ts": 1794116838,
+   "photo": "photos/ALL_DELIRA_ENRIQUE_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_GREEN_CHRISTINA_2026-11-08",
+   "name": "Christina Green",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine",
+   "more": 2,
+   "ts": 1794116835,
+   "photo": "photos/ALL_GREEN_CHRISTINA_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_BOHANNY_SHEGONEE_2026-11-08",
+   "name": "Shegonee Bohanny",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery Result In Bodily Injury",
+   "more": 0,
+   "ts": 1794116831,
+   "photo": "photos/ALL_BOHANNY_SHEGONEE_2026-11-08.jpg"
+  },
   {
    "key": "POR_PIERCE_MARKEEFE_2026-11-07",
    "name": "Markeefe Lawon Pierce",
@@ -484,53 +528,53 @@
    "more": 1,
    "ts": 1794048433,
    "photo": "photos/ALL_WILLIAMS_SULTON_2026-11-07.jpg"
-  },
-  {
-   "key": "MAD_HOFFA_AUDREY_2026-11-07",
-   "name": "Audrey Elizabeth Hoffa",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794044856,
-   "photo": null
-  },
-  {
-   "key": "VAN_SWOPE_TIMOTHY_2026-11-07",
-   "name": "Timothy Michael Swope",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1794044849,
-   "photo": "photos/VAN_SWOPE_TIMOTHY_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_WHITTAKER_JOSEPH_2026-11-07",
-   "name": "Joseph Whittaker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 2,
-   "ts": 1794044845,
-   "photo": "photos/ALL_WHITTAKER_JOSEPH_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_TOTTEN_KEONA_2026-11-07",
-   "name": "Keona Totten",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794044841,
-   "photo": "photos/ALL_TOTTEN_KEONA_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_WALTERS_ANTONIO_2026-11-07",
+   "name": "Antonio Rodriquez Walters",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 1,
+   "ts": 1794116842,
+   "photo": "photos/VAN_WALTERS_ANTONIO_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_DELIRA_ENRIQUE_2026-11-07",
+   "name": "Enrique Delira",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 1,
+   "ts": 1794116838,
+   "photo": "photos/ALL_DELIRA_ENRIQUE_2026-11-07.jpg"
+  },
+  {
+   "key": "ALL_GREEN_CHRISTINA_2026-11-08",
+   "name": "Christina Green",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine",
+   "more": 2,
+   "ts": 1794116835,
+   "photo": "photos/ALL_GREEN_CHRISTINA_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_BOHANNY_SHEGONEE_2026-11-08",
+   "name": "Shegonee Bohanny",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery Result In Bodily Injury",
+   "more": 0,
+   "ts": 1794116831,
+   "photo": "photos/ALL_BOHANNY_SHEGONEE_2026-11-08.jpg"
+  },
   {
    "key": "POR_PIERCE_MARKEEFE_2026-11-07",
    "name": "Markeefe Lawon Pierce",
@@ -2675,17 +2719,6 @@
    "more": 0,
    "ts": 1793861239,
    "photo": "photos/ALL_ANDERSON_ZACHARY_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_HERD_CORBIN_2026-11-04",
-   "name": "Corbin Herd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793857629,
-   "photo": "photos/ALL_HERD_CORBIN_2026-11-04.jpg"
   }
  ]
 }
