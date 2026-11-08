@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T17:47:38+00:00",
+ "updated": "2026-11-08T18:47:34+00:00",
  "items": [
+  {
+   "key": "POR_GONZALEZ_ROZLYN_2026-11-07",
+   "name": "Rozlyn Nicole Gonzalez",
+   "age": "46",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 1,
+   "ts": 1794163638,
+   "photo": "photos/POR_GONZALEZ_ROZLYN_2026-11-07.jpg"
+  },
   {
    "key": "ALL_THOMAS_NICHOLAS_2026-11-08",
    "name": "Nicholas Thomas",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794077247,
    "photo": "photos/POR_SPARKS_TERA_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_EASTON_CHRISTA_2026-11-06",
-   "name": "Christa Lee Easton",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Commitment Prior Charge",
-   "more": 0,
-   "ts": 1794077244,
-   "photo": "photos/POR_EASTON_CHRISTA_2026-11-06.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_GONZALEZ_ROZLYN_2026-11-07",
+   "name": "Rozlyn Nicole Gonzalez",
+   "age": "46",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 1,
+   "ts": 1794163638,
+   "photo": "photos/POR_GONZALEZ_ROZLYN_2026-11-07.jpg"
+  },
   {
    "key": "ALL_THOMAS_NICHOLAS_2026-11-08",
    "name": "Nicholas Thomas",
@@ -2510,50 +2521,6 @@
    "more": 0,
    "ts": 1793904458,
    "photo": "photos/MAD_NORTON_JOSHUA_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_VAUGHN_JESSICA_2026-11-05",
-   "name": "Jessica Lynn Vaughn",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793904450,
-   "photo": "photos/VAN_VAUGHN_JESSICA_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_STEIN_CHRISTOPHER_2026-11-05",
-   "name": "Christopher Aaron Stein",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
-   "more": 0,
-   "ts": 1793904447,
-   "photo": "photos/VAN_STEIN_CHRISTOPHER_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_HEROY_LOGAN_2026-11-05",
-   "name": "Logan Matthew Heroy",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1793904447,
-   "photo": "photos/VAN_HEROY_LOGAN_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_WALKER_LATONDRA_2026-11-05",
-   "name": "Latondra Walker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1793904436,
-   "photo": "photos/ALL_WALKER_LATONDRA_2026-11-05.jpg"
   }
  ]
 }
