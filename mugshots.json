@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-08T08:47:33+00:00",
+ "updated": "2026-11-08T09:47:30+00:00",
  "items": [
+  {
+   "key": "VAN_STATENDIAL_JORDAN_2026-11-08",
+   "name": "Jordan Edward Staten-Dial",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "more": 0,
+   "ts": 1794131234,
+   "photo": "photos/VAN_STATENDIAL_JORDAN_2026-11-08.jpg"
+  },
   {
    "key": "MAD_THOMPSON_JACLYN_2026-11-08",
    "name": "Jaclyn K Thompson",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794066433,
    "photo": "photos/ALL_WALTERS_CARLOS_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_DELUNA_CESAR_2026-11-07",
-   "name": "Cesar Deluna",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794066429,
-   "photo": "photos/ALL_DELUNA_CESAR_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_STATENDIAL_JORDAN_2026-11-08",
+   "name": "Jordan Edward Staten-Dial",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "more": 0,
+   "ts": 1794131234,
+   "photo": "photos/VAN_STATENDIAL_JORDAN_2026-11-08.jpg"
+  },
   {
    "key": "MAD_THOMPSON_JACLYN_2026-11-08",
    "name": "Jaclyn K Thompson",
@@ -2664,28 +2675,6 @@
    "more": 0,
    "ts": 1793875629,
    "photo": "photos/POR_SCHROEDER_GAVIN_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_TOMEI_MIRANDA_2026-11-05",
-   "name": "Miranda Tomei",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1793872039,
-   "photo": "photos/ALL_TOMEI_MIRANDA_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_HARRISON_WHITNEY_2026-11-05",
-   "name": "Whitney Harrison",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1793872036,
-   "photo": "photos/ALL_HARRISON_WHITNEY_2026-11-05.jpg"
   }
  ]
 }
