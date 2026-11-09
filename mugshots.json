@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T07:47:28+00:00",
+ "updated": "2026-11-09T08:47:23+00:00",
  "items": [
   {
    "key": "ALL_VARNEY_BRITTANY_2026-11-09",
@@ -2257,28 +2257,6 @@
    "more": 1,
    "ts": 1793958429,
    "photo": "photos/VAN_ESCOBAR_KENNY_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_HAAS_MEGAN_2026-11-06",
-   "name": "Megan Samantha Haas",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1793954833,
-   "photo": "photos/VAN_HAAS_MEGAN_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_WATERS_STEPHANIE_2026-11-06",
-   "name": "Stephanie Waters",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 0,
-   "ts": 1793954830,
-   "photo": "photos/ALL_WATERS_STEPHANIE_2026-11-06.jpg"
   }
  ]
 }
