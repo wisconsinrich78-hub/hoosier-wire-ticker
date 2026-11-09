@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T05:47:32+00:00",
+ "updated": "2026-11-09T05:50:06+00:00",
  "items": [
   {
    "key": "VAN_GOFF_ANDREW_2026-11-08",
@@ -2312,39 +2312,6 @@
    "more": 0,
    "ts": 1793947630,
    "photo": "photos/ALL_JONES_MANDY_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_BEAUDRY_KIRK_2026-11-05",
-   "name": "Kirk Anthony Beaudry",
-   "age": "54",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Paraphernalia",
-   "more": 0,
-   "ts": 1793944064,
-   "photo": "photos/POR_BEAUDRY_KIRK_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_PLATT_LAURA_2026-11-05",
-   "name": "Laura Lynn Platt",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Paraphernalia",
-   "more": 0,
-   "ts": 1793944061,
-   "photo": "photos/POR_PLATT_LAURA_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_JONES_BERNARD_2026-11-05",
-   "name": "Bernard Jones",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Registration Violation",
-   "more": 0,
-   "ts": 1793944054,
-   "photo": "photos/VAN_JONES_BERNARD_2026-11-05.jpg"
   }
  ]
 }
