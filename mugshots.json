@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:47:29+00:00",
+ "updated": "2026-11-09T14:47:21+00:00",
  "items": [
   {
    "key": "POR_POTTS_KYLE_2026-11-08",
@@ -2213,28 +2213,6 @@
    "more": 1,
    "ts": 1793980040,
    "photo": "photos/ALL_KING_RONALD_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_JACKSON_DARYCE_2026-11-06",
-   "name": "Daryce Jackson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun - Prior Handgun Conviction",
-   "more": 0,
-   "ts": 1793976433,
-   "photo": "photos/ALL_JACKSON_DARYCE_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_COPELAND_KENNETH_2026-11-06",
-   "name": "Kenneth Copeland",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1793976430,
-   "photo": "photos/ALL_COPELAND_KENNETH_2026-11-06.jpg"
   }
  ]
 }
