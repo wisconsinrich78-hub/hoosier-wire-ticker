@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T10:47:25+00:00",
+ "updated": "2026-11-09T11:47:21+00:00",
  "items": [
+  {
+   "key": "VAN_BOLLINGER_GEORGE_2026-11-09",
+   "name": "George August Bollinger",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Burglary",
+   "more": 0,
+   "ts": 1794224830,
+   "photo": "photos/VAN_BOLLINGER_GEORGE_2026-11-09.jpg"
+  },
   {
    "key": "VAN_WILKERSON_SHAUNTAVIA_2026-11-09",
    "name": "Shauntavia Latrice Wilkerson",
@@ -497,17 +508,6 @@
    "photo": null
   },
   {
-   "key": "VAN_WITHAM_JONATHAN_2026-11-07",
-   "name": "Jonathan Scott Witham",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 1,
-   "ts": 1794120431,
-   "photo": null
-  },
-  {
    "key": "POR_PIERCE_MARKEEFE_2026-11-07",
    "name": "Markeefe Lawon Pierce",
    "age": "35",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BOLLINGER_GEORGE_2026-11-09",
+   "name": "George August Bollinger",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Burglary",
+   "more": 0,
+   "ts": 1794224830,
+   "photo": "photos/VAN_BOLLINGER_GEORGE_2026-11-09.jpg"
+  },
   {
    "key": "VAN_WILKERSON_SHAUNTAVIA_2026-11-09",
    "name": "Shauntavia Latrice Wilkerson",
@@ -2235,17 +2246,6 @@
    "more": 1,
    "ts": 1793969230,
    "photo": null
-  },
-  {
-   "key": "VAN_GREENFIELD_JACKSON_2026-11-06",
-   "name": "Jackson James Greenfield",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Recklessness W/Deadly Weapon",
-   "more": 0,
-   "ts": 1793965638,
-   "photo": "photos/VAN_GREENFIELD_JACKSON_2026-11-06.jpg"
   }
  ]
 }
