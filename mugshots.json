@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T06:47:36+00:00",
+ "updated": "2026-11-09T07:47:28+00:00",
  "items": [
+  {
+   "key": "ALL_VARNEY_BRITTANY_2026-11-09",
+   "name": "Brittany Varney",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia",
+   "more": 0,
+   "ts": 1794210431,
+   "photo": "photos/ALL_VARNEY_BRITTANY_2026-11-09.jpg"
+  },
   {
    "key": "ALL_FENNER_ROBERT_2026-11-09",
    "name": "Robert Fenner",
@@ -288,17 +299,6 @@
    "photo": "photos/ALL_LUNAGARCIA_ISAIAS_2026-11-08.jpg"
   },
   {
-   "key": "ALL_CARPENTER_TATIONNA_2026-11-08",
-   "name": "Ta-Tionna Carpenter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794174433,
-   "photo": "photos/ALL_CARPENTER_TATIONNA_2026-11-08.jpg"
-  },
-  {
    "key": "POR_BAUGHMAN_CLARK_2026-11-07",
    "name": "Clark Dean Baughman",
    "age": "59",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_VARNEY_BRITTANY_2026-11-09",
+   "name": "Brittany Varney",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Paraphernalia",
+   "more": 0,
+   "ts": 1794210431,
+   "photo": "photos/ALL_VARNEY_BRITTANY_2026-11-09.jpg"
+  },
   {
    "key": "ALL_FENNER_ROBERT_2026-11-09",
    "name": "Robert Fenner",
@@ -2268,28 +2279,6 @@
    "more": 0,
    "ts": 1793954830,
    "photo": "photos/ALL_WATERS_STEPHANIE_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_RAMBO_MICHAEL_2026-11-06",
-   "name": "Michael Rambo",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1793951239,
-   "photo": "photos/ALL_RAMBO_MICHAEL_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_HOUSTON_BRANDON_2026-11-06",
-   "name": "Brandon Houston",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving The Scene Of A Crash - Property Damage",
-   "more": 1,
-   "ts": 1793951235,
-   "photo": "photos/ALL_HOUSTON_BRANDON_2026-11-06.jpg"
   }
  ]
 }
