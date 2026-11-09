@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-09T16:50:43+00:00",
+ "updated": "2026-11-09T17:47:38+00:00",
  "items": [
+  {
+   "key": "MAD_RIGNEY_STEVEN_2026-11-09",
+   "name": "Steven Owen Rigney",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Auto theft",
+   "more": 0,
+   "ts": 1794246448,
+   "photo": "photos/MAD_RIGNEY_STEVEN_2026-11-09.jpg"
+  },
+  {
+   "key": "VAN_GREENLEE_CHRISTOPHER_2026-11-09",
+   "name": "Christopher Michael Greenlee",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794246441,
+   "photo": "photos/VAN_GREENLEE_CHRISTOPHER_2026-11-09.jpg"
+  },
+  {
+   "key": "VAN_JOHNSON_ALEXIA_2026-11-09",
+   "name": "Alexia Skye Johnson",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794246440,
+   "photo": "photos/VAN_JOHNSON_ALEXIA_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_GAFFNEY_HERBERT_2026-11-09",
+   "name": "Herbert Gaffney",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794246436,
+   "photo": "photos/ALL_GAFFNEY_HERBERT_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_YOUNG_JACARION_2026-11-09",
+   "name": "Jacarion Young",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1794246432,
+   "photo": "photos/ALL_YOUNG_JACARION_2026-11-09.jpg"
+  },
   {
    "key": "ALL_REYNOLDS_CLINT_2026-11-09",
    "name": "Clint Reynolds",
@@ -310,17 +365,6 @@
    "photo": "photos/ALL_BARKER_TREAKOS_2026-11-08.jpg"
   },
   {
-   "key": "ALL_SELLERS_ERICA_2026-11-08",
-   "name": "Erica Sellers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving The Scene-Driver Fails To Immediately Stop At The Scene Of The",
-   "more": 3,
-   "ts": 1794192447,
-   "photo": "photos/ALL_SELLERS_ERICA_2026-11-08.jpg"
-  },
-  {
    "key": "POR_CLEMENS_BARBARA_2026-11-08",
    "name": "Barbara Ann Clemens",
    "age": "48",
@@ -330,17 +374,6 @@
    "more": 0,
    "ts": 1794188839,
    "photo": "photos/POR_CLEMENS_BARBARA_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_SMITH_ANTHONY_2026-11-08",
-   "name": "Anthony Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794188835,
-   "photo": "photos/ALL_SMITH_ANTHONY_2026-11-08.jpg"
   },
   {
    "key": "VAN_GARRETT_NASH_2026-11-08",
@@ -495,42 +528,64 @@
    "more": 1,
    "ts": 1794127639,
    "photo": "photos/MAD_LASWELL_JEFFREY_2026-11-08.jpg"
-  },
-  {
-   "key": "POR_EVANS_JAVON_2026-11-07",
-   "name": "Javon Oshae Evans",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794127634,
-   "photo": "photos/POR_EVANS_JAVON_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_MARSHALL_DAVID_2026-11-07",
-   "name": "David Everett Marshall",
-   "age": "34",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 4,
-   "ts": 1794127631,
-   "photo": "photos/POR_MARSHALL_DAVID_2026-11-07.jpg"
-  },
-  {
-   "key": "VAN_EVANS_RAFAEL_2026-11-08",
-   "name": "Rafael Theodore Evans",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
-   "more": 5,
-   "ts": 1794127629,
-   "photo": "photos/VAN_EVANS_RAFAEL_2026-11-08.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_RIGNEY_STEVEN_2026-11-09",
+   "name": "Steven Owen Rigney",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Auto theft",
+   "more": 0,
+   "ts": 1794246448,
+   "photo": "photos/MAD_RIGNEY_STEVEN_2026-11-09.jpg"
+  },
+  {
+   "key": "VAN_GREENLEE_CHRISTOPHER_2026-11-09",
+   "name": "Christopher Michael Greenlee",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794246441,
+   "photo": "photos/VAN_GREENLEE_CHRISTOPHER_2026-11-09.jpg"
+  },
+  {
+   "key": "VAN_JOHNSON_ALEXIA_2026-11-09",
+   "name": "Alexia Skye Johnson",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794246440,
+   "photo": "photos/VAN_JOHNSON_ALEXIA_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_GAFFNEY_HERBERT_2026-11-09",
+   "name": "Herbert Gaffney",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794246436,
+   "photo": "photos/ALL_GAFFNEY_HERBERT_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_YOUNG_JACARION_2026-11-09",
+   "name": "Jacarion Young",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion Of Privacy",
+   "more": 0,
+   "ts": 1794246432,
+   "photo": "photos/ALL_YOUNG_JACARION_2026-11-09.jpg"
+  },
   {
    "key": "ALL_REYNOLDS_CLINT_2026-11-09",
    "name": "Clint Reynolds",
@@ -2158,39 +2213,6 @@
    "more": 2,
    "ts": 1793994442,
    "photo": "photos/ALL_JACKSON_CHRISTINA_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_STANTON_ROSELYN_2026-11-06",
-   "name": "Roselyn Venessa Stanton",
-   "age": "55",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
-   "more": 1,
-   "ts": 1793987237,
-   "photo": "photos/VAN_STANTON_ROSELYN_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_ROGERS_MICHAEL_2026-11-06",
-   "name": "Michael Rogers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery Result In Bodily Injury",
-   "more": 0,
-   "ts": 1793987233,
-   "photo": "photos/ALL_ROGERS_MICHAEL_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_RILEY_TRACY_2026-11-06",
-   "name": "Tracy Riley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1793987230,
-   "photo": "photos/ALL_RILEY_TRACY_2026-11-06.jpg"
   }
  ]
 }
