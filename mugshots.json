@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T02:47:49+00:00",
+ "updated": "2026-11-09T03:47:34+00:00",
  "items": [
+  {
+   "key": "POR_DAMSKI_JACOB_2026-11-08",
+   "name": "Jacob Jonathon Damski",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery - Against Public Safety Official Engaged In Official Duty",
+   "more": 2,
+   "ts": 1794196041,
+   "photo": "photos/POR_DAMSKI_JACOB_2026-11-08.jpg"
+  },
+  {
+   "key": "VAN_HENDRIX_TRUDY_2026-11-08",
+   "name": "Trudy Catherine Hendrix",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 3,
+   "ts": 1794196038,
+   "photo": "photos/VAN_HENDRIX_TRUDY_2026-11-08.jpg"
+  },
   {
    "key": "MAD_DOFELMIER_DOUGLAS_2026-11-08",
    "name": "Douglas Arthur Dofelmier",
@@ -506,31 +528,31 @@
    "more": 1,
    "ts": 1794106038,
    "photo": null
-  },
-  {
-   "key": "MAD_LOGAN_JOSHUA_2026-11-07",
-   "name": "Joshua Ishmael Logan",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794106037,
-   "photo": "photos/MAD_LOGAN_JOSHUA_2026-11-07.jpg"
-  },
-  {
-   "key": "VAN_HENDRICKS_TERRY_2026-11-07",
-   "name": "Terry Ray Hendricks",
-   "age": "75",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1794106030,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "POR_DAMSKI_JACOB_2026-11-08",
+   "name": "Jacob Jonathon Damski",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery - Against Public Safety Official Engaged In Official Duty",
+   "more": 2,
+   "ts": 1794196041,
+   "photo": "photos/POR_DAMSKI_JACOB_2026-11-08.jpg"
+  },
+  {
+   "key": "VAN_HENDRIX_TRUDY_2026-11-08",
+   "name": "Trudy Catherine Hendrix",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 3,
+   "ts": 1794196038,
+   "photo": "photos/VAN_HENDRIX_TRUDY_2026-11-08.jpg"
+  },
   {
    "key": "MAD_DOFELMIER_DOUGLAS_2026-11-08",
    "name": "Douglas Arthur Dofelmier",
@@ -2257,28 +2279,6 @@
    "more": 1,
    "ts": 1793940435,
    "photo": "photos/ALL_RAGSDALE_FELICIA_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_MATTHEWS_ASHLEY_2026-11-05",
-   "name": "Ashley Nicole Matthews",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1793936834,
-   "photo": "photos/VAN_MATTHEWS_ASHLEY_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_FARRAR_MORISA_2026-11-05",
-   "name": "Morisa Lee Farrar",
-   "age": "58",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1793936832,
-   "photo": null
   }
  ]
 }
