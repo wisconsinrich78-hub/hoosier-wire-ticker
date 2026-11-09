@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-09T19:47:50+00:00",
+ "updated": "2026-11-09T20:48:04+00:00",
  "items": [
+  {
+   "key": "VAN_ALMON_GLORY_2026-11-09",
+   "name": "Glory Catherine Almon",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft",
+   "more": 0,
+   "ts": 1794257269,
+   "photo": "photos/VAN_ALMON_GLORY_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_BIRCHUM_KELLY_2026-11-09",
+   "name": "Kelly Birchum",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794257265,
+   "photo": "photos/ALL_BIRCHUM_KELLY_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_PINKSTON_EVAN_2026-11-09",
+   "name": "Evan Pinkston",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1794257260,
+   "photo": "photos/ALL_PINKSTON_EVAN_2026-11-09.jpg"
+  },
   {
    "key": "MAD_GIACOMA_CHLOE_2026-11-09",
    "name": "Chloe Jean Giacoma",
@@ -343,28 +376,6 @@
    "photo": "photos/ALL_PEARSON_JADEN_2026-11-08.jpg"
   },
   {
-   "key": "ALL_MAISAPE_MURPHY_2026-11-08",
-   "name": "Murphy Maisape",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
-   "more": 0,
-   "ts": 1794199639,
-   "photo": "photos/ALL_MAISAPE_MURPHY_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_VICKERS_OVAUNTAY_2026-11-08",
-   "name": "Ovauntay Vickers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1794199635,
-   "photo": "photos/ALL_VICKERS_OVAUNTAY_2026-11-08.jpg"
-  },
-  {
    "key": "POR_DAMSKI_JACOB_2026-11-08",
    "name": "Jacob Jonathon Damski",
    "age": "26",
@@ -453,17 +464,6 @@
    "photo": "photos/POR_BAUGHMAN_CLARK_2026-11-07.jpg"
   },
   {
-   "key": "VAN_JONES_CALEB_2026-11-08",
-   "name": "Caleb Micheal Jones",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Strangulation",
-   "more": 2,
-   "ts": 1794170834,
-   "photo": null
-  },
-  {
    "key": "POR_SCHWING_COLIN_2026-11-07",
    "name": "Colin Ford Schwing",
    "age": "42",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_ALMON_GLORY_2026-11-09",
+   "name": "Glory Catherine Almon",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft",
+   "more": 0,
+   "ts": 1794257269,
+   "photo": "photos/VAN_ALMON_GLORY_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_BIRCHUM_KELLY_2026-11-09",
+   "name": "Kelly Birchum",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794257265,
+   "photo": "photos/ALL_BIRCHUM_KELLY_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_PINKSTON_EVAN_2026-11-09",
+   "name": "Evan Pinkston",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1794257260,
+   "photo": "photos/ALL_PINKSTON_EVAN_2026-11-09.jpg"
+  },
   {
    "key": "MAD_GIACOMA_CHLOE_2026-11-09",
    "name": "Chloe Jean Giacoma",
@@ -2202,28 +2235,6 @@
    "more": 2,
    "ts": 1794001631,
    "photo": "photos/ALL_AUSTIN_JARREN_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_THOMPSON_RONYAI_2026-11-06",
-   "name": "Ronyai D Thompson",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1793998056,
-   "photo": "photos/MAD_THOMPSON_RONYAI_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_ALFORD_SAKIRRA_2026-11-06",
-   "name": "Sakirra Alford",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793998039,
-   "photo": "photos/ALL_ALFORD_SAKIRRA_2026-11-06.jpg"
   }
  ]
 }
