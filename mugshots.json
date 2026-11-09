@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T09:47:31+00:00",
+ "updated": "2026-11-09T10:47:25+00:00",
  "items": [
+  {
+   "key": "VAN_WILKERSON_SHAUNTAVIA_2026-11-09",
+   "name": "Shauntavia Latrice Wilkerson",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794221234,
+   "photo": "photos/VAN_WILKERSON_SHAUNTAVIA_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_COLLINS_JAIRUS_2026-11-09",
+   "name": "Jairus Collins",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794221230,
+   "photo": "photos/ALL_COLLINS_JAIRUS_2026-11-09.jpg"
+  },
   {
    "key": "VAN_LEWIS_TIFFANY_2026-11-09",
    "name": "Tiffany Nicole Lewis",
@@ -299,17 +321,6 @@
    "photo": "photos/VAN_GILDERSLEEVE_VIRGINIA_2026-11-08.jpg"
   },
   {
-   "key": "ALL_HERRON_PATRICK_2026-11-08",
-   "name": "Patrick Herron",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "False Informing",
-   "more": 1,
-   "ts": 1794178036,
-   "photo": "photos/ALL_HERRON_PATRICK_2026-11-08.jpg"
-  },
-  {
    "key": "POR_BAUGHMAN_CLARK_2026-11-07",
    "name": "Clark Dean Baughman",
    "age": "59",
@@ -497,17 +508,6 @@
    "photo": null
   },
   {
-   "key": "VAN_WALTERS_ANTONIO_2026-11-07",
-   "name": "Antonio Rodriquez Walters",
-   "age": "56",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1794116842,
-   "photo": "photos/VAN_WALTERS_ANTONIO_2026-11-07.jpg"
-  },
-  {
    "key": "POR_PIERCE_MARKEEFE_2026-11-07",
    "name": "Markeefe Lawon Pierce",
    "age": "35",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_WILKERSON_SHAUNTAVIA_2026-11-09",
+   "name": "Shauntavia Latrice Wilkerson",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794221234,
+   "photo": "photos/VAN_WILKERSON_SHAUNTAVIA_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_COLLINS_JAIRUS_2026-11-09",
+   "name": "Jairus Collins",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794221230,
+   "photo": "photos/ALL_COLLINS_JAIRUS_2026-11-09.jpg"
+  },
   {
    "key": "VAN_LEWIS_TIFFANY_2026-11-09",
    "name": "Tiffany Nicole Lewis",
@@ -2224,39 +2246,6 @@
    "more": 0,
    "ts": 1793965638,
    "photo": "photos/VAN_GREENFIELD_JACKSON_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_CARTER_MATTHEW_2026-11-06",
-   "name": "Matthew Wayne Carter",
-   "age": "46",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endangerment",
-   "more": 1,
-   "ts": 1793962036,
-   "photo": "photos/POR_CARTER_MATTHEW_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_BURTON_ALEXANDER_2026-11-06",
-   "name": "Alexander Scott Burton",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
-   "more": 4,
-   "ts": 1793962033,
-   "photo": "photos/VAN_BURTON_ALEXANDER_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_KELLEY_KYLE_2026-11-06",
-   "name": "Kyle Kelley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1793962030,
-   "photo": "photos/ALL_KELLEY_KYLE_2026-11-06.jpg"
   }
  ]
 }
