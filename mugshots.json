@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T00:47:50+00:00",
+ "updated": "2026-11-09T01:47:36+00:00",
  "items": [
+  {
+   "key": "POR_CLEMENS_BARBARA_2026-11-08",
+   "name": "Barbara Ann Clemens",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Moderate Bodily Injury",
+   "more": 0,
+   "ts": 1794188839,
+   "photo": "photos/POR_CLEMENS_BARBARA_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_SMITH_ANTHONY_2026-11-08",
+   "name": "Anthony Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794188835,
+   "photo": "photos/ALL_SMITH_ANTHONY_2026-11-08.jpg"
+  },
   {
    "key": "VAN_GARRETT_NASH_2026-11-08",
    "name": "Nash Tyler Garrett",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794098829,
    "photo": "photos/VAN_LUTHER_DAVID_2026-11-07.jpg"
-  },
-  {
-   "key": "MAD_MAXWELL_MICHAEL_2026-11-07",
-   "name": "Michael R Maxwell",
-   "age": "61",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794095251,
-   "photo": null
-  },
-  {
-   "key": "ALL_LYMON_WILEY_2026-11-07",
-   "name": "Wiley Lymon",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Paraphernalia",
-   "more": 0,
-   "ts": 1794095237,
-   "photo": "photos/ALL_LYMON_WILEY_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_CLEMENS_BARBARA_2026-11-08",
+   "name": "Barbara Ann Clemens",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Moderate Bodily Injury",
+   "more": 0,
+   "ts": 1794188839,
+   "photo": "photos/POR_CLEMENS_BARBARA_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_SMITH_ANTHONY_2026-11-08",
+   "name": "Anthony Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794188835,
+   "photo": "photos/ALL_SMITH_ANTHONY_2026-11-08.jpg"
+  },
   {
    "key": "VAN_GARRETT_NASH_2026-11-08",
    "name": "Nash Tyler Garrett",
@@ -2257,39 +2279,6 @@
    "more": 2,
    "ts": 1793933243,
    "photo": "photos/ALL_SWAIN_KAMYRON_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_LANE_MICHAEL_2026-11-05",
-   "name": "Michael William Lane",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possession Schedule I, Ii, Iii, Iv, V",
-   "more": 2,
-   "ts": 1793929634,
-   "photo": "photos/VAN_LANE_MICHAEL_2026-11-05.jpg"
-  },
-  {
-   "key": "VAN_COX_CARTER_2026-11-05",
-   "name": "Carter Reese Cox",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 0,
-   "ts": 1793929633,
-   "photo": "photos/VAN_COX_CARTER_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_SMITH_MICAIAH_2026-11-05",
-   "name": "Micaiah Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery Enhanced With Previous Unrelated Conviction(S)",
-   "more": 0,
-   "ts": 1793929629,
-   "photo": "photos/ALL_SMITH_MICAIAH_2026-11-05.jpg"
   }
  ]
 }
