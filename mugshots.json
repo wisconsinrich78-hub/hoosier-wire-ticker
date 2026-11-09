@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T08:47:23+00:00",
+ "updated": "2026-11-09T09:47:31+00:00",
  "items": [
+  {
+   "key": "VAN_LEWIS_TIFFANY_2026-11-09",
+   "name": "Tiffany Nicole Lewis",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 5,
+   "ts": 1794217635,
+   "photo": "photos/VAN_LEWIS_TIFFANY_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_SACCHITELLA_RICHARD_2026-11-09",
+   "name": "Richard Sacchitella",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794217630,
+   "photo": "photos/ALL_SACCHITELLA_RICHARD_2026-11-09.jpg"
+  },
   {
    "key": "ALL_VARNEY_BRITTANY_2026-11-09",
    "name": "Brittany Varney",
@@ -288,17 +310,6 @@
    "photo": "photos/ALL_HERRON_PATRICK_2026-11-08.jpg"
   },
   {
-   "key": "ALL_LUNAGARCIA_ISAIAS_2026-11-08",
-   "name": "Isaias Lunagarcia",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794178032,
-   "photo": "photos/ALL_LUNAGARCIA_ISAIAS_2026-11-08.jpg"
-  },
-  {
    "key": "POR_BAUGHMAN_CLARK_2026-11-07",
    "name": "Clark Dean Baughman",
    "age": "59",
@@ -517,20 +528,31 @@
    "more": 2,
    "ts": 1794113234,
    "photo": "photos/POR_GARDNERHOLLINS_YNDIA_2026-11-07.jpg"
-  },
-  {
-   "key": "VAN_WINTERNHEIMER_CALE_2026-11-07",
-   "name": "Cale E Winternheimer",
-   "age": "55",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1794113231,
-   "photo": "photos/VAN_WINTERNHEIMER_CALE_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_LEWIS_TIFFANY_2026-11-09",
+   "name": "Tiffany Nicole Lewis",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 5,
+   "ts": 1794217635,
+   "photo": "photos/VAN_LEWIS_TIFFANY_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_SACCHITELLA_RICHARD_2026-11-09",
+   "name": "Richard Sacchitella",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794217630,
+   "photo": "photos/ALL_SACCHITELLA_RICHARD_2026-11-09.jpg"
+  },
   {
    "key": "ALL_VARNEY_BRITTANY_2026-11-09",
    "name": "Brittany Varney",
@@ -2235,28 +2257,6 @@
    "more": 0,
    "ts": 1793962030,
    "photo": "photos/ALL_KELLEY_KYLE_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_CAREY_WILLIAM_2026-11-06",
-   "name": "William Ramon Carey",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 2,
-   "ts": 1793958432,
-   "photo": "photos/POR_CAREY_WILLIAM_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_ESCOBAR_KENNY_2026-11-06",
-   "name": "Kenny Morales Escobar",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 1,
-   "ts": 1793958429,
-   "photo": "photos/VAN_ESCOBAR_KENNY_2026-11-06.jpg"
   }
  ]
 }
