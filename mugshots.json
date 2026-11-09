@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-09T22:47:39+00:00",
+ "updated": "2026-11-09T23:47:34+00:00",
  "items": [
+  {
+   "key": "VAN_FLOWERS_WILLARD_2026-11-09",
+   "name": "Willard Matthew Flowers",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794268035,
+   "photo": "photos/VAN_FLOWERS_WILLARD_2026-11-09.jpg"
+  },
+  {
+   "key": "VAN_MCGUFFIN_LUCAS_2026-11-09",
+   "name": "Lucas C Mcguffin",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1794268033,
+   "photo": null
+  },
+  {
+   "key": "VAN_GALLAGHER_DANIELLE_2026-11-09",
+   "name": "Danielle Marie Gallagher",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794268033,
+   "photo": null
+  },
+  {
+   "key": "ALL_FUENTES_ANTONIO_2026-11-09",
+   "name": "Antonio Fuentes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794268031,
+   "photo": "photos/ALL_FUENTES_ANTONIO_2026-11-09.jpg"
+  },
   {
    "key": "VAN_NOFFSINGER_STUART_2026-11-09",
    "name": "Stuart William Noffsinger",
@@ -387,17 +431,6 @@
    "photo": "photos/VAN_GOFF_ANDREW_2026-11-08.jpg"
   },
   {
-   "key": "ALL_BATES_JEREMIAH_2026-11-08",
-   "name": "Jeremiah Bates",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 1,
-   "ts": 1794203235,
-   "photo": "photos/ALL_BATES_JEREMIAH_2026-11-08.jpg"
-  },
-  {
    "key": "POR_DESATNICK_JOHN_2026-11-08",
    "name": "John Michael Desatnick",
    "age": "60",
@@ -409,28 +442,6 @@
    "photo": "photos/POR_DESATNICK_JOHN_2026-11-08.jpg"
   },
   {
-   "key": "VAN_ENYEART_SEAN_2026-11-08",
-   "name": "Sean Thomas Enyeart",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 1,
-   "ts": 1794199645,
-   "photo": null
-  },
-  {
-   "key": "VAN_WALDEN_DAVID_2026-11-08",
-   "name": "David Eugene Walden",
-   "age": "58",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 1,
-   "ts": 1794199645,
-   "photo": null
-  },
-  {
    "key": "POR_DAMSKI_JACOB_2026-11-08",
    "name": "Jacob Jonathon Damski",
    "age": "26",
@@ -440,17 +451,6 @@
    "more": 2,
    "ts": 1794196041,
    "photo": "photos/POR_DAMSKI_JACOB_2026-11-08.jpg"
-  },
-  {
-   "key": "VAN_HENDRIX_TRUDY_2026-11-08",
-   "name": "Trudy Catherine Hendrix",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 3,
-   "ts": 1794196038,
-   "photo": "photos/VAN_HENDRIX_TRUDY_2026-11-08.jpg"
   },
   {
    "key": "MAD_DOFELMIER_DOUGLAS_2026-11-08",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_FLOWERS_WILLARD_2026-11-09",
+   "name": "Willard Matthew Flowers",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794268035,
+   "photo": "photos/VAN_FLOWERS_WILLARD_2026-11-09.jpg"
+  },
+  {
+   "key": "VAN_MCGUFFIN_LUCAS_2026-11-09",
+   "name": "Lucas C Mcguffin",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 3,
+   "ts": 1794268033,
+   "photo": null
+  },
+  {
+   "key": "VAN_GALLAGHER_DANIELLE_2026-11-09",
+   "name": "Danielle Marie Gallagher",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794268033,
+   "photo": null
+  },
+  {
+   "key": "ALL_FUENTES_ANTONIO_2026-11-09",
+   "name": "Antonio Fuentes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794268031,
+   "photo": "photos/ALL_FUENTES_ANTONIO_2026-11-09.jpg"
+  },
   {
    "key": "VAN_NOFFSINGER_STUART_2026-11-09",
    "name": "Stuart William Noffsinger",
