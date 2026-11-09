@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-09T21:48:09+00:00",
+ "updated": "2026-11-09T22:47:39+00:00",
  "items": [
+  {
+   "key": "VAN_NOFFSINGER_STUART_2026-11-09",
+   "name": "Stuart William Noffsinger",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 1,
+   "ts": 1794264443,
+   "photo": "photos/VAN_NOFFSINGER_STUART_2026-11-09.jpg"
+  },
+  {
+   "key": "VAN_MECHLING_CHAIPETCH_2026-11-09",
+   "name": "Chaipetch Matthew Mechling",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
+   "more": 2,
+   "ts": 1794264443,
+   "photo": null
+  },
+  {
+   "key": "VAN_TINSLEY_TRISTAN_2026-11-09",
+   "name": "Tristan Isiah Tinsley",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794264442,
+   "photo": "photos/VAN_TINSLEY_TRISTAN_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_BROWN_KWAME_2026-11-09",
+   "name": "Kwame Brown",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 1,
+   "ts": 1794264438,
+   "photo": "photos/ALL_BROWN_KWAME_2026-11-09.jpg"
+  },
   {
    "key": "MAD_NUNN_JACQUELINE_2026-11-09",
    "name": "Jacqueline Daniella Nunn",
@@ -354,17 +398,6 @@
    "photo": "photos/ALL_BATES_JEREMIAH_2026-11-08.jpg"
   },
   {
-   "key": "ALL_SPARKS_DESMOND_2026-11-09",
-   "name": "Desmond Sparks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Gun Poss/Serious Violent Felon",
-   "more": 2,
-   "ts": 1794203231,
-   "photo": "photos/ALL_SPARKS_DESMOND_2026-11-09.jpg"
-  },
-  {
    "key": "POR_DESATNICK_JOHN_2026-11-08",
    "name": "John Michael Desatnick",
    "age": "60",
@@ -431,17 +464,6 @@
    "photo": null
   },
   {
-   "key": "VAN_PARSON_ANDRE_2026-11-08",
-   "name": "Andre Maurice Parson",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
-   "more": 3,
-   "ts": 1794192455,
-   "photo": "photos/VAN_PARSON_ANDRE_2026-11-08.jpg"
-  },
-  {
    "key": "POR_CLEMENS_BARBARA_2026-11-08",
    "name": "Barbara Ann Clemens",
    "age": "48",
@@ -451,28 +473,6 @@
    "more": 0,
    "ts": 1794188839,
    "photo": "photos/POR_CLEMENS_BARBARA_2026-11-08.jpg"
-  },
-  {
-   "key": "VAN_GARRETT_NASH_2026-11-08",
-   "name": "Nash Tyler Garrett",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Obstruction Of Justice",
-   "more": 1,
-   "ts": 1794185233,
-   "photo": "photos/VAN_GARRETT_NASH_2026-11-08.jpg"
-  },
-  {
-   "key": "VAN_GILDERSLEEVE_VIRGINIA_2026-11-08",
-   "name": "Virginia Ruth Gildersleeve",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1794178039,
-   "photo": "photos/VAN_GILDERSLEEVE_VIRGINIA_2026-11-08.jpg"
   },
   {
    "key": "POR_BAUGHMAN_CLARK_2026-11-07",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_NOFFSINGER_STUART_2026-11-09",
+   "name": "Stuart William Noffsinger",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 1,
+   "ts": 1794264443,
+   "photo": "photos/VAN_NOFFSINGER_STUART_2026-11-09.jpg"
+  },
+  {
+   "key": "VAN_MECHLING_CHAIPETCH_2026-11-09",
+   "name": "Chaipetch Matthew Mechling",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
+   "more": 2,
+   "ts": 1794264443,
+   "photo": null
+  },
+  {
+   "key": "VAN_TINSLEY_TRISTAN_2026-11-09",
+   "name": "Tristan Isiah Tinsley",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794264442,
+   "photo": "photos/VAN_TINSLEY_TRISTAN_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_BROWN_KWAME_2026-11-09",
+   "name": "Kwame Brown",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 1,
+   "ts": 1794264438,
+   "photo": "photos/ALL_BROWN_KWAME_2026-11-09.jpg"
+  },
   {
    "key": "MAD_NUNN_JACQUELINE_2026-11-09",
    "name": "Jacqueline Daniella Nunn",
@@ -2191,50 +2235,6 @@
    "more": 1,
    "ts": 1794008864,
    "photo": "photos/VAN_JACKSON_SIRENA_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_TIPTON_RILEY_2026-11-06",
-   "name": "Riley Michael Tipton",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Reckless Driving",
-   "more": 1,
-   "ts": 1794005257,
-   "photo": "photos/MAD_TIPTON_RILEY_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_ANDERSON_ADRIENNE_2026-11-06",
-   "name": "Adrienne Chae Anderson",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794005246,
-   "photo": "photos/VAN_ANDERSON_ADRIENNE_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_DURHAM_DAYTON_2026-11-06",
-   "name": "Dayton Andrew Durham",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 1,
-   "ts": 1794005245,
-   "photo": "photos/VAN_DURHAM_DAYTON_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_HILLE_JOHN_2026-11-06",
-   "name": "John Hille",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1794005242,
-   "photo": null
   }
  ]
 }
