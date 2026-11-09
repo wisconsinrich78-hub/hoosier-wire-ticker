@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-08T23:47:34+00:00",
+ "updated": "2026-11-09T00:47:50+00:00",
  "items": [
+  {
+   "key": "VAN_GARRETT_NASH_2026-11-08",
+   "name": "Nash Tyler Garrett",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Obstruction Of Justice",
+   "more": 1,
+   "ts": 1794185233,
+   "photo": "photos/VAN_GARRETT_NASH_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_BOWERS_LAURA_2026-11-08",
+   "name": "Laura Bowers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794185230,
+   "photo": "photos/ALL_BOWERS_LAURA_2026-11-08.jpg"
+  },
   {
    "key": "ALL_KEYS_TAVION_2026-11-08",
    "name": "Tavion Keys",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794095237,
    "photo": "photos/ALL_LYMON_WILEY_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_GEYER_TASHA_2026-11-07",
-   "name": "Tasha Geyer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Paraphernalia",
-   "more": 0,
-   "ts": 1794088035,
-   "photo": "photos/ALL_GEYER_TASHA_2026-11-07.jpg"
-  },
-  {
-   "key": "MAD_SMITH_TANISHA_2026-11-07",
-   "name": "Tanisha Kay Smith",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794084440,
-   "photo": "photos/MAD_SMITH_TANISHA_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_GARRETT_NASH_2026-11-08",
+   "name": "Nash Tyler Garrett",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Obstruction Of Justice",
+   "more": 1,
+   "ts": 1794185233,
+   "photo": "photos/VAN_GARRETT_NASH_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_BOWERS_LAURA_2026-11-08",
+   "name": "Laura Bowers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794185230,
+   "photo": "photos/ALL_BOWERS_LAURA_2026-11-08.jpg"
+  },
   {
    "key": "ALL_KEYS_TAVION_2026-11-08",
    "name": "Tavion Keys",
@@ -2268,50 +2290,6 @@
    "more": 0,
    "ts": 1793929629,
    "photo": "photos/ALL_SMITH_MICAIAH_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_CORNETT_CODY_2026-11-05",
-   "name": "Cody Cornett",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Possession Of Syringe",
-   "more": 1,
-   "ts": 1793926044,
-   "photo": "photos/ALL_CORNETT_CODY_2026-11-05.jpg"
-  },
-  {
-   "key": "ALL_BOUCHER_CHASITY_2026-11-05",
-   "name": "Chasity Boucher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 1,
-   "ts": 1793926039,
-   "photo": "photos/ALL_BOUCHER_CHASITY_2026-11-05.jpg"
-  },
-  {
-   "key": "MAD_DIXON_THOMAS_2026-11-05",
-   "name": "Thomas Robert Dixon",
-   "age": "59",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793926036,
-   "photo": "photos/MAD_DIXON_THOMAS_2026-11-05.jpg"
-  },
-  {
-   "key": "POR_HOLTZ_JOSHUA_2026-11-05",
-   "name": "Joshua Lawerance Holtz",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Burglary",
-   "more": 0,
-   "ts": 1793926035,
-   "photo": "photos/POR_HOLTZ_JOSHUA_2026-11-05.jpg"
   }
  ]
 }
