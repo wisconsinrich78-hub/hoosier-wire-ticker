@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T23:47:34+00:00",
+ "updated": "2026-11-09T23:54:50+00:00",
  "items": [
   {
    "key": "VAN_FLOWERS_WILLARD_2026-11-09",
@@ -2268,17 +2268,6 @@
    "more": 0,
    "ts": 1794012429,
    "photo": "photos/ALL_MORALES_MARCO_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_JACKSON_SIRENA_2026-11-06",
-   "name": "Sirena Kay Jackson",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794008864,
-   "photo": "photos/VAN_JACKSON_SIRENA_2026-11-06.jpg"
   }
  ]
 }
