@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-09T15:47:36+00:00",
+ "updated": "2026-11-09T16:47:31+00:00",
  "items": [
+  {
+   "key": "ALL_REYNOLDS_CLINT_2026-11-09",
+   "name": "Clint Reynolds",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Neglect Of Dependent",
+   "more": 0,
+   "ts": 1794242836,
+   "photo": "photos/ALL_REYNOLDS_CLINT_2026-11-09.jpg"
+  },
   {
    "key": "MAD_STUCKER_MICHAEL_2026-11-09",
    "name": "Michael Leon Stucker",
@@ -343,17 +354,6 @@
    "photo": "photos/VAN_GARRETT_NASH_2026-11-08.jpg"
   },
   {
-   "key": "ALL_BOWERS_LAURA_2026-11-08",
-   "name": "Laura Bowers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794185230,
-   "photo": "photos/ALL_BOWERS_LAURA_2026-11-08.jpg"
-  },
-  {
    "key": "VAN_GILDERSLEEVE_VIRGINIA_2026-11-08",
    "name": "Virginia Ruth Gildersleeve",
    "age": "48",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_REYNOLDS_CLINT_2026-11-09",
+   "name": "Clint Reynolds",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Neglect Of Dependent",
+   "more": 0,
+   "ts": 1794242836,
+   "photo": "photos/ALL_REYNOLDS_CLINT_2026-11-09.jpg"
+  },
   {
    "key": "MAD_STUCKER_MICHAEL_2026-11-09",
    "name": "Michael Leon Stucker",
