@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-09T14:47:21+00:00",
+ "updated": "2026-11-09T15:47:36+00:00",
  "items": [
+  {
+   "key": "MAD_STUCKER_MICHAEL_2026-11-09",
+   "name": "Michael Leon Stucker",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 3,
+   "ts": 1794239244,
+   "photo": "photos/MAD_STUCKER_MICHAEL_2026-11-09.jpg"
+  },
+  {
+   "key": "POR_POWELL_THOMAS_2026-11-08",
+   "name": "Thomas Wayne Powell",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Burglary",
+   "more": 2,
+   "ts": 1794239236,
+   "photo": "photos/POR_POWELL_THOMAS_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_SPENCER_KALEM_2026-11-09",
+   "name": "Kalem Spencer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 0,
+   "ts": 1794239231,
+   "photo": "photos/ALL_SPENCER_KALEM_2026-11-09.jpg"
+  },
   {
    "key": "POR_POTTS_KYLE_2026-11-08",
    "name": "Kyle Micheal Potts",
@@ -321,17 +354,6 @@
    "photo": "photos/ALL_BOWERS_LAURA_2026-11-08.jpg"
   },
   {
-   "key": "ALL_KEYS_TAVION_2026-11-08",
-   "name": "Tavion Keys",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1794181631,
-   "photo": "photos/ALL_KEYS_TAVION_2026-11-08.jpg"
-  },
-  {
    "key": "VAN_GILDERSLEEVE_VIRGINIA_2026-11-08",
    "name": "Virginia Ruth Gildersleeve",
    "age": "48",
@@ -506,31 +528,42 @@
    "more": 5,
    "ts": 1794127629,
    "photo": "photos/VAN_EVANS_RAFAEL_2026-11-08.jpg"
-  },
-  {
-   "key": "VAN_LATRIK_HERBOT_2026-11-07",
-   "name": "Herbot Bleak Latrik",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794124027,
-   "photo": null
-  },
-  {
-   "key": "POR_PIERCE_MARKEEFE_2026-11-07",
-   "name": "Markeefe Lawon Pierce",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794113237,
-   "photo": "photos/POR_PIERCE_MARKEEFE_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_STUCKER_MICHAEL_2026-11-09",
+   "name": "Michael Leon Stucker",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 3,
+   "ts": 1794239244,
+   "photo": "photos/MAD_STUCKER_MICHAEL_2026-11-09.jpg"
+  },
+  {
+   "key": "POR_POWELL_THOMAS_2026-11-08",
+   "name": "Thomas Wayne Powell",
+   "age": "45",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Burglary",
+   "more": 2,
+   "ts": 1794239236,
+   "photo": "photos/POR_POWELL_THOMAS_2026-11-08.jpg"
+  },
+  {
+   "key": "ALL_SPENCER_KALEM_2026-11-09",
+   "name": "Kalem Spencer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 0,
+   "ts": 1794239231,
+   "photo": "photos/ALL_SPENCER_KALEM_2026-11-09.jpg"
+  },
   {
    "key": "POR_POTTS_KYLE_2026-11-08",
    "name": "Kyle Micheal Potts",
@@ -2191,28 +2224,6 @@
    "more": 0,
    "ts": 1793983652,
    "photo": "photos/VAN_OWENS_MARCUS_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_FITE_JACOB_2026-11-06",
-   "name": "Jacob B Fite",
-   "age": "38",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1793980053,
-   "photo": "photos/MAD_FITE_JACOB_2026-11-06.jpg"
-  },
-  {
-   "key": "ALL_KING_RONALD_2026-11-06",
-   "name": "Ronald King",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1793980040,
-   "photo": "photos/ALL_KING_RONALD_2026-11-06.jpg"
   }
  ]
 }
