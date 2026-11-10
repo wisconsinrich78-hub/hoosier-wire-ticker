@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-09T23:54:50+00:00",
+ "updated": "2026-11-10T00:47:31+00:00",
  "items": [
+  {
+   "key": "VAN_MOMAN_KEVIN_2026-11-09",
+   "name": "Kevin Ladell Moman",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Vccc Filed Ptr",
+   "more": 0,
+   "ts": 1794271634,
+   "photo": "photos/VAN_MOMAN_KEVIN_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_DENNIS_JOSEPH_2026-11-09",
+   "name": "Joseph Dennis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 0,
+   "ts": 1794271630,
+   "photo": "photos/ALL_DENNIS_JOSEPH_2026-11-09.jpg"
+  },
   {
    "key": "VAN_FLOWERS_WILLARD_2026-11-09",
    "name": "Willard Matthew Flowers",
@@ -409,28 +431,6 @@
    "photo": "photos/ALL_FENNER_ROBERT_2026-11-09.jpg"
   },
   {
-   "key": "ALL_HOUSHOLDER_QUINCY_2026-11-09",
-   "name": "Quincy Housholder",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794206834,
-   "photo": "photos/ALL_HOUSHOLDER_QUINCY_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_GOFF_ANDREW_2026-11-08",
-   "name": "Andrew Scott Goff",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 2,
-   "ts": 1794203239,
-   "photo": "photos/VAN_GOFF_ANDREW_2026-11-08.jpg"
-  },
-  {
    "key": "POR_DESATNICK_JOHN_2026-11-08",
    "name": "John Michael Desatnick",
    "age": "60",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_MOMAN_KEVIN_2026-11-09",
+   "name": "Kevin Ladell Moman",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Vccc Filed Ptr",
+   "more": 0,
+   "ts": 1794271634,
+   "photo": "photos/VAN_MOMAN_KEVIN_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_DENNIS_JOSEPH_2026-11-09",
+   "name": "Joseph Dennis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 0,
+   "ts": 1794271630,
+   "photo": "photos/ALL_DENNIS_JOSEPH_2026-11-09.jpg"
+  },
   {
    "key": "VAN_FLOWERS_WILLARD_2026-11-09",
    "name": "Willard Matthew Flowers",
@@ -2224,50 +2246,6 @@
    "more": 0,
    "ts": 1794019629,
    "photo": "photos/VAN_MORRIS_RYAN_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_RITENOUR_DANNIE_2026-11-06",
-   "name": "Dannie Lee Junior Ritenour",
-   "age": "69",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1794012439,
-   "photo": "photos/MAD_RITENOUR_DANNIE_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_BUTCHER_DATHANIEL_2026-11-06",
-   "name": "Dathaniel Lee Butcher",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1794012434,
-   "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_OCCEDAT_CHERLINE_2026-11-06",
-   "name": "Cherline Nmn Occedat",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation With A Deadly Weapon",
-   "more": 1,
-   "ts": 1794012430,
-   "photo": null
-  },
-  {
-   "key": "ALL_MORALES_MARCO_2026-11-06",
-   "name": "Marco Morales",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 0,
-   "ts": 1794012429,
-   "photo": "photos/ALL_MORALES_MARCO_2026-11-06.jpg"
   }
  ]
 }
