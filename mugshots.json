@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T07:47:43+00:00",
+ "updated": "2026-11-10T08:47:29+00:00",
  "items": [
   {
    "key": "ALL_WEINLEY_JASON_2026-11-10",
@@ -2389,50 +2389,6 @@
    "more": 0,
    "ts": 1794044833,
    "photo": "photos/ALL_DOMINGUEZ_CARLOS_2026-11-07.jpg"
-  },
-  {
-   "key": "VAN_WAGNER_JOHN_2026-11-07",
-   "name": "John Charles Wagner",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794041245,
-   "photo": "photos/VAN_WAGNER_JOHN_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_STEWART_EMMA_2026-11-07",
-   "name": "Emma Stewart",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794041241,
-   "photo": "photos/ALL_STEWART_EMMA_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_OREBAUGH_MARY_2026-11-07",
-   "name": "Mary Orebaugh",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Controlled Substance",
-   "more": 1,
-   "ts": 1794041237,
-   "photo": "photos/ALL_OREBAUGH_MARY_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_BOOCHER_CHARLES_2026-11-07",
-   "name": "Charles Boocher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Habitual Traffic Violator",
-   "more": 2,
-   "ts": 1794041234,
-   "photo": "photos/ALL_BOOCHER_CHARLES_2026-11-07.jpg"
   }
  ]
 }
