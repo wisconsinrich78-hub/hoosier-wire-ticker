@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T08:47:29+00:00",
+ "updated": "2026-11-10T09:47:52+00:00",
  "items": [
+  {
+   "key": "POR_MYERS_MARK_2026-11-09",
+   "name": "Mark Anthony Myers",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794304048,
+   "photo": "photos/POR_MYERS_MARK_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_ATKINSON_DARRIUS_2026-11-10",
+   "name": "Darrius Atkinson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794304044,
+   "photo": "photos/ALL_ATKINSON_DARRIUS_2026-11-10.jpg"
+  },
   {
    "key": "ALL_WEINLEY_JASON_2026-11-10",
    "name": "Jason Weinley",
@@ -376,17 +398,6 @@
    "photo": "photos/MAD_JACOBS_JALONTE_2026-11-09.jpg"
   },
   {
-   "key": "ALL_SMITH_CRYSTAL_2026-11-09",
-   "name": "Crystal Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794260851,
-   "photo": "photos/ALL_SMITH_CRYSTAL_2026-11-09.jpg"
-  },
-  {
    "key": "VAN_ALMON_GLORY_2026-11-09",
    "name": "Glory Catherine Almon",
    "age": "20",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794192459,
    "photo": null
-  },
-  {
-   "key": "POR_CLEMENS_BARBARA_2026-11-08",
-   "name": "Barbara Ann Clemens",
-   "age": "48",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Moderate Bodily Injury",
-   "more": 0,
-   "ts": 1794188839,
-   "photo": "photos/POR_CLEMENS_BARBARA_2026-11-08.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_MYERS_MARK_2026-11-09",
+   "name": "Mark Anthony Myers",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794304048,
+   "photo": "photos/POR_MYERS_MARK_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_ATKINSON_DARRIUS_2026-11-10",
+   "name": "Darrius Atkinson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794304044,
+   "photo": "photos/ALL_ATKINSON_DARRIUS_2026-11-10.jpg"
+  },
   {
    "key": "ALL_WEINLEY_JASON_2026-11-10",
    "name": "Jason Weinley",
@@ -2323,72 +2345,6 @@
    "more": 1,
    "ts": 1794048433,
    "photo": "photos/ALL_WILLIAMS_SULTON_2026-11-07.jpg"
-  },
-  {
-   "key": "MAD_HOFFA_AUDREY_2026-11-07",
-   "name": "Audrey Elizabeth Hoffa",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794044856,
-   "photo": null
-  },
-  {
-   "key": "VAN_SWOPE_TIMOTHY_2026-11-07",
-   "name": "Timothy Michael Swope",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1794044849,
-   "photo": "photos/VAN_SWOPE_TIMOTHY_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_WHITTAKER_JOSEPH_2026-11-07",
-   "name": "Joseph Whittaker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 2,
-   "ts": 1794044845,
-   "photo": "photos/ALL_WHITTAKER_JOSEPH_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_TOTTEN_KEONA_2026-11-07",
-   "name": "Keona Totten",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794044841,
-   "photo": "photos/ALL_TOTTEN_KEONA_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_JOHNSON_QUALESHA_2026-11-07",
-   "name": "Qualesha Johnson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 1,
-   "ts": 1794044838,
-   "photo": "photos/ALL_JOHNSON_QUALESHA_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_DOMINGUEZ_CARLOS_2026-11-07",
-   "name": "Carlos Dominguez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794044833,
-   "photo": "photos/ALL_DOMINGUEZ_CARLOS_2026-11-07.jpg"
   }
  ]
 }
