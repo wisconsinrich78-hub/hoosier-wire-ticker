@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T10:47:30+00:00",
+ "updated": "2026-11-10T10:51:01+00:00",
  "items": [
   {
    "key": "POR_LANDRUM_KVANT_2026-11-09",
@@ -2279,28 +2279,6 @@
    "more": 0,
    "ts": 1794052029,
    "photo": "photos/VAN_ALBRIGHT_AARON_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_STACY_WADE_2026-11-06",
-   "name": "Wade Gilbert Stacy",
-   "age": "48",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1794048453,
-   "photo": "photos/POR_STACY_WADE_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_SAQUI_MICHELLE_2026-11-06",
-   "name": "Michelle Marie Saqui",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Invasion Of Privacy",
-   "more": 0,
-   "ts": 1794048452,
-   "photo": "photos/POR_SAQUI_MICHELLE_2026-11-06.jpg"
   }
  ]
 }
