@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:47:51+00:00",
+ "updated": "2026-11-10T15:34:44+00:00",
  "items": [
   {
    "key": "MAD_CONKLIN_KADEN_2026-11-10",
@@ -2246,17 +2246,6 @@
    "more": 0,
    "ts": 1794066429,
    "photo": "photos/ALL_DELUNA_CESAR_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_DIT_AEI_2026-11-07",
-   "name": "Aei Dit",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794064377,
-   "photo": "photos/ALL_DIT_AEI_2026-11-07.jpg"
   }
  ]
 }
