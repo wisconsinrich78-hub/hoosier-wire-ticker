@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T12:47:30+00:00",
+ "updated": "2026-11-10T13:47:50+00:00",
  "items": [
+  {
+   "key": "ALL_JOHNSON_JACHAUN_2026-11-10",
+   "name": "Jachaun Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Robbery / Armed",
+   "more": 0,
+   "ts": 1794318434,
+   "photo": "photos/ALL_JOHNSON_JACHAUN_2026-11-10.jpg"
+  },
   {
    "key": "POR_LANDRUM_KVANT_2026-11-09",
    "name": "Kvant Darius Landrum",
@@ -365,17 +376,6 @@
    "photo": null
   },
   {
-   "key": "ALL_FUENTES_ANTONIO_2026-11-09",
-   "name": "Antonio Fuentes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794268031,
-   "photo": "photos/ALL_FUENTES_ANTONIO_2026-11-09.jpg"
-  },
-  {
    "key": "VAN_NOFFSINGER_STUART_2026-11-09",
    "name": "Stuart William Noffsinger",
    "age": "42",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_JOHNSON_JACHAUN_2026-11-10",
+   "name": "Jachaun Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Robbery / Armed",
+   "more": 0,
+   "ts": 1794318434,
+   "photo": "photos/ALL_JOHNSON_JACHAUN_2026-11-10.jpg"
+  },
   {
    "key": "POR_LANDRUM_KVANT_2026-11-09",
    "name": "Kvant Darius Landrum",
@@ -2235,17 +2246,6 @@
    "more": 2,
    "ts": 1794064377,
    "photo": "photos/ALL_DIT_AEI_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_STUCKER_MICHAEL_2026-11-07",
-   "name": "Michael Stucker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1794059229,
-   "photo": "photos/ALL_STUCKER_MICHAEL_2026-11-07.jpg"
   }
  ]
 }
