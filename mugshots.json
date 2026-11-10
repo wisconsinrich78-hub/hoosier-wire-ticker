@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T18:47:47+00:00",
+ "updated": "2026-11-10T19:47:29+00:00",
  "items": [
+  {
+   "key": "ALL_SHEETZ_LISA_2026-11-10",
+   "name": "Lisa Sheetz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 6,
+   "ts": 1794340040,
+   "photo": "photos/ALL_SHEETZ_LISA_2026-11-10.jpg"
+  },
   {
    "key": "ALL_LEWIS_NICHOLAS_2026-11-10",
    "name": "Nicholas Lewis",
@@ -266,17 +277,6 @@
    "photo": "photos/ALL_WERTZ_JENNAVEE_2026-11-10.jpg"
   },
   {
-   "key": "ALL_PHILLIPS_ANDREW_2026-11-10",
-   "name": "Andrew Phillips",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 3,
-   "ts": 1794296836,
-   "photo": "photos/ALL_PHILLIPS_ANDREW_2026-11-10.jpg"
-  },
-  {
    "key": "MAD_ANCIL_MAELEE_2026-11-10",
    "name": "Maelee Danielle Ancil",
    "age": "46",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_SHEETZ_LISA_2026-11-10",
+   "name": "Lisa Sheetz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 6,
+   "ts": 1794340040,
+   "photo": "photos/ALL_SHEETZ_LISA_2026-11-10.jpg"
+  },
   {
    "key": "ALL_LEWIS_NICHOLAS_2026-11-10",
    "name": "Nicholas Lewis",
@@ -2213,72 +2224,6 @@
    "more": 0,
    "ts": 1794084432,
    "photo": "photos/POR_WARNELL_JENASCIA_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_ROACH_DANIEL_2026-11-06",
-   "name": "Daniel Richard Roach",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794080848,
-   "photo": "photos/POR_ROACH_DANIEL_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_ROE_WESLEY_2026-11-06",
-   "name": "Wesley Doyle Roe",
-   "age": "58",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Commitment Prior Charge",
-   "more": 0,
-   "ts": 1794080845,
-   "photo": "photos/POR_ROE_WESLEY_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_SELIGER_RYAN_2026-11-06",
-   "name": "Ryan Keith Seliger",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 1,
-   "ts": 1794080844,
-   "photo": "photos/POR_SELIGER_RYAN_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_DIAZ_PESBIT_2026-11-06",
-   "name": "Pesbit Wilfredo Diaz",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1794080841,
-   "photo": "photos/POR_DIAZ_PESBIT_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_ROGERS_ERIC_2026-11-06",
-   "name": "Eric Quentin Rogers",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794080840,
-   "photo": "photos/POR_ROGERS_ERIC_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_GIZYNSKI_MICHAEL_2026-11-06",
-   "name": "Michael George Gizynski",
-   "age": "20",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794080837,
-   "photo": "photos/POR_GIZYNSKI_MICHAEL_2026-11-06.jpg"
   }
  ]
 }
