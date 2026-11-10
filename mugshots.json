@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-10T22:47:34+00:00",
+ "updated": "2026-11-10T23:47:46+00:00",
  "items": [
+  {
+   "key": "ALL_FORD_DEVIN_2026-11-10",
+   "name": "Devin Ford",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1794354440,
+   "photo": "photos/ALL_FORD_DEVIN_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_HUGHES_MALIK_2026-11-10",
+   "name": "Malik Hughes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Mischief",
+   "more": 1,
+   "ts": 1794354436,
+   "photo": "photos/ALL_HUGHES_MALIK_2026-11-10.jpg"
+  },
   {
    "key": "ALL_BECERRA_DAVID_2026-11-10",
    "name": "David Becerra",
@@ -198,28 +220,6 @@
    "more": 0,
    "ts": 1794329244,
    "photo": "photos/POR_GIBSON_TAYAH_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_STILES_SABRINA_2026-11-10",
-   "name": "Sabrina Stiles",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy Prior Conviction",
-   "more": 1,
-   "ts": 1794329240,
-   "photo": "photos/ALL_STILES_SABRINA_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_MARCUS_2026-11-10",
-   "name": "Marcus Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt Of Court-Civil",
-   "more": 0,
-   "ts": 1794329236,
-   "photo": "photos/ALL_WILLIAMS_MARCUS_2026-11-10.jpg"
   },
   {
    "key": "MAD_MARTIN_CONTREVION_2026-11-10",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_FORD_DEVIN_2026-11-10",
+   "name": "Devin Ford",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1794354440,
+   "photo": "photos/ALL_FORD_DEVIN_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_HUGHES_MALIK_2026-11-10",
+   "name": "Malik Hughes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Mischief",
+   "more": 1,
+   "ts": 1794354436,
+   "photo": "photos/ALL_HUGHES_MALIK_2026-11-10.jpg"
+  },
   {
    "key": "ALL_BECERRA_DAVID_2026-11-10",
    "name": "David Becerra",
@@ -2268,28 +2290,6 @@
    "more": 0,
    "ts": 1794098829,
    "photo": "photos/VAN_LUTHER_DAVID_2026-11-07.jpg"
-  },
-  {
-   "key": "MAD_MAXWELL_MICHAEL_2026-11-07",
-   "name": "Michael R Maxwell",
-   "age": "61",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794095251,
-   "photo": null
-  },
-  {
-   "key": "ALL_LYMON_WILEY_2026-11-07",
-   "name": "Wiley Lymon",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Paraphernalia",
-   "more": 0,
-   "ts": 1794095237,
-   "photo": "photos/ALL_LYMON_WILEY_2026-11-07.jpg"
   }
  ]
 }
