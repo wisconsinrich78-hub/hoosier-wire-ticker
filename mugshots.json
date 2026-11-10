@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-10T16:47:41+00:00",
+ "updated": "2026-11-10T17:47:55+00:00",
  "items": [
+  {
+   "key": "MAD_BIRCHFIELD_SKIELIER_2026-11-10",
+   "name": "Skielier Birchfield",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery - against public safety official (level 6 felony)",
+   "more": 0,
+   "ts": 1794332852,
+   "photo": null
+  },
+  {
+   "key": "ALL_POINDEXTER_ANGELA_2026-11-10",
+   "name": "Angela Poindexter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794332846,
+   "photo": "photos/ALL_POINDEXTER_ANGELA_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_JACKSON_ISAIAH_2026-11-10",
+   "name": "Isaiah Jackson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794332842,
+   "photo": "photos/ALL_JACKSON_ISAIAH_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_TAYLOR_MICHAEL_2026-11-10",
+   "name": "Michael Taylor",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Strangulation Aggravated Injury",
+   "more": 1,
+   "ts": 1794332837,
+   "photo": "photos/ALL_TAYLOR_MICHAEL_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_SATHER_IAN_2026-11-10",
+   "name": "Ian Sather",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1794332833,
+   "photo": "photos/ALL_SATHER_IAN_2026-11-10.jpg"
+  },
   {
    "key": "POR_ATTERBERRY_RUBY_2026-11-09",
    "name": "Ruby Ann Atterberry",
@@ -244,50 +299,6 @@
    "photo": "photos/VAN_ALLEN_DRAKE_2026-11-09.jpg"
   },
   {
-   "key": "ALL_GRAMES_NICOLE_2026-11-10",
-   "name": "Nicole Grames",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 0,
-   "ts": 1794293246,
-   "photo": "photos/ALL_GRAMES_NICOLE_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_WILKINS_SHANELL_2026-11-10",
-   "name": "Shanell Wilkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% And < .15%",
-   "more": 0,
-   "ts": 1794293242,
-   "photo": "photos/ALL_WILKINS_SHANELL_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_PEARSON_NAZYRAH_2026-11-10",
-   "name": "Nazyrah Pearson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1794293238,
-   "photo": "photos/ALL_PEARSON_NAZYRAH_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_CARTER_AVERY_2026-11-09",
-   "name": "Avery Carter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794289656,
-   "photo": "photos/ALL_CARTER_AVERY_2026-11-09.jpg"
-  },
-  {
    "key": "MAD_GORMAN_JAMARKUS_2026-11-09",
    "name": "Jamarkus K Gorman",
    "age": "46",
@@ -517,20 +528,64 @@
    "more": 1,
    "ts": 1794250042,
    "photo": "photos/VAN_ISAAC_AMANDA_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_SMITH_LILLIAN_2026-11-09",
-   "name": "Lillian Kay Smith",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794250041,
-   "photo": "photos/VAN_SMITH_LILLIAN_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_BIRCHFIELD_SKIELIER_2026-11-10",
+   "name": "Skielier Birchfield",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery - against public safety official (level 6 felony)",
+   "more": 0,
+   "ts": 1794332852,
+   "photo": null
+  },
+  {
+   "key": "ALL_POINDEXTER_ANGELA_2026-11-10",
+   "name": "Angela Poindexter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794332846,
+   "photo": "photos/ALL_POINDEXTER_ANGELA_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_JACKSON_ISAIAH_2026-11-10",
+   "name": "Isaiah Jackson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794332842,
+   "photo": "photos/ALL_JACKSON_ISAIAH_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_TAYLOR_MICHAEL_2026-11-10",
+   "name": "Michael Taylor",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Strangulation Aggravated Injury",
+   "more": 1,
+   "ts": 1794332837,
+   "photo": "photos/ALL_TAYLOR_MICHAEL_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_SATHER_IAN_2026-11-10",
+   "name": "Ian Sather",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1794332833,
+   "photo": "photos/ALL_SATHER_IAN_2026-11-10.jpg"
+  },
   {
    "key": "POR_ATTERBERRY_RUBY_2026-11-09",
    "name": "Ruby Ann Atterberry",
@@ -2246,39 +2301,6 @@
    "more": 0,
    "ts": 1794077244,
    "photo": "photos/POR_EASTON_CHRISTA_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_FITZHUGH_RYAN_2026-11-06",
-   "name": "Ryan Keith Fitzhugh",
-   "age": "33",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794073635,
-   "photo": "photos/POR_FITZHUGH_RYAN_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_KELSER_DALE_2026-11-06",
-   "name": "Dale Allen Kelser",
-   "age": "56",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1794073632,
-   "photo": "photos/POR_KELSER_DALE_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_STOCKER_STANLEY_2026-11-07",
-   "name": "Stanley Albert Stocker",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Vccc Filed Ptr",
-   "more": 0,
-   "ts": 1794073629,
-   "photo": "photos/VAN_STOCKER_STANLEY_2026-11-07.jpg"
   }
  ]
 }
