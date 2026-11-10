@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-10T04:47:36+00:00",
+ "updated": "2026-11-10T05:48:12+00:00",
  "items": [
+  {
+   "key": "ALL_CARTER_AVERY_2026-11-09",
+   "name": "Avery Carter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794289656,
+   "photo": "photos/ALL_CARTER_AVERY_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_MAY_RONALD_2026-11-10",
+   "name": "Ronald May",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Burglary - Dwelling",
+   "more": 3,
+   "ts": 1794289652,
+   "photo": "photos/ALL_MAY_RONALD_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_HENRY_MALIK_2026-11-10",
+   "name": "Malik Henry",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1794289646,
+   "photo": "photos/ALL_HENRY_MALIK_2026-11-10.jpg"
+  },
   {
    "key": "MAD_GORMAN_JAMARKUS_2026-11-09",
    "name": "Jamarkus K Gorman",
@@ -431,17 +464,6 @@
    "photo": "photos/POR_POWELL_THOMAS_2026-11-08.jpg"
   },
   {
-   "key": "ALL_SPENCER_KALEM_2026-11-09",
-   "name": "Kalem Spencer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 0,
-   "ts": 1794239231,
-   "photo": "photos/ALL_SPENCER_KALEM_2026-11-09.jpg"
-  },
-  {
    "key": "POR_POTTS_KYLE_2026-11-08",
    "name": "Kyle Micheal Potts",
    "age": "35",
@@ -451,28 +473,6 @@
    "more": 0,
    "ts": 1794228432,
    "photo": "photos/POR_POTTS_KYLE_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_COLLINS_JAIRUS_2026-11-09",
-   "name": "Jairus Collins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794221230,
-   "photo": "photos/ALL_COLLINS_JAIRUS_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_SACCHITELLA_RICHARD_2026-11-09",
-   "name": "Richard Sacchitella",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794217630,
-   "photo": "photos/ALL_SACCHITELLA_RICHARD_2026-11-09.jpg"
   },
   {
    "key": "POR_DESATNICK_JOHN_2026-11-08",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_CARTER_AVERY_2026-11-09",
+   "name": "Avery Carter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794289656,
+   "photo": "photos/ALL_CARTER_AVERY_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_MAY_RONALD_2026-11-10",
+   "name": "Ronald May",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Burglary - Dwelling",
+   "more": 3,
+   "ts": 1794289652,
+   "photo": "photos/ALL_MAY_RONALD_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_HENRY_MALIK_2026-11-10",
+   "name": "Malik Henry",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
+   "more": 0,
+   "ts": 1794289646,
+   "photo": "photos/ALL_HENRY_MALIK_2026-11-10.jpg"
+  },
   {
    "key": "MAD_GORMAN_JAMARKUS_2026-11-09",
    "name": "Jamarkus K Gorman",
