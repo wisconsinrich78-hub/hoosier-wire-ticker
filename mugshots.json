@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-10T01:47:48+00:00",
+ "updated": "2026-11-10T02:47:58+00:00",
  "items": [
+  {
+   "key": "MAD_RUDISILL_KEVIN_2026-11-09",
+   "name": "Kevin Lee Junior Rudisill",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Drug Court - Jail Booking",
+   "more": 2,
+   "ts": 1794278865,
+   "photo": "photos/MAD_RUDISILL_KEVIN_2026-11-09.jpg"
+  },
+  {
+   "key": "POR_PEREZHERNANDEZ_JUAN_2026-11-09",
+   "name": "Juan Perez Hernandez",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery - Misdemeanor",
+   "more": 0,
+   "ts": 1794278853,
+   "photo": null
+  },
+  {
+   "key": "VAN_PARSON_MATTHEW_2026-11-09",
+   "name": "Matthew Guy Parson",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Weapon/Instrument Of Violence- Possess Firearm By A Serious",
+   "more": 4,
+   "ts": 1794278846,
+   "photo": "photos/VAN_PARSON_MATTHEW_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_CHRISTENSEN_SUSAN_2026-11-09",
+   "name": "Susan Christensen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794278841,
+   "photo": "photos/ALL_CHRISTENSEN_SUSAN_2026-11-09.jpg"
+  },
   {
    "key": "POR_PEDROZA_ANGELO_2026-11-09",
    "name": "Angelo Elliott Pedroza",
@@ -387,17 +431,6 @@
    "photo": "photos/VAN_BOLLINGER_GEORGE_2026-11-09.jpg"
   },
   {
-   "key": "VAN_WILKERSON_SHAUNTAVIA_2026-11-09",
-   "name": "Shauntavia Latrice Wilkerson",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794221234,
-   "photo": "photos/VAN_WILKERSON_SHAUNTAVIA_2026-11-09.jpg"
-  },
-  {
    "key": "ALL_COLLINS_JAIRUS_2026-11-09",
    "name": "Jairus Collins",
    "age": "",
@@ -429,17 +462,6 @@
    "more": 0,
    "ts": 1794210431,
    "photo": "photos/ALL_VARNEY_BRITTANY_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_FENNER_ROBERT_2026-11-09",
-   "name": "Robert Fenner",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 1,
-   "ts": 1794206839,
-   "photo": "photos/ALL_FENNER_ROBERT_2026-11-09.jpg"
   },
   {
    "key": "POR_DESATNICK_JOHN_2026-11-08",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1794167239,
    "photo": "photos/POR_SCHWING_COLIN_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_FOSTER_LISA_2026-11-07",
-   "name": "Lisa Jean Foster",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 0,
-   "ts": 1794167236,
-   "photo": "photos/POR_FOSTER_LISA_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_GONZALEZ_ROZLYN_2026-11-07",
-   "name": "Rozlyn Nicole Gonzalez",
-   "age": "46",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Paraphernalia",
-   "more": 1,
-   "ts": 1794163638,
-   "photo": "photos/POR_GONZALEZ_ROZLYN_2026-11-07.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_RUDISILL_KEVIN_2026-11-09",
+   "name": "Kevin Lee Junior Rudisill",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Drug Court - Jail Booking",
+   "more": 2,
+   "ts": 1794278865,
+   "photo": "photos/MAD_RUDISILL_KEVIN_2026-11-09.jpg"
+  },
+  {
+   "key": "POR_PEREZHERNANDEZ_JUAN_2026-11-09",
+   "name": "Juan Perez Hernandez",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery - Misdemeanor",
+   "more": 0,
+   "ts": 1794278853,
+   "photo": null
+  },
+  {
+   "key": "VAN_PARSON_MATTHEW_2026-11-09",
+   "name": "Matthew Guy Parson",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Weapon/Instrument Of Violence- Possess Firearm By A Serious",
+   "more": 4,
+   "ts": 1794278846,
+   "photo": "photos/VAN_PARSON_MATTHEW_2026-11-09.jpg"
+  },
+  {
+   "key": "ALL_CHRISTENSEN_SUSAN_2026-11-09",
+   "name": "Susan Christensen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 0,
+   "ts": 1794278841,
+   "photo": "photos/ALL_CHRISTENSEN_SUSAN_2026-11-09.jpg"
+  },
   {
    "key": "POR_PEDROZA_ANGELO_2026-11-09",
    "name": "Angelo Elliott Pedroza",
@@ -2246,28 +2290,6 @@
    "more": 2,
    "ts": 1794026830,
    "photo": "photos/ALL_ALFORD_RICHARD_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_WOOD_ASHLEY_2026-11-06",
-   "name": "Ashley Diane Wood",
-   "age": "42",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 1,
-   "ts": 1794019640,
-   "photo": "photos/MAD_WOOD_ASHLEY_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_MORRIS_RYAN_2026-11-06",
-   "name": "Ryan Alan Morris",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794019629,
-   "photo": "photos/VAN_MORRIS_RYAN_2026-11-06.jpg"
   }
  ]
 }
