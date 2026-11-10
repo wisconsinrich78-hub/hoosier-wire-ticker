@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T10:51:01+00:00",
+ "updated": "2026-11-10T11:47:24+00:00",
  "items": [
   {
    "key": "POR_LANDRUM_KVANT_2026-11-09",
@@ -2257,28 +2257,6 @@
    "more": 0,
    "ts": 1794055627,
    "photo": "photos/ALL_HELLICK_ARCHER_2026-11-07.jpg"
-  },
-  {
-   "key": "VAN_KUNKLER_CALEB_2026-11-07",
-   "name": "Caleb Edward Kunkler",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
-   "more": 1,
-   "ts": 1794052030,
-   "photo": "photos/VAN_KUNKLER_CALEB_2026-11-07.jpg"
-  },
-  {
-   "key": "VAN_ALBRIGHT_AARON_2026-11-07",
-   "name": "Aaron Lee Albright",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
-   "more": 0,
-   "ts": 1794052029,
-   "photo": "photos/VAN_ALBRIGHT_AARON_2026-11-07.jpg"
   }
  ]
 }
