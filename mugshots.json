@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-10T17:47:55+00:00",
+ "updated": "2026-11-10T18:47:47+00:00",
  "items": [
+  {
+   "key": "ALL_LEWIS_NICHOLAS_2026-11-10",
+   "name": "Nicholas Lewis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Strangulation Aggravated Injury",
+   "more": 0,
+   "ts": 1794336441,
+   "photo": "photos/ALL_LEWIS_NICHOLAS_2026-11-10.jpg"
+  },
   {
    "key": "MAD_BIRCHFIELD_SKIELIER_2026-11-10",
    "name": "Skielier Birchfield",
@@ -266,17 +277,6 @@
    "photo": "photos/ALL_PHILLIPS_ANDREW_2026-11-10.jpg"
   },
   {
-   "key": "ALL_HOLMES_JOSHUA_2026-11-10",
-   "name": "Joshua Holmes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794296833,
-   "photo": "photos/ALL_HOLMES_JOSHUA_2026-11-10.jpg"
-  },
-  {
    "key": "MAD_ANCIL_MAELEE_2026-11-10",
    "name": "Maelee Danielle Ancil",
    "age": "46",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_LEWIS_NICHOLAS_2026-11-10",
+   "name": "Nicholas Lewis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Strangulation Aggravated Injury",
+   "more": 0,
+   "ts": 1794336441,
+   "photo": "photos/ALL_LEWIS_NICHOLAS_2026-11-10.jpg"
+  },
   {
    "key": "MAD_BIRCHFIELD_SKIELIER_2026-11-10",
    "name": "Skielier Birchfield",
@@ -2268,39 +2279,6 @@
    "more": 0,
    "ts": 1794080837,
    "photo": "photos/POR_GIZYNSKI_MICHAEL_2026-11-06.jpg"
-  },
-  {
-   "key": "MAD_ELLER_JACOB_2026-11-07",
-   "name": "Jacob Logan Eller",
-   "age": "25",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "RLE - uses a vehicle",
-   "more": 0,
-   "ts": 1794077250,
-   "photo": "photos/MAD_ELLER_JACOB_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_SPARKS_TERA_2026-11-06",
-   "name": "Tera Nicole Sparks",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794077247,
-   "photo": "photos/POR_SPARKS_TERA_2026-11-06.jpg"
-  },
-  {
-   "key": "POR_EASTON_CHRISTA_2026-11-06",
-   "name": "Christa Lee Easton",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Commitment Prior Charge",
-   "more": 0,
-   "ts": 1794077244,
-   "photo": "photos/POR_EASTON_CHRISTA_2026-11-06.jpg"
   }
  ]
 }
