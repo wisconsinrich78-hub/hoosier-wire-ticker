@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-10T06:47:50+00:00",
+ "updated": "2026-11-10T07:47:43+00:00",
  "items": [
+  {
+   "key": "ALL_WEINLEY_JASON_2026-11-10",
+   "name": "Jason Weinley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine",
+   "more": 2,
+   "ts": 1794296844,
+   "photo": "photos/ALL_WEINLEY_JASON_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_WERTZ_JENNAVEE_2026-11-10",
+   "name": "Jennavee Wertz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1794296840,
+   "photo": "photos/ALL_WERTZ_JENNAVEE_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_PHILLIPS_ANDREW_2026-11-10",
+   "name": "Andrew Phillips",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 3,
+   "ts": 1794296836,
+   "photo": "photos/ALL_PHILLIPS_ANDREW_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_HOLMES_JOSHUA_2026-11-10",
+   "name": "Joshua Holmes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794296833,
+   "photo": "photos/ALL_HOLMES_JOSHUA_2026-11-10.jpg"
+  },
   {
    "key": "MAD_ANCIL_MAELEE_2026-11-10",
    "name": "Maelee Danielle Ancil",
@@ -354,28 +398,6 @@
    "photo": "photos/VAN_ALMON_GLORY_2026-11-09.jpg"
   },
   {
-   "key": "ALL_BIRCHUM_KELLY_2026-11-09",
-   "name": "Kelly Birchum",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794257265,
-   "photo": "photos/ALL_BIRCHUM_KELLY_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_PINKSTON_EVAN_2026-11-09",
-   "name": "Evan Pinkston",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1794257260,
-   "photo": "photos/ALL_PINKSTON_EVAN_2026-11-09.jpg"
-  },
-  {
    "key": "MAD_GIACOMA_CHLOE_2026-11-09",
    "name": "Chloe Jean Giacoma",
    "age": "25",
@@ -398,17 +420,6 @@
    "photo": "photos/VAN_DOERR_TIMOTHY_2026-11-09.jpg"
   },
   {
-   "key": "ALL_FOSTER_GERALD_2026-11-09",
-   "name": "Gerald Foster",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Firearm Without A License By Convicted Felon",
-   "more": 0,
-   "ts": 1794253638,
-   "photo": "photos/ALL_FOSTER_GERALD_2026-11-09.jpg"
-  },
-  {
    "key": "VAN_ISAAC_AMANDA_2026-11-09",
    "name": "Amanda Michelle Isaac",
    "age": "44",
@@ -429,17 +440,6 @@
    "more": 0,
    "ts": 1794250041,
    "photo": "photos/VAN_SMITH_LILLIAN_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_WIMBLEY_DEMETRIUS_2026-11-09",
-   "name": "Demetrius Wimbley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794250030,
-   "photo": "photos/ALL_WIMBLEY_DEMETRIUS_2026-11-09.jpg"
   },
   {
    "key": "MAD_RIGNEY_STEVEN_2026-11-09",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_WEINLEY_JASON_2026-11-10",
+   "name": "Jason Weinley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine",
+   "more": 2,
+   "ts": 1794296844,
+   "photo": "photos/ALL_WEINLEY_JASON_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_WERTZ_JENNAVEE_2026-11-10",
+   "name": "Jennavee Wertz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Parole Revocation",
+   "more": 0,
+   "ts": 1794296840,
+   "photo": "photos/ALL_WERTZ_JENNAVEE_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_PHILLIPS_ANDREW_2026-11-10",
+   "name": "Andrew Phillips",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 3,
+   "ts": 1794296836,
+   "photo": "photos/ALL_PHILLIPS_ANDREW_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_HOLMES_JOSHUA_2026-11-10",
+   "name": "Joshua Holmes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Disorderly Conduct",
+   "more": 1,
+   "ts": 1794296833,
+   "photo": "photos/ALL_HOLMES_JOSHUA_2026-11-10.jpg"
+  },
   {
    "key": "MAD_ANCIL_MAELEE_2026-11-10",
    "name": "Maelee Danielle Ancil",
