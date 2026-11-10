@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:47:24+00:00",
+ "updated": "2026-11-10T12:47:30+00:00",
  "items": [
   {
    "key": "POR_LANDRUM_KVANT_2026-11-09",
@@ -2246,17 +2246,6 @@
    "more": 0,
    "ts": 1794059229,
    "photo": "photos/ALL_STUCKER_MICHAEL_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_HELLICK_ARCHER_2026-11-07",
-   "name": "Archer Hellick",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1794055627,
-   "photo": "photos/ALL_HELLICK_ARCHER_2026-11-07.jpg"
   }
  ]
 }
