@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-10T19:47:29+00:00",
+ "updated": "2026-11-10T20:47:53+00:00",
  "items": [
+  {
+   "key": "MAD_LANTEIGNE_LAUREN_2026-11-10",
+   "name": "Lauren Ashley Lanteigne",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794343662,
+   "photo": "photos/MAD_LANTEIGNE_LAUREN_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_IRVING_TANYA_2026-11-10",
+   "name": "Tanya Irving",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794343652,
+   "photo": "photos/ALL_IRVING_TANYA_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_CREARERLOCKRIDGE_TALAVAH_2026-11-10",
+   "name": "Talavah Crearer-Lockridge",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1794343646,
+   "photo": "photos/ALL_CREARERLOCKRIDGE_TALAVAH_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_METTLER_CHADE_2026-11-10",
+   "name": "Chade Mettler",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 1,
+   "ts": 1794343641,
+   "photo": "photos/ALL_METTLER_CHADE_2026-11-10.jpg"
+  },
   {
    "key": "ALL_SHEETZ_LISA_2026-11-10",
    "name": "Lisa Sheetz",
@@ -244,39 +288,6 @@
    "photo": "photos/POR_MYERS_MARK_2026-11-09.jpg"
   },
   {
-   "key": "ALL_ATKINSON_DARRIUS_2026-11-10",
-   "name": "Darrius Atkinson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794304044,
-   "photo": "photos/ALL_ATKINSON_DARRIUS_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_WEINLEY_JASON_2026-11-10",
-   "name": "Jason Weinley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine",
-   "more": 2,
-   "ts": 1794296844,
-   "photo": "photos/ALL_WEINLEY_JASON_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_WERTZ_JENNAVEE_2026-11-10",
-   "name": "Jennavee Wertz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1794296840,
-   "photo": "photos/ALL_WERTZ_JENNAVEE_2026-11-10.jpg"
-  },
-  {
    "key": "MAD_ANCIL_MAELEE_2026-11-10",
    "name": "Maelee Danielle Ancil",
    "age": "46",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1794253643,
    "photo": "photos/VAN_DOERR_TIMOTHY_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_ISAAC_AMANDA_2026-11-09",
-   "name": "Amanda Michelle Isaac",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794250042,
-   "photo": "photos/VAN_ISAAC_AMANDA_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_LANTEIGNE_LAUREN_2026-11-10",
+   "name": "Lauren Ashley Lanteigne",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794343662,
+   "photo": "photos/MAD_LANTEIGNE_LAUREN_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_IRVING_TANYA_2026-11-10",
+   "name": "Tanya Irving",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794343652,
+   "photo": "photos/ALL_IRVING_TANYA_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_CREARERLOCKRIDGE_TALAVAH_2026-11-10",
+   "name": "Talavah Crearer-Lockridge",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1794343646,
+   "photo": "photos/ALL_CREARERLOCKRIDGE_TALAVAH_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_METTLER_CHADE_2026-11-10",
+   "name": "Chade Mettler",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 1,
+   "ts": 1794343641,
+   "photo": "photos/ALL_METTLER_CHADE_2026-11-10.jpg"
+  },
   {
    "key": "ALL_SHEETZ_LISA_2026-11-10",
    "name": "Lisa Sheetz",
@@ -2202,28 +2246,6 @@
    "more": 0,
    "ts": 1794088035,
    "photo": "photos/ALL_GEYER_TASHA_2026-11-07.jpg"
-  },
-  {
-   "key": "MAD_SMITH_TANISHA_2026-11-07",
-   "name": "Tanisha Kay Smith",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794084440,
-   "photo": "photos/MAD_SMITH_TANISHA_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_WARNELL_JENASCIA_2026-11-06",
-   "name": "Jenascia Avery Warnell",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 0,
-   "ts": 1794084432,
-   "photo": "photos/POR_WARNELL_JENASCIA_2026-11-06.jpg"
   }
  ]
 }
