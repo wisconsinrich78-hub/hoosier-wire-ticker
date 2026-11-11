@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T17:47:53+00:00",
+ "updated": "2026-11-11T18:47:40+00:00",
  "items": [
+  {
+   "key": "ALL_ELDER_ALEXANDRA_2026-11-11",
+   "name": "Alexandra Elder",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Leaving The Scene Of A Crash - Property Damage",
+   "more": 3,
+   "ts": 1794422838,
+   "photo": "photos/ALL_ELDER_ALEXANDRA_2026-11-11.jpg"
+  },
   {
    "key": "POR_TENNIONE_LEANNE_2026-11-10",
    "name": "Leanne Renee Tennione",
@@ -376,17 +387,6 @@
    "photo": "photos/ALL_DENNIS_CHRISTOPHER_2026-11-10.jpg"
   },
   {
-   "key": "ALL_FORD_DEVIN_2026-11-10",
-   "name": "Devin Ford",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794354440,
-   "photo": "photos/ALL_FORD_DEVIN_2026-11-10.jpg"
-  },
-  {
    "key": "MAD_LANTEIGNE_LAUREN_2026-11-10",
    "name": "Lauren Ashley Lanteigne",
    "age": "45",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_ELDER_ALEXANDRA_2026-11-11",
+   "name": "Alexandra Elder",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Leaving The Scene Of A Crash - Property Damage",
+   "more": 3,
+   "ts": 1794422838,
+   "photo": "photos/ALL_ELDER_ALEXANDRA_2026-11-11.jpg"
+  },
   {
    "key": "POR_TENNIONE_LEANNE_2026-11-10",
    "name": "Leanne Renee Tennione",
@@ -2279,17 +2290,6 @@
    "more": 0,
    "ts": 1794167236,
    "photo": "photos/POR_FOSTER_LISA_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_GONZALEZ_ROZLYN_2026-11-07",
-   "name": "Rozlyn Nicole Gonzalez",
-   "age": "46",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Paraphernalia",
-   "more": 1,
-   "ts": 1794163638,
-   "photo": "photos/POR_GONZALEZ_ROZLYN_2026-11-07.jpg"
   }
  ]
 }
