@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-11T13:47:48+00:00",
+ "updated": "2026-11-11T14:48:13+00:00",
  "items": [
+  {
+   "key": "MAD_AYNES_ALEXIS_2026-11-11",
+   "name": "Alexis Riley Aynes",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Theft- pocket-picking - value of property at least $750 and less than ",
+   "more": 0,
+   "ts": 1794408446,
+   "photo": "photos/MAD_AYNES_ALEXIS_2026-11-11.jpg"
+  },
+  {
+   "key": "POR_LEWIS_JERRY_2026-11-10",
+   "name": "Jerry Lee Lewis",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol/Drugs",
+   "more": 0,
+   "ts": 1794408441,
+   "photo": "photos/POR_LEWIS_JERRY_2026-11-10.jpg"
+  },
   {
    "key": "POR_VILLAROMAN_AARON_2026-11-10",
    "name": "Aaron Lee Villaroman",
@@ -506,31 +528,31 @@
    "more": 4,
    "ts": 1794278846,
    "photo": "photos/VAN_PARSON_MATTHEW_2026-11-09.jpg"
-  },
-  {
-   "key": "POR_PEDROZA_ANGELO_2026-11-09",
-   "name": "Angelo Elliott Pedroza",
-   "age": "28",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Bodily Injury To Pregnant Family Or Member If Pregana",
-   "more": 1,
-   "ts": 1794275243,
-   "photo": "photos/POR_PEDROZA_ANGELO_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_DYSON_VIRGINIA_2026-11-09",
-   "name": "Virginia Lee Dyson",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Prior Unrelated Conviction For Theft Or Conversion",
-   "more": 1,
-   "ts": 1794275237,
-   "photo": "photos/VAN_DYSON_VIRGINIA_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_AYNES_ALEXIS_2026-11-11",
+   "name": "Alexis Riley Aynes",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Theft- pocket-picking - value of property at least $750 and less than ",
+   "more": 0,
+   "ts": 1794408446,
+   "photo": "photos/MAD_AYNES_ALEXIS_2026-11-11.jpg"
+  },
+  {
+   "key": "POR_LEWIS_JERRY_2026-11-10",
+   "name": "Jerry Lee Lewis",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol/Drugs",
+   "more": 0,
+   "ts": 1794408441,
+   "photo": "photos/POR_LEWIS_JERRY_2026-11-10.jpg"
+  },
   {
    "key": "POR_VILLAROMAN_AARON_2026-11-10",
    "name": "Aaron Lee Villaroman",
