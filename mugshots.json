@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-11T15:47:57+00:00",
+ "updated": "2026-11-11T16:47:53+00:00",
  "items": [
+  {
+   "key": "MAD_WILSON_JOEY_2026-11-11",
+   "name": "Joey Kent Wilson",
+   "age": "58",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794415664,
+   "photo": "photos/MAD_WILSON_JOEY_2026-11-11.jpg"
+  },
+  {
+   "key": "MAD_SNOW_ROBERT_2026-11-11",
+   "name": "Robert Lee Snow",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Return to County Jail Per Court Order - Jail Bookings",
+   "more": 0,
+   "ts": 1794415663,
+   "photo": "photos/MAD_SNOW_ROBERT_2026-11-11.jpg"
+  },
+  {
+   "key": "MAD_REYNOLDS_ERIK_2026-11-11",
+   "name": "Erik Aguilar Reynolds",
+   "age": "25",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Residential Entry",
+   "more": 1,
+   "ts": 1794415661,
+   "photo": null
+  },
+  {
+   "key": "MAD_ESQUIVELBRAVE_SANDRA_2026-11-11",
+   "name": "Sandra Esquivel-Brave",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794415657,
+   "photo": null
+  },
+  {
+   "key": "ALL_FLORIANMARTINEZ_FIDEL_2026-11-11",
+   "name": "Fidel Florianmartinez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
+   "more": 1,
+   "ts": 1794415641,
+   "photo": null
+  },
   {
    "key": "ALL_PUZYNSKI_JOSHUA_2026-11-11",
    "name": "Joshua Puzynski",
@@ -321,17 +376,6 @@
    "photo": "photos/ALL_FORD_DEVIN_2026-11-10.jpg"
   },
   {
-   "key": "ALL_HUGHES_MALIK_2026-11-10",
-   "name": "Malik Hughes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Mischief",
-   "more": 1,
-   "ts": 1794354436,
-   "photo": "photos/ALL_HUGHES_MALIK_2026-11-10.jpg"
-  },
-  {
    "key": "MAD_LANTEIGNE_LAUREN_2026-11-10",
    "name": "Lauren Ashley Lanteigne",
    "age": "45",
@@ -484,53 +528,64 @@
    "more": 0,
    "ts": 1794282438,
    "photo": "photos/VAN_KING_SONYA_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_MAYS_ANGEL_2026-11-09",
-   "name": "Angel Mistque Rahaun Mays",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
-   "more": 3,
-   "ts": 1794282435,
-   "photo": null
-  },
-  {
-   "key": "MAD_RUDISILL_KEVIN_2026-11-09",
-   "name": "Kevin Lee Junior Rudisill",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Drug Court - Jail Booking",
-   "more": 2,
-   "ts": 1794278865,
-   "photo": "photos/MAD_RUDISILL_KEVIN_2026-11-09.jpg"
-  },
-  {
-   "key": "POR_PEREZHERNANDEZ_JUAN_2026-11-09",
-   "name": "Juan Perez Hernandez",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Battery - Misdemeanor",
-   "more": 0,
-   "ts": 1794278853,
-   "photo": null
-  },
-  {
-   "key": "VAN_PARSON_MATTHEW_2026-11-09",
-   "name": "Matthew Guy Parson",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Weapon/Instrument Of Violence- Possess Firearm By A Serious",
-   "more": 4,
-   "ts": 1794278846,
-   "photo": "photos/VAN_PARSON_MATTHEW_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WILSON_JOEY_2026-11-11",
+   "name": "Joey Kent Wilson",
+   "age": "58",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794415664,
+   "photo": "photos/MAD_WILSON_JOEY_2026-11-11.jpg"
+  },
+  {
+   "key": "MAD_SNOW_ROBERT_2026-11-11",
+   "name": "Robert Lee Snow",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Return to County Jail Per Court Order - Jail Bookings",
+   "more": 0,
+   "ts": 1794415663,
+   "photo": "photos/MAD_SNOW_ROBERT_2026-11-11.jpg"
+  },
+  {
+   "key": "MAD_REYNOLDS_ERIK_2026-11-11",
+   "name": "Erik Aguilar Reynolds",
+   "age": "25",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Residential Entry",
+   "more": 1,
+   "ts": 1794415661,
+   "photo": null
+  },
+  {
+   "key": "MAD_ESQUIVELBRAVE_SANDRA_2026-11-11",
+   "name": "Sandra Esquivel-Brave",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794415657,
+   "photo": null
+  },
+  {
+   "key": "ALL_FLORIANMARTINEZ_FIDEL_2026-11-11",
+   "name": "Fidel Florianmartinez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
+   "more": 1,
+   "ts": 1794415641,
+   "photo": null
+  },
   {
    "key": "ALL_PUZYNSKI_JOSHUA_2026-11-11",
    "name": "Joshua Puzynski",
