@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-11T22:48:33+00:00",
+ "updated": "2026-11-11T23:48:03+00:00",
  "items": [
+  {
+   "key": "POR_STEELE_JAMES_2026-11-10",
+   "name": "James Bernard Steele",
+   "age": "54",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Driving While Suspended",
+   "more": 2,
+   "ts": 1794440851,
+   "photo": "photos/POR_STEELE_JAMES_2026-11-10.jpg"
+  },
+  {
+   "key": "VAN_CLARK_CODY_2026-11-11",
+   "name": "Cody Allen Clark",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794440845,
+   "photo": "photos/VAN_CLARK_CODY_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_MERIWETHER_DONNITA_2026-11-11",
+   "name": "Donnita Leshay Meriwether",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1794440843,
+   "photo": "photos/VAN_MERIWETHER_DONNITA_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_QUARLES_KEION_2026-11-11",
+   "name": "Keion Lamar Quarles",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
+   "more": 0,
+   "ts": 1794440841,
+   "photo": "photos/VAN_QUARLES_KEION_2026-11-11.jpg"
+  },
   {
    "key": "VAN_MARTIN_LENOARD_2026-11-10",
    "name": "Lenoard Dewayne Martin",
@@ -141,39 +185,6 @@
    "region": "south",
    "charge": "Petition To Revoke Probation",
    "more": 0,
-   "ts": 1794437251,
-   "photo": null
-  },
-  {
-   "key": "VAN_KASMER_LUKUS_2026-11-11",
-   "name": "Lukus Andrew Kasmer",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement-Operates Vehicle L6",
-   "more": 1,
-   "ts": 1794437251,
-   "photo": null
-  },
-  {
-   "key": "VAN_PENN_WILLIAM_2026-11-11",
-   "name": "William Earl Penn",
-   "age": "69",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 1,
-   "ts": 1794437251,
-   "photo": null
-  },
-  {
-   "key": "VAN_BELLAMY_AARON_2026-11-11",
-   "name": "Aaron Douglas Bellamy",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 2,
    "ts": 1794437251,
    "photo": null
   },
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1794379645,
    "photo": "photos/ALL_POLING_EMIL_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_ERVIN_HARMONY_2026-11-10",
-   "name": "Harmony Ervin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1794376035,
-   "photo": "photos/ALL_ERVIN_HARMONY_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_STEELE_JAMES_2026-11-10",
+   "name": "James Bernard Steele",
+   "age": "54",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Driving While Suspended",
+   "more": 2,
+   "ts": 1794440851,
+   "photo": "photos/POR_STEELE_JAMES_2026-11-10.jpg"
+  },
+  {
+   "key": "VAN_CLARK_CODY_2026-11-11",
+   "name": "Cody Allen Clark",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794440845,
+   "photo": "photos/VAN_CLARK_CODY_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_MERIWETHER_DONNITA_2026-11-11",
+   "name": "Donnita Leshay Meriwether",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1794440843,
+   "photo": "photos/VAN_MERIWETHER_DONNITA_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_QUARLES_KEION_2026-11-11",
+   "name": "Keion Lamar Quarles",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
+   "more": 0,
+   "ts": 1794440841,
+   "photo": "photos/VAN_QUARLES_KEION_2026-11-11.jpg"
+  },
   {
    "key": "VAN_MARTIN_LENOARD_2026-11-10",
    "name": "Lenoard Dewayne Martin",
@@ -2466,17 +2510,6 @@
    "more": 0,
    "ts": 1794185230,
    "photo": "photos/ALL_BOWERS_LAURA_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_KEYS_TAVION_2026-11-08",
-   "name": "Tavion Keys",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1794181631,
-   "photo": "photos/ALL_KEYS_TAVION_2026-11-08.jpg"
   }
  ]
 }
