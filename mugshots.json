@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T04:47:44+00:00",
+ "updated": "2026-11-11T05:47:36+00:00",
  "items": [
+  {
+   "key": "ALL_ERVIN_HARMONY_2026-11-10",
+   "name": "Harmony Ervin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1794376035,
+   "photo": "photos/ALL_ERVIN_HARMONY_2026-11-10.jpg"
+  },
   {
    "key": "MAD_SULLIVAN_VONEETA_2026-11-10",
    "name": "Voneeta Robyn Sullivan",
@@ -220,17 +231,6 @@
    "more": 6,
    "ts": 1794340040,
    "photo": "photos/ALL_SHEETZ_LISA_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_LEWIS_NICHOLAS_2026-11-10",
-   "name": "Nicholas Lewis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Strangulation Aggravated Injury",
-   "more": 0,
-   "ts": 1794336441,
-   "photo": "photos/ALL_LEWIS_NICHOLAS_2026-11-10.jpg"
   },
   {
    "key": "MAD_BIRCHFIELD_SKIELIER_2026-11-10",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_ERVIN_HARMONY_2026-11-10",
+   "name": "Harmony Ervin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1794376035,
+   "photo": "photos/ALL_ERVIN_HARMONY_2026-11-10.jpg"
+  },
   {
    "key": "MAD_SULLIVAN_VONEETA_2026-11-10",
    "name": "Voneeta Robyn Sullivan",
@@ -2180,50 +2191,6 @@
    "more": 1,
    "ts": 1794120430,
    "photo": "photos/ALL_TUCKER_KARA_2026-11-08.jpg"
-  },
-  {
-   "key": "VAN_WALTERS_ANTONIO_2026-11-07",
-   "name": "Antonio Rodriquez Walters",
-   "age": "56",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1794116842,
-   "photo": "photos/VAN_WALTERS_ANTONIO_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_DELIRA_ENRIQUE_2026-11-07",
-   "name": "Enrique Delira",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 1,
-   "ts": 1794116838,
-   "photo": "photos/ALL_DELIRA_ENRIQUE_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_GREEN_CHRISTINA_2026-11-08",
-   "name": "Christina Green",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine",
-   "more": 2,
-   "ts": 1794116835,
-   "photo": "photos/ALL_GREEN_CHRISTINA_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_BOHANNY_SHEGONEE_2026-11-08",
-   "name": "Shegonee Bohanny",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery Result In Bodily Injury",
-   "more": 0,
-   "ts": 1794116831,
-   "photo": "photos/ALL_BOHANNY_SHEGONEE_2026-11-08.jpg"
   }
  ]
 }
