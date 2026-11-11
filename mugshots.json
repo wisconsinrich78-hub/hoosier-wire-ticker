@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T18:47:40+00:00",
+ "updated": "2026-11-11T19:48:03+00:00",
  "items": [
   {
    "key": "ALL_ELDER_ALEXANDRA_2026-11-11",
@@ -2268,28 +2268,6 @@
    "more": 2,
    "ts": 1794170834,
    "photo": null
-  },
-  {
-   "key": "POR_SCHWING_COLIN_2026-11-07",
-   "name": "Colin Ford Schwing",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794167239,
-   "photo": "photos/POR_SCHWING_COLIN_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_FOSTER_LISA_2026-11-07",
-   "name": "Lisa Jean Foster",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 0,
-   "ts": 1794167236,
-   "photo": "photos/POR_FOSTER_LISA_2026-11-07.jpg"
   }
  ]
 }
