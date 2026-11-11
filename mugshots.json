@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:47:40+00:00",
+ "updated": "2026-11-11T02:47:36+00:00",
  "items": [
   {
    "key": "MAD_MILES_JEREMY_2026-11-10",
@@ -2268,50 +2268,6 @@
    "more": 0,
    "ts": 1794109631,
    "photo": "photos/ALL_SENTER_CAMDEN_2026-11-07.jpg"
-  },
-  {
-   "key": "MAD_MERCER_CALEB_2026-11-07",
-   "name": "Caleb Blair Mercer",
-   "age": "25",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794106038,
-   "photo": null
-  },
-  {
-   "key": "MAD_NASH_JAMES_2026-11-07",
-   "name": "James Tyler Nash",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated- endangerment",
-   "more": 1,
-   "ts": 1794106038,
-   "photo": null
-  },
-  {
-   "key": "MAD_LOGAN_JOSHUA_2026-11-07",
-   "name": "Joshua Ishmael Logan",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794106037,
-   "photo": "photos/MAD_LOGAN_JOSHUA_2026-11-07.jpg"
-  },
-  {
-   "key": "VAN_HENDRICKS_TERRY_2026-11-07",
-   "name": "Terry Ray Hendricks",
-   "age": "75",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1794106030,
-   "photo": null
   }
  ]
 }
