@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-11T19:48:03+00:00",
+ "updated": "2026-11-11T20:48:24+00:00",
  "items": [
+  {
+   "key": "POR_BRENT_JAMES_2026-11-10",
+   "name": "James Wesley Brent",
+   "age": "34",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Resisting Law Enforcement",
+   "more": 3,
+   "ts": 1794430064,
+   "photo": "photos/POR_BRENT_JAMES_2026-11-10.jpg"
+  },
+  {
+   "key": "POR_ROBINSON_CHRISTOPHER_2026-11-10",
+   "name": "Christopher Ray Robinson",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Schedule Ii, Iii, Iv : A : M",
+   "more": 0,
+   "ts": 1794430061,
+   "photo": "photos/POR_ROBINSON_CHRISTOPHER_2026-11-10.jpg"
+  },
   {
    "key": "ALL_ELDER_ALEXANDRA_2026-11-11",
    "name": "Alexandra Elder",
@@ -486,17 +508,6 @@
    "photo": "photos/POR_HUDSON_CHRISTOPHER_2026-11-09.jpg"
   },
   {
-   "key": "POR_MYERS_MARK_2026-11-09",
-   "name": "Mark Anthony Myers",
-   "age": "60",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794304048,
-   "photo": "photos/POR_MYERS_MARK_2026-11-09.jpg"
-  },
-  {
    "key": "MAD_ANCIL_MAELEE_2026-11-10",
    "name": "Maelee Danielle Ancil",
    "age": "46",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794293250,
    "photo": "photos/VAN_ALLEN_DRAKE_2026-11-09.jpg"
-  },
-  {
-   "key": "MAD_GORMAN_JAMARKUS_2026-11-09",
-   "name": "Jamarkus K Gorman",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794286043,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "POR_BRENT_JAMES_2026-11-10",
+   "name": "James Wesley Brent",
+   "age": "34",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Resisting Law Enforcement",
+   "more": 3,
+   "ts": 1794430064,
+   "photo": "photos/POR_BRENT_JAMES_2026-11-10.jpg"
+  },
+  {
+   "key": "POR_ROBINSON_CHRISTOPHER_2026-11-10",
+   "name": "Christopher Ray Robinson",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Schedule Ii, Iii, Iv : A : M",
+   "more": 0,
+   "ts": 1794430061,
+   "photo": "photos/POR_ROBINSON_CHRISTOPHER_2026-11-10.jpg"
+  },
   {
    "key": "ALL_ELDER_ALEXANDRA_2026-11-11",
    "name": "Alexandra Elder",
@@ -2246,28 +2268,6 @@
    "more": 0,
    "ts": 1794174433,
    "photo": "photos/ALL_CARPENTER_TATIONNA_2026-11-08.jpg"
-  },
-  {
-   "key": "POR_BAUGHMAN_CLARK_2026-11-07",
-   "name": "Clark Dean Baughman",
-   "age": "59",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Invasion Of Privacy",
-   "more": 0,
-   "ts": 1794170837,
-   "photo": "photos/POR_BAUGHMAN_CLARK_2026-11-07.jpg"
-  },
-  {
-   "key": "VAN_JONES_CALEB_2026-11-08",
-   "name": "Caleb Micheal Jones",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Strangulation",
-   "more": 2,
-   "ts": 1794170834,
-   "photo": null
   }
  ]
 }
