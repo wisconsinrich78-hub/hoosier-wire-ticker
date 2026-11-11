@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T14:48:13+00:00",
+ "updated": "2026-11-11T15:47:57+00:00",
  "items": [
+  {
+   "key": "ALL_PUZYNSKI_JOSHUA_2026-11-11",
+   "name": "Joshua Puzynski",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794412049,
+   "photo": "photos/ALL_PUZYNSKI_JOSHUA_2026-11-11.jpg"
+  },
   {
    "key": "MAD_AYNES_ALEXIS_2026-11-11",
    "name": "Alexis Riley Aynes",
@@ -321,17 +332,6 @@
    "photo": "photos/ALL_HUGHES_MALIK_2026-11-10.jpg"
   },
   {
-   "key": "ALL_BECERRA_DAVID_2026-11-10",
-   "name": "David Becerra",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 1,
-   "ts": 1794350841,
-   "photo": "photos/ALL_BECERRA_DAVID_2026-11-10.jpg"
-  },
-  {
    "key": "MAD_LANTEIGNE_LAUREN_2026-11-10",
    "name": "Lauren Ashley Lanteigne",
    "age": "45",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_PUZYNSKI_JOSHUA_2026-11-11",
+   "name": "Joshua Puzynski",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794412049,
+   "photo": "photos/ALL_PUZYNSKI_JOSHUA_2026-11-11.jpg"
+  },
   {
    "key": "MAD_AYNES_ALEXIS_2026-11-11",
    "name": "Alexis Riley Aynes",
