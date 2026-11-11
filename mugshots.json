@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-10T23:47:46+00:00",
+ "updated": "2026-11-11T00:47:36+00:00",
  "items": [
+  {
+   "key": "MAD_AYERS_NADIA_2026-11-10",
+   "name": "Nadia Jade Ayers",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794358046,
+   "photo": null
+  },
+  {
+   "key": "ALL_YEPSON_MICHAEL_2026-11-10",
+   "name": "Michael Yepson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine - Less Than 5 Grams And An Enhancing Cir",
+   "more": 2,
+   "ts": 1794358042,
+   "photo": "photos/ALL_YEPSON_MICHAEL_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_DENNIS_CHRISTOPHER_2026-11-10",
+   "name": "Christopher Dennis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass Meeting Level 6 Felony Requirements",
+   "more": 0,
+   "ts": 1794358037,
+   "photo": "photos/ALL_DENNIS_CHRISTOPHER_2026-11-10.jpg"
+  },
   {
    "key": "ALL_FORD_DEVIN_2026-11-10",
    "name": "Devin Ford",
@@ -176,28 +209,6 @@
    "more": 0,
    "ts": 1794332842,
    "photo": "photos/ALL_JACKSON_ISAIAH_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_TAYLOR_MICHAEL_2026-11-10",
-   "name": "Michael Taylor",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Strangulation Aggravated Injury",
-   "more": 1,
-   "ts": 1794332837,
-   "photo": "photos/ALL_TAYLOR_MICHAEL_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_SATHER_IAN_2026-11-10",
-   "name": "Ian Sather",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1794332833,
-   "photo": "photos/ALL_SATHER_IAN_2026-11-10.jpg"
   },
   {
    "key": "POR_ATTERBERRY_RUBY_2026-11-09",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794253648,
    "photo": "photos/MAD_GIACOMA_CHLOE_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_DOERR_TIMOTHY_2026-11-09",
-   "name": "Timothy Logan Doerr",
-   "age": "62",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794253643,
-   "photo": "photos/VAN_DOERR_TIMOTHY_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_AYERS_NADIA_2026-11-10",
+   "name": "Nadia Jade Ayers",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794358046,
+   "photo": null
+  },
+  {
+   "key": "ALL_YEPSON_MICHAEL_2026-11-10",
+   "name": "Michael Yepson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Methamphetamine - Less Than 5 Grams And An Enhancing Cir",
+   "more": 2,
+   "ts": 1794358042,
+   "photo": "photos/ALL_YEPSON_MICHAEL_2026-11-10.jpg"
+  },
+  {
+   "key": "ALL_DENNIS_CHRISTOPHER_2026-11-10",
+   "name": "Christopher Dennis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass Meeting Level 6 Felony Requirements",
+   "more": 0,
+   "ts": 1794358037,
+   "photo": "photos/ALL_DENNIS_CHRISTOPHER_2026-11-10.jpg"
+  },
   {
    "key": "ALL_FORD_DEVIN_2026-11-10",
    "name": "Devin Ford",
@@ -2268,28 +2301,6 @@
    "more": 0,
    "ts": 1794102437,
    "photo": "photos/ALL_WOLFCALE_CHRISTOPHER_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_KESLER_AMANDA_2026-11-06",
-   "name": "Amanda Jayne Kesler",
-   "age": "53",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Mv/Habitual Traffic Offender 6 Fel",
-   "more": 2,
-   "ts": 1794098832,
-   "photo": "photos/POR_KESLER_AMANDA_2026-11-06.jpg"
-  },
-  {
-   "key": "VAN_LUTHER_DAVID_2026-11-07",
-   "name": "David Earl Luther",
-   "age": "60",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
-   "more": 0,
-   "ts": 1794098829,
-   "photo": "photos/VAN_LUTHER_DAVID_2026-11-07.jpg"
   }
  ]
 }
