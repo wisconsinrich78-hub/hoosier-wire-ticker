@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T16:47:53+00:00",
+ "updated": "2026-11-11T17:47:53+00:00",
  "items": [
+  {
+   "key": "POR_TENNIONE_LEANNE_2026-11-10",
+   "name": "Leanne Renee Tennione",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Intimidation",
+   "more": 2,
+   "ts": 1794419247,
+   "photo": "photos/POR_TENNIONE_LEANNE_2026-11-10.jpg"
+  },
   {
    "key": "MAD_WILSON_JOEY_2026-11-11",
    "name": "Joey Kent Wilson",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794286043,
    "photo": null
-  },
-  {
-   "key": "VAN_KING_SONYA_2026-11-09",
-   "name": "Sonya Annette King",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1794282438,
-   "photo": "photos/VAN_KING_SONYA_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_TENNIONE_LEANNE_2026-11-10",
+   "name": "Leanne Renee Tennione",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Intimidation",
+   "more": 2,
+   "ts": 1794419247,
+   "photo": "photos/POR_TENNIONE_LEANNE_2026-11-10.jpg"
+  },
   {
    "key": "MAD_WILSON_JOEY_2026-11-11",
    "name": "Joey Kent Wilson",
@@ -2279,28 +2290,6 @@
    "more": 1,
    "ts": 1794163638,
    "photo": "photos/POR_GONZALEZ_ROZLYN_2026-11-07.jpg"
-  },
-  {
-   "key": "ALL_THOMAS_NICHOLAS_2026-11-08",
-   "name": "Nicholas Thomas",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Mischief - Pecuniary Loss At Least $750 And < $50,000",
-   "more": 0,
-   "ts": 1794160037,
-   "photo": "photos/ALL_THOMAS_NICHOLAS_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_PROPHET_EDWARD_2026-11-08",
-   "name": "Edward Prophet",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Habitual Traffic Violator - Lifetime",
-   "more": 5,
-   "ts": 1794160033,
-   "photo": "photos/ALL_PROPHET_EDWARD_2026-11-08.jpg"
   }
  ]
 }
