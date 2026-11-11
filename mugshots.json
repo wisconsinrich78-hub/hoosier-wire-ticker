@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-11T07:48:33+00:00",
+ "updated": "2026-11-11T08:47:44+00:00",
  "items": [
+  {
+   "key": "ALL_CONRAD_CALEB_2026-11-11",
+   "name": "Caleb Conrad",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1794386840,
+   "photo": "photos/ALL_CONRAD_CALEB_2026-11-11.jpg"
+  },
   {
    "key": "MAD_WOLLAM_MADYSON_2026-11-11",
    "name": "Madyson Elexis Wollam",
@@ -253,17 +264,6 @@
    "more": 0,
    "ts": 1794343662,
    "photo": "photos/MAD_LANTEIGNE_LAUREN_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_IRVING_TANYA_2026-11-10",
-   "name": "Tanya Irving",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794343652,
-   "photo": "photos/ALL_IRVING_TANYA_2026-11-10.jpg"
   },
   {
    "key": "MAD_BIRCHFIELD_SKIELIER_2026-11-10",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_CONRAD_CALEB_2026-11-11",
+   "name": "Caleb Conrad",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1794386840,
+   "photo": "photos/ALL_CONRAD_CALEB_2026-11-11.jpg"
+  },
   {
    "key": "MAD_WOLLAM_MADYSON_2026-11-11",
    "name": "Madyson Elexis Wollam",
@@ -2147,83 +2158,6 @@
    "more": 0,
    "ts": 1794131234,
    "photo": "photos/VAN_STATENDIAL_JORDAN_2026-11-08.jpg"
-  },
-  {
-   "key": "MAD_THOMPSON_JACLYN_2026-11-08",
-   "name": "Jaclyn K Thompson",
-   "age": "48",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Bribery",
-   "more": 5,
-   "ts": 1794127644,
-   "photo": null
-  },
-  {
-   "key": "MAD_PRICKETT_MARCUS_2026-11-08",
-   "name": "Marcus Allen Prickett",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for 10 day Probation Violation - Jail Booking",
-   "more": 1,
-   "ts": 1794127643,
-   "photo": "photos/MAD_PRICKETT_MARCUS_2026-11-08.jpg"
-  },
-  {
-   "key": "MAD_MATALUCCI_ANTHONY_2026-11-08",
-   "name": "Anthony Joseph Matalucci",
-   "age": "22",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated- endangerment",
-   "more": 1,
-   "ts": 1794127640,
-   "photo": "photos/MAD_MATALUCCI_ANTHONY_2026-11-08.jpg"
-  },
-  {
-   "key": "MAD_LASWELL_JEFFREY_2026-11-08",
-   "name": "Jeffrey Duane Laswell",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Driving while suspended- prior suspension within 10 years",
-   "more": 1,
-   "ts": 1794127639,
-   "photo": "photos/MAD_LASWELL_JEFFREY_2026-11-08.jpg"
-  },
-  {
-   "key": "POR_EVANS_JAVON_2026-11-07",
-   "name": "Javon Oshae Evans",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794127634,
-   "photo": "photos/POR_EVANS_JAVON_2026-11-07.jpg"
-  },
-  {
-   "key": "POR_MARSHALL_DAVID_2026-11-07",
-   "name": "David Everett Marshall",
-   "age": "34",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
-   "more": 4,
-   "ts": 1794127631,
-   "photo": "photos/POR_MARSHALL_DAVID_2026-11-07.jpg"
-  },
-  {
-   "key": "VAN_EVANS_RAFAEL_2026-11-08",
-   "name": "Rafael Theodore Evans",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
-   "more": 5,
-   "ts": 1794127629,
-   "photo": "photos/VAN_EVANS_RAFAEL_2026-11-08.jpg"
   }
  ]
 }
