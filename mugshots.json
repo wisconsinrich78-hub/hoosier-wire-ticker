@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-11T20:48:24+00:00",
+ "updated": "2026-11-11T21:48:25+00:00",
  "items": [
+  {
+   "key": "MAD_FULP_BRIAN_2026-11-11",
+   "name": "Brian Steven Lee Fulp",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Theft- shoplifting - value of property at least $750 and less than $50",
+   "more": 0,
+   "ts": 1794433676,
+   "photo": "photos/MAD_FULP_BRIAN_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_FIRKINS_RODNEY_2026-11-11",
+   "name": "Rodney Firkins",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794433662,
+   "photo": "photos/ALL_FIRKINS_RODNEY_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_CASSEL_LANTAE_2026-11-11",
+   "name": "Lantae Cassel",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1794433657,
+   "photo": null
+  },
   {
    "key": "POR_BRENT_JAMES_2026-11-10",
    "name": "James Wesley Brent",
@@ -387,28 +420,6 @@
    "photo": null
   },
   {
-   "key": "ALL_YEPSON_MICHAEL_2026-11-10",
-   "name": "Michael Yepson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine - Less Than 5 Grams And An Enhancing Cir",
-   "more": 2,
-   "ts": 1794358042,
-   "photo": "photos/ALL_YEPSON_MICHAEL_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_DENNIS_CHRISTOPHER_2026-11-10",
-   "name": "Christopher Dennis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass Meeting Level 6 Felony Requirements",
-   "more": 0,
-   "ts": 1794358037,
-   "photo": "photos/ALL_DENNIS_CHRISTOPHER_2026-11-10.jpg"
-  },
-  {
    "key": "MAD_LANTEIGNE_LAUREN_2026-11-10",
    "name": "Lauren Ashley Lanteigne",
    "age": "45",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794293256,
    "photo": "photos/MAD_ANCIL_MAELEE_2026-11-10.jpg"
-  },
-  {
-   "key": "VAN_ALLEN_DRAKE_2026-11-09",
-   "name": "Drake Mackenzie Allen",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794293250,
-   "photo": "photos/VAN_ALLEN_DRAKE_2026-11-09.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_FULP_BRIAN_2026-11-11",
+   "name": "Brian Steven Lee Fulp",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Theft- shoplifting - value of property at least $750 and less than $50",
+   "more": 0,
+   "ts": 1794433676,
+   "photo": "photos/MAD_FULP_BRIAN_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_FIRKINS_RODNEY_2026-11-11",
+   "name": "Rodney Firkins",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794433662,
+   "photo": "photos/ALL_FIRKINS_RODNEY_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_CASSEL_LANTAE_2026-11-11",
+   "name": "Lantae Cassel",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1794433657,
+   "photo": null
+  },
   {
    "key": "POR_BRENT_JAMES_2026-11-10",
    "name": "James Wesley Brent",
@@ -2257,17 +2290,6 @@
    "more": 0,
    "ts": 1794178032,
    "photo": "photos/ALL_LUNAGARCIA_ISAIAS_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_CARPENTER_TATIONNA_2026-11-08",
-   "name": "Ta-Tionna Carpenter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794174433,
-   "photo": "photos/ALL_CARPENTER_TATIONNA_2026-11-08.jpg"
   }
  ]
 }
