@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-12T21:57:53+00:00",
+ "updated": "2026-11-12T22:47:42+00:00",
  "items": [
+  {
+   "key": "MAD_WHITE_DONYALL_2026-11-12",
+   "name": "Donyall Earl White",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794523661,
+   "photo": "photos/MAD_WHITE_DONYALL_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_NIMTZ_DENNIS_2026-11-12",
+   "name": "Dennis Michael Nimtz",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 0,
+   "ts": 1794523651,
+   "photo": "photos/VAN_NIMTZ_DENNIS_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_FLOYD_MELANIE_2026-11-12",
+   "name": "Melanie Ann Floyd",
+   "age": "57",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794523650,
+   "photo": "photos/VAN_FLOYD_MELANIE_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_JONES_MIQUAN_2026-11-12",
+   "name": "Miquan Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 1,
+   "ts": 1794523647,
+   "photo": "photos/ALL_JONES_MIQUAN_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_PAYTON_NATHAN_2026-11-12",
+   "name": "Nathan Payton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sex / Violent Offender - Fail To Register - Prior",
+   "more": 0,
+   "ts": 1794523643,
+   "photo": "photos/ALL_PAYTON_NATHAN_2026-11-12.jpg"
+  },
   {
    "key": "MAD_COWAN_ERICA_2026-11-12",
    "name": "Erica Devon Cowan",
@@ -473,64 +528,64 @@
    "more": 2,
    "ts": 1794458843,
    "photo": "photos/ALL_MAURICIO_BIANCA_2026-11-11.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "ALL_CURRY_JORDAN_2026-11-11",
-   "name": "Jordan Curry",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 1,
-   "ts": 1794458837,
-   "photo": null
-  },
-  {
-   "key": "MAD_SIMMONS_RANDALL_2026-11-11",
-   "name": "Randall Joe Simmons",
-   "age": "73",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated- endangerment",
-   "more": 0,
-   "ts": 1794455249,
-   "photo": "photos/MAD_SIMMONS_RANDALL_2026-11-11.jpg"
-  },
-  {
-   "key": "MAD_JOHNS_WILLIAM_2026-11-11",
-   "name": "William Garold Johns",
-   "age": "27",
+   "key": "MAD_WHITE_DONYALL_2026-11-12",
+   "name": "Donyall Earl White",
+   "age": "45",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1794455245,
-   "photo": null
+   "ts": 1794523661,
+   "photo": "photos/MAD_WHITE_DONYALL_2026-11-12.jpg"
   },
   {
-   "key": "POR_LAUDERBACK_AMY_2026-11-11",
-   "name": "Amy Beth Lauderback",
-   "age": "44",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Prior Conviction",
-   "more": 4,
-   "ts": 1794455238,
-   "photo": "photos/POR_LAUDERBACK_AMY_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_POUST_ALEXUS_2026-11-11",
-   "name": "Alexus Jewel Poust",
-   "age": "25",
+   "key": "VAN_NIMTZ_DENNIS_2026-11-12",
+   "name": "Dennis Michael Nimtz",
+   "age": "43",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Domestic Battery-Adult Against Family Or Member Less Than 14",
+   "charge": "Other Agencies Charges",
    "more": 0,
-   "ts": 1794455234,
-   "photo": "photos/VAN_POUST_ALEXUS_2026-11-11.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1794523651,
+   "photo": "photos/VAN_NIMTZ_DENNIS_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_FLOYD_MELANIE_2026-11-12",
+   "name": "Melanie Ann Floyd",
+   "age": "57",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794523650,
+   "photo": "photos/VAN_FLOYD_MELANIE_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_JONES_MIQUAN_2026-11-12",
+   "name": "Miquan Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 1,
+   "ts": 1794523647,
+   "photo": "photos/ALL_JONES_MIQUAN_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_PAYTON_NATHAN_2026-11-12",
+   "name": "Nathan Payton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sex / Violent Offender - Fail To Register - Prior",
+   "more": 0,
+   "ts": 1794523643,
+   "photo": "photos/ALL_PAYTON_NATHAN_2026-11-12.jpg"
+  },
   {
    "key": "MAD_COWAN_ERICA_2026-11-12",
    "name": "Erica Devon Cowan",
@@ -2521,50 +2576,6 @@
    "more": 0,
    "ts": 1794268031,
    "photo": "photos/ALL_FUENTES_ANTONIO_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_NOFFSINGER_STUART_2026-11-09",
-   "name": "Stuart William Noffsinger",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 1,
-   "ts": 1794264443,
-   "photo": "photos/VAN_NOFFSINGER_STUART_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_MECHLING_CHAIPETCH_2026-11-09",
-   "name": "Chaipetch Matthew Mechling",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
-   "more": 2,
-   "ts": 1794264443,
-   "photo": null
-  },
-  {
-   "key": "VAN_TINSLEY_TRISTAN_2026-11-09",
-   "name": "Tristan Isiah Tinsley",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794264442,
-   "photo": "photos/VAN_TINSLEY_TRISTAN_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_BROWN_KWAME_2026-11-09",
-   "name": "Kwame Brown",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 1,
-   "ts": 1794264438,
-   "photo": "photos/ALL_BROWN_KWAME_2026-11-09.jpg"
   }
  ]
 }
