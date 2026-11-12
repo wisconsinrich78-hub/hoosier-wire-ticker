@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-12T01:24:29+00:00",
+ "updated": "2026-11-12T01:47:46+00:00",
  "items": [
+  {
+   "key": "VAN_CRITCHFIELD_CAMDYN_2026-11-11",
+   "name": "Camdyn Rayne Critchfield",
+   "age": "17",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794448042,
+   "photo": "photos/VAN_CRITCHFIELD_CAMDYN_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_BRUCE_RYAN_2026-11-11",
+   "name": "Ryan Anthony Bruce",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 1,
+   "ts": 1794448039,
+   "photo": null
+  },
   {
    "key": "POR_HAYES_DEON_2026-11-10",
    "name": "Deon Lavon Hayes",
@@ -174,28 +196,6 @@
    "region": "south",
    "charge": "Battery-Moderate Bodily Injury - Felony",
    "more": 0,
-   "ts": 1794437252,
-   "photo": null
-  },
-  {
-   "key": "VAN_JONES_RANDY_2026-11-10",
-   "name": "Randy Ray Jones",
-   "age": "69",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794437252,
-   "photo": null
-  },
-  {
-   "key": "VAN_BRYANT_LISA_2026-11-10",
-   "name": "Lisa Renea Bryant",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
-   "more": 1,
    "ts": 1794437252,
    "photo": null
   },
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_CRITCHFIELD_CAMDYN_2026-11-11",
+   "name": "Camdyn Rayne Critchfield",
+   "age": "17",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794448042,
+   "photo": "photos/VAN_CRITCHFIELD_CAMDYN_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_BRUCE_RYAN_2026-11-11",
+   "name": "Ryan Anthony Bruce",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 1,
+   "ts": 1794448039,
+   "photo": null
+  },
   {
    "key": "POR_HAYES_DEON_2026-11-10",
    "name": "Deon Lavon Hayes",
@@ -2499,28 +2521,6 @@
    "more": 3,
    "ts": 1794192447,
    "photo": "photos/ALL_SELLERS_ERICA_2026-11-08.jpg"
-  },
-  {
-   "key": "POR_CLEMENS_BARBARA_2026-11-08",
-   "name": "Barbara Ann Clemens",
-   "age": "48",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Moderate Bodily Injury",
-   "more": 0,
-   "ts": 1794188839,
-   "photo": "photos/POR_CLEMENS_BARBARA_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_SMITH_ANTHONY_2026-11-08",
-   "name": "Anthony Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794188835,
-   "photo": "photos/ALL_SMITH_ANTHONY_2026-11-08.jpg"
   }
  ]
 }
