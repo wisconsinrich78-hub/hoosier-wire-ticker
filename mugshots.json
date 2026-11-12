@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-12T20:51:29+00:00",
+ "updated": "2026-11-12T21:47:36+00:00",
  "items": [
+  {
+   "key": "MAD_COWAN_ERICA_2026-11-12",
+   "name": "Erica Devon Cowan",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794520042,
+   "photo": "photos/MAD_COWAN_ERICA_2026-11-12.jpg"
+  },
+  {
+   "key": "MAD_AGUILAR_IVAN_2026-11-12",
+   "name": "Ivan Alexander Aguilar",
+   "age": "25",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Nonsupport of dependent",
+   "more": 0,
+   "ts": 1794520040,
+   "photo": "photos/MAD_AGUILAR_IVAN_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_DEVOY_SETH_2026-11-12",
+   "name": "Seth Michael Devoy",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Auto Theft - Where Intent Is To Deprive Owner Of Value Or",
+   "more": 0,
+   "ts": 1794520037,
+   "photo": "photos/VAN_DEVOY_SETH_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_HARWELL_ROBERT_2026-11-12",
+   "name": "Robert Joseph Harwell",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "False Reporting; False Informing",
+   "more": 0,
+   "ts": 1794520035,
+   "photo": null
+  },
+  {
+   "key": "ALL_EDWARDS_JOHN_2026-11-12",
+   "name": "John Edwards",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Entering Airport/Deadly Weapon",
+   "more": 0,
+   "ts": 1794520033,
+   "photo": "photos/ALL_EDWARDS_JOHN_2026-11-12.jpg"
+  },
   {
    "key": "POR_SANCHEZALVAREZ_FERNANDA_2026-11-11",
    "name": "Fernanda Sanchez-Alvarez",
@@ -473,64 +528,64 @@
    "more": 0,
    "ts": 1794455234,
    "photo": "photos/VAN_POUST_ALEXUS_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_MOSLEY_KATELYNN_2026-11-11",
-   "name": "Katelynn Marie Mosley",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1794451649,
-   "photo": "photos/VAN_MOSLEY_KATELYNN_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_SCOTT_JAYDEN_2026-11-11",
-   "name": "Jayden Scott",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 1,
-   "ts": 1794451642,
-   "photo": null
-  },
-  {
-   "key": "VAN_CRITCHFIELD_CAMDYN_2026-11-11",
-   "name": "Camdyn Rayne Critchfield",
-   "age": "17",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794448042,
-   "photo": "photos/VAN_CRITCHFIELD_CAMDYN_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_BRUCE_RYAN_2026-11-11",
-   "name": "Ryan Anthony Bruce",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 1,
-   "ts": 1794448039,
-   "photo": null
-  },
-  {
-   "key": "POR_HAYES_DEON_2026-11-10",
-   "name": "Deon Lavon Hayes",
-   "age": "34",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
-   "more": 7,
-   "ts": 1794444448,
-   "photo": "photos/POR_HAYES_DEON_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_COWAN_ERICA_2026-11-12",
+   "name": "Erica Devon Cowan",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794520042,
+   "photo": "photos/MAD_COWAN_ERICA_2026-11-12.jpg"
+  },
+  {
+   "key": "MAD_AGUILAR_IVAN_2026-11-12",
+   "name": "Ivan Alexander Aguilar",
+   "age": "25",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Nonsupport of dependent",
+   "more": 0,
+   "ts": 1794520040,
+   "photo": "photos/MAD_AGUILAR_IVAN_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_DEVOY_SETH_2026-11-12",
+   "name": "Seth Michael Devoy",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Auto Theft - Where Intent Is To Deprive Owner Of Value Or",
+   "more": 0,
+   "ts": 1794520037,
+   "photo": "photos/VAN_DEVOY_SETH_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_HARWELL_ROBERT_2026-11-12",
+   "name": "Robert Joseph Harwell",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "False Reporting; False Informing",
+   "more": 0,
+   "ts": 1794520035,
+   "photo": null
+  },
+  {
+   "key": "ALL_EDWARDS_JOHN_2026-11-12",
+   "name": "John Edwards",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Entering Airport/Deadly Weapon",
+   "more": 0,
+   "ts": 1794520033,
+   "photo": "photos/ALL_EDWARDS_JOHN_2026-11-12.jpg"
+  },
   {
    "key": "POR_SANCHEZALVAREZ_FERNANDA_2026-11-11",
    "name": "Fernanda Sanchez-Alvarez",
@@ -2532,17 +2587,6 @@
    "more": 0,
    "ts": 1794260868,
    "photo": "photos/MAD_JACOBS_JALONTE_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_SMITH_CRYSTAL_2026-11-09",
-   "name": "Crystal Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794260851,
-   "photo": "photos/ALL_SMITH_CRYSTAL_2026-11-09.jpg"
   }
  ]
 }
