@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T12:47:23+00:00",
+ "updated": "2026-11-12T13:47:39+00:00",
  "items": [
+  {
+   "key": "MAD_CARSON_HALEY_2026-11-12",
+   "name": "Haley Marie Carson",
+   "age": "29",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1794491233,
+   "photo": "photos/MAD_CARSON_HALEY_2026-11-12.jpg"
+  },
+  {
+   "key": "POR_MUSGRAVE_DAMON_2026-11-11",
+   "name": "Damon Richard Musgrave",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794491230,
+   "photo": "photos/POR_MUSGRAVE_DAMON_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_ESTRADA_JAYCE_2026-11-12",
+   "name": "Jayce Lauryn Estrada",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 0,
+   "ts": 1794491227,
+   "photo": "photos/VAN_ESTRADA_JAYCE_2026-11-12.jpg"
+  },
   {
    "key": "MAD_RIVAS_CONNOR_2026-11-12",
    "name": "Connor Gabriel Rivas",
@@ -343,17 +376,6 @@
    "photo": "photos/VAN_QUARLES_KEION_2026-11-11.jpg"
   },
   {
-   "key": "VAN_MARTIN_LENOARD_2026-11-10",
-   "name": "Lenoard Dewayne Martin",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Writ Of Attachment",
-   "more": 0,
-   "ts": 1794437253,
-   "photo": null
-  },
-  {
    "key": "MAD_FULP_BRIAN_2026-11-11",
    "name": "Brian Steven Lee Fulp",
    "age": "34",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1794408446,
    "photo": "photos/MAD_AYNES_ALEXIS_2026-11-11.jpg"
-  },
-  {
-   "key": "POR_LEWIS_JERRY_2026-11-10",
-   "name": "Jerry Lee Lewis",
-   "age": "60",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol/Drugs",
-   "more": 0,
-   "ts": 1794408441,
-   "photo": "photos/POR_LEWIS_JERRY_2026-11-10.jpg"
-  },
-  {
-   "key": "POR_VILLAROMAN_AARON_2026-11-10",
-   "name": "Aaron Lee Villaroman",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Revocation Of Probation",
-   "more": 2,
-   "ts": 1794404850,
-   "photo": "photos/POR_VILLAROMAN_AARON_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_CARSON_HALEY_2026-11-12",
+   "name": "Haley Marie Carson",
+   "age": "29",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1794491233,
+   "photo": "photos/MAD_CARSON_HALEY_2026-11-12.jpg"
+  },
+  {
+   "key": "POR_MUSGRAVE_DAMON_2026-11-11",
+   "name": "Damon Richard Musgrave",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1794491230,
+   "photo": "photos/POR_MUSGRAVE_DAMON_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_ESTRADA_JAYCE_2026-11-12",
+   "name": "Jayce Lauryn Estrada",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 0,
+   "ts": 1794491227,
+   "photo": "photos/VAN_ESTRADA_JAYCE_2026-11-12.jpg"
+  },
   {
    "key": "MAD_RIVAS_CONNOR_2026-11-12",
    "name": "Connor Gabriel Rivas",
