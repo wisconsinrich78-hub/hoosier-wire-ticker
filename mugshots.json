@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T06:47:40+00:00",
+ "updated": "2026-11-12T07:47:22+00:00",
  "items": [
+  {
+   "key": "VAN_COLLINS_RACHEL_2026-11-11",
+   "name": "Rachel Jeanine Collins",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1794469630,
+   "photo": "photos/VAN_COLLINS_RACHEL_2026-11-11.jpg"
+  },
   {
    "key": "MAD_BALDWIN_MARY_2026-11-12",
    "name": "Mary Jane Baldwin",
@@ -310,17 +321,6 @@
    "photo": null
   },
   {
-   "key": "VAN_RICHIE_DANIEL_2026-11-11",
-   "name": "Daniel Lynn Richie",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Child Support - Writ Of Attachment",
-   "more": 1,
-   "ts": 1794437252,
-   "photo": null
-  },
-  {
    "key": "MAD_FULP_BRIAN_2026-11-11",
    "name": "Brian Steven Lee Fulp",
    "age": "34",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_COLLINS_RACHEL_2026-11-11",
+   "name": "Rachel Jeanine Collins",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1794469630,
+   "photo": "photos/VAN_COLLINS_RACHEL_2026-11-11.jpg"
+  },
   {
    "key": "MAD_BALDWIN_MARY_2026-11-12",
    "name": "Mary Jane Baldwin",
@@ -2499,17 +2510,6 @@
    "more": 0,
    "ts": 1794217630,
    "photo": "photos/ALL_SACCHITELLA_RICHARD_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_VARNEY_BRITTANY_2026-11-09",
-   "name": "Brittany Varney",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Paraphernalia",
-   "more": 0,
-   "ts": 1794210431,
-   "photo": "photos/ALL_VARNEY_BRITTANY_2026-11-09.jpg"
   }
  ]
 }
