@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-12T16:47:35+00:00",
+ "updated": "2026-11-12T17:49:06+00:00",
  "items": [
+  {
+   "key": "MAD_REID_CHARLES_2026-11-12",
+   "name": "Charles Benjamin Reid",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Contempt of Court (Child Support) - Jail Booking",
+   "more": 0,
+   "ts": 1794505651,
+   "photo": "photos/MAD_REID_CHARLES_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_QUARLES_KEION_2026-11-12",
+   "name": "Keion Lamar Quarles",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 1,
+   "ts": 1794505644,
+   "photo": "photos/VAN_QUARLES_KEION_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_MARCUM_CHARLES_2026-11-12",
+   "name": "Charles Marcum",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794505640,
+   "photo": "photos/ALL_MARCUM_CHARLES_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_FLEMING_JEREMIAH_2026-11-12",
+   "name": "Jeremiah Fleming",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Child Molesting - Fondling/Touching",
+   "more": 0,
+   "ts": 1794505635,
+   "photo": "photos/ALL_FLEMING_JEREMIAH_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_HUTCHISON_DANIEL_2026-11-12",
+   "name": "Daniel Hutchison",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft Or Conversion",
+   "more": 0,
+   "ts": 1794505630,
+   "photo": "photos/ALL_HUTCHISON_DANIEL_2026-11-12.jpg"
+  },
   {
    "key": "MAD_FREYTAG_JAMES_2026-11-12",
    "name": "James Marion Junior Freytag",
@@ -453,17 +508,6 @@
    "photo": "photos/VAN_MERIWETHER_DONNITA_2026-11-11.jpg"
   },
   {
-   "key": "VAN_QUARLES_KEION_2026-11-11",
-   "name": "Keion Lamar Quarles",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
-   "more": 0,
-   "ts": 1794440841,
-   "photo": "photos/VAN_QUARLES_KEION_2026-11-11.jpg"
-  },
-  {
    "key": "MAD_FULP_BRIAN_2026-11-11",
    "name": "Brian Steven Lee Fulp",
    "age": "34",
@@ -484,53 +528,64 @@
    "more": 0,
    "ts": 1794433662,
    "photo": "photos/ALL_FIRKINS_RODNEY_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_CASSEL_LANTAE_2026-11-11",
-   "name": "Lantae Cassel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1794433657,
-   "photo": null
-  },
-  {
-   "key": "POR_BRENT_JAMES_2026-11-10",
-   "name": "James Wesley Brent",
-   "age": "34",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Resisting Law Enforcement",
-   "more": 3,
-   "ts": 1794430064,
-   "photo": "photos/POR_BRENT_JAMES_2026-11-10.jpg"
-  },
-  {
-   "key": "POR_ROBINSON_CHRISTOPHER_2026-11-10",
-   "name": "Christopher Ray Robinson",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Schedule Ii, Iii, Iv : A : M",
-   "more": 0,
-   "ts": 1794430061,
-   "photo": "photos/POR_ROBINSON_CHRISTOPHER_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_ELDER_ALEXANDRA_2026-11-11",
-   "name": "Alexandra Elder",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving The Scene Of A Crash - Property Damage",
-   "more": 3,
-   "ts": 1794422838,
-   "photo": "photos/ALL_ELDER_ALEXANDRA_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_REID_CHARLES_2026-11-12",
+   "name": "Charles Benjamin Reid",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Contempt of Court (Child Support) - Jail Booking",
+   "more": 0,
+   "ts": 1794505651,
+   "photo": "photos/MAD_REID_CHARLES_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_QUARLES_KEION_2026-11-12",
+   "name": "Keion Lamar Quarles",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 1,
+   "ts": 1794505644,
+   "photo": "photos/VAN_QUARLES_KEION_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_MARCUM_CHARLES_2026-11-12",
+   "name": "Charles Marcum",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794505640,
+   "photo": "photos/ALL_MARCUM_CHARLES_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_FLEMING_JEREMIAH_2026-11-12",
+   "name": "Jeremiah Fleming",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Child Molesting - Fondling/Touching",
+   "more": 0,
+   "ts": 1794505635,
+   "photo": "photos/ALL_FLEMING_JEREMIAH_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_HUTCHISON_DANIEL_2026-11-12",
+   "name": "Daniel Hutchison",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft Or Conversion",
+   "more": 0,
+   "ts": 1794505630,
+   "photo": "photos/ALL_HUTCHISON_DANIEL_2026-11-12.jpg"
+  },
   {
    "key": "MAD_FREYTAG_JAMES_2026-11-12",
    "name": "James Marion Junior Freytag",
@@ -2510,61 +2565,6 @@
    "more": 2,
    "ts": 1794250030,
    "photo": "photos/ALL_WIMBLEY_DEMETRIUS_2026-11-09.jpg"
-  },
-  {
-   "key": "MAD_RIGNEY_STEVEN_2026-11-09",
-   "name": "Steven Owen Rigney",
-   "age": "48",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Auto theft",
-   "more": 0,
-   "ts": 1794246448,
-   "photo": "photos/MAD_RIGNEY_STEVEN_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_GREENLEE_CHRISTOPHER_2026-11-09",
-   "name": "Christopher Michael Greenlee",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794246441,
-   "photo": "photos/VAN_GREENLEE_CHRISTOPHER_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_ALEXIA_2026-11-09",
-   "name": "Alexia Skye Johnson",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794246440,
-   "photo": "photos/VAN_JOHNSON_ALEXIA_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_GAFFNEY_HERBERT_2026-11-09",
-   "name": "Herbert Gaffney",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794246436,
-   "photo": "photos/ALL_GAFFNEY_HERBERT_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_YOUNG_JACARION_2026-11-09",
-   "name": "Jacarion Young",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 0,
-   "ts": 1794246432,
-   "photo": "photos/ALL_YOUNG_JACARION_2026-11-09.jpg"
   }
  ]
 }
