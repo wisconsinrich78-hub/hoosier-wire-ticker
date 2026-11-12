@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-12T17:49:06+00:00",
+ "updated": "2026-11-12T18:47:30+00:00",
  "items": [
+  {
+   "key": "MAD_WILEY_KELI_2026-11-12",
+   "name": "Keli Marie Wiley",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Return to County Jail Per Court Order - Jail Bookings",
+   "more": 0,
+   "ts": 1794509241,
+   "photo": "photos/MAD_WILEY_KELI_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_ANGELESPARZA_CRISTIAN_2026-11-12",
+   "name": "Cristian Angelesparza",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794509231,
+   "photo": "photos/ALL_ANGELESPARZA_CRISTIAN_2026-11-12.jpg"
+  },
   {
    "key": "MAD_REID_CHARLES_2026-11-12",
    "name": "Charles Benjamin Reid",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794440843,
    "photo": "photos/VAN_MERIWETHER_DONNITA_2026-11-11.jpg"
-  },
-  {
-   "key": "MAD_FULP_BRIAN_2026-11-11",
-   "name": "Brian Steven Lee Fulp",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Theft- shoplifting - value of property at least $750 and less than $50",
-   "more": 0,
-   "ts": 1794433676,
-   "photo": "photos/MAD_FULP_BRIAN_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_FIRKINS_RODNEY_2026-11-11",
-   "name": "Rodney Firkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794433662,
-   "photo": "photos/ALL_FIRKINS_RODNEY_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WILEY_KELI_2026-11-12",
+   "name": "Keli Marie Wiley",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Return to County Jail Per Court Order - Jail Bookings",
+   "more": 0,
+   "ts": 1794509241,
+   "photo": "photos/MAD_WILEY_KELI_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_ANGELESPARZA_CRISTIAN_2026-11-12",
+   "name": "Cristian Angelesparza",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1794509231,
+   "photo": "photos/ALL_ANGELESPARZA_CRISTIAN_2026-11-12.jpg"
+  },
   {
    "key": "MAD_REID_CHARLES_2026-11-12",
    "name": "Charles Benjamin Reid",
@@ -2532,39 +2554,6 @@
    "more": 0,
    "ts": 1794253638,
    "photo": "photos/ALL_FOSTER_GERALD_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_ISAAC_AMANDA_2026-11-09",
-   "name": "Amanda Michelle Isaac",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794250042,
-   "photo": "photos/VAN_ISAAC_AMANDA_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_SMITH_LILLIAN_2026-11-09",
-   "name": "Lillian Kay Smith",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794250041,
-   "photo": "photos/VAN_SMITH_LILLIAN_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_WIMBLEY_DEMETRIUS_2026-11-09",
-   "name": "Demetrius Wimbley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794250030,
-   "photo": "photos/ALL_WIMBLEY_DEMETRIUS_2026-11-09.jpg"
   }
  ]
 }
