@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-12T05:47:27+00:00",
+ "updated": "2026-11-12T06:47:40+00:00",
  "items": [
+  {
+   "key": "MAD_BALDWIN_MARY_2026-11-12",
+   "name": "Mary Jane Baldwin",
+   "age": "52",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1794466050,
+   "photo": null
+  },
+  {
+   "key": "VAN_PACE_DANGELO_2026-11-11",
+   "name": "Dangelo Marcelle Pace",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Wit",
+   "more": 0,
+   "ts": 1794466046,
+   "photo": "photos/VAN_PACE_DANGELO_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_CROSS_CODY_2026-11-11",
+   "name": "Cody Allen Cross",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 0,
+   "ts": 1794466044,
+   "photo": "photos/VAN_CROSS_CODY_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_BELL_JORDAN_2026-11-11",
+   "name": "Jordan Darnell Bell",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Writ Of Attachment",
+   "more": 1,
+   "ts": 1794466043,
+   "photo": "photos/VAN_BELL_JORDAN_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_MORGAN_RODQUELLE_2026-11-12",
+   "name": "Rodquelle Morgan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 1,
+   "ts": 1794466039,
+   "photo": "photos/ALL_MORGAN_RODQUELLE_2026-11-12.jpg"
+  },
   {
    "key": "ALL_RASH_CRAIG_2026-11-11",
    "name": "Craig Rash",
@@ -266,39 +321,6 @@
    "photo": null
   },
   {
-   "key": "VAN_PARAZARODRIGUEZ_EDIN_2026-11-11",
-   "name": "Edin Paraza-Rodriguez",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1794437252,
-   "photo": null
-  },
-  {
-   "key": "VAN_CASE_MILINDA_2026-11-11",
-   "name": "Milinda Kaye Case",
-   "age": "57",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1794437252,
-   "photo": null
-  },
-  {
-   "key": "VAN_PARISH_RANDALL_2026-11-11",
-   "name": "Randall Lee Parish",
-   "age": "66",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 1,
-   "ts": 1794437252,
-   "photo": null
-  },
-  {
    "key": "MAD_FULP_BRIAN_2026-11-11",
    "name": "Brian Steven Lee Fulp",
    "age": "34",
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1794394053,
    "photo": "photos/POR_NELSON_CONNIE_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_HARVEY_ALLEN_2026-11-11",
-   "name": "Allen Harvey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun - Prior Conv Within 15 Yrs",
-   "more": 1,
-   "ts": 1794394045,
-   "photo": "photos/ALL_HARVEY_ALLEN_2026-11-11.jpg"
-  },
-  {
-   "key": "POR_GRESSER_RYAN_2026-11-10",
-   "name": "Ryan David Gresser",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Family Offense- Invasion Of Privacy",
-   "more": 0,
-   "ts": 1794390465,
-   "photo": "photos/POR_GRESSER_RYAN_2026-11-10.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_BALDWIN_MARY_2026-11-12",
+   "name": "Mary Jane Baldwin",
+   "age": "52",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1794466050,
+   "photo": null
+  },
+  {
+   "key": "VAN_PACE_DANGELO_2026-11-11",
+   "name": "Dangelo Marcelle Pace",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Wit",
+   "more": 0,
+   "ts": 1794466046,
+   "photo": "photos/VAN_PACE_DANGELO_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_CROSS_CODY_2026-11-11",
+   "name": "Cody Allen Cross",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 0,
+   "ts": 1794466044,
+   "photo": "photos/VAN_CROSS_CODY_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_BELL_JORDAN_2026-11-11",
+   "name": "Jordan Darnell Bell",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Writ Of Attachment",
+   "more": 1,
+   "ts": 1794466043,
+   "photo": "photos/VAN_BELL_JORDAN_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_MORGAN_RODQUELLE_2026-11-12",
+   "name": "Rodquelle Morgan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 1,
+   "ts": 1794466039,
+   "photo": "photos/ALL_MORGAN_RODQUELLE_2026-11-12.jpg"
+  },
   {
    "key": "ALL_RASH_CRAIG_2026-11-11",
    "name": "Craig Rash",
@@ -2455,28 +2510,6 @@
    "more": 0,
    "ts": 1794210431,
    "photo": "photos/ALL_VARNEY_BRITTANY_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_FENNER_ROBERT_2026-11-09",
-   "name": "Robert Fenner",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 1,
-   "ts": 1794206839,
-   "photo": "photos/ALL_FENNER_ROBERT_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_HOUSHOLDER_QUINCY_2026-11-09",
-   "name": "Quincy Housholder",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794206834,
-   "photo": "photos/ALL_HOUSHOLDER_QUINCY_2026-11-09.jpg"
   }
  ]
 }
