@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T20:47:28+00:00",
+ "updated": "2026-11-12T20:51:29+00:00",
  "items": [
   {
    "key": "POR_SANCHEZALVAREZ_FERNANDA_2026-11-11",
@@ -2543,39 +2543,6 @@
    "more": 0,
    "ts": 1794260851,
    "photo": "photos/ALL_SMITH_CRYSTAL_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_ALMON_GLORY_2026-11-09",
-   "name": "Glory Catherine Almon",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft",
-   "more": 0,
-   "ts": 1794257269,
-   "photo": "photos/VAN_ALMON_GLORY_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_BIRCHUM_KELLY_2026-11-09",
-   "name": "Kelly Birchum",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794257265,
-   "photo": "photos/ALL_BIRCHUM_KELLY_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_PINKSTON_EVAN_2026-11-09",
-   "name": "Evan Pinkston",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1794257260,
-   "photo": "photos/ALL_PINKSTON_EVAN_2026-11-09.jpg"
   }
  ]
 }
