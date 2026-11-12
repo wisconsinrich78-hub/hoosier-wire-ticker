@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:47:17+00:00",
+ "updated": "2026-11-12T11:47:17+00:00",
  "items": [
   {
    "key": "MAD_RIVAS_CONNOR_2026-11-12",
@@ -2499,17 +2499,6 @@
    "more": 0,
    "ts": 1794228432,
    "photo": "photos/POR_POTTS_KYLE_2026-11-08.jpg"
-  },
-  {
-   "key": "VAN_BOLLINGER_GEORGE_2026-11-09",
-   "name": "George August Bollinger",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Burglary",
-   "more": 0,
-   "ts": 1794224830,
-   "photo": "photos/VAN_BOLLINGER_GEORGE_2026-11-09.jpg"
   }
  ]
 }
