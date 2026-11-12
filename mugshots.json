@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-11T23:48:03+00:00",
+ "updated": "2026-11-12T00:47:49+00:00",
  "items": [
+  {
+   "key": "POR_HAYES_DEON_2026-11-10",
+   "name": "Deon Lavon Hayes",
+   "age": "34",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
+   "more": 7,
+   "ts": 1794444448,
+   "photo": "photos/POR_HAYES_DEON_2026-11-10.jpg"
+  },
+  {
+   "key": "VAN_PHILLIPS_NANCY_2026-11-11",
+   "name": "Nancy Joe Phillips",
+   "age": "67",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1794444443,
+   "photo": "photos/VAN_PHILLIPS_NANCY_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_SMITH_MARY_2026-11-11",
+   "name": "Mary Elizabeth Smith",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794444440,
+   "photo": null
+  },
   {
    "key": "POR_STEELE_JAMES_2026-11-10",
    "name": "James Bernard Steele",
@@ -164,28 +197,6 @@
    "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
    "more": 1,
    "ts": 1794437252,
-   "photo": null
-  },
-  {
-   "key": "VAN_EMERSON_QUAEAVION_2026-11-10",
-   "name": "Quaeavion Aushir Emerson",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 2,
-   "ts": 1794437252,
-   "photo": null
-  },
-  {
-   "key": "VAN_GUERRERO_ALMA_2026-11-11",
-   "name": "Alma Yadira Guerrero",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794437251,
    "photo": null
   },
   {
@@ -517,20 +528,42 @@
    "more": 4,
    "ts": 1794379650,
    "photo": "photos/POR_KEITH_JEFFREY_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_POLING_EMIL_2026-11-11",
-   "name": "Emil Poling",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1794379645,
-   "photo": "photos/ALL_POLING_EMIL_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_HAYES_DEON_2026-11-10",
+   "name": "Deon Lavon Hayes",
+   "age": "34",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
+   "more": 7,
+   "ts": 1794444448,
+   "photo": "photos/POR_HAYES_DEON_2026-11-10.jpg"
+  },
+  {
+   "key": "VAN_PHILLIPS_NANCY_2026-11-11",
+   "name": "Nancy Joe Phillips",
+   "age": "67",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 1,
+   "ts": 1794444443,
+   "photo": "photos/VAN_PHILLIPS_NANCY_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_SMITH_MARY_2026-11-11",
+   "name": "Mary Elizabeth Smith",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794444440,
+   "photo": null
+  },
   {
    "key": "POR_STEELE_JAMES_2026-11-10",
    "name": "James Bernard Steele",
@@ -2488,28 +2521,6 @@
    "more": 0,
    "ts": 1794188835,
    "photo": "photos/ALL_SMITH_ANTHONY_2026-11-08.jpg"
-  },
-  {
-   "key": "VAN_GARRETT_NASH_2026-11-08",
-   "name": "Nash Tyler Garrett",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Obstruction Of Justice",
-   "more": 1,
-   "ts": 1794185233,
-   "photo": "photos/VAN_GARRETT_NASH_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_BOWERS_LAURA_2026-11-08",
-   "name": "Laura Bowers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794185230,
-   "photo": "photos/ALL_BOWERS_LAURA_2026-11-08.jpg"
   }
  ]
 }
