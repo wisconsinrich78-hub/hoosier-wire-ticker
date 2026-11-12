@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T04:47:53+00:00",
+ "updated": "2026-11-12T05:47:27+00:00",
  "items": [
+  {
+   "key": "ALL_RASH_CRAIG_2026-11-11",
+   "name": "Craig Rash",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794462434,
+   "photo": "photos/ALL_RASH_CRAIG_2026-11-11.jpg"
+  },
   {
    "key": "POR_MORRISON_SONNY_2026-11-11",
    "name": "Sonny Alan Morrison",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794390465,
    "photo": "photos/POR_GRESSER_RYAN_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_EDMONDS_DAMANI_2026-11-11",
-   "name": "Damani Edmonds",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1794390453,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_RASH_CRAIG_2026-11-11",
+   "name": "Craig Rash",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794462434,
+   "photo": "photos/ALL_RASH_CRAIG_2026-11-11.jpg"
+  },
   {
    "key": "POR_MORRISON_SONNY_2026-11-11",
    "name": "Sonny Alan Morrison",
@@ -2466,39 +2477,6 @@
    "more": 0,
    "ts": 1794206834,
    "photo": "photos/ALL_HOUSHOLDER_QUINCY_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_GOFF_ANDREW_2026-11-08",
-   "name": "Andrew Scott Goff",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 2,
-   "ts": 1794203239,
-   "photo": "photos/VAN_GOFF_ANDREW_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_BATES_JEREMIAH_2026-11-08",
-   "name": "Jeremiah Bates",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 1,
-   "ts": 1794203235,
-   "photo": "photos/ALL_BATES_JEREMIAH_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_SPARKS_DESMOND_2026-11-09",
-   "name": "Desmond Sparks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Gun Poss/Serious Violent Felon",
-   "more": 2,
-   "ts": 1794203231,
-   "photo": "photos/ALL_SPARKS_DESMOND_2026-11-09.jpg"
   }
  ]
 }
