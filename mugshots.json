@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-12T03:47:39+00:00",
+ "updated": "2026-11-12T04:47:53+00:00",
  "items": [
+  {
+   "key": "POR_MORRISON_SONNY_2026-11-11",
+   "name": "Sonny Alan Morrison",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating While Intoxicated Endangers A Misd",
+   "more": 2,
+   "ts": 1794458855,
+   "photo": "photos/POR_MORRISON_SONNY_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_LITTRELL_JASON_2026-11-11",
+   "name": "Jason Ray Littrell",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "more": 2,
+   "ts": 1794458850,
+   "photo": null
+  },
+  {
+   "key": "ALL_KELSO_ANTHONY_2026-11-11",
+   "name": "Anthony Kelso",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation",
+   "more": 1,
+   "ts": 1794458848,
+   "photo": "photos/ALL_KELSO_ANTHONY_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_MAURICIO_BIANCA_2026-11-11",
+   "name": "Bianca Mauricio",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 2,
+   "ts": 1794458843,
+   "photo": "photos/ALL_MAURICIO_BIANCA_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_CURRY_JORDAN_2026-11-11",
+   "name": "Jordan Curry",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 1,
+   "ts": 1794458837,
+   "photo": null
+  },
   {
    "key": "MAD_SIMMONS_RANDALL_2026-11-11",
    "name": "Randall Joe Simmons",
@@ -229,17 +284,6 @@
    "region": "south",
    "charge": "Public Administration- Fail To Appear",
    "more": 1,
-   "ts": 1794437252,
-   "photo": null
-  },
-  {
-   "key": "VAN_MORENO_DAVID_2026-11-11",
-   "name": "David Moreno",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Arson- Dwelling",
-   "more": 0,
    "ts": 1794437252,
    "photo": null
   },
@@ -484,53 +528,64 @@
    "more": 0,
    "ts": 1794390453,
    "photo": null
-  },
-  {
-   "key": "ALL_PIFER_STACY_2026-11-11",
-   "name": "Stacy Pifer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794390447,
-   "photo": "photos/ALL_PIFER_STACY_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_SINCERE_2026-11-11",
-   "name": "Sincere Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlicense Driver",
-   "more": 0,
-   "ts": 1794390442,
-   "photo": null
-  },
-  {
-   "key": "ALL_CONRAD_CALEB_2026-11-11",
-   "name": "Caleb Conrad",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1794386840,
-   "photo": "photos/ALL_CONRAD_CALEB_2026-11-11.jpg"
-  },
-  {
-   "key": "MAD_WOLLAM_MADYSON_2026-11-11",
-   "name": "Madyson Elexis Wollam",
-   "age": "23",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794383299,
-   "photo": "photos/MAD_WOLLAM_MADYSON_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_MORRISON_SONNY_2026-11-11",
+   "name": "Sonny Alan Morrison",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating While Intoxicated Endangers A Misd",
+   "more": 2,
+   "ts": 1794458855,
+   "photo": "photos/POR_MORRISON_SONNY_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_LITTRELL_JASON_2026-11-11",
+   "name": "Jason Ray Littrell",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "more": 2,
+   "ts": 1794458850,
+   "photo": null
+  },
+  {
+   "key": "ALL_KELSO_ANTHONY_2026-11-11",
+   "name": "Anthony Kelso",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation",
+   "more": 1,
+   "ts": 1794458848,
+   "photo": "photos/ALL_KELSO_ANTHONY_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_MAURICIO_BIANCA_2026-11-11",
+   "name": "Bianca Mauricio",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 2,
+   "ts": 1794458843,
+   "photo": "photos/ALL_MAURICIO_BIANCA_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_CURRY_JORDAN_2026-11-11",
+   "name": "Jordan Curry",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 1,
+   "ts": 1794458837,
+   "photo": null
+  },
   {
    "key": "MAD_SIMMONS_RANDALL_2026-11-11",
    "name": "Randall Joe Simmons",
@@ -2444,83 +2499,6 @@
    "more": 2,
    "ts": 1794203231,
    "photo": "photos/ALL_SPARKS_DESMOND_2026-11-09.jpg"
-  },
-  {
-   "key": "POR_DESATNICK_JOHN_2026-11-08",
-   "name": "John Michael Desatnick",
-   "age": "60",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794199647,
-   "photo": "photos/POR_DESATNICK_JOHN_2026-11-08.jpg"
-  },
-  {
-   "key": "VAN_ENYEART_SEAN_2026-11-08",
-   "name": "Sean Thomas Enyeart",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 1,
-   "ts": 1794199645,
-   "photo": null
-  },
-  {
-   "key": "VAN_WALDEN_DAVID_2026-11-08",
-   "name": "David Eugene Walden",
-   "age": "58",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 1,
-   "ts": 1794199645,
-   "photo": null
-  },
-  {
-   "key": "ALL_PEARSON_JADEN_2026-11-08",
-   "name": "Jaden Pearson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 1,
-   "ts": 1794199644,
-   "photo": "photos/ALL_PEARSON_JADEN_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_MAISAPE_MURPHY_2026-11-08",
-   "name": "Murphy Maisape",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
-   "more": 0,
-   "ts": 1794199639,
-   "photo": "photos/ALL_MAISAPE_MURPHY_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_VICKERS_OVAUNTAY_2026-11-08",
-   "name": "Ovauntay Vickers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1794199635,
-   "photo": "photos/ALL_VICKERS_OVAUNTAY_2026-11-08.jpg"
-  },
-  {
-   "key": "ALL_MONCADAREYES_YEILING_2026-11-08",
-   "name": "Yeiling Moncadareyes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlicense Driver",
-   "more": 2,
-   "ts": 1794199630,
-   "photo": "photos/ALL_MONCADAREYES_YEILING_2026-11-08.jpg"
   }
  ]
 }
