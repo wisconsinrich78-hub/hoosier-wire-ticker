@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-12T07:47:22+00:00",
+ "updated": "2026-11-12T08:47:21+00:00",
  "items": [
+  {
+   "key": "VAN_GOEBEL_GARETT_2026-11-12",
+   "name": "Garett James Goebel",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794473232,
+   "photo": "photos/VAN_GOEBEL_GARETT_2026-11-12.jpg"
+  },
   {
    "key": "VAN_COLLINS_RACHEL_2026-11-11",
    "name": "Rachel Jeanine Collins",
@@ -310,17 +321,6 @@
    "photo": null
   },
   {
-   "key": "VAN_KENNON_ALEXIA_2026-11-10",
-   "name": "Alexia Shanae Kennon",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1794437253,
-   "photo": null
-  },
-  {
    "key": "MAD_FULP_BRIAN_2026-11-11",
    "name": "Brian Steven Lee Fulp",
    "age": "34",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_GOEBEL_GARETT_2026-11-12",
+   "name": "Garett James Goebel",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794473232,
+   "photo": "photos/VAN_GOEBEL_GARETT_2026-11-12.jpg"
+  },
   {
    "key": "VAN_COLLINS_RACHEL_2026-11-11",
    "name": "Rachel Jeanine Collins",
