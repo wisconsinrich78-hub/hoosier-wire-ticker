@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-12T15:47:32+00:00",
+ "updated": "2026-11-12T16:47:35+00:00",
  "items": [
+  {
+   "key": "MAD_FREYTAG_JAMES_2026-11-12",
+   "name": "James Marion Junior Freytag",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794502046,
+   "photo": "photos/MAD_FREYTAG_JAMES_2026-11-12.jpg"
+  },
+  {
+   "key": "POR_GARZA_ANGELO_2026-11-11",
+   "name": "Angelo Miguel Garza",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
+   "more": 0,
+   "ts": 1794502042,
+   "photo": "photos/POR_GARZA_ANGELO_2026-11-11.jpg"
+  },
+  {
+   "key": "ALL_DOLSEN_KAIDEN_2026-11-12",
+   "name": "Kaiden Dolsen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder",
+   "more": 0,
+   "ts": 1794502038,
+   "photo": "photos/ALL_DOLSEN_KAIDEN_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_GUTIERREZ_ANGEL_2026-11-12",
+   "name": "Angel Gutierrez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder",
+   "more": 0,
+   "ts": 1794502033,
+   "photo": "photos/ALL_GUTIERREZ_ANGEL_2026-11-12.jpg"
+  },
   {
    "key": "MAD_HUFFMAN_PHOENIX_2026-11-12",
    "name": "Phoenix Michael Huffman",
@@ -484,53 +528,53 @@
    "more": 3,
    "ts": 1794422838,
    "photo": "photos/ALL_ELDER_ALEXANDRA_2026-11-11.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "POR_TENNIONE_LEANNE_2026-11-10",
-   "name": "Leanne Renee Tennione",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Intimidation",
-   "more": 2,
-   "ts": 1794419247,
-   "photo": "photos/POR_TENNIONE_LEANNE_2026-11-10.jpg"
-  },
-  {
-   "key": "MAD_WILSON_JOEY_2026-11-11",
-   "name": "Joey Kent Wilson",
-   "age": "58",
+   "key": "MAD_FREYTAG_JAMES_2026-11-12",
+   "name": "James Marion Junior Freytag",
+   "age": "56",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1794415664,
-   "photo": "photos/MAD_WILSON_JOEY_2026-11-11.jpg"
+   "ts": 1794502046,
+   "photo": "photos/MAD_FREYTAG_JAMES_2026-11-12.jpg"
   },
   {
-   "key": "MAD_SNOW_ROBERT_2026-11-11",
-   "name": "Robert Lee Snow",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Return to County Jail Per Court Order - Jail Bookings",
+   "key": "POR_GARZA_ANGELO_2026-11-11",
+   "name": "Angelo Miguel Garza",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
    "more": 0,
-   "ts": 1794415663,
-   "photo": "photos/MAD_SNOW_ROBERT_2026-11-11.jpg"
+   "ts": 1794502042,
+   "photo": "photos/POR_GARZA_ANGELO_2026-11-11.jpg"
   },
   {
-   "key": "MAD_REYNOLDS_ERIK_2026-11-11",
-   "name": "Erik Aguilar Reynolds",
-   "age": "25",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Residential Entry",
-   "more": 1,
-   "ts": 1794415661,
-   "photo": null
-  }
- ],
- "all_items": [
+   "key": "ALL_DOLSEN_KAIDEN_2026-11-12",
+   "name": "Kaiden Dolsen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder",
+   "more": 0,
+   "ts": 1794502038,
+   "photo": "photos/ALL_DOLSEN_KAIDEN_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_GUTIERREZ_ANGEL_2026-11-12",
+   "name": "Angel Gutierrez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder",
+   "more": 0,
+   "ts": 1794502033,
+   "photo": "photos/ALL_GUTIERREZ_ANGEL_2026-11-12.jpg"
+  },
   {
    "key": "MAD_HUFFMAN_PHOENIX_2026-11-12",
    "name": "Phoenix Michael Huffman",
@@ -2521,17 +2565,6 @@
    "more": 0,
    "ts": 1794246432,
    "photo": "photos/ALL_YOUNG_JACARION_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_REYNOLDS_CLINT_2026-11-09",
-   "name": "Clint Reynolds",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Neglect Of Dependent",
-   "more": 0,
-   "ts": 1794242836,
-   "photo": "photos/ALL_REYNOLDS_CLINT_2026-11-09.jpg"
   }
  ]
 }
