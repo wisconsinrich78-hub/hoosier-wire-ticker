@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T22:47:42+00:00",
+ "updated": "2026-11-12T23:47:39+00:00",
  "items": [
+  {
+   "key": "MAD_CURRIE_MICHAEL_2026-11-12",
+   "name": "Michael D Currie",
+   "age": "66",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794527247,
+   "photo": "photos/MAD_CURRIE_MICHAEL_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_YOUNG_DAMAR_2026-11-12",
+   "name": "Damar Rashad Young",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 1,
+   "ts": 1794527243,
+   "photo": "photos/VAN_YOUNG_DAMAR_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_CLOUS_CLARENCE_2026-11-12",
+   "name": "Clarence Clous",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1794527231,
+   "photo": null
+  },
   {
    "key": "MAD_WHITE_DONYALL_2026-11-12",
    "name": "Donyall Earl White",
@@ -495,42 +528,42 @@
    "more": 2,
    "ts": 1794458855,
    "photo": "photos/POR_MORRISON_SONNY_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_LITTRELL_JASON_2026-11-11",
-   "name": "Jason Ray Littrell",
-   "age": "50",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
-   "more": 2,
-   "ts": 1794458850,
-   "photo": null
-  },
-  {
-   "key": "ALL_KELSO_ANTHONY_2026-11-11",
-   "name": "Anthony Kelso",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Intimidation",
-   "more": 1,
-   "ts": 1794458848,
-   "photo": "photos/ALL_KELSO_ANTHONY_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_MAURICIO_BIANCA_2026-11-11",
-   "name": "Bianca Mauricio",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 2,
-   "ts": 1794458843,
-   "photo": "photos/ALL_MAURICIO_BIANCA_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_CURRIE_MICHAEL_2026-11-12",
+   "name": "Michael D Currie",
+   "age": "66",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794527247,
+   "photo": "photos/MAD_CURRIE_MICHAEL_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_YOUNG_DAMAR_2026-11-12",
+   "name": "Damar Rashad Young",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 1,
+   "ts": 1794527243,
+   "photo": "photos/VAN_YOUNG_DAMAR_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_CLOUS_CLARENCE_2026-11-12",
+   "name": "Clarence Clous",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1794527231,
+   "photo": null
+  },
   {
    "key": "MAD_WHITE_DONYALL_2026-11-12",
    "name": "Donyall Earl White",
@@ -2532,50 +2565,6 @@
    "more": 0,
    "ts": 1794271630,
    "photo": "photos/ALL_DENNIS_JOSEPH_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_FLOWERS_WILLARD_2026-11-09",
-   "name": "Willard Matthew Flowers",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794268035,
-   "photo": "photos/VAN_FLOWERS_WILLARD_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_MCGUFFIN_LUCAS_2026-11-09",
-   "name": "Lucas C Mcguffin",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 3,
-   "ts": 1794268033,
-   "photo": null
-  },
-  {
-   "key": "VAN_GALLAGHER_DANIELLE_2026-11-09",
-   "name": "Danielle Marie Gallagher",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794268033,
-   "photo": null
-  },
-  {
-   "key": "ALL_FUENTES_ANTONIO_2026-11-09",
-   "name": "Antonio Fuentes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794268031,
-   "photo": "photos/ALL_FUENTES_ANTONIO_2026-11-09.jpg"
   }
  ]
 }
