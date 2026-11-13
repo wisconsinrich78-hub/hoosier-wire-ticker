@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-13T14:48:04+00:00",
+ "updated": "2026-11-13T15:47:35+00:00",
  "items": [
+  {
+   "key": "MAD_HOLLOWAY_BRENTON_2026-11-13",
+   "name": "Brenton D Holloway",
+   "age": "21",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession cocaine or narcotic drug",
+   "more": 1,
+   "ts": 1794584845,
+   "photo": "photos/MAD_HOLLOWAY_BRENTON_2026-11-13.jpg"
+  },
+  {
+   "key": "MAD_BALL_DAVID_2026-11-13",
+   "name": "David Eugene Ball",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Parole Violation - Jail Booking",
+   "more": 0,
+   "ts": 1794584843,
+   "photo": "photos/MAD_BALL_DAVID_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_CURRY_JORDAN_2026-11-13",
+   "name": "Jordan Curry",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sexual Battery",
+   "more": 1,
+   "ts": 1794584838,
+   "photo": null
+  },
+  {
+   "key": "ALL_QUINTANA_ANAHI_2026-11-13",
+   "name": "Anahi Quintana",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794584834,
+   "photo": "photos/ALL_QUINTANA_ANAHI_2026-11-13.jpg"
+  },
   {
    "key": "POR_KIRK_TABITHA_2026-11-12",
    "name": "Tabitha Kristy Kirk",
@@ -484,53 +528,53 @@
    "more": 1,
    "ts": 1794530847,
    "photo": "photos/POR_BENTLEY_THOMAS_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_RADFORD_CLARENCE_2026-11-12",
-   "name": "Clarence Radford",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
-   "more": 0,
-   "ts": 1794530839,
-   "photo": "photos/ALL_RADFORD_CLARENCE_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_CURRIE_MICHAEL_2026-11-12",
-   "name": "Michael D Currie",
-   "age": "66",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794527247,
-   "photo": "photos/MAD_CURRIE_MICHAEL_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_CLOUS_CLARENCE_2026-11-12",
-   "name": "Clarence Clous",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1794527231,
-   "photo": null
-  },
-  {
-   "key": "MAD_WHITE_DONYALL_2026-11-12",
-   "name": "Donyall Earl White",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794523661,
-   "photo": "photos/MAD_WHITE_DONYALL_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_HOLLOWAY_BRENTON_2026-11-13",
+   "name": "Brenton D Holloway",
+   "age": "21",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession cocaine or narcotic drug",
+   "more": 1,
+   "ts": 1794584845,
+   "photo": "photos/MAD_HOLLOWAY_BRENTON_2026-11-13.jpg"
+  },
+  {
+   "key": "MAD_BALL_DAVID_2026-11-13",
+   "name": "David Eugene Ball",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Parole Violation - Jail Booking",
+   "more": 0,
+   "ts": 1794584843,
+   "photo": "photos/MAD_BALL_DAVID_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_CURRY_JORDAN_2026-11-13",
+   "name": "Jordan Curry",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sexual Battery",
+   "more": 1,
+   "ts": 1794584838,
+   "photo": null
+  },
+  {
+   "key": "ALL_QUINTANA_ANAHI_2026-11-13",
+   "name": "Anahi Quintana",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794584834,
+   "photo": "photos/ALL_QUINTANA_ANAHI_2026-11-13.jpg"
+  },
   {
    "key": "POR_KIRK_TABITHA_2026-11-12",
    "name": "Tabitha Kristy Kirk",
@@ -2708,28 +2752,6 @@
    "more": 2,
    "ts": 1794329228,
    "photo": "photos/ALL_CARLISLE_MEGHANN_2026-11-10.jpg"
-  },
-  {
-   "key": "MAD_MARTIN_CONTREVION_2026-11-10",
-   "name": "Contrevion Dallas Martin",
-   "age": "20",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Dealing cocaine or narcotic drug",
-   "more": 0,
-   "ts": 1794325647,
-   "photo": "photos/MAD_MARTIN_CONTREVION_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_SENTER_CAMDEN_2026-11-10",
-   "name": "Camden Senter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794325638,
-   "photo": "photos/ALL_SENTER_CAMDEN_2026-11-10.jpg"
   }
  ]
 }
