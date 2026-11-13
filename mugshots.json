@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-12T23:47:39+00:00",
+ "updated": "2026-11-13T00:47:53+00:00",
  "items": [
+  {
+   "key": "POR_BENTLEY_THOMAS_2026-11-11",
+   "name": "Thomas James Bentley",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794530847,
+   "photo": "photos/POR_BENTLEY_THOMAS_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_NELSON_DEONTE_2026-11-12",
+   "name": "Deonte Tevin Nelson",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- All Other Larceny - Value Of Property At Least $750 A",
+   "more": 0,
+   "ts": 1794530841,
+   "photo": null
+  },
+  {
+   "key": "ALL_RADFORD_CLARENCE_2026-11-12",
+   "name": "Clarence Radford",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "more": 0,
+   "ts": 1794530839,
+   "photo": "photos/ALL_RADFORD_CLARENCE_2026-11-12.jpg"
+  },
   {
    "key": "MAD_CURRIE_MICHAEL_2026-11-12",
    "name": "Michael D Currie",
@@ -495,42 +528,42 @@
    "more": 1,
    "ts": 1794466043,
    "photo": "photos/VAN_BELL_JORDAN_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_MORGAN_RODQUELLE_2026-11-12",
-   "name": "Rodquelle Morgan",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 1,
-   "ts": 1794466039,
-   "photo": "photos/ALL_MORGAN_RODQUELLE_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_RASH_CRAIG_2026-11-11",
-   "name": "Craig Rash",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794462434,
-   "photo": "photos/ALL_RASH_CRAIG_2026-11-11.jpg"
-  },
-  {
-   "key": "POR_MORRISON_SONNY_2026-11-11",
-   "name": "Sonny Alan Morrison",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating While Intoxicated Endangers A Misd",
-   "more": 2,
-   "ts": 1794458855,
-   "photo": "photos/POR_MORRISON_SONNY_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_BENTLEY_THOMAS_2026-11-11",
+   "name": "Thomas James Bentley",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794530847,
+   "photo": "photos/POR_BENTLEY_THOMAS_2026-11-11.jpg"
+  },
+  {
+   "key": "VAN_NELSON_DEONTE_2026-11-12",
+   "name": "Deonte Tevin Nelson",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- All Other Larceny - Value Of Property At Least $750 A",
+   "more": 0,
+   "ts": 1794530841,
+   "photo": null
+  },
+  {
+   "key": "ALL_RADFORD_CLARENCE_2026-11-12",
+   "name": "Clarence Radford",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "more": 0,
+   "ts": 1794530839,
+   "photo": "photos/ALL_RADFORD_CLARENCE_2026-11-12.jpg"
+  },
   {
    "key": "MAD_CURRIE_MICHAEL_2026-11-12",
    "name": "Michael D Currie",
@@ -2543,28 +2576,6 @@
    "more": 1,
    "ts": 1794275237,
    "photo": "photos/VAN_DYSON_VIRGINIA_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_MOMAN_KEVIN_2026-11-09",
-   "name": "Kevin Ladell Moman",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Vccc Filed Ptr",
-   "more": 0,
-   "ts": 1794271634,
-   "photo": "photos/VAN_MOMAN_KEVIN_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_DENNIS_JOSEPH_2026-11-09",
-   "name": "Joseph Dennis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1794271630,
-   "photo": "photos/ALL_DENNIS_JOSEPH_2026-11-09.jpg"
   }
  ]
 }
