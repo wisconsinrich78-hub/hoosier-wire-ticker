@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T02:47:39+00:00",
+ "updated": "2026-11-13T03:15:39+00:00",
  "items": [
   {
    "key": "MAD_MINNIXSPIKER_CALVIN_2026-11-12",
@@ -2598,17 +2598,6 @@
    "more": 3,
    "ts": 1794282435,
    "photo": null
-  },
-  {
-   "key": "MAD_RUDISILL_KEVIN_2026-11-09",
-   "name": "Kevin Lee Junior Rudisill",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Drug Court - Jail Booking",
-   "more": 2,
-   "ts": 1794278865,
-   "photo": "photos/MAD_RUDISILL_KEVIN_2026-11-09.jpg"
   }
  ]
 }
