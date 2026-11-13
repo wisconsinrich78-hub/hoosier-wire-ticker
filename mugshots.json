@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-13T20:47:51+00:00",
+ "updated": "2026-11-13T21:48:15+00:00",
  "items": [
+  {
+   "key": "MAD_WEBB_ROBERT_2026-11-13",
+   "name": "Robert Micheal Webb",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1794606490,
+   "photo": "photos/MAD_WEBB_ROBERT_2026-11-13.jpg"
+  },
+  {
+   "key": "MAD_LASWELL_JEFFREY_2026-11-13",
+   "name": "Jeffrey Duane Laswell",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794606486,
+   "photo": "photos/MAD_LASWELL_JEFFREY_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_PERSINGER_JASON_2026-11-13",
+   "name": "Jason Douglas Persinger",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794606473,
+   "photo": "photos/VAN_PERSINGER_JASON_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_WATROUS_MARK_2026-11-13",
+   "name": "Mark Watrous",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt Of Court-Civil",
+   "more": 0,
+   "ts": 1794606469,
+   "photo": "photos/ALL_WATROUS_MARK_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_MCDOWELL_ISADORA_2026-11-13",
+   "name": "Isadora Mcdowell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794606464,
+   "photo": "photos/ALL_MCDOWELL_ISADORA_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_STYTLE_RANDY_2026-11-13",
+   "name": "Randy Stytle",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1794606460,
+   "photo": "photos/ALL_STYTLE_RANDY_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_LOPEZ_ALDEN_2026-11-13",
+   "name": "Alden Lopez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1794606456,
+   "photo": "photos/ALL_LOPEZ_ALDEN_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_SCOTT_KAIDEN_2026-11-13",
+   "name": "Kaiden Scott",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sex / Violent Offender - Fail To Register - Prior",
+   "more": 0,
+   "ts": 1794606451,
+   "photo": "photos/ALL_SCOTT_KAIDEN_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_GEER_TYLER_2026-11-13",
+   "name": "Tyler Geer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794606447,
+   "photo": "photos/ALL_GEER_TYLER_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_GREENHOUSE_ASHLEY_2026-11-13",
+   "name": "Ashley Greenhouse",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing In Methamphetamine",
+   "more": 2,
+   "ts": 1794606443,
+   "photo": "photos/ALL_GREENHOUSE_ASHLEY_2026-11-13.jpg"
+  },
   {
    "key": "VAN_TOREGANO_ATOKA_2026-11-13",
    "name": "Atoka Christopher Toregano",
@@ -233,28 +343,6 @@
    "photo": "photos/POR_RODRIGUEZ_TERRANCE_2026-11-12.jpg"
   },
   {
-   "key": "ALL_CIN_HANG_2026-11-13",
-   "name": "Hang Cin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794577639,
-   "photo": "photos/ALL_CIN_HANG_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_SNYDER_MARK_2026-11-13",
-   "name": "Mark Snyder",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% And < .15%",
-   "more": 1,
-   "ts": 1794577634,
-   "photo": "photos/ALL_SNYDER_MARK_2026-11-13.jpg"
-  },
-  {
    "key": "POR_MARTINEZ_SANTOS_2026-11-12",
    "name": "Santos Francisco Martinez",
    "age": "27",
@@ -376,39 +464,6 @@
    "photo": null
   },
   {
-   "key": "ALL_KLINE_MACKENZIE_2026-11-13",
-   "name": "Mackenzie Kline",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 0,
-   "ts": 1794556039,
-   "photo": "photos/ALL_KLINE_MACKENZIE_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_HARDY_TAITHADIUS_2026-11-13",
-   "name": "Taithadius Hardy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
-   "more": 0,
-   "ts": 1794556035,
-   "photo": null
-  },
-  {
-   "key": "ALL_HARVEY_BORIS_2026-11-13",
-   "name": "Boris Harvey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Institutional Criminal Mischief - Structure For Religious Worship",
-   "more": 0,
-   "ts": 1794556031,
-   "photo": "photos/ALL_HARVEY_BORIS_2026-11-13.jpg"
-  },
-  {
    "key": "MAD_PURVIS_SAMANTHA_2026-11-13",
    "name": "Samantha Lynn Purvis",
    "age": "39",
@@ -473,64 +528,119 @@
    "more": 0,
    "ts": 1794552438,
    "photo": null
-  },
-  {
-   "key": "ALL_MORRIS_EMILY_2026-11-13",
-   "name": "Emily Morris",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 2,
-   "ts": 1794552436,
-   "photo": "photos/ALL_MORRIS_EMILY_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_LA_KO_2026-11-13",
-   "name": "Ko La",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 2,
-   "ts": 1794552432,
-   "photo": "photos/ALL_LA_KO_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_LANE_CARNELIUS_2026-11-12",
-   "name": "Carnelius Devalle Lane",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794548843,
-   "photo": null
-  },
-  {
-   "key": "VAN_GIBSON_BRIANNA_2026-11-12",
-   "name": "Brianna Fay Gibson",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Shoplifting - Nibrs",
-   "more": 0,
-   "ts": 1794548843,
-   "photo": null
-  },
-  {
-   "key": "VAN_ROHRER_JUSTIN_2026-11-12",
-   "name": "Justin Richard Rohrer",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
-   "more": 5,
-   "ts": 1794545243,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WEBB_ROBERT_2026-11-13",
+   "name": "Robert Micheal Webb",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1794606490,
+   "photo": "photos/MAD_WEBB_ROBERT_2026-11-13.jpg"
+  },
+  {
+   "key": "MAD_LASWELL_JEFFREY_2026-11-13",
+   "name": "Jeffrey Duane Laswell",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794606486,
+   "photo": "photos/MAD_LASWELL_JEFFREY_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_PERSINGER_JASON_2026-11-13",
+   "name": "Jason Douglas Persinger",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794606473,
+   "photo": "photos/VAN_PERSINGER_JASON_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_WATROUS_MARK_2026-11-13",
+   "name": "Mark Watrous",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt Of Court-Civil",
+   "more": 0,
+   "ts": 1794606469,
+   "photo": "photos/ALL_WATROUS_MARK_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_MCDOWELL_ISADORA_2026-11-13",
+   "name": "Isadora Mcdowell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794606464,
+   "photo": "photos/ALL_MCDOWELL_ISADORA_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_STYTLE_RANDY_2026-11-13",
+   "name": "Randy Stytle",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 0,
+   "ts": 1794606460,
+   "photo": "photos/ALL_STYTLE_RANDY_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_LOPEZ_ALDEN_2026-11-13",
+   "name": "Alden Lopez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1794606456,
+   "photo": "photos/ALL_LOPEZ_ALDEN_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_SCOTT_KAIDEN_2026-11-13",
+   "name": "Kaiden Scott",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sex / Violent Offender - Fail To Register - Prior",
+   "more": 0,
+   "ts": 1794606451,
+   "photo": "photos/ALL_SCOTT_KAIDEN_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_GEER_TYLER_2026-11-13",
+   "name": "Tyler Geer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794606447,
+   "photo": "photos/ALL_GEER_TYLER_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_GREENHOUSE_ASHLEY_2026-11-13",
+   "name": "Ashley Greenhouse",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing In Methamphetamine",
+   "more": 2,
+   "ts": 1794606443,
+   "photo": "photos/ALL_GREENHOUSE_ASHLEY_2026-11-13.jpg"
+  },
   {
    "key": "VAN_TOREGANO_ATOKA_2026-11-13",
    "name": "Atoka Christopher Toregano",
@@ -2675,39 +2785,6 @@
    "more": 0,
    "ts": 1794350837,
    "photo": null
-  },
-  {
-   "key": "ALL_FARRIE_CARLTON_2026-11-10",
-   "name": "Carlton Farrie",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing In Cocaine Or Narcotic Drug",
-   "more": 0,
-   "ts": 1794347246,
-   "photo": "photos/ALL_FARRIE_CARLTON_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_MOORE_BILLY_2026-11-10",
-   "name": "Billy Moore",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1794347242,
-   "photo": "photos/ALL_MOORE_BILLY_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_ZAHIR_ELIJAH_2026-11-10",
-   "name": "Elijah Zahir",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1794347238,
-   "photo": "photos/ALL_ZAHIR_ELIJAH_2026-11-10.jpg"
   }
  ]
 }
