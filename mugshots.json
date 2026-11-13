@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-13T18:47:54+00:00",
+ "updated": "2026-11-13T19:47:53+00:00",
  "items": [
+  {
+   "key": "ALL_CHAPMAN_JULIUS_2026-11-13",
+   "name": "Julius Chapman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 0,
+   "ts": 1794599243,
+   "photo": "photos/ALL_CHAPMAN_JULIUS_2026-11-13.jpg"
+  },
   {
    "key": "MAD_HAIGHT_GARRY_2026-11-13",
    "name": "Garry Truman Haight",
@@ -517,20 +528,20 @@
    "more": 4,
    "ts": 1794545242,
    "photo": null
-  },
-  {
-   "key": "ALL_WARD_TANYA_2026-11-12",
-   "name": "Tanya Ward",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794545240,
-   "photo": "photos/ALL_WARD_TANYA_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_CHAPMAN_JULIUS_2026-11-13",
+   "name": "Julius Chapman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 0,
+   "ts": 1794599243,
+   "photo": "photos/ALL_CHAPMAN_JULIUS_2026-11-13.jpg"
+  },
   {
    "key": "MAD_HAIGHT_GARRY_2026-11-13",
    "name": "Garry Truman Haight",
@@ -2708,17 +2719,6 @@
    "more": 1,
    "ts": 1794343641,
    "photo": "photos/ALL_METTLER_CHADE_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_SHEETZ_LISA_2026-11-10",
-   "name": "Lisa Sheetz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 6,
-   "ts": 1794340040,
-   "photo": "photos/ALL_SHEETZ_LISA_2026-11-10.jpg"
   }
  ]
 }
