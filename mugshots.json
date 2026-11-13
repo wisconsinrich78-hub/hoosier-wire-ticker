@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-13T00:47:53+00:00",
+ "updated": "2026-11-13T01:47:53+00:00",
  "items": [
+  {
+   "key": "MAD_NEAL_JAY_2026-11-12",
+   "name": "Jay Eugene Second Neal",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle with BAC .08 to .15",
+   "more": 0,
+   "ts": 1794534456,
+   "photo": null
+  },
+  {
+   "key": "VAN_JOHNSON_JARUE_2026-11-12",
+   "name": "Jarue Tevon Johnson",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Family Offense- Neglect Of Dependant/Child Violations",
+   "more": 1,
+   "ts": 1794534445,
+   "photo": "photos/VAN_JOHNSON_JARUE_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_ROBERTS_PAUL_2026-11-12",
+   "name": "Paul Edward Roberts",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "more": 0,
+   "ts": 1794534442,
+   "photo": null
+  },
+  {
+   "key": "ALL_HOWARD_ALFRED_2026-11-12",
+   "name": "Alfred Howard",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlaw Poss Firearm By Domestic Batterer",
+   "more": 1,
+   "ts": 1794534440,
+   "photo": "photos/ALL_HOWARD_ALFRED_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_NICKLIN_MALIK_2026-11-12",
+   "name": "Malik Nicklin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794534435,
+   "photo": "photos/ALL_NICKLIN_MALIK_2026-11-12.jpg"
+  },
   {
    "key": "POR_BENTLEY_THOMAS_2026-11-11",
    "name": "Thomas James Bentley",
@@ -473,64 +528,64 @@
    "more": 1,
    "ts": 1794473232,
    "photo": "photos/VAN_GOEBEL_GARETT_2026-11-12.jpg"
-  },
-  {
-   "key": "VAN_COLLINS_RACHEL_2026-11-11",
-   "name": "Rachel Jeanine Collins",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1794469630,
-   "photo": "photos/VAN_COLLINS_RACHEL_2026-11-11.jpg"
-  },
-  {
-   "key": "MAD_BALDWIN_MARY_2026-11-12",
-   "name": "Mary Jane Baldwin",
-   "age": "52",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery (A/M) Simple",
-   "more": 0,
-   "ts": 1794466050,
-   "photo": null
-  },
-  {
-   "key": "VAN_PACE_DANGELO_2026-11-11",
-   "name": "Dangelo Marcelle Pace",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Wit",
-   "more": 0,
-   "ts": 1794466046,
-   "photo": "photos/VAN_PACE_DANGELO_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_CROSS_CODY_2026-11-11",
-   "name": "Cody Allen Cross",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Registration Violation",
-   "more": 0,
-   "ts": 1794466044,
-   "photo": "photos/VAN_CROSS_CODY_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_BELL_JORDAN_2026-11-11",
-   "name": "Jordan Darnell Bell",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Writ Of Attachment",
-   "more": 1,
-   "ts": 1794466043,
-   "photo": "photos/VAN_BELL_JORDAN_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_NEAL_JAY_2026-11-12",
+   "name": "Jay Eugene Second Neal",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle with BAC .08 to .15",
+   "more": 0,
+   "ts": 1794534456,
+   "photo": null
+  },
+  {
+   "key": "VAN_JOHNSON_JARUE_2026-11-12",
+   "name": "Jarue Tevon Johnson",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Family Offense- Neglect Of Dependant/Child Violations",
+   "more": 1,
+   "ts": 1794534445,
+   "photo": "photos/VAN_JOHNSON_JARUE_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_ROBERTS_PAUL_2026-11-12",
+   "name": "Paul Edward Roberts",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "more": 0,
+   "ts": 1794534442,
+   "photo": null
+  },
+  {
+   "key": "ALL_HOWARD_ALFRED_2026-11-12",
+   "name": "Alfred Howard",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlaw Poss Firearm By Domestic Batterer",
+   "more": 1,
+   "ts": 1794534440,
+   "photo": "photos/ALL_HOWARD_ALFRED_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_NICKLIN_MALIK_2026-11-12",
+   "name": "Malik Nicklin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794534435,
+   "photo": "photos/ALL_NICKLIN_MALIK_2026-11-12.jpg"
+  },
   {
    "key": "POR_BENTLEY_THOMAS_2026-11-11",
    "name": "Thomas James Bentley",
@@ -2554,28 +2609,6 @@
    "more": 0,
    "ts": 1794278841,
    "photo": "photos/ALL_CHRISTENSEN_SUSAN_2026-11-09.jpg"
-  },
-  {
-   "key": "POR_PEDROZA_ANGELO_2026-11-09",
-   "name": "Angelo Elliott Pedroza",
-   "age": "28",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Bodily Injury To Pregnant Family Or Member If Pregana",
-   "more": 1,
-   "ts": 1794275243,
-   "photo": "photos/POR_PEDROZA_ANGELO_2026-11-09.jpg"
-  },
-  {
-   "key": "VAN_DYSON_VIRGINIA_2026-11-09",
-   "name": "Virginia Lee Dyson",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Prior Unrelated Conviction For Theft Or Conversion",
-   "more": 1,
-   "ts": 1794275237,
-   "photo": "photos/VAN_DYSON_VIRGINIA_2026-11-09.jpg"
   }
  ]
 }
