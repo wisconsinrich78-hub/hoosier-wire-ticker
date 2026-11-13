@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-13T06:47:40+00:00",
+ "updated": "2026-11-13T07:47:35+00:00",
  "items": [
+  {
+   "key": "MAD_ICE_JEREMY_2026-11-13",
+   "name": "Jeremy Edresse Ice",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating with controlled substance in body",
+   "more": 2,
+   "ts": 1794556047,
+   "photo": null
+  },
+  {
+   "key": "MAD_CHAPIN_SAMANTHA_2026-11-13",
+   "name": "Samantha Lynn Chapin",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794556045,
+   "photo": null
+  },
+  {
+   "key": "VAN_ROBERTS_SAMARA_2026-11-13",
+   "name": "Samara Dawn Roberts",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1794556040,
+   "photo": null
+  },
+  {
+   "key": "ALL_KLINE_MACKENZIE_2026-11-13",
+   "name": "Mackenzie Kline",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 0,
+   "ts": 1794556039,
+   "photo": "photos/ALL_KLINE_MACKENZIE_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_HARDY_TAITHADIUS_2026-11-13",
+   "name": "Taithadius Hardy",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 0,
+   "ts": 1794556035,
+   "photo": null
+  },
+  {
+   "key": "ALL_HARVEY_BORIS_2026-11-13",
+   "name": "Boris Harvey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Institutional Criminal Mischief - Structure For Religious Worship",
+   "more": 0,
+   "ts": 1794556031,
+   "photo": "photos/ALL_HARVEY_BORIS_2026-11-13.jpg"
+  },
   {
    "key": "MAD_PURVIS_SAMANTHA_2026-11-13",
    "name": "Samantha Lynn Purvis",
@@ -354,17 +420,6 @@
    "photo": "photos/VAN_NIMTZ_DENNIS_2026-11-12.jpg"
   },
   {
-   "key": "VAN_FLOYD_MELANIE_2026-11-12",
-   "name": "Melanie Ann Floyd",
-   "age": "57",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794523650,
-   "photo": "photos/VAN_FLOYD_MELANIE_2026-11-12.jpg"
-  },
-  {
    "key": "ALL_JONES_MIQUAN_2026-11-12",
    "name": "Miquan Jones",
    "age": "",
@@ -473,64 +528,75 @@
    "more": 0,
    "ts": 1794505651,
    "photo": "photos/MAD_REID_CHARLES_2026-11-12.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MAD_ICE_JEREMY_2026-11-13",
+   "name": "Jeremy Edresse Ice",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating with controlled substance in body",
+   "more": 2,
+   "ts": 1794556047,
+   "photo": null
   },
   {
-   "key": "ALL_MARCUM_CHARLES_2026-11-12",
-   "name": "Charles Marcum",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794505640,
-   "photo": "photos/ALL_MARCUM_CHARLES_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_FLEMING_JEREMIAH_2026-11-12",
-   "name": "Jeremiah Fleming",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Child Molesting - Fondling/Touching",
-   "more": 0,
-   "ts": 1794505635,
-   "photo": "photos/ALL_FLEMING_JEREMIAH_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_HUTCHISON_DANIEL_2026-11-12",
-   "name": "Daniel Hutchison",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft Or Conversion",
-   "more": 0,
-   "ts": 1794505630,
-   "photo": "photos/ALL_HUTCHISON_DANIEL_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_FREYTAG_JAMES_2026-11-12",
-   "name": "James Marion Junior Freytag",
-   "age": "56",
+   "key": "MAD_CHAPIN_SAMANTHA_2026-11-13",
+   "name": "Samantha Lynn Chapin",
+   "age": "37",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1794502046,
-   "photo": "photos/MAD_FREYTAG_JAMES_2026-11-12.jpg"
+   "ts": 1794556045,
+   "photo": null
   },
   {
-   "key": "POR_GARZA_ANGELO_2026-11-11",
-   "name": "Angelo Miguel Garza",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
+   "key": "VAN_ROBERTS_SAMARA_2026-11-13",
+   "name": "Samara Dawn Roberts",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
    "more": 0,
-   "ts": 1794502042,
-   "photo": "photos/POR_GARZA_ANGELO_2026-11-11.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1794556040,
+   "photo": null
+  },
+  {
+   "key": "ALL_KLINE_MACKENZIE_2026-11-13",
+   "name": "Mackenzie Kline",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 0,
+   "ts": 1794556039,
+   "photo": "photos/ALL_KLINE_MACKENZIE_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_HARDY_TAITHADIUS_2026-11-13",
+   "name": "Taithadius Hardy",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unlawful Carrying Of A Handgun",
+   "more": 0,
+   "ts": 1794556035,
+   "photo": null
+  },
+  {
+   "key": "ALL_HARVEY_BORIS_2026-11-13",
+   "name": "Boris Harvey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Institutional Criminal Mischief - Structure For Religious Worship",
+   "more": 0,
+   "ts": 1794556031,
+   "photo": "photos/ALL_HARVEY_BORIS_2026-11-13.jpg"
+  },
   {
    "key": "MAD_PURVIS_SAMANTHA_2026-11-13",
    "name": "Samantha Lynn Purvis",
@@ -2598,50 +2664,6 @@
    "more": 0,
    "ts": 1794304044,
    "photo": "photos/ALL_ATKINSON_DARRIUS_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_WEINLEY_JASON_2026-11-10",
-   "name": "Jason Weinley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine",
-   "more": 2,
-   "ts": 1794296844,
-   "photo": "photos/ALL_WEINLEY_JASON_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_WERTZ_JENNAVEE_2026-11-10",
-   "name": "Jennavee Wertz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Parole Revocation",
-   "more": 0,
-   "ts": 1794296840,
-   "photo": "photos/ALL_WERTZ_JENNAVEE_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_PHILLIPS_ANDREW_2026-11-10",
-   "name": "Andrew Phillips",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 3,
-   "ts": 1794296836,
-   "photo": "photos/ALL_PHILLIPS_ANDREW_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_HOLMES_JOSHUA_2026-11-10",
-   "name": "Joshua Holmes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Disorderly Conduct",
-   "more": 1,
-   "ts": 1794296833,
-   "photo": "photos/ALL_HOLMES_JOSHUA_2026-11-10.jpg"
   }
  ]
 }
