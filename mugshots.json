@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T10:46:51+00:00",
+ "updated": "2026-11-13T10:47:28+00:00",
  "items": [
+  {
+   "key": "POR_MILLER_JAMIE_2026-11-12",
+   "name": "Jamie Renee Miller",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794566836,
+   "photo": "photos/POR_MILLER_JAMIE_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_BALDE_CARTER_2026-11-13",
+   "name": "Carter Walter Balde",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794566832,
+   "photo": "photos/VAN_BALDE_CARTER_2026-11-13.jpg"
+  },
   {
    "key": "MAD_GARCIAHERNANDEZ_JUAN_2026-11-13",
    "name": "Juan Carlos Garcia-Hernandez",
@@ -409,17 +431,6 @@
    "photo": "photos/MAD_CURRIE_MICHAEL_2026-11-12.jpg"
   },
   {
-   "key": "VAN_YOUNG_DAMAR_2026-11-12",
-   "name": "Damar Rashad Young",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 1,
-   "ts": 1794527243,
-   "photo": "photos/VAN_YOUNG_DAMAR_2026-11-12.jpg"
-  },
-  {
    "key": "ALL_CLOUS_CLARENCE_2026-11-12",
    "name": "Clarence Clous",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 6,
    "ts": 1794512842,
    "photo": "photos/POR_WOODS_JONATHAN_2026-11-11.jpg"
-  },
-  {
-   "key": "MAD_WILEY_KELI_2026-11-12",
-   "name": "Keli Marie Wiley",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Return to County Jail Per Court Order - Jail Bookings",
-   "more": 0,
-   "ts": 1794509241,
-   "photo": "photos/MAD_WILEY_KELI_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_MILLER_JAMIE_2026-11-12",
+   "name": "Jamie Renee Miller",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794566836,
+   "photo": "photos/POR_MILLER_JAMIE_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_BALDE_CARTER_2026-11-13",
+   "name": "Carter Walter Balde",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794566832,
+   "photo": "photos/VAN_BALDE_CARTER_2026-11-13.jpg"
+  },
   {
    "key": "MAD_GARCIAHERNANDEZ_JUAN_2026-11-13",
    "name": "Juan Carlos Garcia-Hernandez",
@@ -2631,50 +2653,6 @@
    "more": 0,
    "ts": 1794318434,
    "photo": "photos/ALL_JOHNSON_JACHAUN_2026-11-10.jpg"
-  },
-  {
-   "key": "POR_LANDRUM_KVANT_2026-11-09",
-   "name": "Kvant Darius Landrum",
-   "age": "25",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1794307639,
-   "photo": "photos/POR_LANDRUM_KVANT_2026-11-09.jpg"
-  },
-  {
-   "key": "POR_NAVARRO_ELYAS_2026-11-09",
-   "name": "Elyas Jon Navarro",
-   "age": "27",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1794307638,
-   "photo": "photos/POR_NAVARRO_ELYAS_2026-11-09.jpg"
-  },
-  {
-   "key": "POR_HUDSON_CHRISTOPHER_2026-11-09",
-   "name": "Christopher Andrew Hudson",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery Felony 6",
-   "more": 4,
-   "ts": 1794307635,
-   "photo": "photos/POR_HUDSON_CHRISTOPHER_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_SMITH_DAWSON_2026-11-10",
-   "name": "Dawson Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > Or = To .15%",
-   "more": 0,
-   "ts": 1794307629,
-   "photo": "photos/ALL_SMITH_DAWSON_2026-11-10.jpg"
   }
  ]
 }
