@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T10:47:28+00:00",
+ "updated": "2026-11-13T11:47:38+00:00",
  "items": [
+  {
+   "key": "VAN_WARGEL_DAX_2026-11-13",
+   "name": "Dax Mykel Wargel",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
+   "more": 2,
+   "ts": 1794570431,
+   "photo": "photos/VAN_WARGEL_DAX_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_JOHNSON_TIANA_2026-11-13",
+   "name": "Tiana Ciara Sue Johnson",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
+   "more": 0,
+   "ts": 1794570430,
+   "photo": "photos/VAN_JOHNSON_TIANA_2026-11-13.jpg"
+  },
   {
    "key": "POR_MILLER_JAMIE_2026-11-12",
    "name": "Jamie Renee Miller",
@@ -354,17 +376,6 @@
    "photo": "photos/VAN_JOHNSON_JARUE_2026-11-12.jpg"
   },
   {
-   "key": "VAN_ROBERTS_PAUL_2026-11-12",
-   "name": "Paul Edward Roberts",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
-   "more": 0,
-   "ts": 1794534442,
-   "photo": null
-  },
-  {
    "key": "ALL_HOWARD_ALFRED_2026-11-12",
    "name": "Alfred Howard",
    "age": "",
@@ -396,17 +407,6 @@
    "more": 1,
    "ts": 1794530847,
    "photo": "photos/POR_BENTLEY_THOMAS_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_NELSON_DEONTE_2026-11-12",
-   "name": "Deonte Tevin Nelson",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- All Other Larceny - Value Of Property At Least $750 A",
-   "more": 0,
-   "ts": 1794530841,
-   "photo": null
   },
   {
    "key": "ALL_RADFORD_CLARENCE_2026-11-12",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_WARGEL_DAX_2026-11-13",
+   "name": "Dax Mykel Wargel",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
+   "more": 2,
+   "ts": 1794570431,
+   "photo": "photos/VAN_WARGEL_DAX_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_JOHNSON_TIANA_2026-11-13",
+   "name": "Tiana Ciara Sue Johnson",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
+   "more": 0,
+   "ts": 1794570430,
+   "photo": "photos/VAN_JOHNSON_TIANA_2026-11-13.jpg"
+  },
   {
    "key": "POR_MILLER_JAMIE_2026-11-12",
    "name": "Jamie Renee Miller",
