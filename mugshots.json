@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T07:47:35+00:00",
+ "updated": "2026-11-13T08:47:21+00:00",
  "items": [
+  {
+   "key": "MAD_CAMPBELL_CALVIN_2026-11-13",
+   "name": "Calvin Tyrone Campbell",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794559635,
+   "photo": "photos/MAD_CAMPBELL_CALVIN_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_MINFORD_ANDREW_2026-11-13",
+   "name": "Andrew William Minford",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794559630,
+   "photo": "photos/VAN_MINFORD_ANDREW_2026-11-13.jpg"
+  },
   {
    "key": "MAD_ICE_JEREMY_2026-11-13",
    "name": "Jeremy Edresse Ice",
@@ -409,17 +431,6 @@
    "photo": "photos/MAD_WHITE_DONYALL_2026-11-12.jpg"
   },
   {
-   "key": "VAN_NIMTZ_DENNIS_2026-11-12",
-   "name": "Dennis Michael Nimtz",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 0,
-   "ts": 1794523651,
-   "photo": "photos/VAN_NIMTZ_DENNIS_2026-11-12.jpg"
-  },
-  {
    "key": "ALL_JONES_MIQUAN_2026-11-12",
    "name": "Miquan Jones",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794509231,
    "photo": "photos/ALL_ANGELESPARZA_CRISTIAN_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_REID_CHARLES_2026-11-12",
-   "name": "Charles Benjamin Reid",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Contempt of Court (Child Support) - Jail Booking",
-   "more": 0,
-   "ts": 1794505651,
-   "photo": "photos/MAD_REID_CHARLES_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_CAMPBELL_CALVIN_2026-11-13",
+   "name": "Calvin Tyrone Campbell",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794559635,
+   "photo": "photos/MAD_CAMPBELL_CALVIN_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_MINFORD_ANDREW_2026-11-13",
+   "name": "Andrew William Minford",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 1,
+   "ts": 1794559630,
+   "photo": "photos/VAN_MINFORD_ANDREW_2026-11-13.jpg"
+  },
   {
    "key": "MAD_ICE_JEREMY_2026-11-13",
    "name": "Jeremy Edresse Ice",
