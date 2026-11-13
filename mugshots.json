@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-13T16:47:49+00:00",
+ "updated": "2026-11-13T17:47:28+00:00",
  "items": [
+  {
+   "key": "MAD_POOLE_KIRSTEN_2026-11-13",
+   "name": "Kirsten Ashley Poole",
+   "age": "27",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1794592042,
+   "photo": "photos/MAD_POOLE_KIRSTEN_2026-11-13.jpg"
+  },
+  {
+   "key": "MAD_HARRIS_JAMES_2026-11-13",
+   "name": "James Allan Harris",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1794592040,
+   "photo": "photos/MAD_HARRIS_JAMES_2026-11-13.jpg"
+  },
+  {
+   "key": "MAD_BENFIELD_SIERRA_2026-11-13",
+   "name": "Sierra L Benfield",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Probation - Jail Booking",
+   "more": 0,
+   "ts": 1794592037,
+   "photo": null
+  },
+  {
+   "key": "ALL_EBRIGHT_PEGGY_2026-11-13",
+   "name": "Peggy Ebright",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "more": 0,
+   "ts": 1794592031,
+   "photo": "photos/ALL_EBRIGHT_PEGGY_2026-11-13.jpg"
+  },
   {
    "key": "ALL_HOLLEY_XAVIER_2026-11-13",
    "name": "Xavier Holley",
@@ -484,53 +528,53 @@
    "more": 3,
    "ts": 1794538050,
    "photo": null
-  },
-  {
-   "key": "VAN_VIARD_RICARD_2026-11-12",
-   "name": "Ricard Nmn Viard",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794538038,
-   "photo": "photos/VAN_VIARD_RICARD_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_NEAL_JAY_2026-11-12",
-   "name": "Jay Eugene Second Neal",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle with BAC .08 to .15",
-   "more": 0,
-   "ts": 1794534456,
-   "photo": null
-  },
-  {
-   "key": "VAN_JOHNSON_JARUE_2026-11-12",
-   "name": "Jarue Tevon Johnson",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Family Offense- Neglect Of Dependant/Child Violations",
-   "more": 1,
-   "ts": 1794534445,
-   "photo": "photos/VAN_JOHNSON_JARUE_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_HOWARD_ALFRED_2026-11-12",
-   "name": "Alfred Howard",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlaw Poss Firearm By Domestic Batterer",
-   "more": 1,
-   "ts": 1794534440,
-   "photo": "photos/ALL_HOWARD_ALFRED_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_POOLE_KIRSTEN_2026-11-13",
+   "name": "Kirsten Ashley Poole",
+   "age": "27",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 0,
+   "ts": 1794592042,
+   "photo": "photos/MAD_POOLE_KIRSTEN_2026-11-13.jpg"
+  },
+  {
+   "key": "MAD_HARRIS_JAMES_2026-11-13",
+   "name": "James Allan Harris",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1794592040,
+   "photo": "photos/MAD_HARRIS_JAMES_2026-11-13.jpg"
+  },
+  {
+   "key": "MAD_BENFIELD_SIERRA_2026-11-13",
+   "name": "Sierra L Benfield",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Probation - Jail Booking",
+   "more": 0,
+   "ts": 1794592037,
+   "photo": null
+  },
+  {
+   "key": "ALL_EBRIGHT_PEGGY_2026-11-13",
+   "name": "Peggy Ebright",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "more": 0,
+   "ts": 1794592031,
+   "photo": "photos/ALL_EBRIGHT_PEGGY_2026-11-13.jpg"
+  },
   {
    "key": "ALL_HOLLEY_XAVIER_2026-11-13",
    "name": "Xavier Holley",
@@ -2664,50 +2708,6 @@
    "more": 0,
    "ts": 1794332852,
    "photo": null
-  },
-  {
-   "key": "ALL_POINDEXTER_ANGELA_2026-11-10",
-   "name": "Angela Poindexter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794332846,
-   "photo": "photos/ALL_POINDEXTER_ANGELA_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_JACKSON_ISAIAH_2026-11-10",
-   "name": "Isaiah Jackson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794332842,
-   "photo": "photos/ALL_JACKSON_ISAIAH_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_TAYLOR_MICHAEL_2026-11-10",
-   "name": "Michael Taylor",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Strangulation Aggravated Injury",
-   "more": 1,
-   "ts": 1794332837,
-   "photo": "photos/ALL_TAYLOR_MICHAEL_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_SATHER_IAN_2026-11-10",
-   "name": "Ian Sather",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1794332833,
-   "photo": "photos/ALL_SATHER_IAN_2026-11-10.jpg"
   }
  ]
 }
