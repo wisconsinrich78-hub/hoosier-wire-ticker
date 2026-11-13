@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T04:47:45+00:00",
+ "updated": "2026-11-13T05:47:55+00:00",
  "items": [
+  {
+   "key": "VAN_LANE_CARNELIUS_2026-11-12",
+   "name": "Carnelius Devalle Lane",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794548843,
+   "photo": null
+  },
+  {
+   "key": "VAN_GIBSON_BRIANNA_2026-11-12",
+   "name": "Brianna Fay Gibson",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Shoplifting - Nibrs",
+   "more": 0,
+   "ts": 1794548843,
+   "photo": null
+  },
+  {
+   "key": "ALL_AUNG_WIN_2026-11-13",
+   "name": "Win Aung",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 2,
+   "ts": 1794548841,
+   "photo": "photos/ALL_AUNG_WIN_2026-11-13.jpg"
+  },
   {
    "key": "VAN_ROHRER_JUSTIN_2026-11-12",
    "name": "Justin Richard Rohrer",
@@ -354,28 +387,6 @@
    "photo": "photos/POR_WOODS_JONATHAN_2026-11-11.jpg"
   },
   {
-   "key": "VAN_FITZPATRICK_DOROTHY_2026-11-12",
-   "name": "Dorothy Elizabeth Fitzpatrick",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1794512839,
-   "photo": "photos/VAN_FITZPATRICK_DOROTHY_2026-11-12.jpg"
-  },
-  {
-   "key": "VAN_WATSON_MAURICE_2026-11-12",
-   "name": "Maurice James Watson",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1794512838,
-   "photo": "photos/VAN_WATSON_MAURICE_2026-11-12.jpg"
-  },
-  {
    "key": "MAD_WILEY_KELI_2026-11-12",
    "name": "Keli Marie Wiley",
    "age": "39",
@@ -508,17 +519,6 @@
    "photo": "photos/ALL_HENDERSON_DAMARIUS_2026-11-12.jpg"
   },
   {
-   "key": "ALL_NAING_WIN_2026-11-12",
-   "name": "Win Naing",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1794498432,
-   "photo": "photos/ALL_NAING_WIN_2026-11-12.jpg"
-  },
-  {
    "key": "MAD_CARSON_HALEY_2026-11-12",
    "name": "Haley Marie Carson",
    "age": "29",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_LANE_CARNELIUS_2026-11-12",
+   "name": "Carnelius Devalle Lane",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794548843,
+   "photo": null
+  },
+  {
+   "key": "VAN_GIBSON_BRIANNA_2026-11-12",
+   "name": "Brianna Fay Gibson",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Shoplifting - Nibrs",
+   "more": 0,
+   "ts": 1794548843,
+   "photo": null
+  },
+  {
+   "key": "ALL_AUNG_WIN_2026-11-13",
+   "name": "Win Aung",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 2,
+   "ts": 1794548841,
+   "photo": "photos/ALL_AUNG_WIN_2026-11-13.jpg"
+  },
   {
    "key": "VAN_ROHRER_JUSTIN_2026-11-12",
    "name": "Justin Richard Rohrer",
@@ -2576,39 +2609,6 @@
    "more": 0,
    "ts": 1794293238,
    "photo": "photos/ALL_PEARSON_NAZYRAH_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_CARTER_AVERY_2026-11-09",
-   "name": "Avery Carter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794289656,
-   "photo": "photos/ALL_CARTER_AVERY_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_MAY_RONALD_2026-11-10",
-   "name": "Ronald May",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Burglary - Dwelling",
-   "more": 3,
-   "ts": 1794289652,
-   "photo": "photos/ALL_MAY_RONALD_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_HENRY_MALIK_2026-11-10",
-   "name": "Malik Henry",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Value Of Property At Least 750 And Less Than 5",
-   "more": 0,
-   "ts": 1794289646,
-   "photo": "photos/ALL_HENRY_MALIK_2026-11-10.jpg"
   }
  ]
 }
