@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-13T22:48:13+00:00",
+ "updated": "2026-11-13T23:47:45+00:00",
  "items": [
+  {
+   "key": "MAD_BUTCHER_DATHANIEL_2026-11-13",
+   "name": "Dathaniel Lee Butcher",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794613639,
+   "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_SUDDERTH_AMANDA_2026-11-13",
+   "name": "Amanda Sudderth",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794613632,
+   "photo": "photos/ALL_SUDDERTH_AMANDA_2026-11-13.jpg"
+  },
   {
    "key": "POR_MARTIN_CHRISTOPHER_2026-11-12",
    "name": "Christopher James Martin",
@@ -321,17 +343,6 @@
    "photo": null
   },
   {
-   "key": "ALL_QUINTANA_ANAHI_2026-11-13",
-   "name": "Anahi Quintana",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794584834,
-   "photo": "photos/ALL_QUINTANA_ANAHI_2026-11-13.jpg"
-  },
-  {
    "key": "POR_KIRK_TABITHA_2026-11-12",
    "name": "Tabitha Kristy Kirk",
    "age": "42",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794552445,
    "photo": "photos/MAD_BURKHOLDER_JASON_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_ARMES_ELIJAH_2026-11-12",
-   "name": "Elijah Henry Armes",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794552438,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_BUTCHER_DATHANIEL_2026-11-13",
+   "name": "Dathaniel Lee Butcher",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794613639,
+   "photo": "photos/MAD_BUTCHER_DATHANIEL_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_SUDDERTH_AMANDA_2026-11-13",
+   "name": "Amanda Sudderth",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794613632,
+   "photo": "photos/ALL_SUDDERTH_AMANDA_2026-11-13.jpg"
+  },
   {
    "key": "POR_MARTIN_CHRISTOPHER_2026-11-12",
    "name": "Christopher James Martin",
@@ -2774,28 +2796,6 @@
    "more": 0,
    "ts": 1794358037,
    "photo": "photos/ALL_DENNIS_CHRISTOPHER_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_FORD_DEVIN_2026-11-10",
-   "name": "Devin Ford",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794354440,
-   "photo": "photos/ALL_FORD_DEVIN_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_HUGHES_MALIK_2026-11-10",
-   "name": "Malik Hughes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Mischief",
-   "more": 1,
-   "ts": 1794354436,
-   "photo": "photos/ALL_HUGHES_MALIK_2026-11-10.jpg"
   }
  ]
 }
