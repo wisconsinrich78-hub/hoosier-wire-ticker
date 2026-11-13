@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:47:28+00:00",
+ "updated": "2026-11-13T17:59:32+00:00",
  "items": [
   {
    "key": "MAD_POOLE_KIRSTEN_2026-11-13",
@@ -2697,17 +2697,6 @@
    "more": 0,
    "ts": 1794336441,
    "photo": "photos/ALL_LEWIS_NICHOLAS_2026-11-10.jpg"
-  },
-  {
-   "key": "MAD_BIRCHFIELD_SKIELIER_2026-11-10",
-   "name": "Skielier Birchfield",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery - against public safety official (level 6 felony)",
-   "more": 0,
-   "ts": 1794332852,
-   "photo": null
   }
  ]
 }
