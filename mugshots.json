@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-13T05:47:55+00:00",
+ "updated": "2026-11-13T06:47:40+00:00",
  "items": [
+  {
+   "key": "MAD_PURVIS_SAMANTHA_2026-11-13",
+   "name": "Samantha Lynn Purvis",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1794552450,
+   "photo": null
+  },
+  {
+   "key": "MAD_PEGUES_DAMARIUS_2026-11-13",
+   "name": "Damarius A Pegues",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794552449,
+   "photo": null
+  },
+  {
+   "key": "MAD_BURKHOLDER_JASON_2026-11-13",
+   "name": "Jason Tavis Burkholder",
+   "age": "57",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Contempt of Court - Jail Booking",
+   "more": 0,
+   "ts": 1794552445,
+   "photo": "photos/MAD_BURKHOLDER_JASON_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_ARMES_ELIJAH_2026-11-12",
+   "name": "Elijah Henry Armes",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794552438,
+   "photo": null
+  },
+  {
+   "key": "VAN_MARTIN_BRIAN_2026-11-12",
+   "name": "Brian Thomas Martin",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1794552438,
+   "photo": null
+  },
+  {
+   "key": "VAN_JONES_ARNOLD_2026-11-12",
+   "name": "Arnold John Jones",
+   "age": "62",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794552438,
+   "photo": null
+  },
+  {
+   "key": "ALL_MORRIS_EMILY_2026-11-13",
+   "name": "Emily Morris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 2,
+   "ts": 1794552436,
+   "photo": "photos/ALL_MORRIS_EMILY_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_LA_KO_2026-11-13",
+   "name": "Ko La",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1794552432,
+   "photo": "photos/ALL_LA_KO_2026-11-13.jpg"
+  },
   {
    "key": "VAN_LANE_CARNELIUS_2026-11-12",
    "name": "Carnelius Devalle Lane",
@@ -321,28 +409,6 @@
    "photo": "photos/MAD_AGUILAR_IVAN_2026-11-12.jpg"
   },
   {
-   "key": "VAN_DEVOY_SETH_2026-11-12",
-   "name": "Seth Michael Devoy",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Auto Theft - Where Intent Is To Deprive Owner Of Value Or",
-   "more": 0,
-   "ts": 1794520037,
-   "photo": "photos/VAN_DEVOY_SETH_2026-11-12.jpg"
-  },
-  {
-   "key": "VAN_HARWELL_ROBERT_2026-11-12",
-   "name": "Robert Joseph Harwell",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "False Reporting; False Informing",
-   "more": 0,
-   "ts": 1794520035,
-   "photo": null
-  },
-  {
    "key": "ALL_EDWARDS_JOHN_2026-11-12",
    "name": "John Edwards",
    "age": "",
@@ -363,17 +429,6 @@
    "more": 0,
    "ts": 1794516432,
    "photo": "photos/POR_SANCHEZALVAREZ_FERNANDA_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_ALVEYWILLIAMS_SHAYLA_2026-11-12",
-   "name": "Shayla Zee Alvey-Williams",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1794516430,
-   "photo": "photos/VAN_ALVEYWILLIAMS_SHAYLA_2026-11-12.jpg"
   },
   {
    "key": "POR_WOODS_JONATHAN_2026-11-11",
@@ -473,64 +528,97 @@
    "more": 0,
    "ts": 1794502042,
    "photo": "photos/POR_GARZA_ANGELO_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_DOLSEN_KAIDEN_2026-11-12",
-   "name": "Kaiden Dolsen",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Murder",
-   "more": 0,
-   "ts": 1794502038,
-   "photo": "photos/ALL_DOLSEN_KAIDEN_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_GUTIERREZ_ANGEL_2026-11-12",
-   "name": "Angel Gutierrez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Murder",
-   "more": 0,
-   "ts": 1794502033,
-   "photo": "photos/ALL_GUTIERREZ_ANGEL_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_HUFFMAN_PHOENIX_2026-11-12",
-   "name": "Phoenix Michael Huffman",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Parole Violation - Jail Booking",
-   "more": 0,
-   "ts": 1794498443,
-   "photo": "photos/MAD_HUFFMAN_PHOENIX_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_HENDERSON_DAMARIUS_2026-11-12",
-   "name": "Damarius Henderson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Shoplifting Value Of Property At Least 750 And Less Than 50K",
-   "more": 0,
-   "ts": 1794498437,
-   "photo": "photos/ALL_HENDERSON_DAMARIUS_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_CARSON_HALEY_2026-11-12",
-   "name": "Haley Marie Carson",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794491233,
-   "photo": "photos/MAD_CARSON_HALEY_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_PURVIS_SAMANTHA_2026-11-13",
+   "name": "Samantha Lynn Purvis",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1794552450,
+   "photo": null
+  },
+  {
+   "key": "MAD_PEGUES_DAMARIUS_2026-11-13",
+   "name": "Damarius A Pegues",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794552449,
+   "photo": null
+  },
+  {
+   "key": "MAD_BURKHOLDER_JASON_2026-11-13",
+   "name": "Jason Tavis Burkholder",
+   "age": "57",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Contempt of Court - Jail Booking",
+   "more": 0,
+   "ts": 1794552445,
+   "photo": "photos/MAD_BURKHOLDER_JASON_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_ARMES_ELIJAH_2026-11-12",
+   "name": "Elijah Henry Armes",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794552438,
+   "photo": null
+  },
+  {
+   "key": "VAN_MARTIN_BRIAN_2026-11-12",
+   "name": "Brian Thomas Martin",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1794552438,
+   "photo": null
+  },
+  {
+   "key": "VAN_JONES_ARNOLD_2026-11-12",
+   "name": "Arnold John Jones",
+   "age": "62",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794552438,
+   "photo": null
+  },
+  {
+   "key": "ALL_MORRIS_EMILY_2026-11-13",
+   "name": "Emily Morris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Physical",
+   "more": 2,
+   "ts": 1794552436,
+   "photo": "photos/ALL_MORRIS_EMILY_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_LA_KO_2026-11-13",
+   "name": "Ko La",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1794552432,
+   "photo": "photos/ALL_LA_KO_2026-11-13.jpg"
+  },
   {
    "key": "VAN_LANE_CARNELIUS_2026-11-12",
    "name": "Carnelius Devalle Lane",
@@ -2554,61 +2642,6 @@
    "more": 1,
    "ts": 1794296833,
    "photo": "photos/ALL_HOLMES_JOSHUA_2026-11-10.jpg"
-  },
-  {
-   "key": "MAD_ANCIL_MAELEE_2026-11-10",
-   "name": "Maelee Danielle Ancil",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794293256,
-   "photo": "photos/MAD_ANCIL_MAELEE_2026-11-10.jpg"
-  },
-  {
-   "key": "VAN_ALLEN_DRAKE_2026-11-09",
-   "name": "Drake Mackenzie Allen",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794293250,
-   "photo": "photos/VAN_ALLEN_DRAKE_2026-11-09.jpg"
-  },
-  {
-   "key": "ALL_GRAMES_NICOLE_2026-11-10",
-   "name": "Nicole Grames",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion Of Privacy",
-   "more": 0,
-   "ts": 1794293246,
-   "photo": "photos/ALL_GRAMES_NICOLE_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_WILKINS_SHANELL_2026-11-10",
-   "name": "Shanell Wilkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% And < .15%",
-   "more": 0,
-   "ts": 1794293242,
-   "photo": "photos/ALL_WILKINS_SHANELL_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_PEARSON_NAZYRAH_2026-11-10",
-   "name": "Nazyrah Pearson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1794293238,
-   "photo": "photos/ALL_PEARSON_NAZYRAH_2026-11-10.jpg"
   }
  ]
 }
