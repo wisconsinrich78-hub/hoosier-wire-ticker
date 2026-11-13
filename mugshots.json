@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T12:47:25+00:00",
+ "updated": "2026-11-13T13:47:48+00:00",
  "items": [
+  {
+   "key": "POR_RODRIGUEZ_TERRANCE_2026-11-12",
+   "name": "Terrance Lee Rodriguez",
+   "age": "21",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 1,
+   "ts": 1794577647,
+   "photo": "photos/POR_RODRIGUEZ_TERRANCE_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_CIN_HANG_2026-11-13",
+   "name": "Hang Cin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794577639,
+   "photo": "photos/ALL_CIN_HANG_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_SNYDER_MARK_2026-11-13",
+   "name": "Mark Snyder",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > .08% And < .15%",
+   "more": 1,
+   "ts": 1794577634,
+   "photo": "photos/ALL_SNYDER_MARK_2026-11-13.jpg"
+  },
   {
    "key": "POR_MARTINEZ_SANTOS_2026-11-12",
    "name": "Santos Francisco Martinez",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1794520042,
    "photo": "photos/MAD_COWAN_ERICA_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_AGUILAR_IVAN_2026-11-12",
-   "name": "Ivan Alexander Aguilar",
-   "age": "25",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Nonsupport of dependent",
-   "more": 0,
-   "ts": 1794520040,
-   "photo": "photos/MAD_AGUILAR_IVAN_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_EDWARDS_JOHN_2026-11-12",
-   "name": "John Edwards",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Entering Airport/Deadly Weapon",
-   "more": 0,
-   "ts": 1794520033,
-   "photo": "photos/ALL_EDWARDS_JOHN_2026-11-12.jpg"
-  },
-  {
-   "key": "POR_SANCHEZALVAREZ_FERNANDA_2026-11-11",
-   "name": "Fernanda Sanchez-Alvarez",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
-   "more": 0,
-   "ts": 1794516432,
-   "photo": "photos/POR_SANCHEZALVAREZ_FERNANDA_2026-11-11.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_RODRIGUEZ_TERRANCE_2026-11-12",
+   "name": "Terrance Lee Rodriguez",
+   "age": "21",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 1,
+   "ts": 1794577647,
+   "photo": "photos/POR_RODRIGUEZ_TERRANCE_2026-11-12.jpg"
+  },
+  {
+   "key": "ALL_CIN_HANG_2026-11-13",
+   "name": "Hang Cin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794577639,
+   "photo": "photos/ALL_CIN_HANG_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_SNYDER_MARK_2026-11-13",
+   "name": "Mark Snyder",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > .08% And < .15%",
+   "more": 1,
+   "ts": 1794577634,
+   "photo": "photos/ALL_SNYDER_MARK_2026-11-13.jpg"
+  },
   {
    "key": "POR_MARTINEZ_SANTOS_2026-11-12",
    "name": "Santos Francisco Martinez",
@@ -2675,17 +2708,6 @@
    "more": 0,
    "ts": 1794322060,
    "photo": "photos/MAD_CONKLIN_KADEN_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_JOHNSON_JACHAUN_2026-11-10",
-   "name": "Jachaun Johnson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Robbery / Armed",
-   "more": 0,
-   "ts": 1794318434,
-   "photo": "photos/ALL_JOHNSON_JACHAUN_2026-11-10.jpg"
   }
  ]
 }
