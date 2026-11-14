@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:47:27+00:00",
+ "updated": "2026-11-14T20:20:48+00:00",
  "items": [
   {
    "key": "POR_SCHWING_COLIN_2026-11-13",
@@ -139,7 +139,7 @@
    "age": "52",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Failure To Appear",
+   "charge": "Failure to Appear",
    "more": 1,
    "ts": 1794664041,
    "photo": "photos/POR_PAVY_JEFFERY_2026-11-13.jpg"
@@ -205,7 +205,7 @@
    "age": "36",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Failure To Appear",
+   "charge": "Failure to Appear",
    "more": 0,
    "ts": 1794656835,
    "photo": "photos/POR_AGREDANOGUTIERREZ_JULIO_2026-11-13.jpg"
@@ -216,7 +216,7 @@
    "age": "30",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
+   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
    "more": 1,
    "ts": 1794656832,
    "photo": "photos/VAN_LAX_ANDREW_2026-11-14.jpg"
@@ -227,7 +227,7 @@
    "age": "21",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
    "more": 2,
    "ts": 1794656831,
    "photo": "photos/VAN_GOODMAN_JONAE_2026-11-14.jpg"
@@ -260,7 +260,7 @@
    "age": "24",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
    "more": 1,
    "ts": 1794653231,
    "photo": "photos/VAN_HARPER_GREGORY_2026-11-14.jpg"
@@ -304,7 +304,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
+   "charge": "Hold for Other Jurisdiction",
    "more": 1,
    "ts": 1794649636,
    "photo": "photos/ALL_YA_ZAKI_2026-11-14.jpg"
@@ -370,7 +370,7 @@
    "age": "49",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Family Offense- Neglect Of Dependant/Child Violations",
+   "charge": "Family Offense- Neglect of Dependant/Child Violations",
    "more": 0,
    "ts": 1794642445,
    "photo": "photos/VAN_RITTENBERRY_GLORIA_2026-11-13.jpg"
@@ -458,7 +458,7 @@
    "age": "33",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
    "more": 1,
    "ts": 1794638838,
    "photo": "photos/VAN_FARR_ANDREW_2026-11-13.jpg"
@@ -469,7 +469,7 @@
    "age": "20",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Intimidation With A Deadly Weapon",
+   "charge": "Intimidation with a Deadly Weapon",
    "more": 2,
    "ts": 1794638837,
    "photo": "photos/VAN_STOREY_TRINTON_2026-11-13.jpg"
@@ -491,7 +491,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "charge": "Possession of Cocaine or Narcotic Drug",
    "more": 1,
    "ts": 1794635241,
    "photo": "photos/ALL_COYNE_TYLER_2026-11-14.jpg"
@@ -524,7 +524,7 @@
    "age": "41",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
    "more": 2,
    "ts": 1794631640,
    "photo": "photos/POR_MITCHELL_ERICK_2026-11-13.jpg"
@@ -669,7 +669,7 @@
    "age": "52",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Failure To Appear",
+   "charge": "Failure to Appear",
    "more": 1,
    "ts": 1794664041,
    "photo": "photos/POR_PAVY_JEFFERY_2026-11-13.jpg"
@@ -735,7 +735,7 @@
    "age": "36",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Failure To Appear",
+   "charge": "Failure to Appear",
    "more": 0,
    "ts": 1794656835,
    "photo": "photos/POR_AGREDANOGUTIERREZ_JULIO_2026-11-13.jpg"
@@ -746,7 +746,7 @@
    "age": "30",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
+   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
    "more": 1,
    "ts": 1794656832,
    "photo": "photos/VAN_LAX_ANDREW_2026-11-14.jpg"
@@ -757,7 +757,7 @@
    "age": "21",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
    "more": 2,
    "ts": 1794656831,
    "photo": "photos/VAN_GOODMAN_JONAE_2026-11-14.jpg"
@@ -790,7 +790,7 @@
    "age": "24",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
    "more": 1,
    "ts": 1794653231,
    "photo": "photos/VAN_HARPER_GREGORY_2026-11-14.jpg"
@@ -834,7 +834,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
+   "charge": "Hold for Other Jurisdiction",
    "more": 1,
    "ts": 1794649636,
    "photo": "photos/ALL_YA_ZAKI_2026-11-14.jpg"
@@ -900,7 +900,7 @@
    "age": "49",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Family Offense- Neglect Of Dependant/Child Violations",
+   "charge": "Family Offense- Neglect of Dependant/Child Violations",
    "more": 0,
    "ts": 1794642445,
    "photo": "photos/VAN_RITTENBERRY_GLORIA_2026-11-13.jpg"
@@ -988,7 +988,7 @@
    "age": "33",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
    "more": 1,
    "ts": 1794638838,
    "photo": "photos/VAN_FARR_ANDREW_2026-11-13.jpg"
@@ -999,7 +999,7 @@
    "age": "20",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Intimidation With A Deadly Weapon",
+   "charge": "Intimidation with a Deadly Weapon",
    "more": 2,
    "ts": 1794638837,
    "photo": "photos/VAN_STOREY_TRINTON_2026-11-13.jpg"
@@ -1021,7 +1021,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "charge": "Possession of Cocaine or Narcotic Drug",
    "more": 1,
    "ts": 1794635241,
    "photo": "photos/ALL_COYNE_TYLER_2026-11-14.jpg"
@@ -1054,7 +1054,7 @@
    "age": "41",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
    "more": 2,
    "ts": 1794631640,
    "photo": "photos/POR_MITCHELL_ERICK_2026-11-13.jpg"
@@ -1065,7 +1065,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Possession Of Paraphernalia",
+   "charge": "Possession of Paraphernalia",
    "more": 0,
    "ts": 1794631635,
    "photo": "photos/ALL_GRAMES_NICOLE_2026-11-13.jpg"
@@ -1076,7 +1076,7 @@
    "age": "31",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Resisting Law Enforcement Def. Uses A Vehicle.",
+   "charge": "Resisting Law Enforcement Def. Uses a Vehicle.",
    "more": 1,
    "ts": 1794624433,
    "photo": "photos/POR_GRIFFIN_TRACY_2026-11-13.jpg"
@@ -1087,7 +1087,7 @@
    "age": "45",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 0,
    "ts": 1794620833,
    "photo": "photos/VAN_TOMPKINS_DEREK_2026-11-13.jpg"
@@ -1109,7 +1109,7 @@
    "age": "28",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
    "more": 2,
    "ts": 1794617243,
    "photo": "photos/POR_GARRETT_TYREE_2026-11-12.jpg"
@@ -1131,7 +1131,7 @@
    "age": "34",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794617240,
    "photo": "photos/VAN_MARTIN_PAUL_2026-11-13.jpg"
@@ -1142,7 +1142,7 @@
    "age": "68",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794617237,
    "photo": null
@@ -1153,7 +1153,7 @@
    "age": "63",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794617237,
    "photo": null
@@ -1208,7 +1208,7 @@
    "age": "38",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence Of Child Less Than 16 Years Ol",
+   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
    "more": 1,
    "ts": 1794610064,
    "photo": "photos/POR_MARTIN_CHRISTOPHER_2026-11-12.jpg"
@@ -1219,7 +1219,7 @@
    "age": "46",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794610061,
    "photo": "photos/VAN_LITTLEDOG_MICHAEL_2026-11-13.jpg"
@@ -1230,7 +1230,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Possession Of Methamphetamine",
+   "charge": "Possession of Methamphetamine",
    "more": 1,
    "ts": 1794610056,
    "photo": "photos/ALL_CODLING_DEVAN_2026-11-13.jpg"
@@ -1263,7 +1263,7 @@
    "age": "46",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794606473,
    "photo": "photos/VAN_PERSINGER_JASON_2026-11-13.jpg"
@@ -1274,7 +1274,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Contempt Of Court-Civil",
+   "charge": "Contempt of Court-Civil",
    "more": 0,
    "ts": 1794606469,
    "photo": "photos/ALL_WATROUS_MARK_2026-11-13.jpg"
@@ -1296,7 +1296,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
+   "charge": "Hold for Other Jurisdiction",
    "more": 0,
    "ts": 1794606460,
    "photo": "photos/ALL_STYTLE_RANDY_2026-11-13.jpg"
@@ -1307,7 +1307,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
+   "charge": "Hold for Other Jurisdiction",
    "more": 1,
    "ts": 1794606456,
    "photo": "photos/ALL_LOPEZ_ALDEN_2026-11-13.jpg"
@@ -1318,7 +1318,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail To Register - Prior",
+   "charge": "Sex / Violent Offender - Fail to Register - Prior",
    "more": 0,
    "ts": 1794606451,
    "photo": "photos/ALL_SCOTT_KAIDEN_2026-11-13.jpg"
@@ -1340,7 +1340,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Dealing In Methamphetamine",
+   "charge": "Dealing in Methamphetamine",
    "more": 2,
    "ts": 1794606443,
    "photo": "photos/ALL_GREENHOUSE_ASHLEY_2026-11-13.jpg"
@@ -1351,7 +1351,7 @@
    "age": "32",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 3,
    "ts": 1794602847,
    "photo": "photos/VAN_TOREGANO_ATOKA_2026-11-13.jpg"
@@ -1362,7 +1362,7 @@
    "age": "30",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 4,
    "ts": 1794602844,
    "photo": null
@@ -1373,7 +1373,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
+   "charge": "Hold for Other Jurisdiction",
    "more": 1,
    "ts": 1794602843,
    "photo": "photos/ALL_OFARROW_GLORIANA_2026-11-13.jpg"
@@ -1406,7 +1406,7 @@
    "age": "59",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 0,
    "ts": 1794595640,
    "photo": "photos/VAN_FOWLER_DAVID_2026-11-13.jpg"
@@ -1461,7 +1461,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "charge": "Possession of Cocaine or Narcotic Drug",
    "more": 0,
    "ts": 1794592031,
    "photo": "photos/ALL_EBRIGHT_PEGGY_2026-11-13.jpg"
@@ -1483,7 +1483,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Interfering With Drug Or Ach Test",
+   "charge": "Interfering with Drug or Ach Test",
    "more": 1,
    "ts": 1794588434,
    "photo": "photos/ALL_HUDSON_JATON_2026-11-13.jpg"
@@ -1538,7 +1538,7 @@
    "age": "42",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Possession Cocaine Or Narcotics",
+   "charge": "Possession Cocaine or Narcotics",
    "more": 0,
    "ts": 1794581256,
    "photo": "photos/POR_KIRK_TABITHA_2026-11-12.jpg"
@@ -1549,7 +1549,7 @@
    "age": "47",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Failure To Appear",
+   "charge": "Failure to Appear",
    "more": 0,
    "ts": 1794581254,
    "photo": "photos/POR_JOHNSON_DANNY_2026-11-12.jpg"
@@ -1560,7 +1560,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail To Register - Prior",
+   "charge": "Sex / Violent Offender - Fail to Register - Prior",
    "more": 1,
    "ts": 1794581247,
    "photo": "photos/ALL_BLESSING_FREDERICK_2026-11-13.jpg"
@@ -1571,7 +1571,7 @@
    "age": "21",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Failure To Appear",
+   "charge": "Failure to Appear",
    "more": 1,
    "ts": 1794577647,
    "photo": "photos/POR_RODRIGUEZ_TERRANCE_2026-11-12.jpg"
@@ -1593,7 +1593,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% And < .15%",
+   "charge": "Operating While Intoxicated > .08% and < .15%",
    "more": 1,
    "ts": 1794577634,
    "photo": "photos/ALL_SNYDER_MARK_2026-11-13.jpg"
@@ -1604,7 +1604,7 @@
    "age": "27",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Destruction/Damage/Vandalism Of Property - Nibrs",
+   "charge": "Destruction/Damage/Vandalism of Property - Nibrs",
    "more": 0,
    "ts": 1794574030,
    "photo": "photos/POR_MARTINEZ_SANTOS_2026-11-12.jpg"
@@ -1615,7 +1615,7 @@
    "age": "23",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
+   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
    "more": 2,
    "ts": 1794570431,
    "photo": "photos/VAN_WARGEL_DAX_2026-11-13.jpg"
@@ -1626,7 +1626,7 @@
    "age": "28",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
+   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
    "more": 0,
    "ts": 1794570430,
    "photo": "photos/VAN_JOHNSON_TIANA_2026-11-13.jpg"
@@ -1637,7 +1637,7 @@
    "age": "40",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Failure To Appear",
+   "charge": "Failure to Appear",
    "more": 0,
    "ts": 1794566836,
    "photo": "photos/POR_MILLER_JAMIE_2026-11-12.jpg"
@@ -1648,7 +1648,7 @@
    "age": "25",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794566832,
    "photo": "photos/VAN_BALDE_CARTER_2026-11-13.jpg"
@@ -1736,7 +1736,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun",
+   "charge": "Unlawful Carrying of a Handgun",
    "more": 0,
    "ts": 1794556035,
    "photo": null
@@ -1747,7 +1747,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Institutional Criminal Mischief - Structure For Religious Worship",
+   "charge": "Institutional Criminal Mischief - Structure for Religious Worship",
    "more": 0,
    "ts": 1794556031,
    "photo": "photos/ALL_HARVEY_BORIS_2026-11-13.jpg"
@@ -1791,7 +1791,7 @@
    "age": "47",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794552438,
    "photo": null
@@ -1879,7 +1879,7 @@
    "age": "46",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
    "more": 5,
    "ts": 1794545243,
    "photo": null
@@ -1901,7 +1901,7 @@
    "age": "41",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 4,
    "ts": 1794545242,
    "photo": null
@@ -1956,7 +1956,7 @@
    "age": "36",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794538038,
    "photo": "photos/VAN_VIARD_RICARD_2026-11-12.jpg"
@@ -1978,7 +1978,7 @@
    "age": "25",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Family Offense- Neglect Of Dependant/Child Violations",
+   "charge": "Family Offense- Neglect of Dependant/Child Violations",
    "more": 1,
    "ts": 1794534445,
    "photo": "photos/VAN_JOHNSON_JARUE_2026-11-12.jpg"
@@ -1989,7 +1989,7 @@
    "age": "31",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
    "more": 0,
    "ts": 1794534442,
    "photo": null
@@ -2000,7 +2000,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Unlaw Poss Firearm By Domestic Batterer",
+   "charge": "Unlaw Poss Firearm by Domestic Batterer",
    "more": 1,
    "ts": 1794534440,
    "photo": "photos/ALL_HOWARD_ALFRED_2026-11-12.jpg"
@@ -2033,7 +2033,7 @@
    "age": "35",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Theft- All Other Larceny - Value Of Property At Least $750 A",
+   "charge": "Theft- All Other Larceny - Value of Property at Least $750 a",
    "more": 0,
    "ts": 1794530841,
    "photo": null
@@ -2044,7 +2044,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Possession Of Cocaine Or Narcotic Drug",
+   "charge": "Possession of Cocaine or Narcotic Drug",
    "more": 0,
    "ts": 1794530839,
    "photo": "photos/ALL_RADFORD_CLARENCE_2026-11-12.jpg"
@@ -2066,7 +2066,7 @@
    "age": "32",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 1,
    "ts": 1794527243,
    "photo": "photos/VAN_YOUNG_DAMAR_2026-11-12.jpg"
@@ -2077,7 +2077,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
+   "charge": "Hold for Other Jurisdiction",
    "more": 1,
    "ts": 1794527231,
    "photo": null
@@ -2110,7 +2110,7 @@
    "age": "57",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794523650,
    "photo": "photos/VAN_FLOYD_MELANIE_2026-11-12.jpg"
@@ -2132,7 +2132,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail To Register - Prior",
+   "charge": "Sex / Violent Offender - Fail to Register - Prior",
    "more": 0,
    "ts": 1794523643,
    "photo": "photos/ALL_PAYTON_NATHAN_2026-11-12.jpg"
@@ -2165,7 +2165,7 @@
    "age": "26",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Auto Theft - Where Intent Is To Deprive Owner Of Value Or",
+   "charge": "Auto Theft - Where Intent Is to Deprive Owner of Value or",
    "more": 0,
    "ts": 1794520037,
    "photo": "photos/VAN_DEVOY_SETH_2026-11-12.jpg"
@@ -2198,7 +2198,7 @@
    "age": "29",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10\u2026",
    "more": 0,
    "ts": 1794516432,
    "photo": "photos/POR_SANCHEZALVAREZ_FERNANDA_2026-11-11.jpg"
@@ -2220,7 +2220,7 @@
    "age": "26",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Family Offense- Neglect Of Dependant/Child Violations",
+   "charge": "Family Offense- Neglect of Dependant/Child Violations",
    "more": 6,
    "ts": 1794512842,
    "photo": "photos/POR_WOODS_JONATHAN_2026-11-11.jpg"
@@ -2231,7 +2231,7 @@
    "age": "51",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 0,
    "ts": 1794512839,
    "photo": "photos/VAN_FITZPATRICK_DOROTHY_2026-11-12.jpg"
@@ -2242,7 +2242,7 @@
    "age": "54",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 0,
    "ts": 1794512838,
    "photo": "photos/VAN_WATSON_MAURICE_2026-11-12.jpg"
@@ -2319,7 +2319,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft Or Conversion",
+   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft or Conversion",
    "more": 0,
    "ts": 1794505630,
    "photo": "photos/ALL_HUTCHISON_DANIEL_2026-11-12.jpg"
@@ -2341,7 +2341,7 @@
    "age": "19",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10 Yea",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10\u2026",
    "more": 0,
    "ts": 1794502042,
    "photo": "photos/POR_GARZA_ANGELO_2026-11-11.jpg"
@@ -2385,7 +2385,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Theft Shoplifting Value Of Property At Least 750 And Less Than 50K",
+   "charge": "Theft Shoplifting Value of Property at Least 750 and Less Than 50K",
    "more": 0,
    "ts": 1794498437,
    "photo": "photos/ALL_HENDERSON_DAMARIUS_2026-11-12.jpg"
@@ -2440,7 +2440,7 @@
    "age": "25",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
    "more": 0,
    "ts": 1794491227,
    "photo": "photos/VAN_ESTRADA_JAYCE_2026-11-12.jpg"
@@ -2451,7 +2451,7 @@
    "age": "33",
    "county": "Madison County",
    "region": "central",
-   "charge": "Domestic battery-bodily injury to pregnant family or member if pregana",
+   "charge": "Domestic battery-bodily injury to pregnant family or member if\u2026",
    "more": 0,
    "ts": 1794480432,
    "photo": "photos/MAD_RIVAS_CONNOR_2026-11-12.jpg"
@@ -2473,7 +2473,7 @@
    "age": "18",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Failure To Appear",
+   "charge": "Failure to Appear",
    "more": 0,
    "ts": 1794476830,
    "photo": "photos/POR_HEACOCK_MICHAEL_2026-11-11.jpg"
@@ -2484,7 +2484,7 @@
    "age": "31",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
    "more": 1,
    "ts": 1794473232,
    "photo": "photos/VAN_GOEBEL_GARETT_2026-11-12.jpg"
@@ -2539,7 +2539,7 @@
    "age": "24",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Writ Of Attachment",
+   "charge": "Writ of Attachment",
    "more": 1,
    "ts": 1794466043,
    "photo": "photos/VAN_BELL_JORDAN_2026-11-11.jpg"
@@ -2572,7 +2572,7 @@
    "age": "30",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Operating While Intoxicated Endangers A Misd",
+   "charge": "Operating While Intoxicated Endangers a Misd",
    "more": 2,
    "ts": 1794458855,
    "photo": "photos/POR_MORRISON_SONNY_2026-11-11.jpg"
@@ -2583,7 +2583,7 @@
    "age": "50",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction(S)",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
    "more": 2,
    "ts": 1794458850,
    "photo": null
@@ -2649,7 +2649,7 @@
    "age": "44",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Prior Conviction",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Prior Conviction",
    "more": 4,
    "ts": 1794455238,
    "photo": "photos/POR_LAUDERBACK_AMY_2026-11-11.jpg"
@@ -2660,7 +2660,7 @@
    "age": "25",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Domestic Battery-Adult Against Family Or Member Less Than 14",
+   "charge": "Domestic Battery-Adult Against Family or Member Less Than 14",
    "more": 0,
    "ts": 1794455234,
    "photo": "photos/VAN_POUST_ALEXUS_2026-11-11.jpg"
@@ -2671,7 +2671,7 @@
    "age": "26",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 0,
    "ts": 1794451649,
    "photo": "photos/VAN_MOSLEY_KATELYNN_2026-11-11.jpg"
@@ -2693,7 +2693,7 @@
    "age": "17",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794448042,
    "photo": "photos/VAN_CRITCHFIELD_CAMDYN_2026-11-11.jpg"
@@ -2715,7 +2715,7 @@
    "age": "34",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
+   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
    "more": 7,
    "ts": 1794444448,
    "photo": "photos/POR_HAYES_DEON_2026-11-10.jpg"
@@ -2726,7 +2726,7 @@
    "age": "67",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 1,
    "ts": 1794444443,
    "photo": "photos/VAN_PHILLIPS_NANCY_2026-11-11.jpg"
@@ -2737,7 +2737,7 @@
    "age": "43",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794444440,
    "photo": "photos/VAN_SMITH_MARY_2026-11-11.jpg"
@@ -2770,7 +2770,7 @@
    "age": "40",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 0,
    "ts": 1794440843,
    "photo": "photos/VAN_MERIWETHER_DONNITA_2026-11-11.jpg"
@@ -2792,7 +2792,7 @@
    "age": "39",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Writ Of Attachment",
+   "charge": "Writ of Attachment",
    "more": 0,
    "ts": 1794437253,
    "photo": null
@@ -2814,7 +2814,7 @@
    "age": "29",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Child Support - Writ Of Attachment",
+   "charge": "Child Support - Writ of Attachment",
    "more": 1,
    "ts": 1794437252,
    "photo": null
@@ -2825,7 +2825,7 @@
    "age": "33",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 0,
    "ts": 1794437252,
    "photo": null
@@ -2836,7 +2836,7 @@
    "age": "57",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 0,
    "ts": 1794437252,
    "photo": null
@@ -2847,7 +2847,7 @@
    "age": "66",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Public Administration- Fail To Appear",
+   "charge": "Public Administration- Fail to Appear",
    "more": 1,
    "ts": 1794437252,
    "photo": null
@@ -2891,7 +2891,7 @@
    "age": "69",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794437252,
    "photo": null
@@ -2902,7 +2902,7 @@
    "age": "43",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Theft- Value Of Property At Least $750 And Less That $50,000",
+   "charge": "Theft- Value of Property at Least $750 and Less That $50,000",
    "more": 1,
    "ts": 1794437252,
    "photo": null
@@ -2924,7 +2924,7 @@
    "age": "27",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794437251,
    "photo": null
@@ -2946,7 +2946,7 @@
    "age": "69",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 1,
    "ts": 1794437251,
    "photo": null
@@ -2968,7 +2968,7 @@
    "age": "31",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794437251,
    "photo": null
@@ -2979,7 +2979,7 @@
    "age": "24",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 1,
    "ts": 1794437251,
    "photo": null
@@ -2990,7 +2990,7 @@
    "age": "47",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 0,
    "ts": 1794437251,
    "photo": null
@@ -3001,7 +3001,7 @@
    "age": "21",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Petition To Revoke Probation",
+   "charge": "Petition to Revoke Probation",
    "more": 1,
    "ts": 1794437251,
    "photo": null
@@ -3012,7 +3012,7 @@
    "age": "34",
    "county": "Madison County",
    "region": "central",
-   "charge": "Theft- shoplifting - value of property at least $750 and less than $50",
+   "charge": "Theft- shoplifting - value of property at least $750 and less than\u2026",
    "more": 0,
    "ts": 1794433676,
    "photo": "photos/MAD_FULP_BRIAN_2026-11-11.jpg"
@@ -3034,7 +3034,7 @@
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
+   "charge": "Hold for Other Jurisdiction",
    "more": 0,
    "ts": 1794433657,
    "photo": null
@@ -3056,7 +3056,7 @@
    "age": "39",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Controlled Substance- Possession Schedule Ii, Iii, Iv : A : M",
+   "charge": "Controlled Substance- Possession Schedule II, III, IV : a : M",
    "more": 0,
    "ts": 1794430061,
    "photo": "photos/POR_ROBINSON_CHRISTOPHER_2026-11-10.jpg"
