@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-14T07:50:42+00:00",
+ "updated": "2026-11-14T08:47:41+00:00",
  "items": [
+  {
+   "key": "MAD_BURGET_JOSEPH_2026-11-14",
+   "name": "Joseph Alan Burget",
+   "age": "50",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1794646048,
+   "photo": "photos/MAD_BURGET_JOSEPH_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_FOSNAUGH_JANICE_2026-11-14",
+   "name": "Janice Fosnaugh",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1794646041,
+   "photo": "photos/ALL_FOSNAUGH_JANICE_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_YANCEY_CHARLES_2026-11-14",
+   "name": "Charles Yancey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794646036,
+   "photo": null
+  },
+  {
+   "key": "ALL_BROWN_DAMIAN_2026-11-14",
+   "name": "Damian Brown",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 1,
+   "ts": 1794646032,
+   "photo": "photos/ALL_BROWN_DAMIAN_2026-11-14.jpg"
+  },
   {
    "key": "VAN_ESTERS_HURLEY_2026-11-13",
    "name": "Hurley Antoine Esters",
@@ -409,39 +453,6 @@
    "photo": "photos/ALL_MCDOWELL_ISADORA_2026-11-13.jpg"
   },
   {
-   "key": "ALL_STYTLE_RANDY_2026-11-13",
-   "name": "Randy Stytle",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1794606460,
-   "photo": "photos/ALL_STYTLE_RANDY_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_LOPEZ_ALDEN_2026-11-13",
-   "name": "Alden Lopez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1794606456,
-   "photo": "photos/ALL_LOPEZ_ALDEN_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_SCOTT_KAIDEN_2026-11-13",
-   "name": "Kaiden Scott",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail To Register - Prior",
-   "more": 0,
-   "ts": 1794606451,
-   "photo": "photos/ALL_SCOTT_KAIDEN_2026-11-13.jpg"
-  },
-  {
    "key": "VAN_TOREGANO_ATOKA_2026-11-13",
    "name": "Atoka Christopher Toregano",
    "age": "32",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1794592037,
    "photo": null
-  },
-  {
-   "key": "MAD_HOLLOWAY_BRENTON_2026-11-13",
-   "name": "Brenton D Holloway",
-   "age": "21",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession cocaine or narcotic drug",
-   "more": 1,
-   "ts": 1794584845,
-   "photo": "photos/MAD_HOLLOWAY_BRENTON_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_BURGET_JOSEPH_2026-11-14",
+   "name": "Joseph Alan Burget",
+   "age": "50",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1794646048,
+   "photo": "photos/MAD_BURGET_JOSEPH_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_FOSNAUGH_JANICE_2026-11-14",
+   "name": "Janice Fosnaugh",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1794646041,
+   "photo": "photos/ALL_FOSNAUGH_JANICE_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_YANCEY_CHARLES_2026-11-14",
+   "name": "Charles Yancey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794646036,
+   "photo": null
+  },
+  {
+   "key": "ALL_BROWN_DAMIAN_2026-11-14",
+   "name": "Damian Brown",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 1,
+   "ts": 1794646032,
+   "photo": "photos/ALL_BROWN_DAMIAN_2026-11-14.jpg"
+  },
   {
    "key": "VAN_ESTERS_HURLEY_2026-11-13",
    "name": "Hurley Antoine Esters",
@@ -2917,17 +2961,6 @@
    "more": 0,
    "ts": 1794390442,
    "photo": null
-  },
-  {
-   "key": "ALL_CONRAD_CALEB_2026-11-11",
-   "name": "Caleb Conrad",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 0,
-   "ts": 1794386840,
-   "photo": "photos/ALL_CONRAD_CALEB_2026-11-11.jpg"
   }
  ]
 }
