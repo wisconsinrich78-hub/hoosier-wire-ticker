@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:01:25+00:00",
+ "updated": "2026-11-14T17:47:28+00:00",
  "items": [
   {
    "key": "MAD_REEL_MARION_2026-11-14",
@@ -3005,17 +3005,6 @@
    "more": 3,
    "ts": 1794422838,
    "photo": "photos/ALL_ELDER_ALEXANDRA_2026-11-11.jpg"
-  },
-  {
-   "key": "POR_TENNIONE_LEANNE_2026-11-10",
-   "name": "Leanne Renee Tennione",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Intimidation",
-   "more": 2,
-   "ts": 1794419247,
-   "photo": "photos/POR_TENNIONE_LEANNE_2026-11-10.jpg"
   }
  ]
 }
