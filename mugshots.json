@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T10:57:31+00:00",
+ "updated": "2026-11-14T11:47:33+00:00",
  "items": [
+  {
+   "key": "POR_AGREDANOGUTIERREZ_JULIO_2026-11-13",
+   "name": "Julio Cesar Agredano-Gutierrez",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794656835,
+   "photo": "photos/POR_AGREDANOGUTIERREZ_JULIO_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_LAX_ANDREW_2026-11-14",
+   "name": "Andrew David Lax",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
+   "more": 1,
+   "ts": 1794656832,
+   "photo": "photos/VAN_LAX_ANDREW_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_GOODMAN_JONAE_2026-11-14",
+   "name": "Jonae Essence Goodman",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 2,
+   "ts": 1794656831,
+   "photo": "photos/VAN_GOODMAN_JONAE_2026-11-14.jpg"
+  },
   {
    "key": "MAD_SPOON_JEREMY_2026-11-14",
    "name": "Jeremy Robert Spoon",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1794606486,
    "photo": "photos/MAD_LASWELL_JEFFREY_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_PERSINGER_JASON_2026-11-13",
-   "name": "Jason Douglas Persinger",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794606473,
-   "photo": "photos/VAN_PERSINGER_JASON_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_WATROUS_MARK_2026-11-13",
-   "name": "Mark Watrous",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt Of Court-Civil",
-   "more": 0,
-   "ts": 1794606469,
-   "photo": "photos/ALL_WATROUS_MARK_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_TOREGANO_ATOKA_2026-11-13",
-   "name": "Atoka Christopher Toregano",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 3,
-   "ts": 1794602847,
-   "photo": "photos/VAN_TOREGANO_ATOKA_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_AGREDANOGUTIERREZ_JULIO_2026-11-13",
+   "name": "Julio Cesar Agredano-Gutierrez",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure To Appear",
+   "more": 0,
+   "ts": 1794656835,
+   "photo": "photos/POR_AGREDANOGUTIERREZ_JULIO_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_LAX_ANDREW_2026-11-14",
+   "name": "Andrew David Lax",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication By Alcohol [Bm]",
+   "more": 1,
+   "ts": 1794656832,
+   "photo": "photos/VAN_LAX_ANDREW_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_GOODMAN_JONAE_2026-11-14",
+   "name": "Jonae Essence Goodman",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated- Endang",
+   "more": 2,
+   "ts": 1794656831,
+   "photo": "photos/VAN_GOODMAN_JONAE_2026-11-14.jpg"
+  },
   {
    "key": "MAD_SPOON_JEREMY_2026-11-14",
    "name": "Jeremy Robert Spoon",
@@ -2961,17 +2994,6 @@
    "more": 0,
    "ts": 1794404846,
    "photo": "photos/POR_MCGOWAN_RAYNEISHA_2026-11-10.jpg"
-  },
-  {
-   "key": "POR_TELLEZ_JASMINE_2026-11-10",
-   "name": "Jasmine Ruby Tellez",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Auto Theft",
-   "more": 1,
-   "ts": 1794397636,
-   "photo": null
   }
  ]
 }
