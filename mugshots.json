@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-14T05:47:46+00:00",
+ "updated": "2026-11-14T06:47:40+00:00",
  "items": [
+  {
+   "key": "MAD_WALKER_THOMAS_2026-11-14",
+   "name": "Thomas Andrew Walker",
+   "age": "22",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating with controlled substance in body",
+   "more": 0,
+   "ts": 1794638855,
+   "photo": "photos/MAD_WALKER_THOMAS_2026-11-14.jpg"
+  },
+  {
+   "key": "MAD_EVANS_JASON_2026-11-14",
+   "name": "Jason L Evans",
+   "age": "51",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794638849,
+   "photo": null
+  },
+  {
+   "key": "POR_HOSKINS_SHAMON_2026-11-13",
+   "name": "Shamon Kelly Hoskins",
+   "age": "18",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 0,
+   "ts": 1794638843,
+   "photo": "photos/POR_HOSKINS_SHAMON_2026-11-13.jpg"
+  },
+  {
+   "key": "POR_GONZALEZ_GIOVANNI_2026-11-13",
+   "name": "Giovanni Gonzalez",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 0,
+   "ts": 1794638841,
+   "photo": "photos/POR_GONZALEZ_GIOVANNI_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_FARR_ANDREW_2026-11-13",
+   "name": "Andrew Alexander Farr",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794638838,
+   "photo": "photos/VAN_FARR_ANDREW_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_STOREY_TRINTON_2026-11-13",
+   "name": "Trinton Wayne Storey",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation With A Deadly Weapon",
+   "more": 2,
+   "ts": 1794638837,
+   "photo": "photos/VAN_STOREY_TRINTON_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_SMART_QUWENTEZ_2026-11-14",
+   "name": "Quwentez Smart",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 2,
+   "ts": 1794638832,
+   "photo": "photos/ALL_SMART_QUWENTEZ_2026-11-14.jpg"
+  },
   {
    "key": "ALL_COYNE_TYLER_2026-11-14",
    "name": "Tyler Coyne",
@@ -365,17 +442,6 @@
    "photo": "photos/ALL_OFARROW_GLORIANA_2026-11-13.jpg"
   },
   {
-   "key": "ALL_CHAPMAN_JULIUS_2026-11-13",
-   "name": "Julius Chapman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 0,
-   "ts": 1794599243,
-   "photo": "photos/ALL_CHAPMAN_JULIUS_2026-11-13.jpg"
-  },
-  {
    "key": "MAD_HAIGHT_GARRY_2026-11-13",
    "name": "Garry Truman Haight",
    "age": "40",
@@ -462,75 +528,86 @@
    "more": 0,
    "ts": 1794581256,
    "photo": "photos/POR_KIRK_TABITHA_2026-11-12.jpg"
-  },
-  {
-   "key": "POR_JOHNSON_DANNY_2026-11-12",
-   "name": "Danny Edward Johnson",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1794581254,
-   "photo": "photos/POR_JOHNSON_DANNY_2026-11-12.jpg"
-  },
-  {
-   "key": "POR_RODRIGUEZ_TERRANCE_2026-11-12",
-   "name": "Terrance Lee Rodriguez",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 1,
-   "ts": 1794577647,
-   "photo": "photos/POR_RODRIGUEZ_TERRANCE_2026-11-12.jpg"
-  },
-  {
-   "key": "POR_MARTINEZ_SANTOS_2026-11-12",
-   "name": "Santos Francisco Martinez",
-   "age": "27",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Destruction/Damage/Vandalism Of Property - Nibrs",
-   "more": 0,
-   "ts": 1794574030,
-   "photo": "photos/POR_MARTINEZ_SANTOS_2026-11-12.jpg"
-  },
-  {
-   "key": "VAN_WARGEL_DAX_2026-11-13",
-   "name": "Dax Mykel Wargel",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine Or Narcotic Drug",
-   "more": 2,
-   "ts": 1794570431,
-   "photo": "photos/VAN_WARGEL_DAX_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_TIANA_2026-11-13",
-   "name": "Tiana Ciara Sue Johnson",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence Of Child Less Than 16",
-   "more": 0,
-   "ts": 1794570430,
-   "photo": "photos/VAN_JOHNSON_TIANA_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_MILLER_JAMIE_2026-11-12",
-   "name": "Jamie Renee Miller",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1794566836,
-   "photo": "photos/POR_MILLER_JAMIE_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WALKER_THOMAS_2026-11-14",
+   "name": "Thomas Andrew Walker",
+   "age": "22",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating with controlled substance in body",
+   "more": 0,
+   "ts": 1794638855,
+   "photo": "photos/MAD_WALKER_THOMAS_2026-11-14.jpg"
+  },
+  {
+   "key": "MAD_EVANS_JASON_2026-11-14",
+   "name": "Jason L Evans",
+   "age": "51",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794638849,
+   "photo": null
+  },
+  {
+   "key": "POR_HOSKINS_SHAMON_2026-11-13",
+   "name": "Shamon Kelly Hoskins",
+   "age": "18",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 0,
+   "ts": 1794638843,
+   "photo": "photos/POR_HOSKINS_SHAMON_2026-11-13.jpg"
+  },
+  {
+   "key": "POR_GONZALEZ_GIOVANNI_2026-11-13",
+   "name": "Giovanni Gonzalez",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 0,
+   "ts": 1794638841,
+   "photo": "photos/POR_GONZALEZ_GIOVANNI_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_FARR_ANDREW_2026-11-13",
+   "name": "Andrew Alexander Farr",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794638838,
+   "photo": "photos/VAN_FARR_ANDREW_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_STOREY_TRINTON_2026-11-13",
+   "name": "Trinton Wayne Storey",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation With A Deadly Weapon",
+   "more": 2,
+   "ts": 1794638837,
+   "photo": "photos/VAN_STOREY_TRINTON_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_SMART_QUWENTEZ_2026-11-14",
+   "name": "Quwentez Smart",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 2,
+   "ts": 1794638832,
+   "photo": "photos/ALL_SMART_QUWENTEZ_2026-11-14.jpg"
+  },
   {
    "key": "ALL_COYNE_TYLER_2026-11-14",
    "name": "Tyler Coyne",
@@ -2829,39 +2906,6 @@
    "more": 0,
    "ts": 1794383239,
    "photo": "photos/ALL_PONCIANO_ADOLFO_2026-11-11.jpg"
-  },
-  {
-   "key": "MAD_ALCANTAR_PATRICIA_2026-11-11",
-   "name": "Patricia Ann Alcantar",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Continuum Sanctions",
-   "more": 0,
-   "ts": 1794379653,
-   "photo": "photos/MAD_ALCANTAR_PATRICIA_2026-11-11.jpg"
-  },
-  {
-   "key": "POR_KEITH_JEFFREY_2026-11-10",
-   "name": "Jeffrey Allen Keith",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Accident Leave The Scene Felony 3",
-   "more": 4,
-   "ts": 1794379650,
-   "photo": "photos/POR_KEITH_JEFFREY_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_POLING_EMIL_2026-11-11",
-   "name": "Emil Poling",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1794379645,
-   "photo": "photos/ALL_POLING_EMIL_2026-11-11.jpg"
   }
  ]
 }
