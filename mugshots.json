@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T01:47:30+00:00",
+ "updated": "2026-11-14T02:47:26+00:00",
  "items": [
+  {
+   "key": "POR_GRIFFIN_TRACY_2026-11-13",
+   "name": "Tracy Dion Griffin",
+   "age": "31",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Resisting Law Enforcement Def. Uses A Vehicle.",
+   "more": 1,
+   "ts": 1794624433,
+   "photo": "photos/POR_GRIFFIN_TRACY_2026-11-13.jpg"
+  },
   {
    "key": "VAN_TOMPKINS_DEREK_2026-11-13",
    "name": "Derek David Tompkins",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794563234,
    "photo": null
-  },
-  {
-   "key": "MAD_CAMPBELL_CALVIN_2026-11-13",
-   "name": "Calvin Tyrone Campbell",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794559635,
-   "photo": "photos/MAD_CAMPBELL_CALVIN_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_GRIFFIN_TRACY_2026-11-13",
+   "name": "Tracy Dion Griffin",
+   "age": "31",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Resisting Law Enforcement Def. Uses A Vehicle.",
+   "more": 1,
+   "ts": 1794624433,
+   "photo": "photos/POR_GRIFFIN_TRACY_2026-11-13.jpg"
+  },
   {
    "key": "VAN_TOMPKINS_DEREK_2026-11-13",
    "name": "Derek David Tompkins",
