@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T15:47:36+00:00",
+ "updated": "2026-11-14T16:47:43+00:00",
  "items": [
+  {
+   "key": "MAD_REEL_MARION_2026-11-14",
+   "name": "Marion Elwood Reel",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794674853,
+   "photo": "photos/MAD_REEL_MARION_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_FITZHUGH_RYAN_2026-11-13",
+   "name": "Ryan Keith Fitzhugh",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794674842,
+   "photo": "photos/POR_FITZHUGH_RYAN_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_GUNTHER_CHRISTOPHER_2026-11-14",
+   "name": "Christopher Alan Gunther",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Treatment Court Filed Ptr",
+   "more": 0,
+   "ts": 1794674836,
+   "photo": "photos/VAN_GUNTHER_CHRISTOPHER_2026-11-14.jpg"
+  },
   {
    "key": "POR_EASTON_CHRISTA_2026-11-13",
    "name": "Christa Lee Easton",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1794617240,
    "photo": "photos/VAN_KINGSBURY_JOSHUA_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_MARTIN_PAUL_2026-11-13",
-   "name": "Paul Jeffrey Martin",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794617240,
-   "photo": "photos/VAN_MARTIN_PAUL_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_MCGARY_RONALD_2026-11-13",
-   "name": "Ronald Jerome Mcgary",
-   "age": "68",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794617237,
-   "photo": null
-  },
-  {
-   "key": "VAN_MAYES_RONALD_2026-11-13",
-   "name": "Ronald Glenn Mayes",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition To Revoke Probation",
-   "more": 0,
-   "ts": 1794617237,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_REEL_MARION_2026-11-14",
+   "name": "Marion Elwood Reel",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794674853,
+   "photo": "photos/MAD_REEL_MARION_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_FITZHUGH_RYAN_2026-11-13",
+   "name": "Ryan Keith Fitzhugh",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794674842,
+   "photo": "photos/POR_FITZHUGH_RYAN_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_GUNTHER_CHRISTOPHER_2026-11-14",
+   "name": "Christopher Alan Gunther",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Treatment Court Filed Ptr",
+   "more": 0,
+   "ts": 1794674836,
+   "photo": "photos/VAN_GUNTHER_CHRISTOPHER_2026-11-14.jpg"
+  },
   {
    "key": "POR_EASTON_CHRISTA_2026-11-13",
    "name": "Christa Lee Easton",
@@ -2994,50 +3027,6 @@
    "more": 0,
    "ts": 1794415664,
    "photo": "photos/MAD_WILSON_JOEY_2026-11-11.jpg"
-  },
-  {
-   "key": "MAD_SNOW_ROBERT_2026-11-11",
-   "name": "Robert Lee Snow",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Return to County Jail Per Court Order - Jail Bookings",
-   "more": 0,
-   "ts": 1794415663,
-   "photo": "photos/MAD_SNOW_ROBERT_2026-11-11.jpg"
-  },
-  {
-   "key": "MAD_REYNOLDS_ERIK_2026-11-11",
-   "name": "Erik Aguilar Reynolds",
-   "age": "25",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Residential Entry",
-   "more": 1,
-   "ts": 1794415661,
-   "photo": null
-  },
-  {
-   "key": "MAD_ESQUIVELBRAVE_SANDRA_2026-11-11",
-   "name": "Sandra Esquivel-Brave",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794415657,
-   "photo": null
-  },
-  {
-   "key": "ALL_FLORIANMARTINEZ_FIDEL_2026-11-11",
-   "name": "Fidel Florianmartinez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Adult Knowing Presence Of Child Less Than 16 Years ",
-   "more": 1,
-   "ts": 1794415641,
-   "photo": null
   }
  ]
 }
