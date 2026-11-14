@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-14T08:47:41+00:00",
+ "updated": "2026-11-14T09:47:41+00:00",
  "items": [
+  {
+   "key": "MAD_CAMPBELL_AUTUMN_2026-11-14",
+   "name": "Autumn Cheyenne Campbell",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794649649,
+   "photo": "photos/MAD_CAMPBELL_AUTUMN_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_CASTER_DAVID_2026-11-13",
+   "name": "David Bryan Caster",
+   "age": "61",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794649643,
+   "photo": "photos/POR_CASTER_DAVID_2026-11-13.jpg"
+  },
+  {
+   "key": "POR_SCOTT_ROBERT_2026-11-13",
+   "name": "Robert Lewis Scott",
+   "age": "58",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794649640,
+   "photo": "photos/POR_SCOTT_ROBERT_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_YA_ZAKI_2026-11-14",
+   "name": "Zaki Ya",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1794649636,
+   "photo": "photos/ALL_YA_ZAKI_2026-11-14.jpg"
+  },
   {
    "key": "MAD_BURGET_JOSEPH_2026-11-14",
    "name": "Joseph Alan Burget",
@@ -442,17 +486,6 @@
    "photo": "photos/ALL_WATROUS_MARK_2026-11-13.jpg"
   },
   {
-   "key": "ALL_MCDOWELL_ISADORA_2026-11-13",
-   "name": "Isadora Mcdowell",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794606464,
-   "photo": "photos/ALL_MCDOWELL_ISADORA_2026-11-13.jpg"
-  },
-  {
    "key": "VAN_TOREGANO_ATOKA_2026-11-13",
    "name": "Atoka Christopher Toregano",
    "age": "32",
@@ -495,42 +528,53 @@
    "more": 0,
    "ts": 1794595640,
    "photo": "photos/VAN_FOWLER_DAVID_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_POOLE_KIRSTEN_2026-11-13",
-   "name": "Kirsten Ashley Poole",
-   "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1794592042,
-   "photo": "photos/MAD_POOLE_KIRSTEN_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_HARRIS_JAMES_2026-11-13",
-   "name": "James Allan Harris",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1794592040,
-   "photo": "photos/MAD_HARRIS_JAMES_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_BENFIELD_SIERRA_2026-11-13",
-   "name": "Sierra L Benfield",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Probation - Jail Booking",
-   "more": 0,
-   "ts": 1794592037,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_CAMPBELL_AUTUMN_2026-11-14",
+   "name": "Autumn Cheyenne Campbell",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794649649,
+   "photo": "photos/MAD_CAMPBELL_AUTUMN_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_CASTER_DAVID_2026-11-13",
+   "name": "David Bryan Caster",
+   "age": "61",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794649643,
+   "photo": "photos/POR_CASTER_DAVID_2026-11-13.jpg"
+  },
+  {
+   "key": "POR_SCOTT_ROBERT_2026-11-13",
+   "name": "Robert Lewis Scott",
+   "age": "58",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794649640,
+   "photo": "photos/POR_SCOTT_ROBERT_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_YA_ZAKI_2026-11-14",
+   "name": "Zaki Ya",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold For Other Jurisdiction",
+   "more": 1,
+   "ts": 1794649636,
+   "photo": "photos/ALL_YA_ZAKI_2026-11-14.jpg"
+  },
   {
    "key": "MAD_BURGET_JOSEPH_2026-11-14",
    "name": "Joseph Alan Burget",
@@ -2928,39 +2972,6 @@
    "more": 0,
    "ts": 1794390465,
    "photo": "photos/POR_GRESSER_RYAN_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_EDMONDS_DAMANI_2026-11-11",
-   "name": "Damani Edmonds",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1794390453,
-   "photo": null
-  },
-  {
-   "key": "ALL_PIFER_STACY_2026-11-11",
-   "name": "Stacy Pifer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794390447,
-   "photo": "photos/ALL_PIFER_STACY_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_SINCERE_2026-11-11",
-   "name": "Sincere Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlicense Driver",
-   "more": 0,
-   "ts": 1794390442,
-   "photo": null
   }
  ]
 }
