@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T10:47:18+00:00",
+ "updated": "2026-11-14T10:57:31+00:00",
  "items": [
   {
    "key": "MAD_SPOON_JEREMY_2026-11-14",
@@ -2972,28 +2972,6 @@
    "more": 1,
    "ts": 1794397636,
    "photo": null
-  },
-  {
-   "key": "POR_NELSON_CONNIE_2026-11-10",
-   "name": "Connie Sue Nelson",
-   "age": "45",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure To Appear",
-   "more": 0,
-   "ts": 1794394053,
-   "photo": "photos/POR_NELSON_CONNIE_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_HARVEY_ALLEN_2026-11-11",
-   "name": "Allen Harvey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying Of A Handgun - Prior Conv Within 15 Yrs",
-   "more": 1,
-   "ts": 1794394045,
-   "photo": "photos/ALL_HARVEY_ALLEN_2026-11-11.jpg"
   }
  ]
 }
