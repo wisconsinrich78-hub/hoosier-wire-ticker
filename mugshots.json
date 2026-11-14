@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-13T23:47:45+00:00",
+ "updated": "2026-11-14T00:47:47+00:00",
  "items": [
+  {
+   "key": "MAD_FLOYD_AARON_2026-11-13",
+   "name": "Aaron Tyler Benjamin Floyd",
+   "age": "33",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Criminal Vandalism (B/M)",
+   "more": 2,
+   "ts": 1794617249,
+   "photo": "photos/MAD_FLOYD_AARON_2026-11-13.jpg"
+  },
+  {
+   "key": "POR_GARRETT_TYREE_2026-11-12",
+   "name": "Tyree Caron Garrett",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1794617243,
+   "photo": "photos/POR_GARRETT_TYREE_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_KINGSBURY_JOSHUA_2026-11-13",
+   "name": "Joshua Dale Kingsbury",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 0,
+   "ts": 1794617240,
+   "photo": "photos/VAN_KINGSBURY_JOSHUA_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_MARTIN_PAUL_2026-11-13",
+   "name": "Paul Jeffrey Martin",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794617240,
+   "photo": "photos/VAN_MARTIN_PAUL_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_MCGARY_RONALD_2026-11-13",
+   "name": "Ronald Jerome Mcgary",
+   "age": "68",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794617237,
+   "photo": null
+  },
+  {
+   "key": "VAN_MAYES_RONALD_2026-11-13",
+   "name": "Ronald Glenn Mayes",
+   "age": "63",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794617237,
+   "photo": null
+  },
+  {
+   "key": "ALL_ADAMONIS_ASHLEY_2026-11-13",
+   "name": "Ashley Adamonis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 2,
+   "ts": 1794617235,
+   "photo": "photos/ALL_ADAMONIS_ASHLEY_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_LOWE_DIAMOND_2026-11-13",
+   "name": "Diamond Lowe",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794617231,
+   "photo": "photos/ALL_LOWE_DIAMOND_2026-11-13.jpg"
+  },
   {
    "key": "MAD_BUTCHER_DATHANIEL_2026-11-13",
    "name": "Dathaniel Lee Butcher",
@@ -299,17 +387,6 @@
    "photo": "photos/ALL_HOLLEY_XAVIER_2026-11-13.jpg"
   },
   {
-   "key": "ALL_HUDSON_JATON_2026-11-13",
-   "name": "Jaton Hudson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Interfering With Drug Or Ach Test",
-   "more": 1,
-   "ts": 1794588434,
-   "photo": "photos/ALL_HUDSON_JATON_2026-11-13.jpg"
-  },
-  {
    "key": "MAD_HOLLOWAY_BRENTON_2026-11-13",
    "name": "Brenton D Holloway",
    "age": "21",
@@ -330,17 +407,6 @@
    "more": 0,
    "ts": 1794584843,
    "photo": "photos/MAD_BALL_DAVID_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_CURRY_JORDAN_2026-11-13",
-   "name": "Jordan Curry",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sexual Battery",
-   "more": 1,
-   "ts": 1794584838,
-   "photo": null
   },
   {
    "key": "POR_KIRK_TABITHA_2026-11-12",
@@ -462,75 +528,97 @@
    "more": 1,
    "ts": 1794559630,
    "photo": "photos/VAN_MINFORD_ANDREW_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_ICE_JEREMY_2026-11-13",
-   "name": "Jeremy Edresse Ice",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating with controlled substance in body",
-   "more": 2,
-   "ts": 1794556047,
-   "photo": null
-  },
-  {
-   "key": "MAD_CHAPIN_SAMANTHA_2026-11-13",
-   "name": "Samantha Lynn Chapin",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794556045,
-   "photo": null
-  },
-  {
-   "key": "VAN_ROBERTS_SAMARA_2026-11-13",
-   "name": "Samara Dawn Roberts",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1794556040,
-   "photo": null
-  },
-  {
-   "key": "MAD_PURVIS_SAMANTHA_2026-11-13",
-   "name": "Samantha Lynn Purvis",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery (A/M) Simple",
-   "more": 0,
-   "ts": 1794552450,
-   "photo": null
-  },
-  {
-   "key": "MAD_PEGUES_DAMARIUS_2026-11-13",
-   "name": "Damarius A Pegues",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794552449,
-   "photo": null
-  },
-  {
-   "key": "MAD_BURKHOLDER_JASON_2026-11-13",
-   "name": "Jason Tavis Burkholder",
-   "age": "57",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Contempt of Court - Jail Booking",
-   "more": 0,
-   "ts": 1794552445,
-   "photo": "photos/MAD_BURKHOLDER_JASON_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_FLOYD_AARON_2026-11-13",
+   "name": "Aaron Tyler Benjamin Floyd",
+   "age": "33",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Criminal Vandalism (B/M)",
+   "more": 2,
+   "ts": 1794617249,
+   "photo": "photos/MAD_FLOYD_AARON_2026-11-13.jpg"
+  },
+  {
+   "key": "POR_GARRETT_TYREE_2026-11-12",
+   "name": "Tyree Caron Garrett",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating A Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1794617243,
+   "photo": "photos/POR_GARRETT_TYREE_2026-11-12.jpg"
+  },
+  {
+   "key": "VAN_KINGSBURY_JOSHUA_2026-11-13",
+   "name": "Joshua Dale Kingsbury",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 0,
+   "ts": 1794617240,
+   "photo": "photos/VAN_KINGSBURY_JOSHUA_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_MARTIN_PAUL_2026-11-13",
+   "name": "Paul Jeffrey Martin",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794617240,
+   "photo": "photos/VAN_MARTIN_PAUL_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_MCGARY_RONALD_2026-11-13",
+   "name": "Ronald Jerome Mcgary",
+   "age": "68",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794617237,
+   "photo": null
+  },
+  {
+   "key": "VAN_MAYES_RONALD_2026-11-13",
+   "name": "Ronald Glenn Mayes",
+   "age": "63",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition To Revoke Probation",
+   "more": 0,
+   "ts": 1794617237,
+   "photo": null
+  },
+  {
+   "key": "ALL_ADAMONIS_ASHLEY_2026-11-13",
+   "name": "Ashley Adamonis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 2,
+   "ts": 1794617235,
+   "photo": "photos/ALL_ADAMONIS_ASHLEY_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_LOWE_DIAMOND_2026-11-13",
+   "name": "Diamond Lowe",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794617231,
+   "photo": "photos/ALL_LOWE_DIAMOND_2026-11-13.jpg"
+  },
   {
    "key": "MAD_BUTCHER_DATHANIEL_2026-11-13",
    "name": "Dathaniel Lee Butcher",
@@ -2763,39 +2851,6 @@
    "more": 0,
    "ts": 1794361634,
    "photo": "photos/ALL_JONES_LEIGHANNA_2026-11-10.jpg"
-  },
-  {
-   "key": "MAD_AYERS_NADIA_2026-11-10",
-   "name": "Nadia Jade Ayers",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794358046,
-   "photo": null
-  },
-  {
-   "key": "ALL_YEPSON_MICHAEL_2026-11-10",
-   "name": "Michael Yepson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Of Methamphetamine - Less Than 5 Grams And An Enhancing Cir",
-   "more": 2,
-   "ts": 1794358042,
-   "photo": "photos/ALL_YEPSON_MICHAEL_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_DENNIS_CHRISTOPHER_2026-11-10",
-   "name": "Christopher Dennis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass Meeting Level 6 Felony Requirements",
-   "more": 0,
-   "ts": 1794358037,
-   "photo": "photos/ALL_DENNIS_CHRISTOPHER_2026-11-10.jpg"
   }
  ]
 }
