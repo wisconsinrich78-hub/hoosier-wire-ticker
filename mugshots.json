@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-14T20:47:48+00:00",
+ "updated": "2026-11-14T21:47:48+00:00",
  "items": [
+  {
+   "key": "MAD_STOHLER_DEBBIE_2026-11-14",
+   "name": "Debbie Lynn Stohler",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Utility/transportation- railroad yard/right-of-way violation",
+   "more": 0,
+   "ts": 1794692858,
+   "photo": "photos/MAD_STOHLER_DEBBIE_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_KOPF_JON_2026-11-13",
+   "name": "Jon Robert Kopf",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 2,
+   "ts": 1794692846,
+   "photo": "photos/POR_KOPF_JON_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_MCCALL_RAPHAEL_2026-11-14",
+   "name": "Raphael Mccall",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794692842,
+   "photo": "photos/ALL_MCCALL_RAPHAEL_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_JOHNSON_ELIJAH_2026-11-14",
+   "name": "Elijah Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "False Identity Statement",
+   "more": 1,
+   "ts": 1794692837,
+   "photo": "photos/ALL_JOHNSON_ELIJAH_2026-11-14.jpg"
+  },
   {
    "key": "MAD_LOWE_ALEXANDER_2026-11-14",
    "name": "Alexander Christopher Lowe",
@@ -484,53 +528,53 @@
    "more": 1,
    "ts": 1794638838,
    "photo": "photos/VAN_FARR_ANDREW_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_STOREY_TRINTON_2026-11-13",
-   "name": "Trinton Wayne Storey",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation with a Deadly Weapon",
-   "more": 2,
-   "ts": 1794638837,
-   "photo": "photos/VAN_STOREY_TRINTON_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_SMART_QUWENTEZ_2026-11-14",
-   "name": "Quwentez Smart",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 2,
-   "ts": 1794638832,
-   "photo": "photos/ALL_SMART_QUWENTEZ_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_COYNE_TYLER_2026-11-14",
-   "name": "Tyler Coyne",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Cocaine or Narcotic Drug",
-   "more": 1,
-   "ts": 1794635241,
-   "photo": "photos/ALL_COYNE_TYLER_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_BIT_TUA_2026-11-14",
-   "name": "Tua Bit",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
-   "more": 4,
-   "ts": 1794635237,
-   "photo": "photos/ALL_BIT_TUA_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_STOHLER_DEBBIE_2026-11-14",
+   "name": "Debbie Lynn Stohler",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Utility/transportation- railroad yard/right-of-way violation",
+   "more": 0,
+   "ts": 1794692858,
+   "photo": "photos/MAD_STOHLER_DEBBIE_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_KOPF_JON_2026-11-13",
+   "name": "Jon Robert Kopf",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 2,
+   "ts": 1794692846,
+   "photo": "photos/POR_KOPF_JON_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_MCCALL_RAPHAEL_2026-11-14",
+   "name": "Raphael Mccall",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794692842,
+   "photo": "photos/ALL_MCCALL_RAPHAEL_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_JOHNSON_ELIJAH_2026-11-14",
+   "name": "Elijah Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "False Identity Statement",
+   "more": 1,
+   "ts": 1794692837,
+   "photo": "photos/ALL_JOHNSON_ELIJAH_2026-11-14.jpg"
+  },
   {
    "key": "MAD_LOWE_ALEXANDER_2026-11-14",
    "name": "Alexander Christopher Lowe",
@@ -3038,28 +3082,6 @@
    "more": 0,
    "ts": 1794433676,
    "photo": "photos/MAD_FULP_BRIAN_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_FIRKINS_RODNEY_2026-11-11",
-   "name": "Rodney Firkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794433662,
-   "photo": "photos/ALL_FIRKINS_RODNEY_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_CASSEL_LANTAE_2026-11-11",
-   "name": "Lantae Cassel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794433657,
-   "photo": null
   }
  ]
 }
