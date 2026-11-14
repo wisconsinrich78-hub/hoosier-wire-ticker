@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-14T20:20:48+00:00",
+ "updated": "2026-11-14T20:47:48+00:00",
  "items": [
+  {
+   "key": "MAD_LOWE_ALEXANDER_2026-11-14",
+   "name": "Alexander Christopher Lowe",
+   "age": "19",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794689249,
+   "photo": null
+  },
+  {
+   "key": "ALL_BYRD_OLANDUS_2026-11-14",
+   "name": "Olandus Byrd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Warrant Arrest",
+   "more": 0,
+   "ts": 1794689237,
+   "photo": "photos/ALL_BYRD_OLANDUS_2026-11-14.jpg"
+  },
   {
    "key": "POR_SCHWING_COLIN_2026-11-13",
    "name": "Colin Ford Schwing",
@@ -506,31 +528,31 @@
    "more": 4,
    "ts": 1794635237,
    "photo": "photos/ALL_BIT_TUA_2026-11-14.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_FULLER_TRENTON_2026-11-13",
-   "name": "Trenton Lee Fuller",
-   "age": "44",
+   "key": "MAD_LOWE_ALEXANDER_2026-11-14",
+   "name": "Alexander Christopher Lowe",
+   "age": "19",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1794631645,
-   "photo": "photos/MAD_FULLER_TRENTON_2026-11-13.jpg"
+   "ts": 1794689249,
+   "photo": null
   },
   {
-   "key": "POR_MITCHELL_ERICK_2026-11-13",
-   "name": "Erick Cj Mitchell",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
-   "more": 2,
-   "ts": 1794631640,
-   "photo": "photos/POR_MITCHELL_ERICK_2026-11-13.jpg"
-  }
- ],
- "all_items": [
+   "key": "ALL_BYRD_OLANDUS_2026-11-14",
+   "name": "Olandus Byrd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Warrant Arrest",
+   "more": 0,
+   "ts": 1794689237,
+   "photo": "photos/ALL_BYRD_OLANDUS_2026-11-14.jpg"
+  },
   {
    "key": "POR_SCHWING_COLIN_2026-11-13",
    "name": "Colin Ford Schwing",
@@ -3038,28 +3060,6 @@
    "more": 0,
    "ts": 1794433657,
    "photo": null
-  },
-  {
-   "key": "POR_BRENT_JAMES_2026-11-10",
-   "name": "James Wesley Brent",
-   "age": "34",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Resisting Law Enforcement",
-   "more": 3,
-   "ts": 1794430064,
-   "photo": "photos/POR_BRENT_JAMES_2026-11-10.jpg"
-  },
-  {
-   "key": "POR_ROBINSON_CHRISTOPHER_2026-11-10",
-   "name": "Christopher Ray Robinson",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Schedule II, III, IV : a : M",
-   "more": 0,
-   "ts": 1794430061,
-   "photo": "photos/POR_ROBINSON_CHRISTOPHER_2026-11-10.jpg"
   }
  ]
 }
