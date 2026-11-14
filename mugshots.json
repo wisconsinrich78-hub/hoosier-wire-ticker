@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T21:47:48+00:00",
+ "updated": "2026-11-14T21:58:22+00:00",
  "items": [
   {
    "key": "MAD_STOHLER_DEBBIE_2026-11-14",
@@ -3071,17 +3071,6 @@
    "more": 1,
    "ts": 1794437251,
    "photo": null
-  },
-  {
-   "key": "MAD_FULP_BRIAN_2026-11-11",
-   "name": "Brian Steven Lee Fulp",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Theft- shoplifting - value of property at least $750 and less than\u2026",
-   "more": 0,
-   "ts": 1794433676,
-   "photo": "photos/MAD_FULP_BRIAN_2026-11-11.jpg"
   }
  ]
 }
