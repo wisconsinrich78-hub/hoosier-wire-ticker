@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:47:43+00:00",
+ "updated": "2026-11-14T17:01:25+00:00",
  "items": [
   {
    "key": "MAD_REEL_MARION_2026-11-14",
@@ -3016,17 +3016,6 @@
    "more": 2,
    "ts": 1794419247,
    "photo": "photos/POR_TENNIONE_LEANNE_2026-11-10.jpg"
-  },
-  {
-   "key": "MAD_WILSON_JOEY_2026-11-11",
-   "name": "Joey Kent Wilson",
-   "age": "58",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794415664,
-   "photo": "photos/MAD_WILSON_JOEY_2026-11-11.jpg"
   }
  ]
 }
