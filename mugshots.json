@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-14T00:47:47+00:00",
+ "updated": "2026-11-14T01:47:30+00:00",
  "items": [
+  {
+   "key": "VAN_TOMPKINS_DEREK_2026-11-13",
+   "name": "Derek David Tompkins",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1794620833,
+   "photo": "photos/VAN_TOMPKINS_DEREK_2026-11-13.jpg"
+  },
   {
    "key": "MAD_FLOYD_AARON_2026-11-13",
    "name": "Aaron Tyler Benjamin Floyd",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794559635,
    "photo": "photos/MAD_CAMPBELL_CALVIN_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_MINFORD_ANDREW_2026-11-13",
-   "name": "Andrew William Minford",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794559630,
-   "photo": "photos/VAN_MINFORD_ANDREW_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_TOMPKINS_DEREK_2026-11-13",
+   "name": "Derek David Tompkins",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail To Appear",
+   "more": 0,
+   "ts": 1794620833,
+   "photo": "photos/VAN_TOMPKINS_DEREK_2026-11-13.jpg"
+  },
   {
    "key": "MAD_FLOYD_AARON_2026-11-13",
    "name": "Aaron Tyler Benjamin Floyd",
@@ -2829,28 +2840,6 @@
    "more": 5,
    "ts": 1794372447,
    "photo": "photos/ALL_BURRAGE_CHARLES_2026-11-10.jpg"
-  },
-  {
-   "key": "MAD_MILES_JEREMY_2026-11-10",
-   "name": "Jeremy Allen Miles",
-   "age": "48",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794361643,
-   "photo": null
-  },
-  {
-   "key": "ALL_JONES_LEIGHANNA_2026-11-10",
-   "name": "Leighanna Jones",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1794361634,
-   "photo": "photos/ALL_JONES_LEIGHANNA_2026-11-10.jpg"
   }
  ]
 }
