@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-14T18:38:24+00:00",
+ "updated": "2026-11-14T18:47:47+00:00",
  "items": [
+  {
+   "key": "POR_SELIGER_RYAN_2026-11-13",
+   "name": "Ryan Keith Seliger",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 1,
+   "ts": 1794682047,
+   "photo": "photos/POR_SELIGER_RYAN_2026-11-13.jpg"
+  },
+  {
+   "key": "POR_ROACH_DANIEL_2026-11-13",
+   "name": "Daniel Richard Roach",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794682046,
+   "photo": "photos/POR_ROACH_DANIEL_2026-11-13.jpg"
+  },
+  {
+   "key": "POR_GONZALEZ_JOSEPH_2026-11-13",
+   "name": "Joseph Pedro Gonzalez",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794682042,
+   "photo": "photos/POR_GONZALEZ_JOSEPH_2026-11-13.jpg"
+  },
   {
    "key": "MAD_ROWLES_BRITTANY_2026-11-14",
    "name": "Brittany Lou-Ann Rowles",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1794631635,
    "photo": "photos/ALL_GRAMES_NICOLE_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_GRIFFIN_TRACY_2026-11-13",
-   "name": "Tracy Dion Griffin",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Resisting Law Enforcement Def. Uses A Vehicle.",
-   "more": 1,
-   "ts": 1794624433,
-   "photo": "photos/POR_GRIFFIN_TRACY_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_TOMPKINS_DEREK_2026-11-13",
-   "name": "Derek David Tompkins",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail To Appear",
-   "more": 0,
-   "ts": 1794620833,
-   "photo": "photos/VAN_TOMPKINS_DEREK_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_FLOYD_AARON_2026-11-13",
-   "name": "Aaron Tyler Benjamin Floyd",
-   "age": "33",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Criminal Vandalism (B/M)",
-   "more": 2,
-   "ts": 1794617249,
-   "photo": "photos/MAD_FLOYD_AARON_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_SELIGER_RYAN_2026-11-13",
+   "name": "Ryan Keith Seliger",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 1,
+   "ts": 1794682047,
+   "photo": "photos/POR_SELIGER_RYAN_2026-11-13.jpg"
+  },
+  {
+   "key": "POR_ROACH_DANIEL_2026-11-13",
+   "name": "Daniel Richard Roach",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794682046,
+   "photo": "photos/POR_ROACH_DANIEL_2026-11-13.jpg"
+  },
+  {
+   "key": "POR_GONZALEZ_JOSEPH_2026-11-13",
+   "name": "Joseph Pedro Gonzalez",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1794682042,
+   "photo": "photos/POR_GONZALEZ_JOSEPH_2026-11-13.jpg"
+  },
   {
    "key": "MAD_ROWLES_BRITTANY_2026-11-14",
    "name": "Brittany Lou-Ann Rowles",
@@ -3016,17 +3049,6 @@
    "more": 0,
    "ts": 1794430061,
    "photo": "photos/POR_ROBINSON_CHRISTOPHER_2026-11-10.jpg"
-  },
-  {
-   "key": "ALL_ELDER_ALEXANDRA_2026-11-11",
-   "name": "Alexandra Elder",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving The Scene Of A Crash - Property Damage",
-   "more": 3,
-   "ts": 1794422838,
-   "photo": "photos/ALL_ELDER_ALEXANDRA_2026-11-11.jpg"
   }
  ]
 }
