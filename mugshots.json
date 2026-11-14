@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-14T06:47:40+00:00",
+ "updated": "2026-11-14T07:47:47+00:00",
  "items": [
+  {
+   "key": "VAN_ESTERS_HURLEY_2026-11-13",
+   "name": "Hurley Antoine Esters",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Murder- Attempted",
+   "more": 0,
+   "ts": 1794642446,
+   "photo": "photos/VAN_ESTERS_HURLEY_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_RITTENBERRY_GLORIA_2026-11-13",
+   "name": "Gloria Michelle Rittenberry",
+   "age": "49",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Family Offense- Neglect Of Dependant/Child Violations",
+   "more": 0,
+   "ts": 1794642445,
+   "photo": "photos/VAN_RITTENBERRY_GLORIA_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_RAPP_MORGAN_2026-11-14",
+   "name": "Morgan Rapp",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794642441,
+   "photo": "photos/ALL_RAPP_MORGAN_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_LOPEZSANTIZ_EDGAR_2026-11-14",
+   "name": "Edgar Lopezsantiz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794642437,
+   "photo": "photos/ALL_LOPEZSANTIZ_EDGAR_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_RUDD_JETT_2026-11-14",
+   "name": "Jett Rudd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 0,
+   "ts": 1794642432,
+   "photo": "photos/ALL_RUDD_JETT_2026-11-14.jpg"
+  },
   {
    "key": "MAD_WALKER_THOMAS_2026-11-14",
    "name": "Thomas Andrew Walker",
@@ -387,28 +442,6 @@
    "photo": "photos/ALL_SCOTT_KAIDEN_2026-11-13.jpg"
   },
   {
-   "key": "ALL_GEER_TYLER_2026-11-13",
-   "name": "Tyler Geer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794606447,
-   "photo": "photos/ALL_GEER_TYLER_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_GREENHOUSE_ASHLEY_2026-11-13",
-   "name": "Ashley Greenhouse",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing In Methamphetamine",
-   "more": 2,
-   "ts": 1794606443,
-   "photo": "photos/ALL_GREENHOUSE_ASHLEY_2026-11-13.jpg"
-  },
-  {
    "key": "VAN_TOREGANO_ATOKA_2026-11-13",
    "name": "Atoka Christopher Toregano",
    "age": "32",
@@ -429,17 +462,6 @@
    "more": 4,
    "ts": 1794602844,
    "photo": null
-  },
-  {
-   "key": "ALL_OFARROW_GLORIANA_2026-11-13",
-   "name": "Gloriana Ofarrow",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold For Other Jurisdiction",
-   "more": 1,
-   "ts": 1794602843,
-   "photo": "photos/ALL_OFARROW_GLORIANA_2026-11-13.jpg"
   },
   {
    "key": "MAD_HAIGHT_GARRY_2026-11-13",
@@ -506,31 +528,64 @@
    "more": 1,
    "ts": 1794584845,
    "photo": "photos/MAD_HOLLOWAY_BRENTON_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_BALL_DAVID_2026-11-13",
-   "name": "David Eugene Ball",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Parole Violation - Jail Booking",
-   "more": 0,
-   "ts": 1794584843,
-   "photo": "photos/MAD_BALL_DAVID_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_KIRK_TABITHA_2026-11-12",
-   "name": "Tabitha Kristy Kirk",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Possession Cocaine Or Narcotics",
-   "more": 0,
-   "ts": 1794581256,
-   "photo": "photos/POR_KIRK_TABITHA_2026-11-12.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_ESTERS_HURLEY_2026-11-13",
+   "name": "Hurley Antoine Esters",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Murder- Attempted",
+   "more": 0,
+   "ts": 1794642446,
+   "photo": "photos/VAN_ESTERS_HURLEY_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_RITTENBERRY_GLORIA_2026-11-13",
+   "name": "Gloria Michelle Rittenberry",
+   "age": "49",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Family Offense- Neglect Of Dependant/Child Violations",
+   "more": 0,
+   "ts": 1794642445,
+   "photo": "photos/VAN_RITTENBERRY_GLORIA_2026-11-13.jpg"
+  },
+  {
+   "key": "ALL_RAPP_MORGAN_2026-11-14",
+   "name": "Morgan Rapp",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794642441,
+   "photo": "photos/ALL_RAPP_MORGAN_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_LOPEZSANTIZ_EDGAR_2026-11-14",
+   "name": "Edgar Lopezsantiz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794642437,
+   "photo": "photos/ALL_LOPEZSANTIZ_EDGAR_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_RUDD_JETT_2026-11-14",
+   "name": "Jett Rudd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 0,
+   "ts": 1794642432,
+   "photo": "photos/ALL_RUDD_JETT_2026-11-14.jpg"
+  },
   {
    "key": "MAD_WALKER_THOMAS_2026-11-14",
    "name": "Thomas Andrew Walker",
@@ -2884,28 +2939,6 @@
    "more": 0,
    "ts": 1794383299,
    "photo": "photos/MAD_WOLLAM_MADYSON_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_TATE_EDDIE_2026-11-11",
-   "name": "Eddie Tate",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1794383245,
-   "photo": "photos/ALL_TATE_EDDIE_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_PONCIANO_ADOLFO_2026-11-11",
-   "name": "Adolfo Ponciano",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlicense Driver",
-   "more": 0,
-   "ts": 1794383239,
-   "photo": "photos/ALL_PONCIANO_ADOLFO_2026-11-11.jpg"
   }
  ]
 }
