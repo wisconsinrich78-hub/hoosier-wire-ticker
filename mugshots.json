@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:47:47+00:00",
+ "updated": "2026-11-14T07:50:42+00:00",
  "items": [
   {
    "key": "VAN_ESTERS_HURLEY_2026-11-13",
@@ -2928,17 +2928,6 @@
    "more": 0,
    "ts": 1794386840,
    "photo": "photos/ALL_CONRAD_CALEB_2026-11-11.jpg"
-  },
-  {
-   "key": "MAD_WOLLAM_MADYSON_2026-11-11",
-   "name": "Madyson Elexis Wollam",
-   "age": "23",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794383299,
-   "photo": "photos/MAD_WOLLAM_MADYSON_2026-11-11.jpg"
   }
  ]
 }
