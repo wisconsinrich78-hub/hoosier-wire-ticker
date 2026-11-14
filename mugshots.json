@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-14T22:47:39+00:00",
+ "updated": "2026-11-14T23:47:46+00:00",
  "items": [
+  {
+   "key": "MAD_JENNINGS_TANDRE_2026-11-14",
+   "name": "T'Andre Jesse Gerald Jennings",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Rle",
+   "more": 1,
+   "ts": 1794700057,
+   "photo": "photos/MAD_JENNINGS_TANDRE_2026-11-14.jpg"
+  },
+  {
+   "key": "MAD_JENNINGS_LEVI_2026-11-14",
+   "name": "Levi Robert Jennings",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794700056,
+   "photo": "photos/MAD_JENNINGS_LEVI_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_MCGEE_JERRY_2026-11-13",
+   "name": "Jerry Lamar Mcgee",
+   "age": "63",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Prior Conviction",
+   "more": 4,
+   "ts": 1794700049,
+   "photo": "photos/POR_MCGEE_JERRY_2026-11-13.jpg"
+  },
+  {
+   "key": "VAN_TUCKER_KAREY_2026-11-14",
+   "name": "Karey Marie Tucker",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794700046,
+   "photo": "photos/VAN_TUCKER_KAREY_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_DILLWORTH_JAMIE_2026-11-14",
+   "name": "Jamie Lynn Dillworth",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 1,
+   "ts": 1794700045,
+   "photo": "photos/VAN_DILLWORTH_JAMIE_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_COKER_ANDREA_2026-11-14",
+   "name": "Andrea Coker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794700041,
+   "photo": "photos/ALL_COKER_ANDREA_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_MURDAY_JERRY_2026-11-14",
+   "name": "Jerry Murday",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1794700037,
+   "photo": "photos/ALL_MURDAY_JERRY_2026-11-14.jpg"
+  },
   {
    "key": "MAD_STOHLER_DEBBIE_2026-11-14",
    "name": "Debbie Lynn Stohler",
@@ -451,86 +528,86 @@
    "more": 1,
    "ts": 1794642441,
    "photo": "photos/ALL_RAPP_MORGAN_2026-11-14.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "ALL_LOPEZSANTIZ_EDGAR_2026-11-14",
-   "name": "Edgar Lopezsantiz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794642437,
-   "photo": "photos/ALL_LOPEZSANTIZ_EDGAR_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_RUDD_JETT_2026-11-14",
-   "name": "Jett Rudd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1794642432,
-   "photo": "photos/ALL_RUDD_JETT_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_WALKER_THOMAS_2026-11-14",
-   "name": "Thomas Andrew Walker",
-   "age": "22",
+   "key": "MAD_JENNINGS_TANDRE_2026-11-14",
+   "name": "T'Andre Jesse Gerald Jennings",
+   "age": "26",
    "county": "Madison County",
    "region": "central",
-   "charge": "Operating with controlled substance in body",
-   "more": 0,
-   "ts": 1794638855,
-   "photo": "photos/MAD_WALKER_THOMAS_2026-11-14.jpg"
+   "charge": "Rle",
+   "more": 1,
+   "ts": 1794700057,
+   "photo": "photos/MAD_JENNINGS_TANDRE_2026-11-14.jpg"
   },
   {
-   "key": "MAD_EVANS_JASON_2026-11-14",
-   "name": "Jason L Evans",
-   "age": "51",
+   "key": "MAD_JENNINGS_LEVI_2026-11-14",
+   "name": "Levi Robert Jennings",
+   "age": "39",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1794638849,
-   "photo": null
+   "ts": 1794700056,
+   "photo": "photos/MAD_JENNINGS_LEVI_2026-11-14.jpg"
   },
   {
-   "key": "POR_HOSKINS_SHAMON_2026-11-13",
-   "name": "Shamon Kelly Hoskins",
-   "age": "18",
+   "key": "POR_MCGEE_JERRY_2026-11-13",
+   "name": "Jerry Lamar Mcgee",
+   "age": "63",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "Public Administration- Resisting Law Enforcement",
-   "more": 0,
-   "ts": 1794638843,
-   "photo": "photos/POR_HOSKINS_SHAMON_2026-11-13.jpg"
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Prior Conviction",
+   "more": 4,
+   "ts": 1794700049,
+   "photo": "photos/POR_MCGEE_JERRY_2026-11-13.jpg"
   },
   {
-   "key": "POR_GONZALEZ_GIOVANNI_2026-11-13",
-   "name": "Giovanni Gonzalez",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Public Administration- Resisting Law Enforcement",
-   "more": 0,
-   "ts": 1794638841,
-   "photo": "photos/POR_GONZALEZ_GIOVANNI_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_FARR_ANDREW_2026-11-13",
-   "name": "Andrew Alexander Farr",
-   "age": "33",
+   "key": "VAN_TUCKER_KAREY_2026-11-14",
+   "name": "Karey Marie Tucker",
+   "age": "42",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794700046,
+   "photo": "photos/VAN_TUCKER_KAREY_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_DILLWORTH_JAMIE_2026-11-14",
+   "name": "Jamie Lynn Dillworth",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
    "more": 1,
-   "ts": 1794638838,
-   "photo": "photos/VAN_FARR_ANDREW_2026-11-13.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1794700045,
+   "photo": "photos/VAN_DILLWORTH_JAMIE_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_COKER_ANDREA_2026-11-14",
+   "name": "Andrea Coker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794700041,
+   "photo": "photos/ALL_COKER_ANDREA_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_MURDAY_JERRY_2026-11-14",
+   "name": "Jerry Murday",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1794700037,
+   "photo": "photos/ALL_MURDAY_JERRY_2026-11-14.jpg"
+  },
   {
    "key": "MAD_STOHLER_DEBBIE_2026-11-14",
    "name": "Debbie Lynn Stohler",
@@ -2807,50 +2884,6 @@
    "more": 0,
    "ts": 1794444440,
    "photo": "photos/VAN_SMITH_MARY_2026-11-11.jpg"
-  },
-  {
-   "key": "POR_STEELE_JAMES_2026-11-10",
-   "name": "James Bernard Steele",
-   "age": "54",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Driving While Suspended",
-   "more": 2,
-   "ts": 1794440851,
-   "photo": "photos/POR_STEELE_JAMES_2026-11-10.jpg"
-  },
-  {
-   "key": "VAN_CLARK_CODY_2026-11-11",
-   "name": "Cody Allen Clark",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794440845,
-   "photo": "photos/VAN_CLARK_CODY_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_MERIWETHER_DONNITA_2026-11-11",
-   "name": "Donnita Leshay Meriwether",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794440843,
-   "photo": "photos/VAN_MERIWETHER_DONNITA_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_QUARLES_KEION_2026-11-11",
-   "name": "Keion Lamar Quarles",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
-   "more": 0,
-   "ts": 1794440841,
-   "photo": "photos/VAN_QUARLES_KEION_2026-11-11.jpg"
   }
  ]
 }
