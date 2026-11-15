@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-15T00:47:42+00:00",
+ "updated": "2026-11-15T01:47:46+00:00",
  "items": [
+  {
+   "key": "POR_STRONG_HEAVENLY_2026-11-14",
+   "name": "Heavenly Sharay Strong",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 0,
+   "ts": 1794707243,
+   "photo": "photos/POR_STRONG_HEAVENLY_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_HARDIN_KENNETH_2026-11-14",
+   "name": "Kenneth James Hardin",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 0,
+   "ts": 1794707242,
+   "photo": "photos/POR_HARDIN_KENNETH_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_DINKINS_TYQUAIN_2026-11-14",
+   "name": "Tyquain Dwaine Dinkins",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
+   "more": 3,
+   "ts": 1794707239,
+   "photo": "photos/POR_DINKINS_TYQUAIN_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_WILDER_DAMIEN_2026-11-14",
+   "name": "Damien Dewayne Wilder",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Mischief [Bm]",
+   "more": 2,
+   "ts": 1794707236,
+   "photo": "photos/VAN_WILDER_DAMIEN_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_FORD_CHASITY_2026-11-14",
+   "name": "Chasity Lenae Ford",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Forgery",
+   "more": 0,
+   "ts": 1794707235,
+   "photo": "photos/VAN_FORD_CHASITY_2026-11-14.jpg"
+  },
   {
    "key": "ALL_COLEMAN_TIFFINEY_2026-11-14",
    "name": "Tiffiney Coleman",
@@ -473,64 +528,64 @@
    "more": 0,
    "ts": 1794646048,
    "photo": "photos/MAD_BURGET_JOSEPH_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_FOSNAUGH_JANICE_2026-11-14",
-   "name": "Janice Fosnaugh",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794646041,
-   "photo": "photos/ALL_FOSNAUGH_JANICE_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_YANCEY_CHARLES_2026-11-14",
-   "name": "Charles Yancey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794646036,
-   "photo": null
-  },
-  {
-   "key": "ALL_BROWN_DAMIAN_2026-11-14",
-   "name": "Damian Brown",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 1,
-   "ts": 1794646032,
-   "photo": "photos/ALL_BROWN_DAMIAN_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_ESTERS_HURLEY_2026-11-13",
-   "name": "Hurley Antoine Esters",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Murder- Attempted",
-   "more": 0,
-   "ts": 1794642446,
-   "photo": "photos/VAN_ESTERS_HURLEY_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_RITTENBERRY_GLORIA_2026-11-13",
-   "name": "Gloria Michelle Rittenberry",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Family Offense- Neglect of Dependant/Child Violations",
-   "more": 0,
-   "ts": 1794642445,
-   "photo": "photos/VAN_RITTENBERRY_GLORIA_2026-11-13.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_STRONG_HEAVENLY_2026-11-14",
+   "name": "Heavenly Sharay Strong",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 0,
+   "ts": 1794707243,
+   "photo": "photos/POR_STRONG_HEAVENLY_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_HARDIN_KENNETH_2026-11-14",
+   "name": "Kenneth James Hardin",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 0,
+   "ts": 1794707242,
+   "photo": "photos/POR_HARDIN_KENNETH_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_DINKINS_TYQUAIN_2026-11-14",
+   "name": "Tyquain Dwaine Dinkins",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
+   "more": 3,
+   "ts": 1794707239,
+   "photo": "photos/POR_DINKINS_TYQUAIN_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_WILDER_DAMIEN_2026-11-14",
+   "name": "Damien Dewayne Wilder",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Mischief [Bm]",
+   "more": 2,
+   "ts": 1794707236,
+   "photo": "photos/VAN_WILDER_DAMIEN_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_FORD_CHASITY_2026-11-14",
+   "name": "Chasity Lenae Ford",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Forgery",
+   "more": 0,
+   "ts": 1794707235,
+   "photo": "photos/VAN_FORD_CHASITY_2026-11-14.jpg"
+  },
   {
    "key": "ALL_COLEMAN_TIFFINEY_2026-11-14",
    "name": "Tiffiney Coleman",
@@ -2839,28 +2894,6 @@
    "charge": "Public Intoxication",
    "more": 1,
    "ts": 1794451642,
-   "photo": null
-  },
-  {
-   "key": "VAN_CRITCHFIELD_CAMDYN_2026-11-11",
-   "name": "Camdyn Rayne Critchfield",
-   "age": "17",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794448042,
-   "photo": "photos/VAN_CRITCHFIELD_CAMDYN_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_BRUCE_RYAN_2026-11-11",
-   "name": "Ryan Anthony Bruce",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 1,
-   "ts": 1794448039,
    "photo": null
   }
  ]
