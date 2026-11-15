@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-15T10:47:23+00:00",
+ "updated": "2026-11-15T11:47:41+00:00",
  "items": [
+  {
+   "key": "MAD_HAMMOND_JUSTIN_2026-11-15",
+   "name": "Justin Matthew Hammond",
+   "age": "40",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794743250,
+   "photo": "photos/MAD_HAMMOND_JUSTIN_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_STONE_CHARLES_2026-11-15",
+   "name": "Charles Xander Stone",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
+   "more": 1,
+   "ts": 1794743241,
+   "photo": "photos/VAN_STONE_CHARLES_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_SHEVCHENKO_MARK_2026-11-15",
+   "name": "Mark Nikolaevcih Shevchenko",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
+   "more": 0,
+   "ts": 1794743238,
+   "photo": "photos/VAN_SHEVCHENKO_MARK_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_GREEN_PASHINAY_2026-11-15",
+   "name": "Pashinay Patrizia Green",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Obstruction of Justice",
+   "more": 5,
+   "ts": 1794743237,
+   "photo": "photos/VAN_GREEN_PASHINAY_2026-11-15.jpg"
+  },
   {
    "key": "MAD_ANDERSON_TREVOR_2026-11-15",
    "name": "Trevor Wayne Anderson",
@@ -484,53 +528,53 @@
    "more": 0,
    "ts": 1794692842,
    "photo": "photos/ALL_MCCALL_RAPHAEL_2026-11-14.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "ALL_JOHNSON_ELIJAH_2026-11-14",
-   "name": "Elijah Johnson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "False Identity Statement",
-   "more": 1,
-   "ts": 1794692837,
-   "photo": "photos/ALL_JOHNSON_ELIJAH_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_LOWE_ALEXANDER_2026-11-14",
-   "name": "Alexander Christopher Lowe",
-   "age": "19",
+   "key": "MAD_HAMMOND_JUSTIN_2026-11-15",
+   "name": "Justin Matthew Hammond",
+   "age": "40",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1794689249,
-   "photo": null
+   "ts": 1794743250,
+   "photo": "photos/MAD_HAMMOND_JUSTIN_2026-11-15.jpg"
   },
   {
-   "key": "POR_SCHWING_COLIN_2026-11-13",
-   "name": "Colin Ford Schwing",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794685630,
-   "photo": "photos/POR_SCHWING_COLIN_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_SELIGER_RYAN_2026-11-13",
-   "name": "Ryan Keith Seliger",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
+   "key": "VAN_STONE_CHARLES_2026-11-15",
+   "name": "Charles Xander Stone",
+   "age": "20",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
    "more": 1,
-   "ts": 1794682047,
-   "photo": "photos/POR_SELIGER_RYAN_2026-11-13.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1794743241,
+   "photo": "photos/VAN_STONE_CHARLES_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_SHEVCHENKO_MARK_2026-11-15",
+   "name": "Mark Nikolaevcih Shevchenko",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
+   "more": 0,
+   "ts": 1794743238,
+   "photo": "photos/VAN_SHEVCHENKO_MARK_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_GREEN_PASHINAY_2026-11-15",
+   "name": "Pashinay Patrizia Green",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Obstruction of Justice",
+   "more": 5,
+   "ts": 1794743237,
+   "photo": "photos/VAN_GREEN_PASHINAY_2026-11-15.jpg"
+  },
   {
    "key": "MAD_ANDERSON_TREVOR_2026-11-15",
    "name": "Trevor Wayne Anderson",
