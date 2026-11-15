@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T16:47:21+00:00",
+ "updated": "2026-11-15T17:33:15+00:00",
  "items": [
   {
    "key": "ALL_NIEMEYER_JESSIE_2026-11-15",
@@ -2961,28 +2961,6 @@
    "more": 0,
    "ts": 1794505630,
    "photo": "photos/ALL_HUTCHISON_DANIEL_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_FREYTAG_JAMES_2026-11-12",
-   "name": "James Marion Junior Freytag",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794502046,
-   "photo": "photos/MAD_FREYTAG_JAMES_2026-11-12.jpg"
-  },
-  {
-   "key": "POR_GARZA_ANGELO_2026-11-11",
-   "name": "Angelo Miguel Garza",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10\u2026",
-   "more": 0,
-   "ts": 1794502042,
-   "photo": "photos/POR_GARZA_ANGELO_2026-11-11.jpg"
   }
  ]
 }
