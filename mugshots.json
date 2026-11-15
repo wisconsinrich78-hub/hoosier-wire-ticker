@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-15T04:47:56+00:00",
+ "updated": "2026-11-15T05:47:35+00:00",
  "items": [
+  {
+   "key": "VAN_MAY_CHRISTOPHER_2026-11-14",
+   "name": "Christopher Allen May",
+   "age": "64",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 1,
+   "ts": 1794721641,
+   "photo": "photos/VAN_MAY_CHRISTOPHER_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_CLAIR_JAMES_2026-11-14",
+   "name": "James Saint Clair",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794721640,
+   "photo": "photos/VAN_CLAIR_JAMES_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_TIFFT_ELLIOT_2026-11-14",
+   "name": "Elliot Tifft",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1794721636,
+   "photo": "photos/ALL_TIFFT_ELLIOT_2026-11-14.jpg"
+  },
   {
    "key": "POR_MILLER_BROOKLYN_2026-11-14",
    "name": "Brooklyn Storm Miller",
@@ -495,42 +528,42 @@
    "more": 3,
    "ts": 1794664030,
    "photo": "photos/ALL_LAPSLEY_JONIYAH_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_COZART_ANJALINA_2026-11-14",
-   "name": "Anjalina Lynn Cozart",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 3,
-   "ts": 1794660432,
-   "photo": "photos/VAN_COZART_ANJALINA_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_LAX_ANDREW_2026-11-14",
-   "name": "Andrew David Lax",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
-   "more": 1,
-   "ts": 1794656832,
-   "photo": "photos/VAN_LAX_ANDREW_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_GOODMAN_JONAE_2026-11-14",
-   "name": "Jonae Essence Goodman",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
-   "more": 2,
-   "ts": 1794656831,
-   "photo": "photos/VAN_GOODMAN_JONAE_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_MAY_CHRISTOPHER_2026-11-14",
+   "name": "Christopher Allen May",
+   "age": "64",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 1,
+   "ts": 1794721641,
+   "photo": "photos/VAN_MAY_CHRISTOPHER_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_CLAIR_JAMES_2026-11-14",
+   "name": "James Saint Clair",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794721640,
+   "photo": "photos/VAN_CLAIR_JAMES_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_TIFFT_ELLIOT_2026-11-14",
+   "name": "Elliot Tifft",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1794721636,
+   "photo": "photos/ALL_TIFFT_ELLIOT_2026-11-14.jpg"
+  },
   {
    "key": "POR_MILLER_BROOKLYN_2026-11-14",
    "name": "Brooklyn Storm Miller",
@@ -2873,17 +2906,6 @@
    "more": 1,
    "ts": 1794466039,
    "photo": "photos/ALL_MORGAN_RODQUELLE_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_RASH_CRAIG_2026-11-11",
-   "name": "Craig Rash",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794462434,
-   "photo": "photos/ALL_RASH_CRAIG_2026-11-11.jpg"
   }
  ]
 }
