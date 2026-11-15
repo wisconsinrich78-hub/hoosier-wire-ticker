@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-15T12:47:38+00:00",
+ "updated": "2026-11-15T13:47:45+00:00",
  "items": [
+  {
+   "key": "VAN_FISHER_CORBIN_2026-11-15",
+   "name": "Corbin Markel Fisher",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794750441,
+   "photo": "photos/VAN_FISHER_CORBIN_2026-11-15.jpg"
+  },
+  {
+   "key": "ALL_GUTIERREZ_AMY_2026-11-15",
+   "name": "Amy Gutierrez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794750437,
+   "photo": "photos/ALL_GUTIERREZ_AMY_2026-11-15.jpg"
+  },
   {
    "key": "VAN_BURDEN_HANNAH_2026-11-15",
    "name": "Hannah Marie Burden",
@@ -420,17 +442,6 @@
    "photo": "photos/VAN_WILDER_DAMIEN_2026-11-14.jpg"
   },
   {
-   "key": "VAN_FORD_CHASITY_2026-11-14",
-   "name": "Chasity Lenae Ford",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Forgery",
-   "more": 0,
-   "ts": 1794707235,
-   "photo": "photos/VAN_FORD_CHASITY_2026-11-14.jpg"
-  },
-  {
    "key": "ALL_COLEMAN_TIFFINEY_2026-11-14",
    "name": "Tiffiney Coleman",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 2,
    "ts": 1794692846,
    "photo": "photos/POR_KOPF_JON_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_MCCALL_RAPHAEL_2026-11-14",
-   "name": "Raphael Mccall",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794692842,
-   "photo": "photos/ALL_MCCALL_RAPHAEL_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_FISHER_CORBIN_2026-11-15",
+   "name": "Corbin Markel Fisher",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794750441,
+   "photo": "photos/VAN_FISHER_CORBIN_2026-11-15.jpg"
+  },
+  {
+   "key": "ALL_GUTIERREZ_AMY_2026-11-15",
+   "name": "Amy Gutierrez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794750437,
+   "photo": "photos/ALL_GUTIERREZ_AMY_2026-11-15.jpg"
+  },
   {
    "key": "VAN_BURDEN_HANNAH_2026-11-15",
    "name": "Hannah Marie Burden",
@@ -2994,39 +3016,6 @@
    "more": 2,
    "ts": 1794494835,
    "photo": "photos/ALL_MARTINEZ_MELODY_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_CARSON_HALEY_2026-11-12",
-   "name": "Haley Marie Carson",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794491233,
-   "photo": "photos/MAD_CARSON_HALEY_2026-11-12.jpg"
-  },
-  {
-   "key": "POR_MUSGRAVE_DAMON_2026-11-11",
-   "name": "Damon Richard Musgrave",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1794491230,
-   "photo": "photos/POR_MUSGRAVE_DAMON_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_ESTRADA_JAYCE_2026-11-12",
-   "name": "Jayce Lauryn Estrada",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
-   "more": 0,
-   "ts": 1794491227,
-   "photo": "photos/VAN_ESTRADA_JAYCE_2026-11-12.jpg"
   }
  ]
 }
