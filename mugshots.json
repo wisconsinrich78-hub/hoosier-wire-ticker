@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-15T11:47:41+00:00",
+ "updated": "2026-11-15T12:47:38+00:00",
  "items": [
+  {
+   "key": "VAN_BURDEN_HANNAH_2026-11-15",
+   "name": "Hannah Marie Burden",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 3,
+   "ts": 1794746831,
+   "photo": "photos/VAN_BURDEN_HANNAH_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_ANWEL_BENJAMIN_2026-11-15",
+   "name": "Benjamin Arata Anwel",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 2,
+   "ts": 1794746830,
+   "photo": "photos/VAN_ANWEL_BENJAMIN_2026-11-15.jpg"
+  },
   {
    "key": "MAD_HAMMOND_JUSTIN_2026-11-15",
    "name": "Justin Matthew Hammond",
@@ -453,28 +475,6 @@
    "photo": "photos/POR_MCGEE_JERRY_2026-11-13.jpg"
   },
   {
-   "key": "VAN_TUCKER_KAREY_2026-11-14",
-   "name": "Karey Marie Tucker",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794700046,
-   "photo": "photos/VAN_TUCKER_KAREY_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_DILLWORTH_JAMIE_2026-11-14",
-   "name": "Jamie Lynn Dillworth",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 1,
-   "ts": 1794700045,
-   "photo": "photos/VAN_DILLWORTH_JAMIE_2026-11-14.jpg"
-  },
-  {
    "key": "ALL_COKER_ANDREA_2026-11-14",
    "name": "Andrea Coker",
    "age": "",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BURDEN_HANNAH_2026-11-15",
+   "name": "Hannah Marie Burden",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 3,
+   "ts": 1794746831,
+   "photo": "photos/VAN_BURDEN_HANNAH_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_ANWEL_BENJAMIN_2026-11-15",
+   "name": "Benjamin Arata Anwel",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 2,
+   "ts": 1794746830,
+   "photo": "photos/VAN_ANWEL_BENJAMIN_2026-11-15.jpg"
+  },
   {
    "key": "MAD_HAMMOND_JUSTIN_2026-11-15",
    "name": "Justin Matthew Hammond",
