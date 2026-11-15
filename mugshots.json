@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-15T17:47:37+00:00",
+ "updated": "2026-11-15T18:47:42+00:00",
  "items": [
+  {
+   "key": "ALL_JOHNSON_ANTHONY_2026-11-15",
+   "name": "Anthony Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion of Privacy",
+   "more": 0,
+   "ts": 1794768439,
+   "photo": "photos/ALL_JOHNSON_ANTHONY_2026-11-15.jpg"
+  },
   {
    "key": "POR_STONER_DENNIS_2026-11-14",
    "name": "Dennis Keith Stoner",
@@ -517,20 +528,20 @@
    "more": 4,
    "ts": 1794700049,
    "photo": "photos/POR_MCGEE_JERRY_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_COKER_ANDREA_2026-11-14",
-   "name": "Andrea Coker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794700041,
-   "photo": "photos/ALL_COKER_ANDREA_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_JOHNSON_ANTHONY_2026-11-15",
+   "name": "Anthony Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion of Privacy",
+   "more": 0,
+   "ts": 1794768439,
+   "photo": "photos/ALL_JOHNSON_ANTHONY_2026-11-15.jpg"
+  },
   {
    "key": "POR_STONER_DENNIS_2026-11-14",
    "name": "Dennis Keith Stoner",
@@ -2895,28 +2906,6 @@
    "more": 0,
    "ts": 1794512838,
    "photo": "photos/VAN_WATSON_MAURICE_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_WILEY_KELI_2026-11-12",
-   "name": "Keli Marie Wiley",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Return to County Jail Per Court Order - Jail Bookings",
-   "more": 0,
-   "ts": 1794509241,
-   "photo": "photos/MAD_WILEY_KELI_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_ANGELESPARZA_CRISTIAN_2026-11-12",
-   "name": "Cristian Angelesparza",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794509231,
-   "photo": "photos/ALL_ANGELESPARZA_CRISTIAN_2026-11-12.jpg"
   }
  ]
 }
