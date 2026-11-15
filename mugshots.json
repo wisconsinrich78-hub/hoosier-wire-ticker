@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-15T22:58:25+00:00",
+ "updated": "2026-11-15T23:47:39+00:00",
  "items": [
+  {
+   "key": "POR_BENNETT_PORTIA_2026-11-14",
+   "name": "Portia Lynn Bennett",
+   "age": "34",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery Felony 6",
+   "more": 0,
+   "ts": 1794786433,
+   "photo": "photos/POR_BENNETT_PORTIA_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_CURRY_JORDAN_2026-11-15",
+   "name": "Jordan Curry",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft Shoplifting",
+   "more": 2,
+   "ts": 1794786429,
+   "photo": null
+  },
   {
    "key": "POR_FORTNER_BERNARD_2026-11-14",
    "name": "Bernard Leslie Fortner",
@@ -431,17 +453,6 @@
    "photo": "photos/ALL_MUNEIO_JENNIFER_2026-11-15.jpg"
   },
   {
-   "key": "ALL_SMITH_CHANEL_2026-11-15",
-   "name": "Chanel Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794728833,
-   "photo": "photos/ALL_SMITH_CHANEL_2026-11-15.jpg"
-  },
-  {
    "key": "VAN_MAY_CHRISTOPHER_2026-11-14",
    "name": "Christopher Allen May",
    "age": "64",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794707243,
    "photo": "photos/POR_STRONG_HEAVENLY_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_HARDIN_KENNETH_2026-11-14",
-   "name": "Kenneth James Hardin",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 0,
-   "ts": 1794707242,
-   "photo": "photos/POR_HARDIN_KENNETH_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_BENNETT_PORTIA_2026-11-14",
+   "name": "Portia Lynn Bennett",
+   "age": "34",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery Felony 6",
+   "more": 0,
+   "ts": 1794786433,
+   "photo": "photos/POR_BENNETT_PORTIA_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_CURRY_JORDAN_2026-11-15",
+   "name": "Jordan Curry",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft Shoplifting",
+   "more": 2,
+   "ts": 1794786429,
+   "photo": null
+  },
   {
    "key": "POR_FORTNER_BERNARD_2026-11-14",
    "name": "Bernard Leslie Fortner",
@@ -2840,39 +2862,6 @@
    "more": 0,
    "ts": 1794530839,
    "photo": "photos/ALL_RADFORD_CLARENCE_2026-11-12.jpg"
-  },
-  {
-   "key": "MAD_CURRIE_MICHAEL_2026-11-12",
-   "name": "Michael D Currie",
-   "age": "66",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794527247,
-   "photo": "photos/MAD_CURRIE_MICHAEL_2026-11-12.jpg"
-  },
-  {
-   "key": "VAN_YOUNG_DAMAR_2026-11-12",
-   "name": "Damar Rashad Young",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 1,
-   "ts": 1794527243,
-   "photo": "photos/VAN_YOUNG_DAMAR_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_CLOUS_CLARENCE_2026-11-12",
-   "name": "Clarence Clous",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 1,
-   "ts": 1794527231,
-   "photo": null
   }
  ]
 }
