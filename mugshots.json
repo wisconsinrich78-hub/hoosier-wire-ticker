@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-15T01:47:46+00:00",
+ "updated": "2026-11-15T02:47:43+00:00",
  "items": [
+  {
+   "key": "VAN_TAPP_DESIREE_2026-11-14",
+   "name": "Desiree Irene Tapp",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1794710854,
+   "photo": "photos/VAN_TAPP_DESIREE_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_NORTH_MICHELLE_2026-11-14",
+   "name": "Michelle Lynn North",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 0,
+   "ts": 1794710853,
+   "photo": "photos/VAN_NORTH_MICHELLE_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_JAMES_BRETT_2026-11-14",
+   "name": "Brett Michael James",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Invasion of Privacy",
+   "more": 0,
+   "ts": 1794710851,
+   "photo": "photos/POR_JAMES_BRETT_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_SERRATORUIZ_JUAN_2026-11-14",
+   "name": "Juan Serrato-Ruiz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1794710841,
+   "photo": "photos/ALL_SERRATORUIZ_JUAN_2026-11-14.jpg"
+  },
   {
    "key": "POR_STRONG_HEAVENLY_2026-11-14",
    "name": "Heavenly Sharay Strong",
@@ -484,53 +528,53 @@
    "more": 0,
    "ts": 1794649649,
    "photo": "photos/MAD_CAMPBELL_AUTUMN_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_CASTER_DAVID_2026-11-13",
-   "name": "David Bryan Caster",
-   "age": "61",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794649643,
-   "photo": "photos/POR_CASTER_DAVID_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_SCOTT_ROBERT_2026-11-13",
-   "name": "Robert Lewis Scott",
-   "age": "58",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794649640,
-   "photo": "photos/POR_SCOTT_ROBERT_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_YA_ZAKI_2026-11-14",
-   "name": "Zaki Ya",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 1,
-   "ts": 1794649636,
-   "photo": "photos/ALL_YA_ZAKI_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_BURGET_JOSEPH_2026-11-14",
-   "name": "Joseph Alan Burget",
-   "age": "50",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794646048,
-   "photo": "photos/MAD_BURGET_JOSEPH_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_TAPP_DESIREE_2026-11-14",
+   "name": "Desiree Irene Tapp",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1794710854,
+   "photo": "photos/VAN_TAPP_DESIREE_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_NORTH_MICHELLE_2026-11-14",
+   "name": "Michelle Lynn North",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 0,
+   "ts": 1794710853,
+   "photo": "photos/VAN_NORTH_MICHELLE_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_JAMES_BRETT_2026-11-14",
+   "name": "Brett Michael James",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Invasion of Privacy",
+   "more": 0,
+   "ts": 1794710851,
+   "photo": "photos/POR_JAMES_BRETT_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_SERRATORUIZ_JUAN_2026-11-14",
+   "name": "Juan Serrato-Ruiz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1794710841,
+   "photo": "photos/ALL_SERRATORUIZ_JUAN_2026-11-14.jpg"
+  },
   {
    "key": "POR_STRONG_HEAVENLY_2026-11-14",
    "name": "Heavenly Sharay Strong",
@@ -2873,28 +2917,6 @@
    "more": 0,
    "ts": 1794455234,
    "photo": "photos/VAN_POUST_ALEXUS_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_MOSLEY_KATELYNN_2026-11-11",
-   "name": "Katelynn Marie Mosley",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794451649,
-   "photo": "photos/VAN_MOSLEY_KATELYNN_2026-11-11.jpg"
-  },
-  {
-   "key": "ALL_SCOTT_JAYDEN_2026-11-11",
-   "name": "Jayden Scott",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 1,
-   "ts": 1794451642,
-   "photo": null
   }
  ]
 }
