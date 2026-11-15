@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-15T19:47:40+00:00",
+ "updated": "2026-11-15T20:47:44+00:00",
  "items": [
+  {
+   "key": "POR_FUENTES_JASON_2026-11-14",
+   "name": "Jason Seferino Sanchez Fuentes",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 2,
+   "ts": 1794775644,
+   "photo": "photos/POR_FUENTES_JASON_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_MAZIKOSKE_CHRISTAIN_2026-11-15",
+   "name": "Christain Joshua-James Mazikoske",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor",
+   "more": 0,
+   "ts": 1794775640,
+   "photo": null
+  },
+  {
+   "key": "VAN_BURGE_JESSICA_2026-11-15",
+   "name": "Jessica Lorraine Burge",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794775639,
+   "photo": null
+  },
+  {
+   "key": "ALL_ABERCROMBIE_MARQUIS_2026-11-15",
+   "name": "Marquis Abercrombie",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794775638,
+   "photo": "photos/ALL_ABERCROMBIE_MARQUIS_2026-11-15.jpg"
+  },
+  {
+   "key": "ALL_YATES_NICKOLAS_2026-11-15",
+   "name": "Nickolas Yates",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Prior Unrelated Conviction for Battery Against\u2026",
+   "more": 1,
+   "ts": 1794775634,
+   "photo": "photos/ALL_YATES_NICKOLAS_2026-11-15.jpg"
+  },
   {
    "key": "POR_ZULEGER_ADAM_2026-11-14",
    "name": "Adam Michael Zuleger",
@@ -409,17 +464,6 @@
    "photo": "photos/ALL_GEISLEMAN_TERIANN_2026-11-14.jpg"
   },
   {
-   "key": "ALL_LEMASTER_MATTHEW_2026-11-14",
-   "name": "Matthew Lemaster",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 1,
-   "ts": 1794718040,
-   "photo": "photos/ALL_LEMASTER_MATTHEW_2026-11-14.jpg"
-  },
-  {
    "key": "POR_BLACKBURN_JOSEPH_2026-11-14",
    "name": "Joseph Hunter Blackburn",
    "age": "24",
@@ -431,28 +475,6 @@
    "photo": "photos/POR_BLACKBURN_JOSEPH_2026-11-14.jpg"
   },
   {
-   "key": "VAN_TAPP_DESIREE_2026-11-14",
-   "name": "Desiree Irene Tapp",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1794710854,
-   "photo": "photos/VAN_TAPP_DESIREE_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_NORTH_MICHELLE_2026-11-14",
-   "name": "Michelle Lynn North",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 0,
-   "ts": 1794710853,
-   "photo": "photos/VAN_NORTH_MICHELLE_2026-11-14.jpg"
-  },
-  {
    "key": "POR_JAMES_BRETT_2026-11-14",
    "name": "Brett Michael James",
    "age": "37",
@@ -462,17 +484,6 @@
    "more": 0,
    "ts": 1794710851,
    "photo": "photos/POR_JAMES_BRETT_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_SERRATORUIZ_JUAN_2026-11-14",
-   "name": "Juan Serrato-Ruiz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1794710841,
-   "photo": "photos/ALL_SERRATORUIZ_JUAN_2026-11-14.jpg"
   },
   {
    "key": "POR_STRONG_HEAVENLY_2026-11-14",
@@ -517,20 +528,64 @@
    "more": 1,
    "ts": 1794700057,
    "photo": "photos/MAD_JENNINGS_TANDRE_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_JENNINGS_LEVI_2026-11-14",
-   "name": "Levi Robert Jennings",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794700056,
-   "photo": "photos/MAD_JENNINGS_LEVI_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_FUENTES_JASON_2026-11-14",
+   "name": "Jason Seferino Sanchez Fuentes",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 2,
+   "ts": 1794775644,
+   "photo": "photos/POR_FUENTES_JASON_2026-11-14.jpg"
+  },
+  {
+   "key": "VAN_MAZIKOSKE_CHRISTAIN_2026-11-15",
+   "name": "Christain Joshua-James Mazikoske",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor",
+   "more": 0,
+   "ts": 1794775640,
+   "photo": null
+  },
+  {
+   "key": "VAN_BURGE_JESSICA_2026-11-15",
+   "name": "Jessica Lorraine Burge",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794775639,
+   "photo": null
+  },
+  {
+   "key": "ALL_ABERCROMBIE_MARQUIS_2026-11-15",
+   "name": "Marquis Abercrombie",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794775638,
+   "photo": "photos/ALL_ABERCROMBIE_MARQUIS_2026-11-15.jpg"
+  },
+  {
+   "key": "ALL_YATES_NICKOLAS_2026-11-15",
+   "name": "Nickolas Yates",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Prior Unrelated Conviction for Battery Against\u2026",
+   "more": 1,
+   "ts": 1794775634,
+   "photo": "photos/ALL_YATES_NICKOLAS_2026-11-15.jpg"
+  },
   {
    "key": "POR_ZULEGER_ADAM_2026-11-14",
    "name": "Adam Michael Zuleger",
@@ -2873,28 +2928,6 @@
    "more": 0,
    "ts": 1794520033,
    "photo": "photos/ALL_EDWARDS_JOHN_2026-11-12.jpg"
-  },
-  {
-   "key": "POR_SANCHEZALVAREZ_FERNANDA_2026-11-11",
-   "name": "Fernanda Sanchez-Alvarez",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10\u2026",
-   "more": 0,
-   "ts": 1794516432,
-   "photo": "photos/POR_SANCHEZALVAREZ_FERNANDA_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_ALVEYWILLIAMS_SHAYLA_2026-11-12",
-   "name": "Shayla Zee Alvey-Williams",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1794516430,
-   "photo": "photos/VAN_ALVEYWILLIAMS_SHAYLA_2026-11-12.jpg"
   }
  ]
 }
