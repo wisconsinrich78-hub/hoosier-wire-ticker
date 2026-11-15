@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-15T21:47:56+00:00",
+ "updated": "2026-11-15T22:47:30+00:00",
  "items": [
+  {
+   "key": "POR_FORTNER_BERNARD_2026-11-14",
+   "name": "Bernard Leslie Fortner",
+   "age": "49",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Invasion of Privacy",
+   "more": 0,
+   "ts": 1794782838,
+   "photo": "photos/POR_FORTNER_BERNARD_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_ORIGEL_RICARDO_2026-11-14",
+   "name": "Ricardo Origel",
+   "age": "64",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endangerment",
+   "more": 3,
+   "ts": 1794782835,
+   "photo": "photos/POR_ORIGEL_RICARDO_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_PHILPOT_CURTIS_2026-11-15",
+   "name": "Curtis Philpot",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1794782830,
+   "photo": "photos/ALL_PHILPOT_CURTIS_2026-11-15.jpg"
+  },
   {
    "key": "ALL_WATTS_KEON_2026-11-15",
    "name": "Keon Watts",
@@ -431,17 +464,6 @@
    "photo": "photos/VAN_CLAIR_JAMES_2026-11-14.jpg"
   },
   {
-   "key": "ALL_TIFFT_ELLIOT_2026-11-14",
-   "name": "Elliot Tifft",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794721636,
-   "photo": "photos/ALL_TIFFT_ELLIOT_2026-11-14.jpg"
-  },
-  {
    "key": "POR_MILLER_BROOKLYN_2026-11-14",
    "name": "Brooklyn Storm Miller",
    "age": "30",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1794707242,
    "photo": "photos/POR_HARDIN_KENNETH_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_DINKINS_TYQUAIN_2026-11-14",
-   "name": "Tyquain Dwaine Dinkins",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 3,
-   "ts": 1794707239,
-   "photo": "photos/POR_DINKINS_TYQUAIN_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_JENNINGS_TANDRE_2026-11-14",
-   "name": "T'Andre Jesse Gerald Jennings",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Rle",
-   "more": 1,
-   "ts": 1794700057,
-   "photo": "photos/MAD_JENNINGS_TANDRE_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_FORTNER_BERNARD_2026-11-14",
+   "name": "Bernard Leslie Fortner",
+   "age": "49",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Invasion of Privacy",
+   "more": 0,
+   "ts": 1794782838,
+   "photo": "photos/POR_FORTNER_BERNARD_2026-11-14.jpg"
+  },
+  {
+   "key": "POR_ORIGEL_RICARDO_2026-11-14",
+   "name": "Ricardo Origel",
+   "age": "64",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endangerment",
+   "more": 3,
+   "ts": 1794782835,
+   "photo": "photos/POR_ORIGEL_RICARDO_2026-11-14.jpg"
+  },
+  {
+   "key": "ALL_PHILPOT_CURTIS_2026-11-15",
+   "name": "Curtis Philpot",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1794782830,
+   "photo": "photos/ALL_PHILPOT_CURTIS_2026-11-15.jpg"
+  },
   {
    "key": "ALL_WATTS_KEON_2026-11-15",
    "name": "Keon Watts",
@@ -2862,39 +2895,6 @@
    "more": 0,
    "ts": 1794523651,
    "photo": "photos/VAN_NIMTZ_DENNIS_2026-11-12.jpg"
-  },
-  {
-   "key": "VAN_FLOYD_MELANIE_2026-11-12",
-   "name": "Melanie Ann Floyd",
-   "age": "57",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794523650,
-   "photo": "photos/VAN_FLOYD_MELANIE_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_JONES_MIQUAN_2026-11-12",
-   "name": "Miquan Jones",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 1,
-   "ts": 1794523647,
-   "photo": "photos/ALL_JONES_MIQUAN_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_PAYTON_NATHAN_2026-11-12",
-   "name": "Nathan Payton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail to Register - Prior",
-   "more": 0,
-   "ts": 1794523643,
-   "photo": "photos/ALL_PAYTON_NATHAN_2026-11-12.jpg"
   }
  ]
 }
