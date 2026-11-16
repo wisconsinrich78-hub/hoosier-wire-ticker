@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-16T20:47:49+00:00",
+ "updated": "2026-11-16T21:48:14+00:00",
  "items": [
+  {
+   "key": "VAN_BRANT_EDWARD_2026-11-16",
+   "name": "Edward Thomas Brant",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 1,
+   "ts": 1794865654,
+   "photo": "photos/VAN_BRANT_EDWARD_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_DAVIS_GABRIEL_2026-11-16",
+   "name": "Gabriel Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion of Privacy",
+   "more": 0,
+   "ts": 1794865646,
+   "photo": "photos/ALL_DAVIS_GABRIEL_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_MORRIS_MICHAEL_2026-11-16",
+   "name": "Michael Morris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing in Methamphetamine",
+   "more": 1,
+   "ts": 1794865642,
+   "photo": "photos/ALL_MORRIS_MICHAEL_2026-11-16.jpg"
+  },
   {
    "key": "MAD_WHITESELL_ANDREW_2026-11-16",
    "name": "Andrew Perry Whitesell",
@@ -442,28 +475,6 @@
    "photo": "photos/ALL_PHILPOT_CURTIS_2026-11-15.jpg"
   },
   {
-   "key": "ALL_WATTS_KEON_2026-11-15",
-   "name": "Keon Watts",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Adult Knowing Presence of Child Less Than 16\u2026",
-   "more": 2,
-   "ts": 1794779247,
-   "photo": "photos/ALL_WATTS_KEON_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_GREER_DIAMOND_2026-11-15",
-   "name": "Diamond Greer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Intimidation with a Deadly Weapon",
-   "more": 0,
-   "ts": 1794779242,
-   "photo": "photos/ALL_GREER_DIAMOND_2026-11-15.jpg"
-  },
-  {
    "key": "POR_FUENTES_JASON_2026-11-14",
    "name": "Jason Seferino Sanchez Fuentes",
    "age": "23",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1794764837,
    "photo": "photos/POR_STONER_DENNIS_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_PULLARA_BRIAN_2026-11-15",
-   "name": "Brian Eugene Pullara",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Sex Crime- Child Molest",
-   "more": 0,
-   "ts": 1794754032,
-   "photo": "photos/VAN_PULLARA_BRIAN_2026-11-15.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BRANT_EDWARD_2026-11-16",
+   "name": "Edward Thomas Brant",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 1,
+   "ts": 1794865654,
+   "photo": "photos/VAN_BRANT_EDWARD_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_DAVIS_GABRIEL_2026-11-16",
+   "name": "Gabriel Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion of Privacy",
+   "more": 0,
+   "ts": 1794865646,
+   "photo": "photos/ALL_DAVIS_GABRIEL_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_MORRIS_MICHAEL_2026-11-16",
+   "name": "Michael Morris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing in Methamphetamine",
+   "more": 1,
+   "ts": 1794865642,
+   "photo": "photos/ALL_MORRIS_MICHAEL_2026-11-16.jpg"
+  },
   {
    "key": "MAD_WHITESELL_ANDREW_2026-11-16",
    "name": "Andrew Perry Whitesell",
@@ -2433,116 +2466,6 @@
    "more": 1,
    "ts": 1794610056,
    "photo": "photos/ALL_CODLING_DEVAN_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_WEBB_ROBERT_2026-11-13",
-   "name": "Robert Micheal Webb",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1794606490,
-   "photo": "photos/MAD_WEBB_ROBERT_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_LASWELL_JEFFREY_2026-11-13",
-   "name": "Jeffrey Duane Laswell",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794606486,
-   "photo": "photos/MAD_LASWELL_JEFFREY_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_PERSINGER_JASON_2026-11-13",
-   "name": "Jason Douglas Persinger",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794606473,
-   "photo": "photos/VAN_PERSINGER_JASON_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_WATROUS_MARK_2026-11-13",
-   "name": "Mark Watrous",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt of Court-Civil",
-   "more": 0,
-   "ts": 1794606469,
-   "photo": "photos/ALL_WATROUS_MARK_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_MCDOWELL_ISADORA_2026-11-13",
-   "name": "Isadora Mcdowell",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794606464,
-   "photo": "photos/ALL_MCDOWELL_ISADORA_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_STYTLE_RANDY_2026-11-13",
-   "name": "Randy Stytle",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794606460,
-   "photo": "photos/ALL_STYTLE_RANDY_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_LOPEZ_ALDEN_2026-11-13",
-   "name": "Alden Lopez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 1,
-   "ts": 1794606456,
-   "photo": "photos/ALL_LOPEZ_ALDEN_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_SCOTT_KAIDEN_2026-11-13",
-   "name": "Kaiden Scott",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail to Register - Prior",
-   "more": 0,
-   "ts": 1794606451,
-   "photo": "photos/ALL_SCOTT_KAIDEN_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_GEER_TYLER_2026-11-13",
-   "name": "Tyler Geer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794606447,
-   "photo": "photos/ALL_GEER_TYLER_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_GREENHOUSE_ASHLEY_2026-11-13",
-   "name": "Ashley Greenhouse",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing in Methamphetamine",
-   "more": 2,
-   "ts": 1794606443,
-   "photo": "photos/ALL_GREENHOUSE_ASHLEY_2026-11-13.jpg"
   }
  ]
 }
