@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-16T16:47:33+00:00",
+ "updated": "2026-11-16T17:47:41+00:00",
  "items": [
+  {
+   "key": "VAN_MOTEN_DARIUS_2026-11-16",
+   "name": "Darius Antwine Moten",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 1,
+   "ts": 1794851241,
+   "photo": "photos/VAN_MOTEN_DARIUS_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_THOMAS_ANGELA_2026-11-16",
+   "name": "Angela Dawn Thomas",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft",
+   "more": 0,
+   "ts": 1794851239,
+   "photo": "photos/VAN_THOMAS_ANGELA_2026-11-16.jpg"
+  },
   {
    "key": "ALL_ROBINSON_TIA_2026-11-16",
    "name": "Tia Robinson",
@@ -497,28 +519,6 @@
    "photo": "photos/MAD_ANDERSON_TREVOR_2026-11-15.jpg"
   },
   {
-   "key": "VAN_HURST_JVEON_2026-11-15",
-   "name": "Jveon Braylen Hurst",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1794739639,
-   "photo": null
-  },
-  {
-   "key": "VAN_BATEMAN_JEREMIE_2026-11-15",
-   "name": "Jeremie James Bateman",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
-   "more": 0,
-   "ts": 1794739638,
-   "photo": "photos/VAN_BATEMAN_JEREMIE_2026-11-15.jpg"
-  },
-  {
    "key": "MAD_MARSH_MARCUS_2026-11-15",
    "name": "Marcus Allen Marsh",
    "age": "50",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_MOTEN_DARIUS_2026-11-16",
+   "name": "Darius Antwine Moten",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 1,
+   "ts": 1794851241,
+   "photo": "photos/VAN_MOTEN_DARIUS_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_THOMAS_ANGELA_2026-11-16",
+   "name": "Angela Dawn Thomas",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft",
+   "more": 0,
+   "ts": 1794851239,
+   "photo": "photos/VAN_THOMAS_ANGELA_2026-11-16.jpg"
+  },
   {
    "key": "ALL_ROBINSON_TIA_2026-11-16",
    "name": "Tia Robinson",
@@ -2466,50 +2488,6 @@
    "more": 3,
    "ts": 1794595636,
    "photo": "photos/ALL_MOH_DAWOK_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_POOLE_KIRSTEN_2026-11-13",
-   "name": "Kirsten Ashley Poole",
-   "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1794592042,
-   "photo": "photos/MAD_POOLE_KIRSTEN_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_HARRIS_JAMES_2026-11-13",
-   "name": "James Allan Harris",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1794592040,
-   "photo": "photos/MAD_HARRIS_JAMES_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_BENFIELD_SIERRA_2026-11-13",
-   "name": "Sierra L Benfield",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Probation - Jail Booking",
-   "more": 0,
-   "ts": 1794592037,
-   "photo": null
-  },
-  {
-   "key": "ALL_EBRIGHT_PEGGY_2026-11-13",
-   "name": "Peggy Ebright",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Cocaine or Narcotic Drug",
-   "more": 0,
-   "ts": 1794592031,
-   "photo": "photos/ALL_EBRIGHT_PEGGY_2026-11-13.jpg"
   }
  ]
 }
