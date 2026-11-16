@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-15T23:47:39+00:00",
+ "updated": "2026-11-16T00:47:39+00:00",
  "items": [
+  {
+   "key": "VAN_BROWN_PHILLIP_2026-11-15",
+   "name": "Phillip Michael Brown",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 0,
+   "ts": 1794790040,
+   "photo": "photos/VAN_BROWN_PHILLIP_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_LEWIS_ALFRED_2026-11-15",
+   "name": "Alfred Nmn Lewis",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft",
+   "more": 2,
+   "ts": 1794790039,
+   "photo": "photos/VAN_LEWIS_ALFRED_2026-11-15.jpg"
+  },
+  {
+   "key": "ALL_WALLACE_DYLAN_2026-11-15",
+   "name": "Dylan Wallace",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1794790035,
+   "photo": null
+  },
   {
    "key": "POR_BENNETT_PORTIA_2026-11-14",
    "name": "Portia Lynn Bennett",
@@ -442,39 +475,6 @@
    "photo": "photos/ALL_BILLMAN_JOSHUA_2026-11-15.jpg"
   },
   {
-   "key": "ALL_MUNEIO_JENNIFER_2026-11-15",
-   "name": "Jennifer Muneio",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Methamphetamine",
-   "more": 0,
-   "ts": 1794728843,
-   "photo": "photos/ALL_MUNEIO_JENNIFER_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_MAY_CHRISTOPHER_2026-11-14",
-   "name": "Christopher Allen May",
-   "age": "64",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 1,
-   "ts": 1794721641,
-   "photo": "photos/VAN_MAY_CHRISTOPHER_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_CLAIR_JAMES_2026-11-14",
-   "name": "James Saint Clair",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 1,
-   "ts": 1794721640,
-   "photo": "photos/VAN_CLAIR_JAMES_2026-11-14.jpg"
-  },
-  {
    "key": "POR_MILLER_BROOKLYN_2026-11-14",
    "name": "Brooklyn Storm Miller",
    "age": "30",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BROWN_PHILLIP_2026-11-15",
+   "name": "Phillip Michael Brown",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 0,
+   "ts": 1794790040,
+   "photo": "photos/VAN_BROWN_PHILLIP_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_LEWIS_ALFRED_2026-11-15",
+   "name": "Alfred Nmn Lewis",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft",
+   "more": 2,
+   "ts": 1794790039,
+   "photo": "photos/VAN_LEWIS_ALFRED_2026-11-15.jpg"
+  },
+  {
+   "key": "ALL_WALLACE_DYLAN_2026-11-15",
+   "name": "Dylan Wallace",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1794790035,
+   "photo": null
+  },
   {
    "key": "POR_BENNETT_PORTIA_2026-11-14",
    "name": "Portia Lynn Bennett",
@@ -2829,39 +2862,6 @@
    "more": 0,
    "ts": 1794534435,
    "photo": "photos/ALL_NICKLIN_MALIK_2026-11-12.jpg"
-  },
-  {
-   "key": "POR_BENTLEY_THOMAS_2026-11-11",
-   "name": "Thomas James Bentley",
-   "age": "48",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794530847,
-   "photo": "photos/POR_BENTLEY_THOMAS_2026-11-11.jpg"
-  },
-  {
-   "key": "VAN_NELSON_DEONTE_2026-11-12",
-   "name": "Deonte Tevin Nelson",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- All Other Larceny - Value of Property at Least $750 a",
-   "more": 0,
-   "ts": 1794530841,
-   "photo": null
-  },
-  {
-   "key": "ALL_RADFORD_CLARENCE_2026-11-12",
-   "name": "Clarence Radford",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Cocaine or Narcotic Drug",
-   "more": 0,
-   "ts": 1794530839,
-   "photo": "photos/ALL_RADFORD_CLARENCE_2026-11-12.jpg"
   }
  ]
 }
