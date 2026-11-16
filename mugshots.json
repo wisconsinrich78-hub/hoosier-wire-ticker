@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T07:47:34+00:00",
+ "updated": "2026-11-16T08:47:19+00:00",
  "items": [
+  {
+   "key": "VAN_COX_JAMESON_2026-11-16",
+   "name": "Jameson Allen Cox",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 2,
+   "ts": 1794818827,
+   "photo": "photos/VAN_COX_JAMESON_2026-11-16.jpg"
+  },
   {
    "key": "ALL_FINCHER_WISDOM_2026-11-15",
    "name": "Wisdom Fincher",
@@ -464,17 +475,6 @@
    "photo": "photos/MAD_MARSH_MARCUS_2026-11-15.jpg"
   },
   {
-   "key": "VAN_DEKEN_THOMAS_2026-11-15",
-   "name": "Thomas Wayne Deken",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
-   "more": 0,
-   "ts": 1794732430,
-   "photo": "photos/VAN_DEKEN_THOMAS_2026-11-15.jpg"
-  },
-  {
    "key": "MAD_WOODS_STEPHANIE_2026-11-15",
    "name": "Stephanie Dawn Woods",
    "age": "34",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_COX_JAMESON_2026-11-16",
+   "name": "Jameson Allen Cox",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 2,
+   "ts": 1794818827,
+   "photo": "photos/VAN_COX_JAMESON_2026-11-16.jpg"
+  },
   {
    "key": "ALL_FINCHER_WISDOM_2026-11-15",
    "name": "Wisdom Fincher",
@@ -2587,28 +2598,6 @@
    "more": 0,
    "ts": 1794563234,
    "photo": null
-  },
-  {
-   "key": "MAD_CAMPBELL_CALVIN_2026-11-13",
-   "name": "Calvin Tyrone Campbell",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794559635,
-   "photo": "photos/MAD_CAMPBELL_CALVIN_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_MINFORD_ANDREW_2026-11-13",
-   "name": "Andrew William Minford",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 1,
-   "ts": 1794559630,
-   "photo": "photos/VAN_MINFORD_ANDREW_2026-11-13.jpg"
   }
  ]
 }
