@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T05:48:12+00:00",
+ "updated": "2026-11-16T06:47:30+00:00",
  "items": [
   {
    "key": "ALL_FINCHER_WISDOM_2026-11-15",
@@ -2675,94 +2675,6 @@
    "more": 0,
    "ts": 1794556031,
    "photo": "photos/ALL_HARVEY_BORIS_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_PURVIS_SAMANTHA_2026-11-13",
-   "name": "Samantha Lynn Purvis",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery (A/M) Simple",
-   "more": 0,
-   "ts": 1794552450,
-   "photo": null
-  },
-  {
-   "key": "MAD_PEGUES_DAMARIUS_2026-11-13",
-   "name": "Damarius A Pegues",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794552449,
-   "photo": null
-  },
-  {
-   "key": "MAD_BURKHOLDER_JASON_2026-11-13",
-   "name": "Jason Tavis Burkholder",
-   "age": "57",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Contempt of Court - Jail Booking",
-   "more": 0,
-   "ts": 1794552445,
-   "photo": "photos/MAD_BURKHOLDER_JASON_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_ARMES_ELIJAH_2026-11-12",
-   "name": "Elijah Henry Armes",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794552438,
-   "photo": null
-  },
-  {
-   "key": "VAN_MARTIN_BRIAN_2026-11-12",
-   "name": "Brian Thomas Martin",
-   "age": "56",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 1,
-   "ts": 1794552438,
-   "photo": null
-  },
-  {
-   "key": "VAN_JONES_ARNOLD_2026-11-12",
-   "name": "Arnold John Jones",
-   "age": "62",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794552438,
-   "photo": null
-  },
-  {
-   "key": "ALL_MORRIS_EMILY_2026-11-13",
-   "name": "Emily Morris",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 2,
-   "ts": 1794552436,
-   "photo": "photos/ALL_MORRIS_EMILY_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_LA_KO_2026-11-13",
-   "name": "Ko La",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 2,
-   "ts": 1794552432,
-   "photo": "photos/ALL_LA_KO_2026-11-13.jpg"
   }
  ]
 }
