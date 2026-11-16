@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-16T04:47:56+00:00",
+ "updated": "2026-11-16T05:48:12+00:00",
  "items": [
+  {
+   "key": "ALL_FINCHER_WISDOM_2026-11-15",
+   "name": "Wisdom Fincher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1794808047,
+   "photo": "photos/ALL_FINCHER_WISDOM_2026-11-15.jpg"
+  },
+  {
+   "key": "ALL_HARRIS_EDWIN_2026-11-16",
+   "name": "Edwin Harris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 1,
+   "ts": 1794808041,
+   "photo": "photos/ALL_HARRIS_EDWIN_2026-11-16.jpg"
+  },
   {
    "key": "ALL_THOMAS_JASHOD_2026-11-15",
    "name": "Jashod Thomas",
@@ -420,28 +442,6 @@
    "photo": "photos/VAN_BATEMAN_JEREMIE_2026-11-15.jpg"
   },
   {
-   "key": "ALL_NIX_DALE_2026-11-15",
-   "name": "Dale Nix",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 4,
-   "ts": 1794739634,
-   "photo": "photos/ALL_NIX_DALE_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_LEAVITT_TYLER_2026-11-15",
-   "name": "Tyler Leavitt",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 10,
-   "ts": 1794736038,
-   "photo": "photos/ALL_LEAVITT_TYLER_2026-11-15.jpg"
-  },
-  {
    "key": "VAN_NOLAN_TREY_2026-11-15",
    "name": "Trey Alexander Nolan",
    "age": "24",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_FINCHER_WISDOM_2026-11-15",
+   "name": "Wisdom Fincher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1794808047,
+   "photo": "photos/ALL_FINCHER_WISDOM_2026-11-15.jpg"
+  },
+  {
+   "key": "ALL_HARRIS_EDWIN_2026-11-16",
+   "name": "Edwin Harris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 1,
+   "ts": 1794808041,
+   "photo": "photos/ALL_HARRIS_EDWIN_2026-11-16.jpg"
+  },
   {
    "key": "ALL_THOMAS_JASHOD_2026-11-15",
    "name": "Jashod Thomas",
@@ -2741,39 +2763,6 @@
    "more": 2,
    "ts": 1794552432,
    "photo": "photos/ALL_LA_KO_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_LANE_CARNELIUS_2026-11-12",
-   "name": "Carnelius Devalle Lane",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794548843,
-   "photo": null
-  },
-  {
-   "key": "VAN_GIBSON_BRIANNA_2026-11-12",
-   "name": "Brianna Fay Gibson",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Shoplifting - Nibrs",
-   "more": 0,
-   "ts": 1794548843,
-   "photo": null
-  },
-  {
-   "key": "ALL_AUNG_WIN_2026-11-13",
-   "name": "Win Aung",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 2,
-   "ts": 1794548841,
-   "photo": "photos/ALL_AUNG_WIN_2026-11-13.jpg"
   }
  ]
 }
