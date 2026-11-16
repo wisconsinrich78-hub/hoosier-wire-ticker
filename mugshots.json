@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T10:47:44+00:00",
+ "updated": "2026-11-16T11:47:23+00:00",
  "items": [
   {
    "key": "MAD_ALEXANDER_JEREMY_2026-11-16",
@@ -2554,28 +2554,6 @@
    "more": 0,
    "ts": 1794574030,
    "photo": "photos/POR_MARTINEZ_SANTOS_2026-11-12.jpg"
-  },
-  {
-   "key": "VAN_WARGEL_DAX_2026-11-13",
-   "name": "Dax Mykel Wargel",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 2,
-   "ts": 1794570431,
-   "photo": "photos/VAN_WARGEL_DAX_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_TIANA_2026-11-13",
-   "name": "Tiana Ciara Sue Johnson",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
-   "more": 0,
-   "ts": 1794570430,
-   "photo": "photos/VAN_JOHNSON_TIANA_2026-11-13.jpg"
   }
  ]
 }
