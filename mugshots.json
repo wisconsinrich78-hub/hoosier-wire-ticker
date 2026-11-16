@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T11:47:23+00:00",
+ "updated": "2026-11-16T12:47:24+00:00",
  "items": [
+  {
+   "key": "POR_SUYAK_CHERYL_2026-11-15",
+   "name": "Cheryl Lynne Suyak",
+   "age": "52",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794833235,
+   "photo": "photos/POR_SUYAK_CHERYL_2026-11-15.jpg"
+  },
   {
    "key": "MAD_ALEXANDER_JEREMY_2026-11-16",
    "name": "Jeremy Matthew Alexander",
@@ -517,20 +528,20 @@
    "more": 3,
    "ts": 1794718056,
    "photo": "photos/POR_MILLER_BROOKLYN_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_SANDIDGE_DANGELO_2026-11-14",
-   "name": "D'Angelo Dee Sandidge",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1794718053,
-   "photo": "photos/POR_SANDIDGE_DANGELO_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_SUYAK_CHERYL_2026-11-15",
+   "name": "Cheryl Lynne Suyak",
+   "age": "52",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1794833235,
+   "photo": "photos/POR_SUYAK_CHERYL_2026-11-15.jpg"
+  },
   {
    "key": "MAD_ALEXANDER_JEREMY_2026-11-16",
    "name": "Jeremy Matthew Alexander",
@@ -2543,17 +2554,6 @@
    "more": 1,
    "ts": 1794577634,
    "photo": "photos/ALL_SNYDER_MARK_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_MARTINEZ_SANTOS_2026-11-12",
-   "name": "Santos Francisco Martinez",
-   "age": "27",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Destruction/Damage/Vandalism of Property - Nibrs",
-   "more": 0,
-   "ts": 1794574030,
-   "photo": "photos/POR_MARTINEZ_SANTOS_2026-11-12.jpg"
   }
  ]
 }
