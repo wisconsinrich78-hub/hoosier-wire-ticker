@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T08:47:19+00:00",
+ "updated": "2026-11-16T09:47:34+00:00",
  "items": [
   {
    "key": "VAN_COX_JAMESON_2026-11-16",
@@ -2587,17 +2587,6 @@
    "more": 0,
    "ts": 1794566832,
    "photo": "photos/VAN_BALDE_CARTER_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_GARCIAHERNANDEZ_JUAN_2026-11-13",
-   "name": "Juan Carlos Garcia-Hernandez",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794563234,
-   "photo": null
   }
  ]
 }
