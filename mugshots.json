@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-16T18:48:34+00:00",
+ "updated": "2026-11-16T19:48:09+00:00",
  "items": [
+  {
+   "key": "VAN_WARD_CAMERON_2026-11-16",
+   "name": "Cameron Lee Ward",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794858455,
+   "photo": "photos/VAN_WARD_CAMERON_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_STONER_JAVON_2026-11-16",
+   "name": "Javon Allen Stoner",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Traffic-Operate W/O Ever Receiving Lic Prior",
+   "more": 0,
+   "ts": 1794858451,
+   "photo": "photos/VAN_STONER_JAVON_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_MCCLEARY_MEILI_2026-11-16",
+   "name": "Meili Marie Mccleary",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794858450,
+   "photo": "photos/VAN_MCCLEARY_MEILI_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_RODOCKER_DANIEL_2026-11-16",
+   "name": "Daniel Rodocker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 1,
+   "ts": 1794858444,
+   "photo": "photos/ALL_RODOCKER_DANIEL_2026-11-16.jpg"
+  },
   {
    "key": "MAD_BUSBY_TRENT_2026-11-16",
    "name": "Trent Michael Busby",
@@ -409,17 +453,6 @@
    "photo": "photos/POR_ZULEGER_ADAM_2026-11-14.jpg"
   },
   {
-   "key": "ALL_WHITE_ANGELA_2026-11-15",
-   "name": "Angela White",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794772036,
-   "photo": "photos/ALL_WHITE_ANGELA_2026-11-15.jpg"
-  },
-  {
    "key": "POR_STONER_DENNIS_2026-11-14",
    "name": "Dennis Keith Stoner",
    "age": "41",
@@ -486,39 +519,6 @@
    "photo": "photos/MAD_HAMMOND_JUSTIN_2026-11-15.jpg"
   },
   {
-   "key": "VAN_STONE_CHARLES_2026-11-15",
-   "name": "Charles Xander Stone",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
-   "more": 1,
-   "ts": 1794743241,
-   "photo": "photos/VAN_STONE_CHARLES_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_SHEVCHENKO_MARK_2026-11-15",
-   "name": "Mark Nikolaevcih Shevchenko",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
-   "more": 0,
-   "ts": 1794743238,
-   "photo": "photos/VAN_SHEVCHENKO_MARK_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_GREEN_PASHINAY_2026-11-15",
-   "name": "Pashinay Patrizia Green",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Obstruction of Justice",
-   "more": 5,
-   "ts": 1794743237,
-   "photo": "photos/VAN_GREEN_PASHINAY_2026-11-15.jpg"
-  },
-  {
    "key": "MAD_ANDERSON_TREVOR_2026-11-15",
    "name": "Trevor Wayne Anderson",
    "age": "45",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_WARD_CAMERON_2026-11-16",
+   "name": "Cameron Lee Ward",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794858455,
+   "photo": "photos/VAN_WARD_CAMERON_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_STONER_JAVON_2026-11-16",
+   "name": "Javon Allen Stoner",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Traffic-Operate W/O Ever Receiving Lic Prior",
+   "more": 0,
+   "ts": 1794858451,
+   "photo": "photos/VAN_STONER_JAVON_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_MCCLEARY_MEILI_2026-11-16",
+   "name": "Meili Marie Mccleary",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794858450,
+   "photo": "photos/VAN_MCCLEARY_MEILI_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_RODOCKER_DANIEL_2026-11-16",
+   "name": "Daniel Rodocker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 1,
+   "ts": 1794858444,
+   "photo": "photos/ALL_RODOCKER_DANIEL_2026-11-16.jpg"
+  },
   {
    "key": "MAD_BUSBY_TRENT_2026-11-16",
    "name": "Trent Michael Busby",
@@ -2455,17 +2499,6 @@
    "more": 1,
    "ts": 1794602843,
    "photo": "photos/ALL_OFARROW_GLORIANA_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_CHAPMAN_JULIUS_2026-11-13",
-   "name": "Julius Chapman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 0,
-   "ts": 1794599243,
-   "photo": "photos/ALL_CHAPMAN_JULIUS_2026-11-13.jpg"
   }
  ]
 }
