@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:47:30+00:00",
+ "updated": "2026-11-16T07:47:34+00:00",
  "items": [
   {
    "key": "ALL_FINCHER_WISDOM_2026-11-15",
@@ -2609,72 +2609,6 @@
    "more": 1,
    "ts": 1794559630,
    "photo": "photos/VAN_MINFORD_ANDREW_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_ICE_JEREMY_2026-11-13",
-   "name": "Jeremy Edresse Ice",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating with controlled substance in body",
-   "more": 2,
-   "ts": 1794556047,
-   "photo": null
-  },
-  {
-   "key": "MAD_CHAPIN_SAMANTHA_2026-11-13",
-   "name": "Samantha Lynn Chapin",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794556045,
-   "photo": null
-  },
-  {
-   "key": "VAN_ROBERTS_SAMARA_2026-11-13",
-   "name": "Samara Dawn Roberts",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1794556040,
-   "photo": null
-  },
-  {
-   "key": "ALL_KLINE_MACKENZIE_2026-11-13",
-   "name": "Mackenzie Kline",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 0,
-   "ts": 1794556039,
-   "photo": "photos/ALL_KLINE_MACKENZIE_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_HARDY_TAITHADIUS_2026-11-13",
-   "name": "Taithadius Hardy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Unlawful Carrying of a Handgun",
-   "more": 0,
-   "ts": 1794556035,
-   "photo": null
-  },
-  {
-   "key": "ALL_HARVEY_BORIS_2026-11-13",
-   "name": "Boris Harvey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Institutional Criminal Mischief - Structure for Religious Worship",
-   "more": 0,
-   "ts": 1794556031,
-   "photo": "photos/ALL_HARVEY_BORIS_2026-11-13.jpg"
   }
  ]
 }
