@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-16T21:48:14+00:00",
+ "updated": "2026-11-16T22:48:34+00:00",
  "items": [
+  {
+   "key": "VAN_BELLAMY_AARON_2026-11-16",
+   "name": "Aaron Douglas Bellamy",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794869274,
+   "photo": "photos/VAN_BELLAMY_AARON_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_JOHNSON_QUANDALE_2026-11-16",
+   "name": "Quandale Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Leaving the Scene-Driver Fails to Immediately Stop at the Scene of\u2026",
+   "more": 0,
+   "ts": 1794869267,
+   "photo": "photos/ALL_JOHNSON_QUANDALE_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_STARKS_TAJ_2026-11-16",
+   "name": "Taj Starks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1794869262,
+   "photo": "photos/ALL_STARKS_TAJ_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_SMITH_CRYSTAL_2026-11-16",
+   "name": "Crystal Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794869257,
+   "photo": "photos/ALL_SMITH_CRYSTAL_2026-11-16.jpg"
+  },
   {
    "key": "VAN_BRANT_EDWARD_2026-11-16",
    "name": "Edward Thomas Brant",
@@ -409,17 +453,6 @@
    "photo": "photos/VAN_LEWIS_ALFRED_2026-11-15.jpg"
   },
   {
-   "key": "ALL_WALLACE_DYLAN_2026-11-15",
-   "name": "Dylan Wallace",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1794790035,
-   "photo": null
-  },
-  {
    "key": "POR_BENNETT_PORTIA_2026-11-14",
    "name": "Portia Lynn Bennett",
    "age": "34",
@@ -429,17 +462,6 @@
    "more": 0,
    "ts": 1794786433,
    "photo": "photos/POR_BENNETT_PORTIA_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_CURRY_JORDAN_2026-11-15",
-   "name": "Jordan Curry",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Shoplifting",
-   "more": 2,
-   "ts": 1794786429,
-   "photo": null
   },
   {
    "key": "POR_FORTNER_BERNARD_2026-11-14",
@@ -464,17 +486,6 @@
    "photo": "photos/POR_ORIGEL_RICARDO_2026-11-14.jpg"
   },
   {
-   "key": "ALL_PHILPOT_CURTIS_2026-11-15",
-   "name": "Curtis Philpot",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1794782830,
-   "photo": "photos/ALL_PHILPOT_CURTIS_2026-11-15.jpg"
-  },
-  {
    "key": "POR_FUENTES_JASON_2026-11-14",
    "name": "Jason Seferino Sanchez Fuentes",
    "age": "23",
@@ -494,17 +505,6 @@
    "charge": "Battery- Bodily Injury - Misdemeanor",
    "more": 0,
    "ts": 1794775640,
-   "photo": null
-  },
-  {
-   "key": "VAN_BURGE_JESSICA_2026-11-15",
-   "name": "Jessica Lorraine Burge",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794775639,
    "photo": null
   },
   {
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BELLAMY_AARON_2026-11-16",
+   "name": "Aaron Douglas Bellamy",
+   "age": "31",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794869274,
+   "photo": "photos/VAN_BELLAMY_AARON_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_JOHNSON_QUANDALE_2026-11-16",
+   "name": "Quandale Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Leaving the Scene-Driver Fails to Immediately Stop at the Scene of\u2026",
+   "more": 0,
+   "ts": 1794869267,
+   "photo": "photos/ALL_JOHNSON_QUANDALE_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_STARKS_TAJ_2026-11-16",
+   "name": "Taj Starks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1794869262,
+   "photo": "photos/ALL_STARKS_TAJ_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_SMITH_CRYSTAL_2026-11-16",
+   "name": "Crystal Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1794869257,
+   "photo": "photos/ALL_SMITH_CRYSTAL_2026-11-16.jpg"
+  },
   {
    "key": "VAN_BRANT_EDWARD_2026-11-16",
    "name": "Edward Thomas Brant",
@@ -2433,39 +2477,6 @@
    "more": 0,
    "ts": 1794613632,
    "photo": "photos/ALL_SUDDERTH_AMANDA_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_MARTIN_CHRISTOPHER_2026-11-12",
-   "name": "Christopher James Martin",
-   "age": "38",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
-   "more": 1,
-   "ts": 1794610064,
-   "photo": "photos/POR_MARTIN_CHRISTOPHER_2026-11-12.jpg"
-  },
-  {
-   "key": "VAN_LITTLEDOG_MICHAEL_2026-11-13",
-   "name": "Michael Clearence Littledog",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794610061,
-   "photo": "photos/VAN_LITTLEDOG_MICHAEL_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_CODLING_DEVAN_2026-11-13",
-   "name": "Devan Codling",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Methamphetamine",
-   "more": 1,
-   "ts": 1794610056,
-   "photo": "photos/ALL_CODLING_DEVAN_2026-11-13.jpg"
   }
  ]
 }
