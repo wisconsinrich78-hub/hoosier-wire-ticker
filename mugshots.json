@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-16T13:47:25+00:00",
+ "updated": "2026-11-16T14:47:52+00:00",
  "items": [
+  {
+   "key": "ALL_ATKINSON_DARRIUS_2026-11-16",
+   "name": "Darrius Atkinson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794840443,
+   "photo": "photos/ALL_ATKINSON_DARRIUS_2026-11-16.jpg"
+  },
   {
    "key": "POR_SUYAK_CHERYL_2026-11-15",
    "name": "Cheryl Lynne Suyak",
@@ -365,17 +376,6 @@
    "photo": "photos/VAN_FISHER_CORBIN_2026-11-15.jpg"
   },
   {
-   "key": "ALL_GUTIERREZ_AMY_2026-11-15",
-   "name": "Amy Gutierrez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794750437,
-   "photo": "photos/ALL_GUTIERREZ_AMY_2026-11-15.jpg"
-  },
-  {
    "key": "VAN_BURDEN_HANNAH_2026-11-15",
    "name": "Hannah Marie Burden",
    "age": "22",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_ATKINSON_DARRIUS_2026-11-16",
+   "name": "Darrius Atkinson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794840443,
+   "photo": "photos/ALL_ATKINSON_DARRIUS_2026-11-16.jpg"
+  },
   {
    "key": "POR_SUYAK_CHERYL_2026-11-15",
    "name": "Cheryl Lynne Suyak",
@@ -2488,50 +2499,6 @@
    "more": 1,
    "ts": 1794584834,
    "photo": "photos/ALL_QUINTANA_ANAHI_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_KIRK_TABITHA_2026-11-12",
-   "name": "Tabitha Kristy Kirk",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Possession Cocaine or Narcotics",
-   "more": 0,
-   "ts": 1794581256,
-   "photo": "photos/POR_KIRK_TABITHA_2026-11-12.jpg"
-  },
-  {
-   "key": "POR_JOHNSON_DANNY_2026-11-12",
-   "name": "Danny Edward Johnson",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1794581254,
-   "photo": "photos/POR_JOHNSON_DANNY_2026-11-12.jpg"
-  },
-  {
-   "key": "ALL_BLESSING_FREDERICK_2026-11-13",
-   "name": "Frederick Blessing",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail to Register - Prior",
-   "more": 1,
-   "ts": 1794581247,
-   "photo": "photos/ALL_BLESSING_FREDERICK_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_RODRIGUEZ_TERRANCE_2026-11-12",
-   "name": "Terrance Lee Rodriguez",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 1,
-   "ts": 1794577647,
-   "photo": "photos/POR_RODRIGUEZ_TERRANCE_2026-11-12.jpg"
   }
  ]
 }
