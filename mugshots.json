@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-16T19:48:09+00:00",
+ "updated": "2026-11-16T20:47:49+00:00",
  "items": [
+  {
+   "key": "MAD_WHITESELL_ANDREW_2026-11-16",
+   "name": "Andrew Perry Whitesell",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794862063,
+   "photo": "photos/MAD_WHITESELL_ANDREW_2026-11-16.jpg"
+  },
+  {
+   "key": "MAD_BADER_PAULA_2026-11-16",
+   "name": "Paula Jo Bader",
+   "age": "57",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1794862051,
+   "photo": null
+  },
+  {
+   "key": "VAN_STEWART_JENNIFER_2026-11-16",
+   "name": "Jennifer Sue Stewart",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 2,
+   "ts": 1794862044,
+   "photo": "photos/VAN_STEWART_JENNIFER_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_HENNINGER_LAURA_2026-11-16",
+   "name": "Laura Lee Henninger",
+   "age": "55",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794862044,
+   "photo": null
+  },
+  {
+   "key": "VAN_ARMSTRONG_JAMES_2026-11-16",
+   "name": "James Neal Armstrong",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794862041,
+   "photo": null
+  },
+  {
+   "key": "ALL_GRAY_SHIMETCHRA_2026-11-16",
+   "name": "Shimetchra Gray",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Abandonment or Neglect of Vertebrate Animal",
+   "more": 0,
+   "ts": 1794862039,
+   "photo": "photos/ALL_GRAY_SHIMETCHRA_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_BRUCE_JOEVON_2026-11-16",
+   "name": "Joevon Bruce",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794862034,
+   "photo": "photos/ALL_BRUCE_JOEVON_2026-11-16.jpg"
+  },
   {
    "key": "VAN_WARD_CAMERON_2026-11-16",
    "name": "Cameron Lee Ward",
@@ -420,28 +497,6 @@
    "photo": null
   },
   {
-   "key": "ALL_ABERCROMBIE_MARQUIS_2026-11-15",
-   "name": "Marquis Abercrombie",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794775638,
-   "photo": "photos/ALL_ABERCROMBIE_MARQUIS_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_YATES_NICKOLAS_2026-11-15",
-   "name": "Nickolas Yates",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Prior Unrelated Conviction for Battery Against\u2026",
-   "more": 1,
-   "ts": 1794775634,
-   "photo": "photos/ALL_YATES_NICKOLAS_2026-11-15.jpg"
-  },
-  {
    "key": "POR_ZULEGER_ADAM_2026-11-14",
    "name": "Adam Michael Zuleger",
    "age": "41",
@@ -473,64 +528,86 @@
    "more": 0,
    "ts": 1794754032,
    "photo": "photos/VAN_PULLARA_BRIAN_2026-11-15.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "VAN_FISHER_CORBIN_2026-11-15",
-   "name": "Corbin Markel Fisher",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794750441,
-   "photo": "photos/VAN_FISHER_CORBIN_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_BURDEN_HANNAH_2026-11-15",
-   "name": "Hannah Marie Burden",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 3,
-   "ts": 1794746831,
-   "photo": "photos/VAN_BURDEN_HANNAH_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_ANWEL_BENJAMIN_2026-11-15",
-   "name": "Benjamin Arata Anwel",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 2,
-   "ts": 1794746830,
-   "photo": "photos/VAN_ANWEL_BENJAMIN_2026-11-15.jpg"
-  },
-  {
-   "key": "MAD_HAMMOND_JUSTIN_2026-11-15",
-   "name": "Justin Matthew Hammond",
-   "age": "40",
+   "key": "MAD_WHITESELL_ANDREW_2026-11-16",
+   "name": "Andrew Perry Whitesell",
+   "age": "42",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1794743250,
-   "photo": "photos/MAD_HAMMOND_JUSTIN_2026-11-15.jpg"
+   "ts": 1794862063,
+   "photo": "photos/MAD_WHITESELL_ANDREW_2026-11-16.jpg"
   },
   {
-   "key": "MAD_ANDERSON_TREVOR_2026-11-15",
-   "name": "Trevor Wayne Anderson",
-   "age": "45",
+   "key": "MAD_BADER_PAULA_2026-11-16",
+   "name": "Paula Jo Bader",
+   "age": "57",
    "county": "Madison County",
    "region": "central",
-   "charge": "Operating a vehicle with BAC .08 to .15",
+   "charge": "Domestic battery (A/M) Simple",
    "more": 0,
-   "ts": 1794739642,
-   "photo": "photos/MAD_ANDERSON_TREVOR_2026-11-15.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1794862051,
+   "photo": null
+  },
+  {
+   "key": "VAN_STEWART_JENNIFER_2026-11-16",
+   "name": "Jennifer Sue Stewart",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 2,
+   "ts": 1794862044,
+   "photo": "photos/VAN_STEWART_JENNIFER_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_HENNINGER_LAURA_2026-11-16",
+   "name": "Laura Lee Henninger",
+   "age": "55",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794862044,
+   "photo": null
+  },
+  {
+   "key": "VAN_ARMSTRONG_JAMES_2026-11-16",
+   "name": "James Neal Armstrong",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794862041,
+   "photo": null
+  },
+  {
+   "key": "ALL_GRAY_SHIMETCHRA_2026-11-16",
+   "name": "Shimetchra Gray",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Abandonment or Neglect of Vertebrate Animal",
+   "more": 0,
+   "ts": 1794862039,
+   "photo": "photos/ALL_GRAY_SHIMETCHRA_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_BRUCE_JOEVON_2026-11-16",
+   "name": "Joevon Bruce",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794862034,
+   "photo": "photos/ALL_BRUCE_JOEVON_2026-11-16.jpg"
+  },
   {
    "key": "VAN_WARD_CAMERON_2026-11-16",
    "name": "Cameron Lee Ward",
@@ -2466,39 +2543,6 @@
    "more": 2,
    "ts": 1794606443,
    "photo": "photos/ALL_GREENHOUSE_ASHLEY_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_TOREGANO_ATOKA_2026-11-13",
-   "name": "Atoka Christopher Toregano",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 3,
-   "ts": 1794602847,
-   "photo": "photos/VAN_TOREGANO_ATOKA_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_SEXTON_JUAN_2026-11-13",
-   "name": "Juan Clay Sexton",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 4,
-   "ts": 1794602844,
-   "photo": null
-  },
-  {
-   "key": "ALL_OFARROW_GLORIANA_2026-11-13",
-   "name": "Gloriana Ofarrow",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 1,
-   "ts": 1794602843,
-   "photo": "photos/ALL_OFARROW_GLORIANA_2026-11-13.jpg"
   }
  ]
 }
