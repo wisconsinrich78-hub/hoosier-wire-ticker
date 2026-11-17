@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T02:47:38+00:00",
+ "updated": "2026-11-17T03:47:29+00:00",
  "items": [
+  {
+   "key": "VAN_CONNER_ANDREW_2026-11-16",
+   "name": "Andrew Joseph Conner",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794887231,
+   "photo": "photos/VAN_CONNER_ANDREW_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_REEVES_JESSICA_2026-11-16",
+   "name": "Jessica Faye Reeves",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Shoplifting - Prior Unrelated Conviction for Theft or",
+   "more": 0,
+   "ts": 1794887231,
+   "photo": null
+  },
   {
    "key": "MAD_PURKEY_TIMOTHY_2026-11-16",
    "name": "Timothy Ryan Purkey",
@@ -365,17 +387,6 @@
    "photo": "photos/VAN_MOTEN_DARIUS_2026-11-16.jpg"
   },
   {
-   "key": "VAN_THOMAS_ANGELA_2026-11-16",
-   "name": "Angela Dawn Thomas",
-   "age": "50",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft",
-   "more": 0,
-   "ts": 1794851239,
-   "photo": "photos/VAN_THOMAS_ANGELA_2026-11-16.jpg"
-  },
-  {
    "key": "ALL_ROBINSON_TIA_2026-11-16",
    "name": "Tia Robinson",
    "age": "",
@@ -429,17 +440,6 @@
    "more": 0,
    "ts": 1794844048,
    "photo": "photos/POR_MCTAGGART_CODY_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_PIPER_MICHAEL_2026-11-16",
-   "name": "Michael James Piper",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794844045,
-   "photo": "photos/VAN_PIPER_MICHAEL_2026-11-16.jpg"
   },
   {
    "key": "ALL_MOORE_JUSTIN_2026-11-16",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_CONNER_ANDREW_2026-11-16",
+   "name": "Andrew Joseph Conner",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794887231,
+   "photo": "photos/VAN_CONNER_ANDREW_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_REEVES_JESSICA_2026-11-16",
+   "name": "Jessica Faye Reeves",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Shoplifting - Prior Unrelated Conviction for Theft or",
+   "more": 0,
+   "ts": 1794887231,
+   "photo": null
+  },
   {
    "key": "MAD_PURKEY_TIMOTHY_2026-11-16",
    "name": "Timothy Ryan Purkey",
