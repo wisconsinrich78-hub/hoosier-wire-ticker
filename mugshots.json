@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-17T06:47:47+00:00",
+ "updated": "2026-11-17T07:49:03+00:00",
  "items": [
+  {
+   "key": "MAD_FRALEY_JOHNATHAN_2026-11-17",
+   "name": "Johnathan Kodi Fraley",
+   "age": "40",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Nonsupport of dependent",
+   "more": 0,
+   "ts": 1794901727,
+   "photo": "photos/MAD_FRALEY_JOHNATHAN_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_JOYCE_TRAIEVANTE_2026-11-17",
+   "name": "Traievante Allen Joyce",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
+   "more": 0,
+   "ts": 1794901719,
+   "photo": null
+  },
+  {
+   "key": "ALL_PEOPLES_DEVONTAY_2026-11-17",
+   "name": "Devontay Peoples",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794901718,
+   "photo": null
+  },
+  {
+   "key": "ALL_PARKER_TYREE_2026-11-17",
+   "name": "Tyree Parker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794901646,
+   "photo": "photos/ALL_PARKER_TYREE_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_CAYLOR_ANTHONY_2026-11-17",
+   "name": "Anthony Caylor",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794901633,
+   "photo": null
+  },
   {
    "key": "MAD_MOSBAUGH_ZACHERY_2026-11-17",
    "name": "Zachery Ryan Mosbaugh",
@@ -332,17 +387,6 @@
    "photo": "photos/ALL_STARKS_TAJ_2026-11-16.jpg"
   },
   {
-   "key": "ALL_SMITH_CRYSTAL_2026-11-16",
-   "name": "Crystal Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794869257,
-   "photo": "photos/ALL_SMITH_CRYSTAL_2026-11-16.jpg"
-  },
-  {
    "key": "VAN_BRANT_EDWARD_2026-11-16",
    "name": "Edward Thomas Brant",
    "age": "58",
@@ -352,28 +396,6 @@
    "more": 1,
    "ts": 1794865654,
    "photo": "photos/VAN_BRANT_EDWARD_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_DAVIS_GABRIEL_2026-11-16",
-   "name": "Gabriel Davis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion of Privacy",
-   "more": 0,
-   "ts": 1794865646,
-   "photo": "photos/ALL_DAVIS_GABRIEL_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_MORRIS_MICHAEL_2026-11-16",
-   "name": "Michael Morris",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing in Methamphetamine",
-   "more": 1,
-   "ts": 1794865642,
-   "photo": "photos/ALL_MORRIS_MICHAEL_2026-11-16.jpg"
   },
   {
    "key": "MAD_WHITESELL_ANDREW_2026-11-16",
@@ -442,17 +464,6 @@
    "photo": "photos/VAN_WARD_CAMERON_2026-11-16.jpg"
   },
   {
-   "key": "VAN_STONER_JAVON_2026-11-16",
-   "name": "Javon Allen Stoner",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Traffic-Operate W/O Ever Receiving Lic Prior",
-   "more": 0,
-   "ts": 1794858451,
-   "photo": "photos/VAN_STONER_JAVON_2026-11-16.jpg"
-  },
-  {
    "key": "MAD_BUSBY_TRENT_2026-11-16",
    "name": "Trent Michael Busby",
    "age": "54",
@@ -517,20 +528,64 @@
    "more": 2,
    "ts": 1794826037,
    "photo": "photos/MAD_ALEXANDER_JEREMY_2026-11-16.jpg"
-  },
-  {
-   "key": "MAD_BELZ_NICHOLAS_2026-11-15",
-   "name": "Nicholas Belz",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794800831,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_FRALEY_JOHNATHAN_2026-11-17",
+   "name": "Johnathan Kodi Fraley",
+   "age": "40",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Nonsupport of dependent",
+   "more": 0,
+   "ts": 1794901727,
+   "photo": "photos/MAD_FRALEY_JOHNATHAN_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_JOYCE_TRAIEVANTE_2026-11-17",
+   "name": "Traievante Allen Joyce",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
+   "more": 0,
+   "ts": 1794901719,
+   "photo": null
+  },
+  {
+   "key": "ALL_PEOPLES_DEVONTAY_2026-11-17",
+   "name": "Devontay Peoples",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794901718,
+   "photo": null
+  },
+  {
+   "key": "ALL_PARKER_TYREE_2026-11-17",
+   "name": "Tyree Parker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794901646,
+   "photo": "photos/ALL_PARKER_TYREE_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_CAYLOR_ANTHONY_2026-11-17",
+   "name": "Anthony Caylor",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794901633,
+   "photo": null
+  },
   {
    "key": "MAD_MOSBAUGH_ZACHERY_2026-11-17",
    "name": "Zachery Ryan Mosbaugh",
@@ -2455,61 +2510,6 @@
    "more": 1,
    "ts": 1794646032,
    "photo": "photos/ALL_BROWN_DAMIAN_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_ESTERS_HURLEY_2026-11-13",
-   "name": "Hurley Antoine Esters",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Murder- Attempted",
-   "more": 0,
-   "ts": 1794642446,
-   "photo": "photos/VAN_ESTERS_HURLEY_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_RITTENBERRY_GLORIA_2026-11-13",
-   "name": "Gloria Michelle Rittenberry",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Family Offense- Neglect of Dependant/Child Violations",
-   "more": 0,
-   "ts": 1794642445,
-   "photo": "photos/VAN_RITTENBERRY_GLORIA_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_RAPP_MORGAN_2026-11-14",
-   "name": "Morgan Rapp",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794642441,
-   "photo": "photos/ALL_RAPP_MORGAN_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_LOPEZSANTIZ_EDGAR_2026-11-14",
-   "name": "Edgar Lopezsantiz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794642437,
-   "photo": "photos/ALL_LOPEZSANTIZ_EDGAR_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_RUDD_JETT_2026-11-14",
-   "name": "Jett Rudd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1794642432,
-   "photo": "photos/ALL_RUDD_JETT_2026-11-14.jpg"
   }
  ]
 }
