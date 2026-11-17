@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-16T23:48:09+00:00",
+ "updated": "2026-11-17T00:47:51+00:00",
  "items": [
+  {
+   "key": "POR_MALEC_JOSHUA_2026-11-15",
+   "name": "Joshua Richard Malec",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 0,
+   "ts": 1794876454,
+   "photo": "photos/POR_MALEC_JOSHUA_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_JONES_SHEILA_2026-11-16",
+   "name": "Sheila Marie Jones",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794876451,
+   "photo": "photos/VAN_JONES_SHEILA_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_BIGGS_CHRISTOPHER_2026-11-16",
+   "name": "Christopher Brian Biggs",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 1,
+   "ts": 1794876450,
+   "photo": "photos/VAN_BIGGS_CHRISTOPHER_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_JASON_CHRISTOPHER_2026-11-16",
+   "name": "Christopher Jason",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Child Non-Support",
+   "more": 0,
+   "ts": 1794876445,
+   "photo": "photos/ALL_JASON_CHRISTOPHER_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_WILLIAMS_JERMICHAEL_2026-11-16",
+   "name": "Jermichael Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Abandonment or Neglect of Vertebrate Animal",
+   "more": 0,
+   "ts": 1794876441,
+   "photo": "photos/ALL_WILLIAMS_JERMICHAEL_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_KELSAW_KENYON_2026-11-16",
+   "name": "Kenyon Kelsaw",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
+   "more": 1,
+   "ts": 1794876437,
+   "photo": null
+  },
   {
    "key": "VAN_BURNS_MITZIE_2026-11-16",
    "name": "Mitzie Channel Monique Burns",
@@ -354,17 +420,6 @@
    "photo": "photos/ALL_MOORE_JUSTIN_2026-11-16.jpg"
   },
   {
-   "key": "ALL_ATKINSON_DARRIUS_2026-11-16",
-   "name": "Darrius Atkinson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794840443,
-   "photo": "photos/ALL_ATKINSON_DARRIUS_2026-11-16.jpg"
-  },
-  {
    "key": "POR_SUYAK_CHERYL_2026-11-15",
    "name": "Cheryl Lynne Suyak",
    "age": "52",
@@ -398,28 +453,6 @@
    "photo": "photos/VAN_COX_JAMESON_2026-11-16.jpg"
   },
   {
-   "key": "ALL_FINCHER_WISDOM_2026-11-15",
-   "name": "Wisdom Fincher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794808047,
-   "photo": "photos/ALL_FINCHER_WISDOM_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_HARRIS_EDWIN_2026-11-16",
-   "name": "Edwin Harris",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 1,
-   "ts": 1794808041,
-   "photo": "photos/ALL_HARRIS_EDWIN_2026-11-16.jpg"
-  },
-  {
    "key": "MAD_BELZ_NICHOLAS_2026-11-15",
    "name": "Nicholas Belz",
    "age": "36",
@@ -431,17 +464,6 @@
    "photo": null
   },
   {
-   "key": "VAN_SELLNER_LOGAN_2026-11-15",
-   "name": "Logan Casey Sellner",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794797242,
-   "photo": "photos/VAN_SELLNER_LOGAN_2026-11-15.jpg"
-  },
-  {
    "key": "MAD_STGERMAIN_CHRISTOPHER_2026-11-15",
    "name": "Christopher Keith St. Germain",
    "age": "59",
@@ -451,17 +473,6 @@
    "more": 3,
    "ts": 1794793637,
    "photo": "photos/MAD_STGERMAIN_CHRISTOPHER_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_BROWN_PHILLIP_2026-11-15",
-   "name": "Phillip Michael Brown",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1794790040,
-   "photo": "photos/VAN_BROWN_PHILLIP_2026-11-15.jpg"
   },
   {
    "key": "POR_BENNETT_PORTIA_2026-11-14",
@@ -517,20 +528,75 @@
    "more": 0,
    "ts": 1794772039,
    "photo": "photos/POR_ZULEGER_ADAM_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_STONER_DENNIS_2026-11-14",
-   "name": "Dennis Keith Stoner",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Mv/Revocation of Probation",
-   "more": 0,
-   "ts": 1794764837,
-   "photo": "photos/POR_STONER_DENNIS_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_MALEC_JOSHUA_2026-11-15",
+   "name": "Joshua Richard Malec",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Public Administration- Resisting Law Enforcement",
+   "more": 0,
+   "ts": 1794876454,
+   "photo": "photos/POR_MALEC_JOSHUA_2026-11-15.jpg"
+  },
+  {
+   "key": "VAN_JONES_SHEILA_2026-11-16",
+   "name": "Sheila Marie Jones",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794876451,
+   "photo": "photos/VAN_JONES_SHEILA_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_BIGGS_CHRISTOPHER_2026-11-16",
+   "name": "Christopher Brian Biggs",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sex Offender Registration Violation",
+   "more": 1,
+   "ts": 1794876450,
+   "photo": "photos/VAN_BIGGS_CHRISTOPHER_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_JASON_CHRISTOPHER_2026-11-16",
+   "name": "Christopher Jason",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Child Non-Support",
+   "more": 0,
+   "ts": 1794876445,
+   "photo": "photos/ALL_JASON_CHRISTOPHER_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_WILLIAMS_JERMICHAEL_2026-11-16",
+   "name": "Jermichael Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Abandonment or Neglect of Vertebrate Animal",
+   "more": 0,
+   "ts": 1794876441,
+   "photo": "photos/ALL_WILLIAMS_JERMICHAEL_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_KELSAW_KENYON_2026-11-16",
+   "name": "Kenyon Kelsaw",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
+   "more": 1,
+   "ts": 1794876437,
+   "photo": null
+  },
   {
    "key": "VAN_BURNS_MITZIE_2026-11-16",
    "name": "Mitzie Channel Monique Burns",
@@ -2411,94 +2477,6 @@
    "more": 0,
    "ts": 1794620833,
    "photo": "photos/VAN_TOMPKINS_DEREK_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_FLOYD_AARON_2026-11-13",
-   "name": "Aaron Tyler Benjamin Floyd",
-   "age": "33",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Criminal Vandalism (B/M)",
-   "more": 2,
-   "ts": 1794617249,
-   "photo": "photos/MAD_FLOYD_AARON_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_GARRETT_TYREE_2026-11-12",
-   "name": "Tyree Caron Garrett",
-   "age": "28",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1794617243,
-   "photo": "photos/POR_GARRETT_TYREE_2026-11-12.jpg"
-  },
-  {
-   "key": "VAN_KINGSBURY_JOSHUA_2026-11-13",
-   "name": "Joshua Dale Kingsbury",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Registration Violation",
-   "more": 0,
-   "ts": 1794617240,
-   "photo": "photos/VAN_KINGSBURY_JOSHUA_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_MARTIN_PAUL_2026-11-13",
-   "name": "Paul Jeffrey Martin",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794617240,
-   "photo": "photos/VAN_MARTIN_PAUL_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_MCGARY_RONALD_2026-11-13",
-   "name": "Ronald Jerome Mcgary",
-   "age": "68",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794617237,
-   "photo": null
-  },
-  {
-   "key": "VAN_MAYES_RONALD_2026-11-13",
-   "name": "Ronald Glenn Mayes",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794617237,
-   "photo": null
-  },
-  {
-   "key": "ALL_ADAMONIS_ASHLEY_2026-11-13",
-   "name": "Ashley Adamonis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 2,
-   "ts": 1794617235,
-   "photo": "photos/ALL_ADAMONIS_ASHLEY_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_LOWE_DIAMOND_2026-11-13",
-   "name": "Diamond Lowe",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794617231,
-   "photo": "photos/ALL_LOWE_DIAMOND_2026-11-13.jpg"
   }
  ]
 }
