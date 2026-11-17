@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-17T16:47:42+00:00",
+ "updated": "2026-11-17T17:47:49+00:00",
  "items": [
+  {
+   "key": "MAD_WORLEY_SARAH_2026-11-17",
+   "name": "Sarah Ashley Worley",
+   "age": "30",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1794937656,
+   "photo": "photos/MAD_WORLEY_SARAH_2026-11-17.jpg"
+  },
+  {
+   "key": "MAD_ALLEN_DEON_2026-11-17",
+   "name": "Deon Dewayne Allen",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery - Against Public Safety Official/Bodily Injury (L5)",
+   "more": 0,
+   "ts": 1794937646,
+   "photo": "photos/MAD_ALLEN_DEON_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_WENTWORTH_ELIZABETH_2026-11-17",
+   "name": "Elizabeth Paige Wentworth",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794937643,
+   "photo": "photos/VAN_WENTWORTH_ELIZABETH_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_SPENCER_STORM_2026-11-17",
+   "name": "Storm Spencer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery to Public Safety Official (Includes Bodily Fluid/Waste)",
+   "more": 2,
+   "ts": 1794937639,
+   "photo": "photos/ALL_SPENCER_STORM_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_SHETLEY_OLIVIA_2026-11-17",
+   "name": "Olivia Shetley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Robbery",
+   "more": 0,
+   "ts": 1794937634,
+   "photo": "photos/ALL_SHETLEY_OLIVIA_2026-11-17.jpg"
+  },
   {
    "key": "MAD_SMITH_DONALD_2026-11-17",
    "name": "Donald Jermaine Smith",
@@ -310,17 +365,6 @@
    "photo": "photos/ALL_REYES_SERGIO_2026-11-17.jpg"
   },
   {
-   "key": "ALL_LUCCHESEGRAHAM_MALACHI_2026-11-17",
-   "name": "Malachi Lucchesegraham",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794894742,
-   "photo": "photos/ALL_LUCCHESEGRAHAM_MALACHI_2026-11-17.jpg"
-  },
-  {
    "key": "MAD_MAXWELL_BRIAN_2026-11-16",
    "name": "Brian Michael Maxwell",
    "age": "56",
@@ -341,17 +385,6 @@
    "more": 0,
    "ts": 1794890838,
    "photo": "photos/VAN_YU_HAIJIANG_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_SHARI_2026-11-16",
-   "name": "Shari Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 2,
-   "ts": 1794890834,
-   "photo": "photos/ALL_WILLIAMS_SHARI_2026-11-16.jpg"
   },
   {
    "key": "VAN_CONNER_ANDREW_2026-11-16",
@@ -495,42 +528,64 @@
    "more": 0,
    "ts": 1794862063,
    "photo": "photos/MAD_WHITESELL_ANDREW_2026-11-16.jpg"
-  },
-  {
-   "key": "MAD_BADER_PAULA_2026-11-16",
-   "name": "Paula Jo Bader",
-   "age": "57",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery (A/M) Simple",
-   "more": 0,
-   "ts": 1794862051,
-   "photo": null
-  },
-  {
-   "key": "VAN_STEWART_JENNIFER_2026-11-16",
-   "name": "Jennifer Sue Stewart",
-   "age": "53",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 2,
-   "ts": 1794862044,
-   "photo": "photos/VAN_STEWART_JENNIFER_2026-11-16.jpg"
-  },
-  {
-   "key": "MAD_BUSBY_TRENT_2026-11-16",
-   "name": "Trent Michael Busby",
-   "age": "54",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Nonsupport of dependent",
-   "more": 0,
-   "ts": 1794854897,
-   "photo": "photos/MAD_BUSBY_TRENT_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WORLEY_SARAH_2026-11-17",
+   "name": "Sarah Ashley Worley",
+   "age": "30",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1794937656,
+   "photo": "photos/MAD_WORLEY_SARAH_2026-11-17.jpg"
+  },
+  {
+   "key": "MAD_ALLEN_DEON_2026-11-17",
+   "name": "Deon Dewayne Allen",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery - Against Public Safety Official/Bodily Injury (L5)",
+   "more": 0,
+   "ts": 1794937646,
+   "photo": "photos/MAD_ALLEN_DEON_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_WENTWORTH_ELIZABETH_2026-11-17",
+   "name": "Elizabeth Paige Wentworth",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1794937643,
+   "photo": "photos/VAN_WENTWORTH_ELIZABETH_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_SPENCER_STORM_2026-11-17",
+   "name": "Storm Spencer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery to Public Safety Official (Includes Bodily Fluid/Waste)",
+   "more": 2,
+   "ts": 1794937639,
+   "photo": "photos/ALL_SPENCER_STORM_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_SHETLEY_OLIVIA_2026-11-17",
+   "name": "Olivia Shetley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Robbery",
+   "more": 0,
+   "ts": 1794937634,
+   "photo": "photos/ALL_SHETLEY_OLIVIA_2026-11-17.jpg"
+  },
   {
    "key": "MAD_SMITH_DONALD_2026-11-17",
    "name": "Donald Jermaine Smith",
@@ -2367,28 +2422,6 @@
    "more": 0,
    "ts": 1794682042,
    "photo": "photos/POR_GONZALEZ_JOSEPH_2026-11-13.jpg"
-  },
-  {
-   "key": "MAD_ROWLES_BRITTANY_2026-11-14",
-   "name": "Brittany Lou-Ann Rowles",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 0,
-   "ts": 1794678456,
-   "photo": "photos/MAD_ROWLES_BRITTANY_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_DAVIS_KYLE_2026-11-14",
-   "name": "Kyle Lee Davis",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794678450,
-   "photo": "photos/MAD_DAVIS_KYLE_2026-11-14.jpg"
   }
  ]
 }
