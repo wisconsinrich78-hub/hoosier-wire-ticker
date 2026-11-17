@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T18:47:40+00:00",
+ "updated": "2026-11-17T19:48:21+00:00",
  "items": [
+  {
+   "key": "POR_MCNICHOLS_DAMARIO_2026-11-16",
+   "name": "Damario Dailyn Mcnichols",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Commitment Prior Charge",
+   "more": 0,
+   "ts": 1794944863,
+   "photo": "photos/POR_MCNICHOLS_DAMARIO_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_JOHNSON_CLAYTON_2026-11-17",
+   "name": "Clayton Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1794944848,
+   "photo": "photos/ALL_JOHNSON_CLAYTON_2026-11-17.jpg"
+  },
   {
    "key": "VAN_PATE_BRANDON_2026-11-17",
    "name": "Brandon James Pate",
@@ -376,17 +398,6 @@
    "photo": "photos/ALL_PEARSON_EBONIE_2026-11-16.jpg"
   },
   {
-   "key": "ALL_REYES_SERGIO_2026-11-17",
-   "name": "Sergio Reyes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794894746,
-   "photo": "photos/ALL_REYES_SERGIO_2026-11-17.jpg"
-  },
-  {
    "key": "MAD_MAXWELL_BRIAN_2026-11-16",
    "name": "Brian Michael Maxwell",
    "age": "56",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1794872853,
    "photo": "photos/VAN_ALEXANDER_FRAZONE_2026-11-16.jpg"
-  },
-  {
-   "key": "MAD_WHITESELL_ANDREW_2026-11-16",
-   "name": "Andrew Perry Whitesell",
-   "age": "42",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794862063,
-   "photo": "photos/MAD_WHITESELL_ANDREW_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_MCNICHOLS_DAMARIO_2026-11-16",
+   "name": "Damario Dailyn Mcnichols",
+   "age": "19",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Commitment Prior Charge",
+   "more": 0,
+   "ts": 1794944863,
+   "photo": "photos/POR_MCNICHOLS_DAMARIO_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_JOHNSON_CLAYTON_2026-11-17",
+   "name": "Clayton Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1794944848,
+   "photo": "photos/ALL_JOHNSON_CLAYTON_2026-11-17.jpg"
+  },
   {
    "key": "VAN_PATE_BRANDON_2026-11-17",
    "name": "Brandon James Pate",
@@ -2400,17 +2422,6 @@
    "more": 0,
    "ts": 1794689237,
    "photo": "photos/ALL_BYRD_OLANDUS_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_SCHWING_COLIN_2026-11-13",
-   "name": "Colin Ford Schwing",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794685630,
-   "photo": "photos/POR_SCHWING_COLIN_2026-11-13.jpg"
   }
  ]
 }
