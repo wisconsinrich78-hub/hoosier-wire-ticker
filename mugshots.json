@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T17:47:49+00:00",
+ "updated": "2026-11-17T18:47:40+00:00",
  "items": [
+  {
+   "key": "VAN_PATE_BRANDON_2026-11-17",
+   "name": "Brandon James Pate",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794941235,
+   "photo": "photos/VAN_PATE_BRANDON_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_WARFIELD_JASON_2026-11-17",
+   "name": "Jason Jabbar Warfield",
+   "age": "54",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794941234,
+   "photo": "photos/VAN_WARFIELD_JASON_2026-11-17.jpg"
+  },
   {
    "key": "MAD_WORLEY_SARAH_2026-11-17",
    "name": "Sarah Ashley Worley",
@@ -497,28 +519,6 @@
    "photo": "photos/VAN_ALEXANDER_FRAZONE_2026-11-16.jpg"
   },
   {
-   "key": "VAN_BELLAMY_AARON_2026-11-16",
-   "name": "Aaron Douglas Bellamy",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794869274,
-   "photo": "photos/VAN_BELLAMY_AARON_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_BRANT_EDWARD_2026-11-16",
-   "name": "Edward Thomas Brant",
-   "age": "58",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Registration Violation",
-   "more": 1,
-   "ts": 1794865654,
-   "photo": "photos/VAN_BRANT_EDWARD_2026-11-16.jpg"
-  },
-  {
    "key": "MAD_WHITESELL_ANDREW_2026-11-16",
    "name": "Andrew Perry Whitesell",
    "age": "42",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_PATE_BRANDON_2026-11-17",
+   "name": "Brandon James Pate",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794941235,
+   "photo": "photos/VAN_PATE_BRANDON_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_WARFIELD_JASON_2026-11-17",
+   "name": "Jason Jabbar Warfield",
+   "age": "54",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794941234,
+   "photo": "photos/VAN_WARFIELD_JASON_2026-11-17.jpg"
+  },
   {
    "key": "MAD_WORLEY_SARAH_2026-11-17",
    "name": "Sarah Ashley Worley",
@@ -2389,39 +2411,6 @@
    "more": 0,
    "ts": 1794685630,
    "photo": "photos/POR_SCHWING_COLIN_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_SELIGER_RYAN_2026-11-13",
-   "name": "Ryan Keith Seliger",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 1,
-   "ts": 1794682047,
-   "photo": "photos/POR_SELIGER_RYAN_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_ROACH_DANIEL_2026-11-13",
-   "name": "Daniel Richard Roach",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794682046,
-   "photo": "photos/POR_ROACH_DANIEL_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_GONZALEZ_JOSEPH_2026-11-13",
-   "name": "Joseph Pedro Gonzalez",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794682042,
-   "photo": "photos/POR_GONZALEZ_JOSEPH_2026-11-13.jpg"
   }
  ]
 }
