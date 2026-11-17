@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-17T01:47:18+00:00",
+ "updated": "2026-11-17T02:47:38+00:00",
  "items": [
+  {
+   "key": "MAD_PURKEY_TIMOTHY_2026-11-16",
+   "name": "Timothy Ryan Purkey",
+   "age": "52",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794883648,
+   "photo": "photos/MAD_PURKEY_TIMOTHY_2026-11-16.jpg"
+  },
+  {
+   "key": "POR_CHAMBERS_NICHOLAS_2026-11-16",
+   "name": "Nicholas James Chambers",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Sex Crime- Child Solicitation",
+   "more": 1,
+   "ts": 1794883636,
+   "photo": "photos/POR_CHAMBERS_NICHOLAS_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_JOHNSON_LASHAWN_2026-11-16",
+   "name": "Lashawn Nmn Johnson",
+   "age": "55",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794883634,
+   "photo": "photos/VAN_JOHNSON_LASHAWN_2026-11-16.jpg"
+  },
   {
    "key": "POR_MALEC_JOSHUA_2026-11-15",
    "name": "Joshua Richard Malec",
@@ -442,17 +475,6 @@
    "photo": "photos/MAD_ALEXANDER_JEREMY_2026-11-16.jpg"
   },
   {
-   "key": "VAN_COX_JAMESON_2026-11-16",
-   "name": "Jameson Allen Cox",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 2,
-   "ts": 1794818827,
-   "photo": "photos/VAN_COX_JAMESON_2026-11-16.jpg"
-  },
-  {
    "key": "MAD_BELZ_NICHOLAS_2026-11-15",
    "name": "Nicholas Belz",
    "age": "36",
@@ -506,31 +528,42 @@
    "more": 3,
    "ts": 1794782835,
    "photo": "photos/POR_ORIGEL_RICARDO_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_FUENTES_JASON_2026-11-14",
-   "name": "Jason Seferino Sanchez Fuentes",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Public Administration- Resisting Law Enforcement",
-   "more": 2,
-   "ts": 1794775644,
-   "photo": "photos/POR_FUENTES_JASON_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_ZULEGER_ADAM_2026-11-14",
-   "name": "Adam Michael Zuleger",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Public Intoxication by Alcohol/Drugs (Drunkenness)",
-   "more": 0,
-   "ts": 1794772039,
-   "photo": "photos/POR_ZULEGER_ADAM_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_PURKEY_TIMOTHY_2026-11-16",
+   "name": "Timothy Ryan Purkey",
+   "age": "52",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794883648,
+   "photo": "photos/MAD_PURKEY_TIMOTHY_2026-11-16.jpg"
+  },
+  {
+   "key": "POR_CHAMBERS_NICHOLAS_2026-11-16",
+   "name": "Nicholas James Chambers",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Sex Crime- Child Solicitation",
+   "more": 1,
+   "ts": 1794883636,
+   "photo": "photos/POR_CHAMBERS_NICHOLAS_2026-11-16.jpg"
+  },
+  {
+   "key": "VAN_JOHNSON_LASHAWN_2026-11-16",
+   "name": "Lashawn Nmn Johnson",
+   "age": "55",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794883634,
+   "photo": "photos/VAN_JOHNSON_LASHAWN_2026-11-16.jpg"
+  },
   {
    "key": "POR_MALEC_JOSHUA_2026-11-15",
    "name": "Joshua Richard Malec",
@@ -2455,17 +2488,6 @@
    "more": 0,
    "ts": 1794631635,
    "photo": "photos/ALL_GRAMES_NICOLE_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_GRIFFIN_TRACY_2026-11-13",
-   "name": "Tracy Dion Griffin",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Resisting Law Enforcement Def. Uses a Vehicle.",
-   "more": 1,
-   "ts": 1794624433,
-   "photo": "photos/POR_GRIFFIN_TRACY_2026-11-13.jpg"
   }
  ]
 }
