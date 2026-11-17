@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-17T22:48:41+00:00",
+ "updated": "2026-11-17T23:48:24+00:00",
  "items": [
+  {
+   "key": "ALL_MARTIN_MATTHEW_2026-11-17",
+   "name": "Matthew Martin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Residential Entry",
+   "more": 0,
+   "ts": 1794959257,
+   "photo": "photos/ALL_MARTIN_MATTHEW_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_FUELLING_RYAN_2026-11-17",
+   "name": "Ryan Fuelling",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery with Moderate Bodily Injury",
+   "more": 0,
+   "ts": 1794959252,
+   "photo": "photos/ALL_FUELLING_RYAN_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_ARRINGTON_JOSEPH_2026-11-17",
+   "name": "Joseph Arrington",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Recklessness W/ Deadly Weapon",
+   "more": 0,
+   "ts": 1794959245,
+   "photo": "photos/ALL_ARRINGTON_JOSEPH_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_MESTA_DEVIN_2026-11-17",
+   "name": "Devin Mesta",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794959239,
+   "photo": "photos/ALL_MESTA_DEVIN_2026-11-17.jpg"
+  },
   {
    "key": "VAN_DENNIS_RANDOLPH_2026-11-17",
    "name": "Randolph Eugene Dennis",
@@ -299,28 +343,6 @@
    "photo": "photos/VAN_EASON_JASPER_2026-11-17.jpg"
   },
   {
-   "key": "ALL_PAYTON_ISAIAH_2026-11-17",
-   "name": "Isaiah Payton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Fleeing",
-   "more": 1,
-   "ts": 1794905234,
-   "photo": "photos/ALL_PAYTON_ISAIAH_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_PETERSON_DAMARION_2026-11-17",
-   "name": "Da'Marion Peterson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Vehicle Theft",
-   "more": 3,
-   "ts": 1794905230,
-   "photo": "photos/ALL_PETERSON_DAMARION_2026-11-17.jpg"
-  },
-  {
    "key": "MAD_FRALEY_JOHNATHAN_2026-11-17",
    "name": "Johnathan Kodi Fraley",
    "age": "40",
@@ -341,28 +363,6 @@
    "more": 0,
    "ts": 1794901719,
    "photo": null
-  },
-  {
-   "key": "ALL_PEOPLES_DEVONTAY_2026-11-17",
-   "name": "Devontay Peoples",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794901718,
-   "photo": null
-  },
-  {
-   "key": "ALL_PARKER_TYREE_2026-11-17",
-   "name": "Tyree Parker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794901646,
-   "photo": "photos/ALL_PARKER_TYREE_2026-11-17.jpg"
   },
   {
    "key": "MAD_MOSBAUGH_ZACHERY_2026-11-17",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_MARTIN_MATTHEW_2026-11-17",
+   "name": "Matthew Martin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Residential Entry",
+   "more": 0,
+   "ts": 1794959257,
+   "photo": "photos/ALL_MARTIN_MATTHEW_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_FUELLING_RYAN_2026-11-17",
+   "name": "Ryan Fuelling",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery with Moderate Bodily Injury",
+   "more": 0,
+   "ts": 1794959252,
+   "photo": "photos/ALL_FUELLING_RYAN_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_ARRINGTON_JOSEPH_2026-11-17",
+   "name": "Joseph Arrington",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Recklessness W/ Deadly Weapon",
+   "more": 0,
+   "ts": 1794959245,
+   "photo": "photos/ALL_ARRINGTON_JOSEPH_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_MESTA_DEVIN_2026-11-17",
+   "name": "Devin Mesta",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794959239,
+   "photo": "photos/ALL_MESTA_DEVIN_2026-11-17.jpg"
+  },
   {
    "key": "VAN_DENNIS_RANDOLPH_2026-11-17",
    "name": "Randolph Eugene Dennis",
@@ -2334,83 +2378,6 @@
    "more": 1,
    "ts": 1794703639,
    "photo": "photos/ALL_COLEMAN_TIFFINEY_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_JENNINGS_TANDRE_2026-11-14",
-   "name": "T'Andre Jesse Gerald Jennings",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Rle",
-   "more": 1,
-   "ts": 1794700057,
-   "photo": "photos/MAD_JENNINGS_TANDRE_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_JENNINGS_LEVI_2026-11-14",
-   "name": "Levi Robert Jennings",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794700056,
-   "photo": "photos/MAD_JENNINGS_LEVI_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_MCGEE_JERRY_2026-11-13",
-   "name": "Jerry Lamar Mcgee",
-   "age": "63",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Prior Conviction",
-   "more": 4,
-   "ts": 1794700049,
-   "photo": "photos/POR_MCGEE_JERRY_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_TUCKER_KAREY_2026-11-14",
-   "name": "Karey Marie Tucker",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794700046,
-   "photo": "photos/VAN_TUCKER_KAREY_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_DILLWORTH_JAMIE_2026-11-14",
-   "name": "Jamie Lynn Dillworth",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 1,
-   "ts": 1794700045,
-   "photo": "photos/VAN_DILLWORTH_JAMIE_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_COKER_ANDREA_2026-11-14",
-   "name": "Andrea Coker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794700041,
-   "photo": "photos/ALL_COKER_ANDREA_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_MURDAY_JERRY_2026-11-14",
-   "name": "Jerry Murday",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1794700037,
-   "photo": "photos/ALL_MURDAY_JERRY_2026-11-14.jpg"
   }
  ]
 }
