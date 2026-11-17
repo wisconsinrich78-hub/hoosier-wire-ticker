@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T00:47:51+00:00",
+ "updated": "2026-11-17T01:47:18+00:00",
  "items": [
   {
    "key": "POR_MALEC_JOSHUA_2026-11-15",
@@ -2466,17 +2466,6 @@
    "more": 1,
    "ts": 1794624433,
    "photo": "photos/POR_GRIFFIN_TRACY_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_TOMPKINS_DEREK_2026-11-13",
-   "name": "Derek David Tompkins",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794620833,
-   "photo": "photos/VAN_TOMPKINS_DEREK_2026-11-13.jpg"
   }
  ]
 }
