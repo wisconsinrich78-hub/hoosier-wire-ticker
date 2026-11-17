@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:47:35+00:00",
+ "updated": "2026-11-17T11:47:26+00:00",
  "items": [
   {
    "key": "ALL_MCNEASE_MELVIN_2026-11-17",
@@ -2433,39 +2433,6 @@
    "more": 3,
    "ts": 1794660432,
    "photo": "photos/VAN_COZART_ANJALINA_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_AGREDANOGUTIERREZ_JULIO_2026-11-13",
-   "name": "Julio Cesar Agredano-Gutierrez",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1794656835,
-   "photo": "photos/POR_AGREDANOGUTIERREZ_JULIO_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_LAX_ANDREW_2026-11-14",
-   "name": "Andrew David Lax",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
-   "more": 1,
-   "ts": 1794656832,
-   "photo": "photos/VAN_LAX_ANDREW_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_GOODMAN_JONAE_2026-11-14",
-   "name": "Jonae Essence Goodman",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
-   "more": 2,
-   "ts": 1794656831,
-   "photo": "photos/VAN_GOODMAN_JONAE_2026-11-14.jpg"
   }
  ]
 }
