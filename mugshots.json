@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T12:47:34+00:00",
+ "updated": "2026-11-17T13:47:41+00:00",
  "items": [
+  {
+   "key": "ALL_MOORE_MARZINE_2026-11-17",
+   "name": "Marzine Moore",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Refusal to Identify Self",
+   "more": 2,
+   "ts": 1794923235,
+   "photo": "photos/ALL_MOORE_MARZINE_2026-11-17.jpg"
+  },
   {
    "key": "VAN_BONNER_CHRISTOPHER_2026-11-17",
    "name": "Christopher Darnell Bonner",
@@ -387,17 +398,6 @@
    "photo": "photos/ALL_WILLIAMS_JERMICHAEL_2026-11-16.jpg"
   },
   {
-   "key": "ALL_KELSAW_KENYON_2026-11-16",
-   "name": "Kenyon Kelsaw",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
-   "more": 1,
-   "ts": 1794876437,
-   "photo": null
-  },
-  {
    "key": "VAN_BURNS_MITZIE_2026-11-16",
    "name": "Mitzie Channel Monique Burns",
    "age": "42",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_MOORE_MARZINE_2026-11-17",
+   "name": "Marzine Moore",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Refusal to Identify Self",
+   "more": 2,
+   "ts": 1794923235,
+   "photo": "photos/ALL_MOORE_MARZINE_2026-11-17.jpg"
+  },
   {
    "key": "VAN_BONNER_CHRISTOPHER_2026-11-17",
    "name": "Christopher Darnell Bonner",
@@ -2378,50 +2389,6 @@
    "more": 0,
    "ts": 1794671232,
    "photo": "photos/ALL_GUEVARA_BREEANA_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_PAVY_JEFFERY_2026-11-13",
-   "name": "Jeffery Allen Pavy",
-   "age": "52",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 1,
-   "ts": 1794664041,
-   "photo": "photos/POR_PAVY_JEFFERY_2026-11-13.jpg"
-  },
-  {
-   "key": "VAN_ADAMS_ANGELO_2026-11-14",
-   "name": "Angelo Nmn Adams",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1794664038,
-   "photo": "photos/VAN_ADAMS_ANGELO_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_CONLEY_BRENDAN_2026-11-14",
-   "name": "Brendan Conley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794664034,
-   "photo": "photos/ALL_CONLEY_BRENDAN_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_LAPSLEY_JONIYAH_2026-11-14",
-   "name": "Joniyah Lapsley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 3,
-   "ts": 1794664030,
-   "photo": "photos/ALL_LAPSLEY_JONIYAH_2026-11-14.jpg"
   }
  ]
 }
