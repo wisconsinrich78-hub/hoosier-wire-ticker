@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-17T04:47:24+00:00",
+ "updated": "2026-11-17T05:12:14+00:00",
  "items": [
+  {
+   "key": "MAD_MAXWELL_BRIAN_2026-11-16",
+   "name": "Brian Michael Maxwell",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Auto theft",
+   "more": 2,
+   "ts": 1794890848,
+   "photo": "photos/MAD_MAXWELL_BRIAN_2026-11-16.jpg"
+  },
   {
    "key": "VAN_YU_HAIJIANG_2026-11-16",
    "name": "Haijiang Nmn Yu",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1794782838,
    "photo": "photos/POR_FORTNER_BERNARD_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_ORIGEL_RICARDO_2026-11-14",
-   "name": "Ricardo Origel",
-   "age": "64",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endangerment",
-   "more": 3,
-   "ts": 1794782835,
-   "photo": "photos/POR_ORIGEL_RICARDO_2026-11-14.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_MAXWELL_BRIAN_2026-11-16",
+   "name": "Brian Michael Maxwell",
+   "age": "56",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Auto theft",
+   "more": 2,
+   "ts": 1794890848,
+   "photo": "photos/MAD_MAXWELL_BRIAN_2026-11-16.jpg"
+  },
   {
    "key": "VAN_YU_HAIJIANG_2026-11-16",
    "name": "Haijiang Nmn Yu",
@@ -2499,17 +2510,6 @@
    "more": 4,
    "ts": 1794635237,
    "photo": "photos/ALL_BIT_TUA_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_FULLER_TRENTON_2026-11-13",
-   "name": "Trenton Lee Fuller",
-   "age": "44",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794631645,
-   "photo": "photos/MAD_FULLER_TRENTON_2026-11-13.jpg"
   }
  ]
 }
