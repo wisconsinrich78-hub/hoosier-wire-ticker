@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T21:52:16+00:00",
+ "updated": "2026-11-17T22:48:41+00:00",
  "items": [
+  {
+   "key": "VAN_DENNIS_RANDOLPH_2026-11-17",
+   "name": "Randolph Eugene Dennis",
+   "age": "68",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Moderate Bodily Injury",
+   "more": 0,
+   "ts": 1794955664,
+   "photo": "photos/VAN_DENNIS_RANDOLPH_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_HOLMES_CHRISTOPHER_2026-11-17",
+   "name": "Christopher Holmes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794955652,
+   "photo": "photos/ALL_HOLMES_CHRISTOPHER_2026-11-17.jpg"
+  },
   {
    "key": "ALL_WOODS_ANDREW_2026-11-17",
    "name": "Andrew Woods",
@@ -343,17 +365,6 @@
    "photo": "photos/ALL_PARKER_TYREE_2026-11-17.jpg"
   },
   {
-   "key": "ALL_CAYLOR_ANTHONY_2026-11-17",
-   "name": "Anthony Caylor",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794901633,
-   "photo": null
-  },
-  {
    "key": "MAD_MOSBAUGH_ZACHERY_2026-11-17",
    "name": "Zachery Ryan Mosbaugh",
    "age": "34",
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1794872854,
    "photo": "photos/VAN_BURNS_MITZIE_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_ALEXANDER_FRAZONE_2026-11-16",
-   "name": "Frazone Edward Alexander",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794872853,
-   "photo": "photos/VAN_ALEXANDER_FRAZONE_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_DENNIS_RANDOLPH_2026-11-17",
+   "name": "Randolph Eugene Dennis",
+   "age": "68",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Moderate Bodily Injury",
+   "more": 0,
+   "ts": 1794955664,
+   "photo": "photos/VAN_DENNIS_RANDOLPH_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_HOLMES_CHRISTOPHER_2026-11-17",
+   "name": "Christopher Holmes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794955652,
+   "photo": "photos/ALL_HOLMES_CHRISTOPHER_2026-11-17.jpg"
+  },
   {
    "key": "ALL_WOODS_ANDREW_2026-11-17",
    "name": "Andrew Woods",
