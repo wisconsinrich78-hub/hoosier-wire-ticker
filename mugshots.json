@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T03:47:29+00:00",
+ "updated": "2026-11-17T04:47:24+00:00",
  "items": [
+  {
+   "key": "VAN_YU_HAIJIANG_2026-11-16",
+   "name": "Haijiang Nmn Yu",
+   "age": "52",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
+   "more": 0,
+   "ts": 1794890838,
+   "photo": "photos/VAN_YU_HAIJIANG_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_WILLIAMS_SHARI_2026-11-16",
+   "name": "Shari Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1794890834,
+   "photo": "photos/ALL_WILLIAMS_SHARI_2026-11-16.jpg"
+  },
   {
    "key": "VAN_CONNER_ANDREW_2026-11-16",
    "name": "Andrew Joseph Conner",
@@ -376,17 +398,6 @@
    "photo": "photos/MAD_BUSBY_TRENT_2026-11-16.jpg"
   },
   {
-   "key": "VAN_MOTEN_DARIUS_2026-11-16",
-   "name": "Darius Antwine Moten",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 1,
-   "ts": 1794851241,
-   "photo": "photos/VAN_MOTEN_DARIUS_2026-11-16.jpg"
-  },
-  {
    "key": "ALL_ROBINSON_TIA_2026-11-16",
    "name": "Tia Robinson",
    "age": "",
@@ -440,17 +451,6 @@
    "more": 0,
    "ts": 1794844048,
    "photo": "photos/POR_MCTAGGART_CODY_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_MOORE_JUSTIN_2026-11-16",
-   "name": "Justin Moore",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Robbery / Armed",
-   "more": 1,
-   "ts": 1794844040,
-   "photo": "photos/ALL_MOORE_JUSTIN_2026-11-16.jpg"
   },
   {
    "key": "POR_SUYAK_CHERYL_2026-11-15",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_YU_HAIJIANG_2026-11-16",
+   "name": "Haijiang Nmn Yu",
+   "age": "52",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
+   "more": 0,
+   "ts": 1794890838,
+   "photo": "photos/VAN_YU_HAIJIANG_2026-11-16.jpg"
+  },
+  {
+   "key": "ALL_WILLIAMS_SHARI_2026-11-16",
+   "name": "Shari Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 2,
+   "ts": 1794890834,
+   "photo": "photos/ALL_WILLIAMS_SHARI_2026-11-16.jpg"
+  },
   {
    "key": "VAN_CONNER_ANDREW_2026-11-16",
    "name": "Andrew Joseph Conner",
@@ -2488,28 +2510,6 @@
    "more": 0,
    "ts": 1794631645,
    "photo": "photos/MAD_FULLER_TRENTON_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_MITCHELL_ERICK_2026-11-13",
-   "name": "Erick Cj Mitchell",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
-   "more": 2,
-   "ts": 1794631640,
-   "photo": "photos/POR_MITCHELL_ERICK_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_GRAMES_NICOLE_2026-11-13",
-   "name": "Nicole Grames",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Paraphernalia",
-   "more": 0,
-   "ts": 1794631635,
-   "photo": "photos/ALL_GRAMES_NICOLE_2026-11-13.jpg"
   }
  ]
 }
