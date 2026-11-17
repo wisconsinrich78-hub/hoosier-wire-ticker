@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T19:48:21+00:00",
+ "updated": "2026-11-17T20:49:11+00:00",
  "items": [
+  {
+   "key": "ALL_COOPERWOOD_JAMIKEL_2026-11-17",
+   "name": "Jamikel Cooperwood",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794948484,
+   "photo": "photos/ALL_COOPERWOOD_JAMIKEL_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_COY_TRACEY_2026-11-17",
+   "name": "Tracey Coy",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Driver Over 21/Passenger Less Than 18",
+   "more": 2,
+   "ts": 1794948477,
+   "photo": "photos/ALL_COY_TRACEY_2026-11-17.jpg"
+  },
   {
    "key": "POR_MCNICHOLS_DAMARIO_2026-11-16",
    "name": "Damario Dailyn Mcnichols",
@@ -376,28 +398,6 @@
    "photo": "photos/ALL_ASHER_ZACHARIAH_2026-11-17.jpg"
   },
   {
-   "key": "ALL_HORMANN_KENT_2026-11-17",
-   "name": "Kent Hormann",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794898030,
-   "photo": "photos/ALL_HORMANN_KENT_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_PEARSON_EBONIE_2026-11-16",
-   "name": "Ebonie Pearson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794894750,
-   "photo": "photos/ALL_PEARSON_EBONIE_2026-11-16.jpg"
-  },
-  {
    "key": "MAD_MAXWELL_BRIAN_2026-11-16",
    "name": "Brian Michael Maxwell",
    "age": "56",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_COOPERWOOD_JAMIKEL_2026-11-17",
+   "name": "Jamikel Cooperwood",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1794948484,
+   "photo": "photos/ALL_COOPERWOOD_JAMIKEL_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_COY_TRACEY_2026-11-17",
+   "name": "Tracey Coy",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Driver Over 21/Passenger Less Than 18",
+   "more": 2,
+   "ts": 1794948477,
+   "photo": "photos/ALL_COY_TRACEY_2026-11-17.jpg"
+  },
   {
    "key": "POR_MCNICHOLS_DAMARIO_2026-11-16",
    "name": "Damario Dailyn Mcnichols",
@@ -2400,28 +2422,6 @@
    "more": 1,
    "ts": 1794692837,
    "photo": "photos/ALL_JOHNSON_ELIJAH_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_LOWE_ALEXANDER_2026-11-14",
-   "name": "Alexander Christopher Lowe",
-   "age": "19",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794689249,
-   "photo": null
-  },
-  {
-   "key": "ALL_BYRD_OLANDUS_2026-11-14",
-   "name": "Olandus Byrd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Warrant Arrest",
-   "more": 0,
-   "ts": 1794689237,
-   "photo": "photos/ALL_BYRD_OLANDUS_2026-11-14.jpg"
   }
  ]
 }
