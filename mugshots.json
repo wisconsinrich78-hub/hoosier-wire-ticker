@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-17T07:49:03+00:00",
+ "updated": "2026-11-17T08:47:39+00:00",
  "items": [
+  {
+   "key": "MAD_BRIDENTHAL_ADORA_2026-11-17",
+   "name": "Adora Havyn Bridenthal",
+   "age": "20",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794905244,
+   "photo": null
+  },
+  {
+   "key": "VAN_POOLE_ERIC_2026-11-17",
+   "name": "Eric Andre Poole",
+   "age": "63",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1794905239,
+   "photo": "photos/VAN_POOLE_ERIC_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_EASON_JASPER_2026-11-17",
+   "name": "Jasper Makal Eason",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794905238,
+   "photo": "photos/VAN_EASON_JASPER_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_PAYTON_ISAIAH_2026-11-17",
+   "name": "Isaiah Payton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 1,
+   "ts": 1794905234,
+   "photo": "photos/ALL_PAYTON_ISAIAH_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_PETERSON_DAMARION_2026-11-17",
+   "name": "Da'Marion Peterson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Vehicle Theft",
+   "more": 3,
+   "ts": 1794905230,
+   "photo": "photos/ALL_PETERSON_DAMARION_2026-11-17.jpg"
+  },
   {
    "key": "MAD_FRALEY_JOHNATHAN_2026-11-17",
    "name": "Johnathan Kodi Fraley",
@@ -365,28 +420,6 @@
    "photo": "photos/VAN_BELLAMY_AARON_2026-11-16.jpg"
   },
   {
-   "key": "ALL_JOHNSON_QUANDALE_2026-11-16",
-   "name": "Quandale Johnson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving the Scene-Driver Fails to Immediately Stop at the Scene of\u2026",
-   "more": 0,
-   "ts": 1794869267,
-   "photo": "photos/ALL_JOHNSON_QUANDALE_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_STARKS_TAJ_2026-11-16",
-   "name": "Taj Starks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1794869262,
-   "photo": "photos/ALL_STARKS_TAJ_2026-11-16.jpg"
-  },
-  {
    "key": "VAN_BRANT_EDWARD_2026-11-16",
    "name": "Edward Thomas Brant",
    "age": "58",
@@ -442,28 +475,6 @@
    "photo": null
   },
   {
-   "key": "VAN_ARMSTRONG_JAMES_2026-11-16",
-   "name": "James Neal Armstrong",
-   "age": "56",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794862041,
-   "photo": null
-  },
-  {
-   "key": "VAN_WARD_CAMERON_2026-11-16",
-   "name": "Cameron Lee Ward",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794858455,
-   "photo": "photos/VAN_WARD_CAMERON_2026-11-16.jpg"
-  },
-  {
    "key": "MAD_BUSBY_TRENT_2026-11-16",
    "name": "Trent Michael Busby",
    "age": "54",
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1794833235,
    "photo": "photos/POR_SUYAK_CHERYL_2026-11-15.jpg"
-  },
-  {
-   "key": "MAD_ALEXANDER_JEREMY_2026-11-16",
-   "name": "Jeremy Matthew Alexander",
-   "age": "38",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession paraphernalia",
-   "more": 2,
-   "ts": 1794826037,
-   "photo": "photos/MAD_ALEXANDER_JEREMY_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_BRIDENTHAL_ADORA_2026-11-17",
+   "name": "Adora Havyn Bridenthal",
+   "age": "20",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794905244,
+   "photo": null
+  },
+  {
+   "key": "VAN_POOLE_ERIC_2026-11-17",
+   "name": "Eric Andre Poole",
+   "age": "63",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1794905239,
+   "photo": "photos/VAN_POOLE_ERIC_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_EASON_JASPER_2026-11-17",
+   "name": "Jasper Makal Eason",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794905238,
+   "photo": "photos/VAN_EASON_JASPER_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_PAYTON_ISAIAH_2026-11-17",
+   "name": "Isaiah Payton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement - Fleeing",
+   "more": 1,
+   "ts": 1794905234,
+   "photo": "photos/ALL_PAYTON_ISAIAH_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_PETERSON_DAMARION_2026-11-17",
+   "name": "Da'Marion Peterson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Vehicle Theft",
+   "more": 3,
+   "ts": 1794905230,
+   "photo": "photos/ALL_PETERSON_DAMARION_2026-11-17.jpg"
+  },
   {
    "key": "MAD_FRALEY_JOHNATHAN_2026-11-17",
    "name": "Johnathan Kodi Fraley",
@@ -2466,50 +2521,6 @@
    "more": 1,
    "ts": 1794649636,
    "photo": "photos/ALL_YA_ZAKI_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_BURGET_JOSEPH_2026-11-14",
-   "name": "Joseph Alan Burget",
-   "age": "50",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794646048,
-   "photo": "photos/MAD_BURGET_JOSEPH_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_FOSNAUGH_JANICE_2026-11-14",
-   "name": "Janice Fosnaugh",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794646041,
-   "photo": "photos/ALL_FOSNAUGH_JANICE_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_YANCEY_CHARLES_2026-11-14",
-   "name": "Charles Yancey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794646036,
-   "photo": null
-  },
-  {
-   "key": "ALL_BROWN_DAMIAN_2026-11-14",
-   "name": "Damian Brown",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 1,
-   "ts": 1794646032,
-   "photo": "photos/ALL_BROWN_DAMIAN_2026-11-14.jpg"
   }
  ]
 }
