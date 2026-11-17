@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-17T08:47:39+00:00",
+ "updated": "2026-11-17T09:47:36+00:00",
  "items": [
+  {
+   "key": "ALL_MCNEASE_MELVIN_2026-11-17",
+   "name": "Melvin Mcnease",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "False Identity Statement",
+   "more": 1,
+   "ts": 1794908835,
+   "photo": "photos/ALL_MCNEASE_MELVIN_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_EDWARDS_LUKE_2026-11-17",
+   "name": "Luke Edwards",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794908831,
+   "photo": "photos/ALL_EDWARDS_LUKE_2026-11-17.jpg"
+  },
   {
    "key": "MAD_BRIDENTHAL_ADORA_2026-11-17",
    "name": "Adora Havyn Bridenthal",
@@ -387,28 +409,6 @@
    "photo": "photos/VAN_ALEXANDER_FRAZONE_2026-11-16.jpg"
   },
   {
-   "key": "ALL_ROSE_HEATHER_2026-11-16",
-   "name": "Heather Rose",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Controlled Substance",
-   "more": 2,
-   "ts": 1794872847,
-   "photo": null
-  },
-  {
-   "key": "ALL_BLYTHE_JORDAN_2026-11-16",
-   "name": "Jordan Blythe",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794872842,
-   "photo": "photos/ALL_BLYTHE_JORDAN_2026-11-16.jpg"
-  },
-  {
    "key": "VAN_BELLAMY_AARON_2026-11-16",
    "name": "Aaron Douglas Bellamy",
    "age": "31",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_MCNEASE_MELVIN_2026-11-17",
+   "name": "Melvin Mcnease",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "False Identity Statement",
+   "more": 1,
+   "ts": 1794908835,
+   "photo": "photos/ALL_MCNEASE_MELVIN_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_EDWARDS_LUKE_2026-11-17",
+   "name": "Luke Edwards",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794908831,
+   "photo": "photos/ALL_EDWARDS_LUKE_2026-11-17.jpg"
+  },
   {
    "key": "MAD_BRIDENTHAL_ADORA_2026-11-17",
    "name": "Adora Havyn Bridenthal",
@@ -2477,50 +2499,6 @@
    "more": 1,
    "ts": 1794653231,
    "photo": "photos/VAN_HARPER_GREGORY_2026-11-14.jpg"
-  },
-  {
-   "key": "MAD_CAMPBELL_AUTUMN_2026-11-14",
-   "name": "Autumn Cheyenne Campbell",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794649649,
-   "photo": "photos/MAD_CAMPBELL_AUTUMN_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_CASTER_DAVID_2026-11-13",
-   "name": "David Bryan Caster",
-   "age": "61",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794649643,
-   "photo": "photos/POR_CASTER_DAVID_2026-11-13.jpg"
-  },
-  {
-   "key": "POR_SCOTT_ROBERT_2026-11-13",
-   "name": "Robert Lewis Scott",
-   "age": "58",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794649640,
-   "photo": "photos/POR_SCOTT_ROBERT_2026-11-13.jpg"
-  },
-  {
-   "key": "ALL_YA_ZAKI_2026-11-14",
-   "name": "Zaki Ya",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 1,
-   "ts": 1794649636,
-   "photo": "photos/ALL_YA_ZAKI_2026-11-14.jpg"
   }
  ]
 }
