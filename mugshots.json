@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T10:47:41+00:00",
+ "updated": "2026-11-18T11:47:26+00:00",
  "items": [
+  {
+   "key": "VAN_MATA_REBEKAH_2026-11-18",
+   "name": "Rebekah Lynn Mata",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795002430,
+   "photo": "photos/VAN_MATA_REBEKAH_2026-11-18.jpg"
+  },
   {
    "key": "VAN_CALDWELL_TARON_2026-11-18",
    "name": "Taron Malik Caldwell",
@@ -420,17 +431,6 @@
    "photo": "photos/MAD_ALLEN_DEON_2026-11-17.jpg"
   },
   {
-   "key": "VAN_WENTWORTH_ELIZABETH_2026-11-17",
-   "name": "Elizabeth Paige Wentworth",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794937643,
-   "photo": "photos/VAN_WENTWORTH_ELIZABETH_2026-11-17.jpg"
-  },
-  {
    "key": "MAD_SMITH_DONALD_2026-11-17",
    "name": "Donald Jermaine Smith",
    "age": "44",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_MATA_REBEKAH_2026-11-18",
+   "name": "Rebekah Lynn Mata",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795002430,
+   "photo": "photos/VAN_MATA_REBEKAH_2026-11-18.jpg"
+  },
   {
    "key": "VAN_CALDWELL_TARON_2026-11-18",
    "name": "Taron Malik Caldwell",
@@ -2268,39 +2279,6 @@
    "more": 0,
    "ts": 1794743250,
    "photo": "photos/MAD_HAMMOND_JUSTIN_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_STONE_CHARLES_2026-11-15",
-   "name": "Charles Xander Stone",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
-   "more": 1,
-   "ts": 1794743241,
-   "photo": "photos/VAN_STONE_CHARLES_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_SHEVCHENKO_MARK_2026-11-15",
-   "name": "Mark Nikolaevcih Shevchenko",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
-   "more": 0,
-   "ts": 1794743238,
-   "photo": "photos/VAN_SHEVCHENKO_MARK_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_GREEN_PASHINAY_2026-11-15",
-   "name": "Pashinay Patrizia Green",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Obstruction of Justice",
-   "more": 5,
-   "ts": 1794743237,
-   "photo": "photos/VAN_GREEN_PASHINAY_2026-11-15.jpg"
   }
  ]
 }
