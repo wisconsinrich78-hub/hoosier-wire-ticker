@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T08:47:27+00:00",
+ "updated": "2026-11-18T09:47:30+00:00",
  "items": [
+  {
+   "key": "VAN_STRAYHORN_CAMRYN_2026-11-18",
+   "name": "Camryn Neal Strayhorn",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "False Reporting; False Informing",
+   "more": 1,
+   "ts": 1794995232,
+   "photo": "photos/VAN_STRAYHORN_CAMRYN_2026-11-18.jpg"
+  },
   {
    "key": "MAD_SILLS_ERIK_2026-11-18",
    "name": "Erik Stanley Sills",
@@ -475,17 +486,6 @@
    "photo": null
   },
   {
-   "key": "VAN_POOLE_ERIC_2026-11-17",
-   "name": "Eric Andre Poole",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 1,
-   "ts": 1794905239,
-   "photo": "photos/VAN_POOLE_ERIC_2026-11-17.jpg"
-  },
-  {
    "key": "MAD_FRALEY_JOHNATHAN_2026-11-17",
    "name": "Johnathan Kodi Fraley",
    "age": "40",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_STRAYHORN_CAMRYN_2026-11-18",
+   "name": "Camryn Neal Strayhorn",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "False Reporting; False Informing",
+   "more": 1,
+   "ts": 1794995232,
+   "photo": "photos/VAN_STRAYHORN_CAMRYN_2026-11-18.jpg"
+  },
   {
    "key": "MAD_SILLS_ERIK_2026-11-18",
    "name": "Erik Stanley Sills",
@@ -2323,39 +2334,6 @@
    "more": 4,
    "ts": 1794739634,
    "photo": "photos/ALL_NIX_DALE_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_LEAVITT_TYLER_2026-11-15",
-   "name": "Tyler Leavitt",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Physical",
-   "more": 10,
-   "ts": 1794736038,
-   "photo": "photos/ALL_LEAVITT_TYLER_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_MONTENEGRO_FRANCISCO_2026-11-15",
-   "name": "Francisco Montenegro",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794736033,
-   "photo": null
-  },
-  {
-   "key": "VAN_NOLAN_TREY_2026-11-15",
-   "name": "Trey Alexander Nolan",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Prior",
-   "more": 1,
-   "ts": 1794736032,
-   "photo": "photos/VAN_NOLAN_TREY_2026-11-15.jpg"
   }
  ]
 }
