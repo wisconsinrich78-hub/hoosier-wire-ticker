@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-18T02:47:43+00:00",
+ "updated": "2026-11-18T03:47:44+00:00",
  "items": [
+  {
+   "key": "VAN_FRIDY_MARCUS_2026-11-17",
+   "name": "Marcus James Fridy",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794973629,
+   "photo": "photos/VAN_FRIDY_MARCUS_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_PITSONBARGER_MISTY_2026-11-17",
+   "name": "Misty Dawn Pitsonbarger",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794973627,
+   "photo": null
+  },
   {
    "key": "ALL_EVERLING_JACQUELINE_2026-11-17",
    "name": "Jacqueline Everling",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1794883648,
    "photo": "photos/MAD_PURKEY_TIMOTHY_2026-11-16.jpg"
-  },
-  {
-   "key": "POR_CHAMBERS_NICHOLAS_2026-11-16",
-   "name": "Nicholas James Chambers",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Sex Crime- Child Solicitation",
-   "more": 1,
-   "ts": 1794883636,
-   "photo": "photos/POR_CHAMBERS_NICHOLAS_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_LASHAWN_2026-11-16",
-   "name": "Lashawn Nmn Johnson",
-   "age": "55",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794883634,
-   "photo": "photos/VAN_JOHNSON_LASHAWN_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_FRIDY_MARCUS_2026-11-17",
+   "name": "Marcus James Fridy",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1794973629,
+   "photo": "photos/VAN_FRIDY_MARCUS_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_PITSONBARGER_MISTY_2026-11-17",
+   "name": "Misty Dawn Pitsonbarger",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1794973627,
+   "photo": null
+  },
   {
    "key": "ALL_EVERLING_JACQUELINE_2026-11-17",
    "name": "Jacqueline Everling",
@@ -2378,17 +2400,6 @@
    "more": 1,
    "ts": 1794718040,
    "photo": "photos/ALL_LEMASTER_MATTHEW_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_BLACKBURN_JOSEPH_2026-11-14",
-   "name": "Joseph Hunter Blackburn",
-   "age": "24",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endangerment",
-   "more": 3,
-   "ts": 1794714437,
-   "photo": "photos/POR_BLACKBURN_JOSEPH_2026-11-14.jpg"
   }
  ]
 }
