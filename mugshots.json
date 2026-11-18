@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-18T18:47:50+00:00",
+ "updated": "2026-11-18T19:47:55+00:00",
  "items": [
+  {
+   "key": "MAD_JOHNSON_CURTIS_2026-11-18",
+   "name": "Curtis Devie Johnson",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795031249,
+   "photo": "photos/MAD_JOHNSON_CURTIS_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_BACHMAN_JESSIE_2026-11-17",
+   "name": "Jessie Leigh Bachman",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "RESIDENTIAL ENTRY - Crime Against Society",
+   "more": 1,
+   "ts": 1795031245,
+   "photo": "photos/POR_BACHMAN_JESSIE_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_MOORE_ANDREW_2026-11-18",
+   "name": "Andrew Joseph Moore",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795031241,
+   "photo": null
+  },
+  {
+   "key": "VAN_JOHNSON_JUMAREYAN_2026-11-18",
+   "name": "Jumareyan Towalo Johnson",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery-Committed with a Deadly Weapon-Felony",
+   "more": 0,
+   "ts": 1795031241,
+   "photo": null
+  },
+  {
+   "key": "VAN_DAVIS_NORAH_2026-11-18",
+   "name": "Norah Grace Davis",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 0,
+   "ts": 1795031241,
+   "photo": null
+  },
+  {
+   "key": "ALL_MOORE_MARZINE_2026-11-18",
+   "name": "Marzine Moore",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt of Court-Criminal",
+   "more": 0,
+   "ts": 1795031240,
+   "photo": "photos/ALL_MOORE_MARZINE_2026-11-18.jpg"
+  },
   {
    "key": "MAD_SHAW_ANTHONY_2026-11-18",
    "name": "Anthony Ross Shaw",
@@ -354,28 +420,6 @@
    "photo": "photos/ALL_LASTORINASNYDER_MARIO_2026-11-17.jpg"
   },
   {
-   "key": "VAN_FRIDY_MARCUS_2026-11-17",
-   "name": "Marcus James Fridy",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794973629,
-   "photo": "photos/VAN_FRIDY_MARCUS_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_PITSONBARGER_MISTY_2026-11-17",
-   "name": "Misty Dawn Pitsonbarger",
-   "age": "58",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794973627,
-   "photo": null
-  },
-  {
    "key": "ALL_EVERLING_JACQUELINE_2026-11-17",
    "name": "Jacqueline Everling",
    "age": "",
@@ -464,17 +508,6 @@
    "photo": "photos/ALL_JONES_DARREL_2026-11-17.jpg"
   },
   {
-   "key": "VAN_CLARK_CODY_2026-11-17",
-   "name": "Cody Allen Clark",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794962843,
-   "photo": "photos/VAN_CLARK_CODY_2026-11-17.jpg"
-  },
-  {
    "key": "MAD_ADAMS_AUBREY_2026-11-17",
    "name": "Aubrey Mekeanna Adams",
    "age": "18",
@@ -486,17 +519,6 @@
    "photo": "photos/MAD_ADAMS_AUBREY_2026-11-17.jpg"
   },
   {
-   "key": "ALL_MARTIN_MATTHEW_2026-11-17",
-   "name": "Matthew Martin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Residential Entry",
-   "more": 0,
-   "ts": 1794959257,
-   "photo": "photos/ALL_MARTIN_MATTHEW_2026-11-17.jpg"
-  },
-  {
    "key": "POR_MCNICHOLS_DAMARIO_2026-11-16",
    "name": "Damario Dailyn Mcnichols",
    "age": "19",
@@ -506,31 +528,75 @@
    "more": 0,
    "ts": 1794944863,
    "photo": "photos/POR_MCNICHOLS_DAMARIO_2026-11-16.jpg"
-  },
-  {
-   "key": "MAD_WORLEY_SARAH_2026-11-17",
-   "name": "Sarah Ashley Worley",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794937656,
-   "photo": "photos/MAD_WORLEY_SARAH_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_ALLEN_DEON_2026-11-17",
-   "name": "Deon Dewayne Allen",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery - Against Public Safety Official/Bodily Injury (L5)",
-   "more": 0,
-   "ts": 1794937646,
-   "photo": "photos/MAD_ALLEN_DEON_2026-11-17.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_JOHNSON_CURTIS_2026-11-18",
+   "name": "Curtis Devie Johnson",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795031249,
+   "photo": "photos/MAD_JOHNSON_CURTIS_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_BACHMAN_JESSIE_2026-11-17",
+   "name": "Jessie Leigh Bachman",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "RESIDENTIAL ENTRY - Crime Against Society",
+   "more": 1,
+   "ts": 1795031245,
+   "photo": "photos/POR_BACHMAN_JESSIE_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_MOORE_ANDREW_2026-11-18",
+   "name": "Andrew Joseph Moore",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795031241,
+   "photo": null
+  },
+  {
+   "key": "VAN_JOHNSON_JUMAREYAN_2026-11-18",
+   "name": "Jumareyan Towalo Johnson",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery-Committed with a Deadly Weapon-Felony",
+   "more": 0,
+   "ts": 1795031241,
+   "photo": null
+  },
+  {
+   "key": "VAN_DAVIS_NORAH_2026-11-18",
+   "name": "Norah Grace Davis",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 0,
+   "ts": 1795031241,
+   "photo": null
+  },
+  {
+   "key": "ALL_MOORE_MARZINE_2026-11-18",
+   "name": "Marzine Moore",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt of Court-Criminal",
+   "more": 0,
+   "ts": 1795031240,
+   "photo": "photos/ALL_MOORE_MARZINE_2026-11-18.jpg"
+  },
   {
    "key": "MAD_SHAW_ANTHONY_2026-11-18",
    "name": "Anthony Ross Shaw",
@@ -2334,28 +2400,6 @@
    "more": 1,
    "ts": 1794775634,
    "photo": "photos/ALL_YATES_NICKOLAS_2026-11-15.jpg"
-  },
-  {
-   "key": "POR_ZULEGER_ADAM_2026-11-14",
-   "name": "Adam Michael Zuleger",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Public Intoxication by Alcohol/Drugs (Drunkenness)",
-   "more": 0,
-   "ts": 1794772039,
-   "photo": "photos/POR_ZULEGER_ADAM_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_WHITE_ANGELA_2026-11-15",
-   "name": "Angela White",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1794772036,
-   "photo": "photos/ALL_WHITE_ANGELA_2026-11-15.jpg"
   }
  ]
 }
