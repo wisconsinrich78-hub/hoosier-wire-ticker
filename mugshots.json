@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:47:26+00:00",
+ "updated": "2026-11-18T12:47:25+00:00",
  "items": [
   {
    "key": "VAN_MATA_REBEKAH_2026-11-18",
@@ -2246,39 +2246,6 @@
    "more": 0,
    "ts": 1794750437,
    "photo": "photos/ALL_GUTIERREZ_AMY_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_BURDEN_HANNAH_2026-11-15",
-   "name": "Hannah Marie Burden",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 3,
-   "ts": 1794746831,
-   "photo": "photos/VAN_BURDEN_HANNAH_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_ANWEL_BENJAMIN_2026-11-15",
-   "name": "Benjamin Arata Anwel",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 2,
-   "ts": 1794746830,
-   "photo": "photos/VAN_ANWEL_BENJAMIN_2026-11-15.jpg"
-  },
-  {
-   "key": "MAD_HAMMOND_JUSTIN_2026-11-15",
-   "name": "Justin Matthew Hammond",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794743250,
-   "photo": "photos/MAD_HAMMOND_JUSTIN_2026-11-15.jpg"
   }
  ]
 }
