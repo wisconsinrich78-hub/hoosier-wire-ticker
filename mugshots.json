@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-18T16:47:40+00:00",
+ "updated": "2026-11-18T17:47:52+00:00",
  "items": [
+  {
+   "key": "MAD_VANAUSDAL_FRANK_2026-11-18",
+   "name": "Frank D Junior Vanausdal",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery - against public safety official (level 6 felony)",
+   "more": 0,
+   "ts": 1795024063,
+   "photo": null
+  },
+  {
+   "key": "MAD_SWANGO_VAUGHAN_2026-11-18",
+   "name": "Vaughan Rider Swango",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation Pre-Trial Release",
+   "more": 0,
+   "ts": 1795024062,
+   "photo": "photos/MAD_SWANGO_VAUGHAN_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_HOWES_WYATT_2026-11-17",
+   "name": "Wyatt Jacob Howes",
+   "age": "31",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1795024053,
+   "photo": "photos/POR_HOWES_WYATT_2026-11-17.jpg"
+  },
+  {
+   "key": "POR_KUEHL_JOSHUA_2026-11-17",
+   "name": "Joshua Justin George Kuehl",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 3,
+   "ts": 1795024052,
+   "photo": "photos/POR_KUEHL_JOSHUA_2026-11-17.jpg"
+  },
+  {
+   "key": "POR_HUMPHREY_ISSACHAR_2026-11-17",
+   "name": "Issachar J Humphrey",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795024049,
+   "photo": "photos/POR_HUMPHREY_ISSACHAR_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_BROWN_TIMOTHY_2026-11-18",
+   "name": "Timothy Michael Brown",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795024047,
+   "photo": "photos/VAN_BROWN_TIMOTHY_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_HARGROVE_RANDALL_2026-11-18",
+   "name": "Randall Lee Hargrove",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Residential Entry",
+   "more": 0,
+   "ts": 1795024044,
+   "photo": null
+  },
+  {
+   "key": "ALL_CLARK_JUSTIN_2026-11-18",
+   "name": "Justin Clark",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt of Court-Civil",
+   "more": 0,
+   "ts": 1795024043,
+   "photo": "photos/ALL_CLARK_JUSTIN_2026-11-18.jpg"
+  },
   {
    "key": "MAD_VANVOORST_DILLON_2026-11-18",
    "name": "Dillon Andrew Van Voorst",
@@ -376,17 +464,6 @@
    "photo": "photos/ALL_MARTIN_MATTHEW_2026-11-17.jpg"
   },
   {
-   "key": "ALL_FUELLING_RYAN_2026-11-17",
-   "name": "Ryan Fuelling",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery with Moderate Bodily Injury",
-   "more": 0,
-   "ts": 1794959252,
-   "photo": "photos/ALL_FUELLING_RYAN_2026-11-17.jpg"
-  },
-  {
    "key": "VAN_DENNIS_RANDOLPH_2026-11-17",
    "name": "Randolph Eugene Dennis",
    "age": "68",
@@ -407,28 +484,6 @@
    "more": 0,
    "ts": 1794944863,
    "photo": "photos/POR_MCNICHOLS_DAMARIO_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_PATE_BRANDON_2026-11-17",
-   "name": "Brandon James Pate",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794941235,
-   "photo": "photos/VAN_PATE_BRANDON_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_WARFIELD_JASON_2026-11-17",
-   "name": "Jason Jabbar Warfield",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794941234,
-   "photo": "photos/VAN_WARFIELD_JASON_2026-11-17.jpg"
   },
   {
    "key": "MAD_WORLEY_SARAH_2026-11-17",
@@ -473,64 +528,97 @@
    "more": 0,
    "ts": 1794934049,
    "photo": null
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MAD_VANAUSDAL_FRANK_2026-11-18",
+   "name": "Frank D Junior Vanausdal",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery - against public safety official (level 6 felony)",
+   "more": 0,
+   "ts": 1795024063,
+   "photo": null
   },
   {
-   "key": "POR_VRSKA_ZACHERY_2026-11-16",
-   "name": "Zachery John Vrska",
-   "age": "44",
+   "key": "MAD_SWANGO_VAUGHAN_2026-11-18",
+   "name": "Vaughan Rider Swango",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation Pre-Trial Release",
+   "more": 0,
+   "ts": 1795024062,
+   "photo": "photos/MAD_SWANGO_VAUGHAN_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_HOWES_WYATT_2026-11-17",
+   "name": "Wyatt Jacob Howes",
+   "age": "31",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794934041,
-   "photo": "photos/POR_VRSKA_ZACHERY_2026-11-16.jpg"
+   "charge": "Probation Violation",
+   "more": 1,
+   "ts": 1795024053,
+   "photo": "photos/POR_HOWES_WYATT_2026-11-17.jpg"
   },
   {
-   "key": "POR_KEEFE_HEATH_2026-11-16",
-   "name": "Heath Benjamin Keefe",
-   "age": "50",
+   "key": "POR_KUEHL_JOSHUA_2026-11-17",
+   "name": "Joshua Justin George Kuehl",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 3,
+   "ts": 1795024052,
+   "photo": "photos/POR_KUEHL_JOSHUA_2026-11-17.jpg"
+  },
+  {
+   "key": "POR_HUMPHREY_ISSACHAR_2026-11-17",
+   "name": "Issachar J Humphrey",
+   "age": "28",
    "county": "Porter County",
    "region": "northwest",
    "charge": "Failure to Appear",
    "more": 0,
-   "ts": 1794930432,
-   "photo": "photos/POR_KEEFE_HEATH_2026-11-16.jpg"
+   "ts": 1795024049,
+   "photo": "photos/POR_HUMPHREY_ISSACHAR_2026-11-17.jpg"
   },
   {
-   "key": "MAD_BRIDENTHAL_ADORA_2026-11-17",
-   "name": "Adora Havyn Bridenthal",
-   "age": "20",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
+   "key": "VAN_BROWN_TIMOTHY_2026-11-18",
+   "name": "Timothy Michael Brown",
+   "age": "58",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
    "more": 0,
-   "ts": 1794905244,
+   "ts": 1795024047,
+   "photo": "photos/VAN_BROWN_TIMOTHY_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_HARGROVE_RANDALL_2026-11-18",
+   "name": "Randall Lee Hargrove",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Residential Entry",
+   "more": 0,
+   "ts": 1795024044,
    "photo": null
   },
   {
-   "key": "MAD_FRALEY_JOHNATHAN_2026-11-17",
-   "name": "Johnathan Kodi Fraley",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Nonsupport of dependent",
+   "key": "ALL_CLARK_JUSTIN_2026-11-18",
+   "name": "Justin Clark",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt of Court-Civil",
    "more": 0,
-   "ts": 1794901727,
-   "photo": "photos/MAD_FRALEY_JOHNATHAN_2026-11-17.jpg"
+   "ts": 1795024043,
+   "photo": "photos/ALL_CLARK_JUSTIN_2026-11-18.jpg"
   },
-  {
-   "key": "MAD_MOSBAUGH_ZACHERY_2026-11-17",
-   "name": "Zachery Ryan Mosbaugh",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 1,
-   "ts": 1794898049,
-   "photo": "photos/MAD_MOSBAUGH_ZACHERY_2026-11-17.jpg"
-  }
- ],
- "all_items": [
   {
    "key": "MAD_VANVOORST_DILLON_2026-11-18",
    "name": "Dillon Andrew Van Voorst",
@@ -2235,17 +2323,6 @@
    "more": 0,
    "ts": 1794768439,
    "photo": "photos/ALL_JOHNSON_ANTHONY_2026-11-15.jpg"
-  },
-  {
-   "key": "POR_STONER_DENNIS_2026-11-14",
-   "name": "Dennis Keith Stoner",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Mv/Revocation of Probation",
-   "more": 0,
-   "ts": 1794764837,
-   "photo": "photos/POR_STONER_DENNIS_2026-11-14.jpg"
   }
  ]
 }
