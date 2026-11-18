@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:47:43+00:00",
+ "updated": "2026-11-18T08:47:27+00:00",
  "items": [
   {
    "key": "MAD_SILLS_ERIK_2026-11-18",
@@ -2356,50 +2356,6 @@
    "more": 1,
    "ts": 1794736032,
    "photo": "photos/VAN_NOLAN_TREY_2026-11-15.jpg"
-  },
-  {
-   "key": "MAD_MARSH_MARCUS_2026-11-15",
-   "name": "Marcus Allen Marsh",
-   "age": "50",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794732441,
-   "photo": "photos/MAD_MARSH_MARCUS_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_DEKEN_THOMAS_2026-11-15",
-   "name": "Thomas Wayne Deken",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
-   "more": 0,
-   "ts": 1794732430,
-   "photo": "photos/VAN_DEKEN_THOMAS_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_LATRIK_HERBOT_2026-11-15",
-   "name": "Herbot Bleak Latrik",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794732430,
-   "photo": null
-  },
-  {
-   "key": "MAD_WOODS_STEPHANIE_2026-11-15",
-   "name": "Stephanie Dawn Woods",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794728864,
-   "photo": null
   }
  ]
 }
