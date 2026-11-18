@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-18T21:22:08+00:00",
+ "updated": "2026-11-18T21:47:58+00:00",
  "items": [
+  {
+   "key": "MAD_KENDALL_ZACHARY_2026-11-18",
+   "name": "Zachary Lester Kendall",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-adult knowing presence of child less than 16 years\u2026",
+   "more": 0,
+   "ts": 1795038463,
+   "photo": null
+  },
+  {
+   "key": "VAN_BROWN_GREGORY_2026-11-18",
+   "name": "Gregory Allen Brown",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 1,
+   "ts": 1795038454,
+   "photo": "photos/VAN_BROWN_GREGORY_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_HAWKINS_SHACOREY_2026-11-18",
+   "name": "Shacorey Aburce Hawkins",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Parole Violation",
+   "more": 0,
+   "ts": 1795038451,
+   "photo": null
+  },
+  {
+   "key": "ALL_NORD_JESSE_2026-11-18",
+   "name": "Jesse Nord",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion of Privacy",
+   "more": 0,
+   "ts": 1795038449,
+   "photo": "photos/ALL_NORD_JESSE_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_PORTER_SHEMARIUS_2026-11-18",
+   "name": "Shemarius Porter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder - Attempted",
+   "more": 0,
+   "ts": 1795038445,
+   "photo": "photos/ALL_PORTER_SHEMARIUS_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_KOLB_DEBORAH_2026-11-18",
+   "name": "Deborah Kolb",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795038440,
+   "photo": "photos/ALL_KOLB_DEBORAH_2026-11-18.jpg"
+  },
   {
    "key": "POR_GRUND_CAROLYN_2026-11-17",
    "name": "Carolyn Linnea Grund",
@@ -387,28 +453,6 @@
    "photo": null
   },
   {
-   "key": "VAN_OSKINS_JOSHUA_2026-11-17",
-   "name": "Joshua Kyle Oskins",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery - Against Public Safety Official Engaged in Official",
-   "more": 6,
-   "ts": 1794984435,
-   "photo": null
-  },
-  {
-   "key": "VAN_MATTHEWS_TERESA_2026-11-17",
-   "name": "Teresa Gay Matthews",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794984435,
-   "photo": null
-  },
-  {
    "key": "ALL_ROGAN_BARBARA_2026-11-18",
    "name": "Barbara Rogan",
    "age": "",
@@ -484,53 +528,75 @@
    "more": 1,
    "ts": 1794966450,
    "photo": "photos/ALL_MENDA_DAWIT_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_BOWMAN_CHEYENNE_2026-11-17",
-   "name": "Cheyenne Bowman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 0,
-   "ts": 1794966445,
-   "photo": null
-  },
-  {
-   "key": "ALL_DAVIS_TONY_2026-11-17",
-   "name": "Tony Davis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1794966441,
-   "photo": "photos/ALL_DAVIS_TONY_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_RANDOL_MAISIE_2026-11-17",
-   "name": "Maisie Randol",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt of Court-Criminal",
-   "more": 1,
-   "ts": 1794966437,
-   "photo": "photos/ALL_RANDOL_MAISIE_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_ADAMS_AUBREY_2026-11-17",
-   "name": "Aubrey Mekeanna Adams",
-   "age": "18",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery- aggravated",
-   "more": 0,
-   "ts": 1794962839,
-   "photo": "photos/MAD_ADAMS_AUBREY_2026-11-17.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_KENDALL_ZACHARY_2026-11-18",
+   "name": "Zachary Lester Kendall",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-adult knowing presence of child less than 16 years\u2026",
+   "more": 0,
+   "ts": 1795038463,
+   "photo": null
+  },
+  {
+   "key": "VAN_BROWN_GREGORY_2026-11-18",
+   "name": "Gregory Allen Brown",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 1,
+   "ts": 1795038454,
+   "photo": "photos/VAN_BROWN_GREGORY_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_HAWKINS_SHACOREY_2026-11-18",
+   "name": "Shacorey Aburce Hawkins",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Parole Violation",
+   "more": 0,
+   "ts": 1795038451,
+   "photo": null
+  },
+  {
+   "key": "ALL_NORD_JESSE_2026-11-18",
+   "name": "Jesse Nord",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion of Privacy",
+   "more": 0,
+   "ts": 1795038449,
+   "photo": "photos/ALL_NORD_JESSE_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_PORTER_SHEMARIUS_2026-11-18",
+   "name": "Shemarius Porter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder - Attempted",
+   "more": 0,
+   "ts": 1795038445,
+   "photo": "photos/ALL_PORTER_SHEMARIUS_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_KOLB_DEBORAH_2026-11-18",
+   "name": "Deborah Kolb",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795038440,
+   "photo": "photos/ALL_KOLB_DEBORAH_2026-11-18.jpg"
+  },
   {
    "key": "POR_GRUND_CAROLYN_2026-11-17",
    "name": "Carolyn Linnea Grund",
@@ -2389,28 +2455,6 @@
    "more": 0,
    "ts": 1794782830,
    "photo": "photos/ALL_PHILPOT_CURTIS_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_WATTS_KEON_2026-11-15",
-   "name": "Keon Watts",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Adult Knowing Presence of Child Less Than 16\u2026",
-   "more": 2,
-   "ts": 1794779247,
-   "photo": "photos/ALL_WATTS_KEON_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_GREER_DIAMOND_2026-11-15",
-   "name": "Diamond Greer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Intimidation with a Deadly Weapon",
-   "more": 0,
-   "ts": 1794779242,
-   "photo": "photos/ALL_GREER_DIAMOND_2026-11-15.jpg"
   }
  ]
 }
