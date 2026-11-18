@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-18T00:47:40+00:00",
+ "updated": "2026-11-18T01:48:03+00:00",
  "items": [
+  {
+   "key": "MAD_SMALL_ROBERT_2026-11-17",
+   "name": "Robert Lee Small",
+   "age": "38",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794966464,
+   "photo": "photos/MAD_SMALL_ROBERT_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_MENDA_DAWIT_2026-11-17",
+   "name": "Dawit Menda",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 1,
+   "ts": 1794966450,
+   "photo": "photos/ALL_MENDA_DAWIT_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_BOWMAN_CHEYENNE_2026-11-17",
+   "name": "Cheyenne Bowman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 0,
+   "ts": 1794966445,
+   "photo": null
+  },
+  {
+   "key": "ALL_DAVIS_TONY_2026-11-17",
+   "name": "Tony Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1794966441,
+   "photo": "photos/ALL_DAVIS_TONY_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_RANDOL_MAISIE_2026-11-17",
+   "name": "Maisie Randol",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt of Court-Criminal",
+   "more": 1,
+   "ts": 1794966437,
+   "photo": "photos/ALL_RANDOL_MAISIE_2026-11-17.jpg"
+  },
   {
    "key": "ALL_MACK_JASON_2026-11-17",
    "name": "Jason Mack",
@@ -244,17 +299,6 @@
    "photo": "photos/ALL_SPENCER_STORM_2026-11-17.jpg"
   },
   {
-   "key": "ALL_SHETLEY_OLIVIA_2026-11-17",
-   "name": "Olivia Shetley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Robbery",
-   "more": 0,
-   "ts": 1794937634,
-   "photo": "photos/ALL_SHETLEY_OLIVIA_2026-11-17.jpg"
-  },
-  {
    "key": "MAD_SMITH_DONALD_2026-11-17",
    "name": "Donald Jermaine Smith",
    "age": "44",
@@ -288,28 +332,6 @@
    "photo": "photos/POR_VRSKA_ZACHERY_2026-11-16.jpg"
   },
   {
-   "key": "ALL_BYRD_OLANDUS_2026-11-17",
-   "name": "Olandus Byrd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft from Building Prior Unrelated Coviction Theft or Conversion",
-   "more": 0,
-   "ts": 1794934037,
-   "photo": "photos/ALL_BYRD_OLANDUS_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_STOKES_AUGUST_2026-11-17",
-   "name": "August Stokes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794934032,
-   "photo": "photos/ALL_STOKES_AUGUST_2026-11-17.jpg"
-  },
-  {
    "key": "POR_KEEFE_HEATH_2026-11-16",
    "name": "Heath Benjamin Keefe",
    "age": "50",
@@ -319,17 +341,6 @@
    "more": 0,
    "ts": 1794930432,
    "photo": "photos/POR_KEEFE_HEATH_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_MOORE_MARZINE_2026-11-17",
-   "name": "Marzine Moore",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Refusal to Identify Self",
-   "more": 2,
-   "ts": 1794923235,
-   "photo": "photos/ALL_MOORE_MARZINE_2026-11-17.jpg"
   },
   {
    "key": "VAN_BONNER_CHRISTOPHER_2026-11-17",
@@ -517,20 +528,64 @@
    "more": 0,
    "ts": 1794883634,
    "photo": "photos/VAN_JOHNSON_LASHAWN_2026-11-16.jpg"
-  },
-  {
-   "key": "POR_MALEC_JOSHUA_2026-11-15",
-   "name": "Joshua Richard Malec",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Public Administration- Resisting Law Enforcement",
-   "more": 0,
-   "ts": 1794876454,
-   "photo": "photos/POR_MALEC_JOSHUA_2026-11-15.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SMALL_ROBERT_2026-11-17",
+   "name": "Robert Lee Small",
+   "age": "38",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1794966464,
+   "photo": "photos/MAD_SMALL_ROBERT_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_MENDA_DAWIT_2026-11-17",
+   "name": "Dawit Menda",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 1,
+   "ts": 1794966450,
+   "photo": "photos/ALL_MENDA_DAWIT_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_BOWMAN_CHEYENNE_2026-11-17",
+   "name": "Cheyenne Bowman",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 0,
+   "ts": 1794966445,
+   "photo": null
+  },
+  {
+   "key": "ALL_DAVIS_TONY_2026-11-17",
+   "name": "Tony Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1794966441,
+   "photo": "photos/ALL_DAVIS_TONY_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_RANDOL_MAISIE_2026-11-17",
+   "name": "Maisie Randol",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt of Court-Criminal",
+   "more": 1,
+   "ts": 1794966437,
+   "photo": "photos/ALL_RANDOL_MAISIE_2026-11-17.jpg"
+  },
   {
    "key": "ALL_MACK_JASON_2026-11-17",
    "name": "Jason Mack",
@@ -2367,61 +2422,6 @@
    "more": 0,
    "ts": 1794710841,
    "photo": "photos/ALL_SERRATORUIZ_JUAN_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_STRONG_HEAVENLY_2026-11-14",
-   "name": "Heavenly Sharay Strong",
-   "age": "22",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 0,
-   "ts": 1794707243,
-   "photo": "photos/POR_STRONG_HEAVENLY_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_HARDIN_KENNETH_2026-11-14",
-   "name": "Kenneth James Hardin",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 0,
-   "ts": 1794707242,
-   "photo": "photos/POR_HARDIN_KENNETH_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_DINKINS_TYQUAIN_2026-11-14",
-   "name": "Tyquain Dwaine Dinkins",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating A Vehicle With An BAC Of .15 Or More",
-   "more": 3,
-   "ts": 1794707239,
-   "photo": "photos/POR_DINKINS_TYQUAIN_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_WILDER_DAMIEN_2026-11-14",
-   "name": "Damien Dewayne Wilder",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Mischief [Bm]",
-   "more": 2,
-   "ts": 1794707236,
-   "photo": "photos/VAN_WILDER_DAMIEN_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_FORD_CHASITY_2026-11-14",
-   "name": "Chasity Lenae Ford",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Forgery",
-   "more": 0,
-   "ts": 1794707235,
-   "photo": "photos/VAN_FORD_CHASITY_2026-11-14.jpg"
   }
  ]
 }
