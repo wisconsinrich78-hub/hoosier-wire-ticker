@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T01:48:03+00:00",
+ "updated": "2026-11-18T02:47:43+00:00",
  "items": [
+  {
+   "key": "ALL_EVERLING_JACQUELINE_2026-11-17",
+   "name": "Jacqueline Everling",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794970036,
+   "photo": null
+  },
   {
    "key": "MAD_SMALL_ROBERT_2026-11-17",
    "name": "Robert Lee Small",
@@ -288,17 +299,6 @@
    "photo": "photos/VAN_WENTWORTH_ELIZABETH_2026-11-17.jpg"
   },
   {
-   "key": "ALL_SPENCER_STORM_2026-11-17",
-   "name": "Storm Spencer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery to Public Safety Official (Includes Bodily Fluid/Waste)",
-   "more": 2,
-   "ts": 1794937639,
-   "photo": "photos/ALL_SPENCER_STORM_2026-11-17.jpg"
-  },
-  {
    "key": "MAD_SMITH_DONALD_2026-11-17",
    "name": "Donald Jermaine Smith",
    "age": "44",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_EVERLING_JACQUELINE_2026-11-17",
+   "name": "Jacqueline Everling",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794970036,
+   "photo": null
+  },
   {
    "key": "MAD_SMALL_ROBERT_2026-11-17",
    "name": "Robert Lee Small",
@@ -2378,50 +2389,6 @@
    "more": 3,
    "ts": 1794714437,
    "photo": "photos/POR_BLACKBURN_JOSEPH_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_TAPP_DESIREE_2026-11-14",
-   "name": "Desiree Irene Tapp",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1794710854,
-   "photo": "photos/VAN_TAPP_DESIREE_2026-11-14.jpg"
-  },
-  {
-   "key": "VAN_NORTH_MICHELLE_2026-11-14",
-   "name": "Michelle Lynn North",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 0,
-   "ts": 1794710853,
-   "photo": "photos/VAN_NORTH_MICHELLE_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_JAMES_BRETT_2026-11-14",
-   "name": "Brett Michael James",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Invasion of Privacy",
-   "more": 0,
-   "ts": 1794710851,
-   "photo": "photos/POR_JAMES_BRETT_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_SERRATORUIZ_JUAN_2026-11-14",
-   "name": "Juan Serrato-Ruiz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1794710841,
-   "photo": "photos/ALL_SERRATORUIZ_JUAN_2026-11-14.jpg"
   }
  ]
 }
