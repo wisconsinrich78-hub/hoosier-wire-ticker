@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:47:25+00:00",
+ "updated": "2026-11-18T13:47:44+00:00",
  "items": [
   {
    "key": "VAN_MATA_REBEKAH_2026-11-18",
@@ -2224,28 +2224,6 @@
    "more": 2,
    "ts": 1794754028,
    "photo": "photos/ALL_KUNKEL_ANDREW_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_FISHER_CORBIN_2026-11-15",
-   "name": "Corbin Markel Fisher",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794750441,
-   "photo": "photos/VAN_FISHER_CORBIN_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_GUTIERREZ_AMY_2026-11-15",
-   "name": "Amy Gutierrez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794750437,
-   "photo": "photos/ALL_GUTIERREZ_AMY_2026-11-15.jpg"
   }
  ]
 }
