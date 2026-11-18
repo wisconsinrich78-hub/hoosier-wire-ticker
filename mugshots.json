@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T13:47:44+00:00",
+ "updated": "2026-11-18T14:47:42+00:00",
  "items": [
+  {
+   "key": "POR_HURNI_JAMIE_2026-11-17",
+   "name": "Jamie Marie Hurni",
+   "age": "54",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1795013238,
+   "photo": "photos/POR_HURNI_JAMIE_2026-11-17.jpg"
+  },
   {
    "key": "VAN_MATA_REBEKAH_2026-11-18",
    "name": "Rebekah Lynn Mata",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1794898045,
    "photo": null
-  },
-  {
-   "key": "MAD_BROCK_DERRICK_2026-11-17",
-   "name": "Derrick Lynn Junior Brock",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession methamphetamine",
-   "more": 1,
-   "ts": 1794898043,
-   "photo": "photos/MAD_BROCK_DERRICK_2026-11-17.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_HURNI_JAMIE_2026-11-17",
+   "name": "Jamie Marie Hurni",
+   "age": "54",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1795013238,
+   "photo": "photos/POR_HURNI_JAMIE_2026-11-17.jpg"
+  },
   {
    "key": "VAN_MATA_REBEKAH_2026-11-18",
    "name": "Rebekah Lynn Mata",
@@ -2202,28 +2213,6 @@
    "more": 0,
    "ts": 1794757633,
    "photo": "photos/ALL_NIEMEYER_JESSIE_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_PULLARA_BRIAN_2026-11-15",
-   "name": "Brian Eugene Pullara",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Sex Crime- Child Molest",
-   "more": 0,
-   "ts": 1794754032,
-   "photo": "photos/VAN_PULLARA_BRIAN_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_KUNKEL_ANDREW_2026-11-15",
-   "name": "Andrew Kunkel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794754028,
-   "photo": "photos/ALL_KUNKEL_ANDREW_2026-11-15.jpg"
   }
  ]
 }
