@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-18T09:47:30+00:00",
+ "updated": "2026-11-18T10:47:41+00:00",
  "items": [
+  {
+   "key": "VAN_CALDWELL_TARON_2026-11-18",
+   "name": "Taron Malik Caldwell",
+   "age": "18",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 0,
+   "ts": 1794998841,
+   "photo": "photos/VAN_CALDWELL_TARON_2026-11-18.jpg"
+  },
   {
    "key": "VAN_STRAYHORN_CAMRYN_2026-11-18",
    "name": "Camryn Neal Strayhorn",
@@ -464,17 +475,6 @@
    "photo": "photos/POR_KEEFE_HEATH_2026-11-16.jpg"
   },
   {
-   "key": "VAN_BONNER_CHRISTOPHER_2026-11-17",
-   "name": "Christopher Darnell Bonner",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 4,
-   "ts": 1794919632,
-   "photo": null
-  },
-  {
    "key": "MAD_BRIDENTHAL_ADORA_2026-11-17",
    "name": "Adora Havyn Bridenthal",
    "age": "20",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_CALDWELL_TARON_2026-11-18",
+   "name": "Taron Malik Caldwell",
+   "age": "18",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 0,
+   "ts": 1794998841,
+   "photo": "photos/VAN_CALDWELL_TARON_2026-11-18.jpg"
+  },
   {
    "key": "VAN_STRAYHORN_CAMRYN_2026-11-18",
    "name": "Camryn Neal Strayhorn",
@@ -2290,50 +2301,6 @@
    "more": 5,
    "ts": 1794743237,
    "photo": "photos/VAN_GREEN_PASHINAY_2026-11-15.jpg"
-  },
-  {
-   "key": "MAD_ANDERSON_TREVOR_2026-11-15",
-   "name": "Trevor Wayne Anderson",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle with BAC .08 to .15",
-   "more": 0,
-   "ts": 1794739642,
-   "photo": "photos/MAD_ANDERSON_TREVOR_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_HURST_JVEON_2026-11-15",
-   "name": "Jveon Braylen Hurst",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1794739639,
-   "photo": null
-  },
-  {
-   "key": "VAN_BATEMAN_JEREMIE_2026-11-15",
-   "name": "Jeremie James Bateman",
-   "age": "49",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
-   "more": 0,
-   "ts": 1794739638,
-   "photo": "photos/VAN_BATEMAN_JEREMIE_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_NIX_DALE_2026-11-15",
-   "name": "Dale Nix",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 4,
-   "ts": 1794739634,
-   "photo": "photos/ALL_NIX_DALE_2026-11-15.jpg"
   }
  ]
 }
