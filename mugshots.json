@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-18T03:47:44+00:00",
+ "updated": "2026-11-18T04:47:42+00:00",
  "items": [
+  {
+   "key": "VAN_BEASLEY_KEVAIAL_2026-11-17",
+   "name": "Kevaial Damorion Beasley",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/",
+   "more": 0,
+   "ts": 1794977242,
+   "photo": "photos/VAN_BEASLEY_KEVAIAL_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_MOFFETT_SARA_2026-11-17",
+   "name": "Sara Jane Moffett",
+   "age": "70",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794977239,
+   "photo": null
+  },
+  {
+   "key": "ALL_LOVE_QUENTIN_2026-11-17",
+   "name": "Quentin Love",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1794977237,
+   "photo": "photos/ALL_LOVE_QUENTIN_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_LASTORINASNYDER_MARIO_2026-11-17",
+   "name": "Mario Lastorinasnyder",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794977232,
+   "photo": "photos/ALL_LASTORINASNYDER_MARIO_2026-11-17.jpg"
+  },
   {
    "key": "VAN_FRIDY_MARCUS_2026-11-17",
    "name": "Marcus James Fridy",
@@ -233,17 +277,6 @@
    "photo": "photos/ALL_COOPERWOOD_JAMIKEL_2026-11-17.jpg"
   },
   {
-   "key": "ALL_COY_TRACEY_2026-11-17",
-   "name": "Tracey Coy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Driver Over 21/Passenger Less Than 18",
-   "more": 2,
-   "ts": 1794948477,
-   "photo": "photos/ALL_COY_TRACEY_2026-11-17.jpg"
-  },
-  {
    "key": "POR_MCNICHOLS_DAMARIO_2026-11-16",
    "name": "Damario Dailyn Mcnichols",
    "age": "19",
@@ -253,17 +286,6 @@
    "more": 0,
    "ts": 1794944863,
    "photo": "photos/POR_MCNICHOLS_DAMARIO_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_JOHNSON_CLAYTON_2026-11-17",
-   "name": "Clayton Johnson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1794944848,
-   "photo": "photos/ALL_JOHNSON_CLAYTON_2026-11-17.jpg"
   },
   {
    "key": "VAN_PATE_BRANDON_2026-11-17",
@@ -497,28 +519,6 @@
    "photo": "photos/VAN_YU_HAIJIANG_2026-11-16.jpg"
   },
   {
-   "key": "VAN_CONNER_ANDREW_2026-11-16",
-   "name": "Andrew Joseph Conner",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794887231,
-   "photo": "photos/VAN_CONNER_ANDREW_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_REEVES_JESSICA_2026-11-16",
-   "name": "Jessica Faye Reeves",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Shoplifting - Prior Unrelated Conviction for Theft or",
-   "more": 0,
-   "ts": 1794887231,
-   "photo": null
-  },
-  {
    "key": "MAD_PURKEY_TIMOTHY_2026-11-16",
    "name": "Timothy Ryan Purkey",
    "age": "52",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BEASLEY_KEVAIAL_2026-11-17",
+   "name": "Kevaial Damorion Beasley",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/",
+   "more": 0,
+   "ts": 1794977242,
+   "photo": "photos/VAN_BEASLEY_KEVAIAL_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_MOFFETT_SARA_2026-11-17",
+   "name": "Sara Jane Moffett",
+   "age": "70",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1794977239,
+   "photo": null
+  },
+  {
+   "key": "ALL_LOVE_QUENTIN_2026-11-17",
+   "name": "Quentin Love",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1794977237,
+   "photo": "photos/ALL_LOVE_QUENTIN_2026-11-17.jpg"
+  },
+  {
+   "key": "ALL_LASTORINASNYDER_MARIO_2026-11-17",
+   "name": "Mario Lastorinasnyder",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1794977232,
+   "photo": "photos/ALL_LASTORINASNYDER_MARIO_2026-11-17.jpg"
+  },
   {
    "key": "VAN_FRIDY_MARCUS_2026-11-17",
    "name": "Marcus James Fridy",
@@ -2345,61 +2389,6 @@
    "more": 2,
    "ts": 1794721636,
    "photo": "photos/ALL_TIFFT_ELLIOT_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_MILLER_BROOKLYN_2026-11-14",
-   "name": "Brooklyn Storm Miller",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endangerment",
-   "more": 3,
-   "ts": 1794718056,
-   "photo": "photos/POR_MILLER_BROOKLYN_2026-11-14.jpg"
-  },
-  {
-   "key": "POR_SANDIDGE_DANGELO_2026-11-14",
-   "name": "D'Angelo Dee Sandidge",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1794718053,
-   "photo": "photos/POR_SANDIDGE_DANGELO_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_PORTER_TAYLOR_2026-11-14",
-   "name": "Taylor Porter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Fleeing",
-   "more": 1,
-   "ts": 1794718049,
-   "photo": "photos/ALL_PORTER_TAYLOR_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_GEISLEMAN_TERIANN_2026-11-14",
-   "name": "Teriann Geisleman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny",
-   "more": 0,
-   "ts": 1794718044,
-   "photo": "photos/ALL_GEISLEMAN_TERIANN_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_LEMASTER_MATTHEW_2026-11-14",
-   "name": "Matthew Lemaster",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 1,
-   "ts": 1794718040,
-   "photo": "photos/ALL_LEMASTER_MATTHEW_2026-11-14.jpg"
   }
  ]
 }
