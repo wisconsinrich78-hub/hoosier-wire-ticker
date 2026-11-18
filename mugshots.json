@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-17T23:48:24+00:00",
+ "updated": "2026-11-18T00:47:40+00:00",
  "items": [
+  {
+   "key": "ALL_MACK_JASON_2026-11-17",
+   "name": "Jason Mack",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794962848,
+   "photo": null
+  },
+  {
+   "key": "ALL_JONES_DARREL_2026-11-17",
+   "name": "Darrel Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1794962844,
+   "photo": "photos/ALL_JONES_DARREL_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_CLARK_CODY_2026-11-17",
+   "name": "Cody Allen Clark",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794962843,
+   "photo": "photos/VAN_CLARK_CODY_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_BLAIR_WILLIAM_2026-11-17",
+   "name": "William Blayd Blair",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794962842,
+   "photo": "photos/VAN_BLAIR_WILLIAM_2026-11-17.jpg"
+  },
+  {
+   "key": "MAD_ADAMS_AUBREY_2026-11-17",
+   "name": "Aubrey Mekeanna Adams",
+   "age": "18",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery- aggravated",
+   "more": 0,
+   "ts": 1794962839,
+   "photo": "photos/MAD_ADAMS_AUBREY_2026-11-17.jpg"
+  },
   {
    "key": "ALL_MARTIN_MATTHEW_2026-11-17",
    "name": "Matthew Martin",
@@ -288,28 +343,6 @@
    "photo": null
   },
   {
-   "key": "ALL_MCNEASE_MELVIN_2026-11-17",
-   "name": "Melvin Mcnease",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "False Identity Statement",
-   "more": 1,
-   "ts": 1794908835,
-   "photo": "photos/ALL_MCNEASE_MELVIN_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_EDWARDS_LUKE_2026-11-17",
-   "name": "Luke Edwards",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794908831,
-   "photo": "photos/ALL_EDWARDS_LUKE_2026-11-17.jpg"
-  },
-  {
    "key": "MAD_BRIDENTHAL_ADORA_2026-11-17",
    "name": "Adora Havyn Bridenthal",
    "age": "20",
@@ -495,42 +528,64 @@
    "more": 0,
    "ts": 1794876454,
    "photo": "photos/POR_MALEC_JOSHUA_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_JONES_SHEILA_2026-11-16",
-   "name": "Sheila Marie Jones",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794876451,
-   "photo": "photos/VAN_JONES_SHEILA_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_BIGGS_CHRISTOPHER_2026-11-16",
-   "name": "Christopher Brian Biggs",
-   "age": "56",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Registration Violation",
-   "more": 1,
-   "ts": 1794876450,
-   "photo": "photos/VAN_BIGGS_CHRISTOPHER_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_BURNS_MITZIE_2026-11-16",
-   "name": "Mitzie Channel Monique Burns",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Value of Property at Least $750 and Less That $50,000",
-   "more": 1,
-   "ts": 1794872854,
-   "photo": "photos/VAN_BURNS_MITZIE_2026-11-16.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_MACK_JASON_2026-11-17",
+   "name": "Jason Mack",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1794962848,
+   "photo": null
+  },
+  {
+   "key": "ALL_JONES_DARREL_2026-11-17",
+   "name": "Darrel Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1794962844,
+   "photo": "photos/ALL_JONES_DARREL_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_CLARK_CODY_2026-11-17",
+   "name": "Cody Allen Clark",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794962843,
+   "photo": "photos/VAN_CLARK_CODY_2026-11-17.jpg"
+  },
+  {
+   "key": "VAN_BLAIR_WILLIAM_2026-11-17",
+   "name": "William Blayd Blair",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1794962842,
+   "photo": "photos/VAN_BLAIR_WILLIAM_2026-11-17.jpg"
+  },
+  {
+   "key": "MAD_ADAMS_AUBREY_2026-11-17",
+   "name": "Aubrey Mekeanna Adams",
+   "age": "18",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery- aggravated",
+   "more": 0,
+   "ts": 1794962839,
+   "photo": "photos/MAD_ADAMS_AUBREY_2026-11-17.jpg"
+  },
   {
    "key": "ALL_MARTIN_MATTHEW_2026-11-17",
    "name": "Matthew Martin",
@@ -2367,17 +2422,6 @@
    "more": 0,
    "ts": 1794707235,
    "photo": "photos/VAN_FORD_CHASITY_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_COLEMAN_TIFFINEY_2026-11-14",
-   "name": "Tiffiney Coleman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Methamphetamine",
-   "more": 1,
-   "ts": 1794703639,
-   "photo": "photos/ALL_COLEMAN_TIFFINEY_2026-11-14.jpg"
   }
  ]
 }
