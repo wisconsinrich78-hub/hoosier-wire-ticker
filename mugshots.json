@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-18T22:47:35+00:00",
+ "updated": "2026-11-18T23:47:44+00:00",
  "items": [
+  {
+   "key": "VAN_JOHNSON_CANDICE_2026-11-18",
+   "name": "Candice Nachele Johnson",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
+   "more": 0,
+   "ts": 1795045652,
+   "photo": "photos/VAN_JOHNSON_CANDICE_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_WATTLEY_LES_2026-11-18",
+   "name": "Les Wattley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 1,
+   "ts": 1795045646,
+   "photo": "photos/ALL_WATTLEY_LES_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_FISHER_THOMARIUS_2026-11-18",
+   "name": "Thomarius Fisher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1795045640,
+   "photo": null
+  },
   {
    "key": "VAN_NORRIS_CEDRIC_2026-11-18",
    "name": "Cedric Lamont Norris",
@@ -431,17 +464,6 @@
    "photo": "photos/VAN_MATA_REBEKAH_2026-11-18.jpg"
   },
   {
-   "key": "VAN_CALDWELL_TARON_2026-11-18",
-   "name": "Taron Malik Caldwell",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 0,
-   "ts": 1794998841,
-   "photo": "photos/VAN_CALDWELL_TARON_2026-11-18.jpg"
-  },
-  {
    "key": "MAD_SILLS_ERIK_2026-11-18",
    "name": "Erik Stanley Sills",
    "age": "46",
@@ -497,28 +519,6 @@
    "photo": "photos/ALL_LOVE_QUENTIN_2026-11-17.jpg"
   },
   {
-   "key": "ALL_LASTORINASNYDER_MARIO_2026-11-17",
-   "name": "Mario Lastorinasnyder",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794977232,
-   "photo": "photos/ALL_LASTORINASNYDER_MARIO_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_EVERLING_JACQUELINE_2026-11-17",
-   "name": "Jacqueline Everling",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794970036,
-   "photo": null
-  },
-  {
    "key": "MAD_SMALL_ROBERT_2026-11-17",
    "name": "Robert Lee Small",
    "age": "38",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_JOHNSON_CANDICE_2026-11-18",
+   "name": "Candice Nachele Johnson",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
+   "more": 0,
+   "ts": 1795045652,
+   "photo": "photos/VAN_JOHNSON_CANDICE_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_WATTLEY_LES_2026-11-18",
+   "name": "Les Wattley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 1,
+   "ts": 1795045646,
+   "photo": "photos/ALL_WATTLEY_LES_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_FISHER_THOMARIUS_2026-11-18",
+   "name": "Thomarius Fisher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1795045640,
+   "photo": null
+  },
   {
    "key": "VAN_NORRIS_CEDRIC_2026-11-18",
    "name": "Cedric Lamont Norris",
@@ -2432,28 +2465,6 @@
    "charge": "Operating While Intoxicated",
    "more": 0,
    "ts": 1794790035,
-   "photo": null
-  },
-  {
-   "key": "POR_BENNETT_PORTIA_2026-11-14",
-   "name": "Portia Lynn Bennett",
-   "age": "34",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery Felony 6",
-   "more": 0,
-   "ts": 1794786433,
-   "photo": "photos/POR_BENNETT_PORTIA_2026-11-14.jpg"
-  },
-  {
-   "key": "ALL_CURRY_JORDAN_2026-11-15",
-   "name": "Jordan Curry",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Shoplifting",
-   "more": 2,
-   "ts": 1794786429,
    "photo": null
   }
  ]
