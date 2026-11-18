@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-18T17:47:52+00:00",
+ "updated": "2026-11-18T18:47:50+00:00",
  "items": [
+  {
+   "key": "MAD_SHAW_ANTHONY_2026-11-18",
+   "name": "Anthony Ross Shaw",
+   "age": "36",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795027650,
+   "photo": "photos/MAD_SHAW_ANTHONY_2026-11-18.jpg"
+  },
+  {
+   "key": "MAD_GREER_BREANN_2026-11-18",
+   "name": "Breann Marishawn Greer",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1795027647,
+   "photo": "photos/MAD_GREER_BREANN_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_WILLIAMS_JESSE_2026-11-18",
+   "name": "Jesse Martin Williams",
+   "age": "51",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795027638,
+   "photo": null
+  },
+  {
+   "key": "VAN_REDDING_MONIQUA_2026-11-18",
+   "name": "Moniqua Dashary Redding",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Prior Unrelated Conviction for Theft or Conversion",
+   "more": 0,
+   "ts": 1795027638,
+   "photo": null
+  },
   {
    "key": "MAD_VANAUSDAL_FRANK_2026-11-18",
    "name": "Frank D Junior Vanausdal",
@@ -431,17 +475,6 @@
    "photo": "photos/VAN_CLARK_CODY_2026-11-17.jpg"
   },
   {
-   "key": "VAN_BLAIR_WILLIAM_2026-11-17",
-   "name": "William Blayd Blair",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794962842,
-   "photo": "photos/VAN_BLAIR_WILLIAM_2026-11-17.jpg"
-  },
-  {
    "key": "MAD_ADAMS_AUBREY_2026-11-17",
    "name": "Aubrey Mekeanna Adams",
    "age": "18",
@@ -462,17 +495,6 @@
    "more": 0,
    "ts": 1794959257,
    "photo": "photos/ALL_MARTIN_MATTHEW_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_DENNIS_RANDOLPH_2026-11-17",
-   "name": "Randolph Eugene Dennis",
-   "age": "68",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Moderate Bodily Injury",
-   "more": 0,
-   "ts": 1794955664,
-   "photo": "photos/VAN_DENNIS_RANDOLPH_2026-11-17.jpg"
   },
   {
    "key": "POR_MCNICHOLS_DAMARIO_2026-11-16",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1794937646,
    "photo": "photos/MAD_ALLEN_DEON_2026-11-17.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_SMITH_DONALD_2026-11-17",
-   "name": "Donald Jermaine Smith",
-   "age": "44",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794934050,
-   "photo": "photos/MAD_SMITH_DONALD_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_MILLER_THERESA_2026-11-17",
-   "name": "Theresa Miller",
-   "age": "35",
+   "key": "MAD_SHAW_ANTHONY_2026-11-18",
+   "name": "Anthony Ross Shaw",
+   "age": "36",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1794934049,
+   "ts": 1795027650,
+   "photo": "photos/MAD_SHAW_ANTHONY_2026-11-18.jpg"
+  },
+  {
+   "key": "MAD_GREER_BREANN_2026-11-18",
+   "name": "Breann Marishawn Greer",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1795027647,
+   "photo": "photos/MAD_GREER_BREANN_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_WILLIAMS_JESSE_2026-11-18",
+   "name": "Jesse Martin Williams",
+   "age": "51",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795027638,
    "photo": null
-  }
- ],
- "all_items": [
+  },
+  {
+   "key": "VAN_REDDING_MONIQUA_2026-11-18",
+   "name": "Moniqua Dashary Redding",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Prior Unrelated Conviction for Theft or Conversion",
+   "more": 0,
+   "ts": 1795027638,
+   "photo": null
+  },
   {
    "key": "MAD_VANAUSDAL_FRANK_2026-11-18",
    "name": "Frank D Junior Vanausdal",
@@ -2312,17 +2356,6 @@
    "more": 0,
    "ts": 1794772036,
    "photo": "photos/ALL_WHITE_ANGELA_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_JOHNSON_ANTHONY_2026-11-15",
-   "name": "Anthony Johnson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion of Privacy",
-   "more": 0,
-   "ts": 1794768439,
-   "photo": "photos/ALL_JOHNSON_ANTHONY_2026-11-15.jpg"
   }
  ]
 }
