@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-19T05:47:42+00:00",
+ "updated": "2026-11-19T06:47:25+00:00",
  "items": [
+  {
+   "key": "VAN_POWELL_MICHAEL_2026-11-18",
+   "name": "Michael Scott Powell",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 2,
+   "ts": 1795070830,
+   "photo": "photos/VAN_POWELL_MICHAEL_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_THOMPSON_XAVIER_2026-11-18",
+   "name": "Xavier Renard Thompson",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795070829,
+   "photo": "photos/VAN_THOMPSON_XAVIER_2026-11-18.jpg"
+  },
   {
    "key": "MAD_STIERS_MICHAEL_2026-11-18",
    "name": "Michael C Stiers",
@@ -398,28 +420,6 @@
    "photo": null
   },
   {
-   "key": "VAN_HAHN_CRAIG_2026-11-18",
-   "name": "Craig Mendel Hahn",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795034843,
-   "photo": "photos/VAN_HAHN_CRAIG_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_CARDIN_AMANDA_2026-11-18",
-   "name": "Amanda Gail Cardin",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795034843,
-   "photo": null
-  },
-  {
    "key": "ALL_KAIN_JONATHAN_2026-11-18",
    "name": "Jonathan Kain",
    "age": "",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_POWELL_MICHAEL_2026-11-18",
+   "name": "Michael Scott Powell",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Methamphetamine",
+   "more": 2,
+   "ts": 1795070830,
+   "photo": "photos/VAN_POWELL_MICHAEL_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_THOMPSON_XAVIER_2026-11-18",
+   "name": "Xavier Renard Thompson",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795070829,
+   "photo": "photos/VAN_THOMPSON_XAVIER_2026-11-18.jpg"
+  },
   {
    "key": "MAD_STIERS_MICHAEL_2026-11-18",
    "name": "Michael C Stiers",
