@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-19T14:47:34+00:00",
+ "updated": "2026-11-19T15:47:34+00:00",
  "items": [
+  {
+   "key": "POR_CANTUMUNOZ_ALFONZO_2026-11-18",
+   "name": "Alfonzo Nmn Cantu-Munoz",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795103236,
+   "photo": "photos/POR_CANTUMUNOZ_ALFONZO_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_FAZIO_CHRISTOPHER_2026-11-19",
+   "name": "Christopher Fazio",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation",
+   "more": 2,
+   "ts": 1795103231,
+   "photo": "photos/ALL_FAZIO_CHRISTOPHER_2026-11-19.jpg"
+  },
   {
    "key": "MAD_LEPHEW_STACY_2026-11-19",
    "name": "Stacy Danielle Lephew",
@@ -475,17 +497,6 @@
    "photo": "photos/ALL_WILLIAMS_SULTON_2026-11-18.jpg"
   },
   {
-   "key": "ALL_LUNAGARCIA_ISAIAS_2026-11-18",
-   "name": "Isaias Lunagarcia",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Murder",
-   "more": 0,
-   "ts": 1795049238,
-   "photo": "photos/ALL_LUNAGARCIA_ISAIAS_2026-11-18.jpg"
-  },
-  {
    "key": "VAN_JOHNSON_CANDICE_2026-11-18",
    "name": "Candice Nachele Johnson",
    "age": "37",
@@ -517,20 +528,31 @@
    "more": 3,
    "ts": 1795042037,
    "photo": null
-  },
-  {
-   "key": "MAD_KENDALL_ZACHARY_2026-11-18",
-   "name": "Zachary Lester Kendall",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery-adult knowing presence of child less than 16 years\u2026",
-   "more": 0,
-   "ts": 1795038463,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "POR_CANTUMUNOZ_ALFONZO_2026-11-18",
+   "name": "Alfonzo Nmn Cantu-Munoz",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795103236,
+   "photo": "photos/POR_CANTUMUNOZ_ALFONZO_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_FAZIO_CHRISTOPHER_2026-11-19",
+   "name": "Christopher Fazio",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation",
+   "more": 2,
+   "ts": 1795103231,
+   "photo": "photos/ALL_FAZIO_CHRISTOPHER_2026-11-19.jpg"
+  },
   {
    "key": "MAD_LEPHEW_STACY_2026-11-19",
    "name": "Stacy Danielle Lephew",
@@ -2752,50 +2774,6 @@
    "more": 2,
    "ts": 1794844066,
    "photo": "photos/MAD_THOMPSON_MICHAEL_2026-11-16.jpg"
-  },
-  {
-   "key": "MAD_BROUGH_LOGAN_2026-11-16",
-   "name": "Logan Levi Brough",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794844054,
-   "photo": "photos/MAD_BROUGH_LOGAN_2026-11-16.jpg"
-  },
-  {
-   "key": "POR_MCTAGGART_CODY_2026-11-15",
-   "name": "Cody Riche Mctaggart",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol/Drugs",
-   "more": 0,
-   "ts": 1794844048,
-   "photo": "photos/POR_MCTAGGART_CODY_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_PIPER_MICHAEL_2026-11-16",
-   "name": "Michael James Piper",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794844045,
-   "photo": "photos/VAN_PIPER_MICHAEL_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_MOORE_JUSTIN_2026-11-16",
-   "name": "Justin Moore",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Robbery / Armed",
-   "more": 1,
-   "ts": 1794844040,
-   "photo": "photos/ALL_MOORE_JUSTIN_2026-11-16.jpg"
   }
  ]
 }
