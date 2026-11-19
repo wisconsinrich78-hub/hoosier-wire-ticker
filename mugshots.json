@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-19T16:47:34+00:00",
+ "updated": "2026-11-19T17:47:34+00:00",
  "items": [
+  {
+   "key": "MAD_SMITH_KASEY_2026-11-19",
+   "name": "Kasey Leann Smith",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Contempt of Court (Child Support) - Jail Booking",
+   "more": 0,
+   "ts": 1795110448,
+   "photo": "photos/MAD_SMITH_KASEY_2026-11-19.jpg"
+  },
+  {
+   "key": "MAD_OLDEN_LAMONTE_2026-11-19",
+   "name": "Lamonte Lavel Junior Olden",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation Continuum Sanctions",
+   "more": 0,
+   "ts": 1795110446,
+   "photo": "photos/MAD_OLDEN_LAMONTE_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_STRODE_JOSHUA_2026-11-19",
+   "name": "Joshua Ryan Strode",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795110439,
+   "photo": "photos/VAN_STRODE_JOSHUA_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_HERNANDEZGOMEZ_DIEGO_2026-11-19",
+   "name": "Diego Nmn Hernandez Gomez",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795110436,
+   "photo": null
+  },
+  {
+   "key": "ALL_KARTHOLL_ADAM_2026-11-19",
+   "name": "Adam Kartholl",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing in Methamphetamine",
+   "more": 0,
+   "ts": 1795110434,
+   "photo": "photos/ALL_KARTHOLL_ADAM_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_SMITH_CRAIG_2026-11-19",
+   "name": "Craig Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795110429,
+   "photo": "photos/ALL_SMITH_CRAIG_2026-11-19.jpg"
+  },
   {
    "key": "VAN_COLLINS_NICHOLAS_2026-11-19",
    "name": "Nicholas Wayne Collins",
@@ -387,17 +453,6 @@
    "photo": "photos/ALL_DELAGRANGE_JONATHAN_2026-11-18.jpg"
   },
   {
-   "key": "ALL_MIDDAUGH_NATHANIEL_2026-11-18",
-   "name": "Nathaniel Middaugh",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Cocaine or Narcotic Drug",
-   "more": 1,
-   "ts": 1795063637,
-   "photo": "photos/ALL_MIDDAUGH_NATHANIEL_2026-11-18.jpg"
-  },
-  {
    "key": "VAN_WILLIAMS_SHONTAE_2026-11-18",
    "name": "Shontae Leshay Williams",
    "age": "50",
@@ -429,17 +484,6 @@
    "more": 2,
    "ts": 1795056435,
    "photo": "photos/VAN_ABBOTT_ARRICK_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_HOERGER_JORDEN_2026-11-18",
-   "name": "Jorden Hoerger",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 1,
-   "ts": 1795056431,
-   "photo": "photos/ALL_HOERGER_JORDEN_2026-11-18.jpg"
   },
   {
    "key": "VAN_GILMORE_JAYVON_2026-11-18",
@@ -484,53 +528,75 @@
    "more": 2,
    "ts": 1795049262,
    "photo": "photos/MAD_STRONG_PAUL_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_CAMACHOMENDEZ_JOSE_2026-11-17",
-   "name": "Jose Guadalupe Camacho-Mendez",
-   "age": "26",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Operating While Intoxicated Endangers a Misd",
-   "more": 1,
-   "ts": 1795049251,
-   "photo": "photos/POR_CAMACHOMENDEZ_JOSE_2026-11-17.jpg"
-  },
-  {
-   "key": "POR_RAMIREZ_VICTOR_2026-11-18",
-   "name": "Victor Ramirez",
-   "age": "53",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "35-42-2-1 (B)(1) (Simple Assault) : Battery Against A Public Safety\u2026",
-   "more": 0,
-   "ts": 1795049249,
-   "photo": "photos/POR_RAMIREZ_VICTOR_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_CANDICE_2026-11-18",
-   "name": "Candice Nachele Johnson",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
-   "more": 0,
-   "ts": 1795045652,
-   "photo": "photos/VAN_JOHNSON_CANDICE_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_NORRIS_CEDRIC_2026-11-18",
-   "name": "Cedric Lamont Norris",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Weapon/Instrument of Violence- Fail to Display Handgun Deale",
-   "more": 1,
-   "ts": 1795042040,
-   "photo": "photos/VAN_NORRIS_CEDRIC_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SMITH_KASEY_2026-11-19",
+   "name": "Kasey Leann Smith",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Contempt of Court (Child Support) - Jail Booking",
+   "more": 0,
+   "ts": 1795110448,
+   "photo": "photos/MAD_SMITH_KASEY_2026-11-19.jpg"
+  },
+  {
+   "key": "MAD_OLDEN_LAMONTE_2026-11-19",
+   "name": "Lamonte Lavel Junior Olden",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation Continuum Sanctions",
+   "more": 0,
+   "ts": 1795110446,
+   "photo": "photos/MAD_OLDEN_LAMONTE_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_STRODE_JOSHUA_2026-11-19",
+   "name": "Joshua Ryan Strode",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795110439,
+   "photo": "photos/VAN_STRODE_JOSHUA_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_HERNANDEZGOMEZ_DIEGO_2026-11-19",
+   "name": "Diego Nmn Hernandez Gomez",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795110436,
+   "photo": null
+  },
+  {
+   "key": "ALL_KARTHOLL_ADAM_2026-11-19",
+   "name": "Adam Kartholl",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing in Methamphetamine",
+   "more": 0,
+   "ts": 1795110434,
+   "photo": "photos/ALL_KARTHOLL_ADAM_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_SMITH_CRAIG_2026-11-19",
+   "name": "Craig Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795110429,
+   "photo": "photos/ALL_SMITH_CRAIG_2026-11-19.jpg"
+  },
   {
    "key": "VAN_COLLINS_NICHOLAS_2026-11-19",
    "name": "Nicholas Wayne Collins",
@@ -2741,28 +2807,6 @@
    "more": 0,
    "ts": 1794854897,
    "photo": "photos/MAD_BUSBY_TRENT_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_MOTEN_DARIUS_2026-11-16",
-   "name": "Darius Antwine Moten",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 1,
-   "ts": 1794851241,
-   "photo": "photos/VAN_MOTEN_DARIUS_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_THOMAS_ANGELA_2026-11-16",
-   "name": "Angela Dawn Thomas",
-   "age": "50",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft",
-   "more": 0,
-   "ts": 1794851239,
-   "photo": "photos/VAN_THOMAS_ANGELA_2026-11-16.jpg"
   }
  ]
 }
