@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-19T03:47:29+00:00",
+ "updated": "2026-11-19T04:47:47+00:00",
  "items": [
+  {
+   "key": "POR_SMART_ELLIOTT_2026-11-18",
+   "name": "Elliott T Smart",
+   "age": "49",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Obstruction of Justice",
+   "more": 3,
+   "ts": 1795063651,
+   "photo": "photos/POR_SMART_ELLIOTT_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_BELCHER_RODNEY_2026-11-18",
+   "name": "Rodney Belcher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1795063647,
+   "photo": "photos/ALL_BELCHER_RODNEY_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_DELAGRANGE_JONATHAN_2026-11-18",
+   "name": "Jonathan Delagrange",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1795063642,
+   "photo": "photos/ALL_DELAGRANGE_JONATHAN_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_MIDDAUGH_NATHANIEL_2026-11-18",
+   "name": "Nathaniel Middaugh",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1795063637,
+   "photo": "photos/ALL_MIDDAUGH_NATHANIEL_2026-11-18.jpg"
+  },
   {
    "key": "VAN_WILLIAMS_SHONTAE_2026-11-18",
    "name": "Shontae Leshay Williams",
@@ -484,53 +528,53 @@
    "more": 0,
    "ts": 1795020452,
    "photo": "photos/MAD_VANVOORST_DILLON_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_STOY_BARRY_2026-11-18",
-   "name": "Barry Stoy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 0,
-   "ts": 1795020440,
-   "photo": "photos/ALL_STOY_BARRY_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_THOMPSON_NARVIS_2026-11-18",
-   "name": "Narvis Thompson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft of a Firearm",
-   "more": 1,
-   "ts": 1795020435,
-   "photo": "photos/ALL_THOMPSON_NARVIS_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_HARVEY_ARITHA_2026-11-18",
-   "name": "Aritha Harvey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1795016851,
-   "photo": "photos/ALL_HARVEY_ARITHA_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_HURNI_JAMIE_2026-11-17",
-   "name": "Jamie Marie Hurni",
-   "age": "54",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Communication- Intimidation",
-   "more": 1,
-   "ts": 1795013238,
-   "photo": "photos/POR_HURNI_JAMIE_2026-11-17.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_SMART_ELLIOTT_2026-11-18",
+   "name": "Elliott T Smart",
+   "age": "49",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Obstruction of Justice",
+   "more": 3,
+   "ts": 1795063651,
+   "photo": "photos/POR_SMART_ELLIOTT_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_BELCHER_RODNEY_2026-11-18",
+   "name": "Rodney Belcher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1795063647,
+   "photo": "photos/ALL_BELCHER_RODNEY_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_DELAGRANGE_JONATHAN_2026-11-18",
+   "name": "Jonathan Delagrange",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1795063642,
+   "photo": "photos/ALL_DELAGRANGE_JONATHAN_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_MIDDAUGH_NATHANIEL_2026-11-18",
+   "name": "Nathaniel Middaugh",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1795063637,
+   "photo": "photos/ALL_MIDDAUGH_NATHANIEL_2026-11-18.jpg"
+  },
   {
    "key": "VAN_WILLIAMS_SHONTAE_2026-11-18",
    "name": "Shontae Leshay Williams",
@@ -2510,28 +2554,6 @@
    "more": 1,
    "ts": 1794808041,
    "photo": "photos/ALL_HARRIS_EDWIN_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_THOMAS_JASHOD_2026-11-15",
-   "name": "Jashod Thomas",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 1,
-   "ts": 1794804438,
-   "photo": "photos/ALL_THOMAS_JASHOD_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_GRIBBLE_CARL_2026-11-15",
-   "name": "Carl Gribble",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 0,
-   "ts": 1794804433,
-   "photo": "photos/ALL_GRIBBLE_CARL_2026-11-15.jpg"
   }
  ]
 }
