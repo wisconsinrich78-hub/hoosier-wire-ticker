@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-18T23:47:44+00:00",
+ "updated": "2026-11-19T00:47:49+00:00",
  "items": [
+  {
+   "key": "MAD_STRONG_PAUL_2026-11-18",
+   "name": "Paul Wayne Strong",
+   "age": "61",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Intimidation",
+   "more": 2,
+   "ts": 1795049262,
+   "photo": "photos/MAD_STRONG_PAUL_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_CAMACHOMENDEZ_JOSE_2026-11-17",
+   "name": "Jose Guadalupe Camacho-Mendez",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating While Intoxicated Endangers a Misd",
+   "more": 1,
+   "ts": 1795049251,
+   "photo": "photos/POR_CAMACHOMENDEZ_JOSE_2026-11-17.jpg"
+  },
+  {
+   "key": "POR_RAMIREZ_VICTOR_2026-11-18",
+   "name": "Victor Ramirez",
+   "age": "53",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "35-42-2-1 (B)(1) (Simple Assault) : Battery Against A Public Safety\u2026",
+   "more": 0,
+   "ts": 1795049249,
+   "photo": "photos/POR_RAMIREZ_VICTOR_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_WILLIAMS_SULTON_2026-11-18",
+   "name": "Sulton Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795049243,
+   "photo": "photos/ALL_WILLIAMS_SULTON_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_LUNAGARCIA_ISAIAS_2026-11-18",
+   "name": "Isaias Lunagarcia",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder",
+   "more": 0,
+   "ts": 1795049238,
+   "photo": "photos/ALL_LUNAGARCIA_ISAIAS_2026-11-18.jpg"
+  },
   {
    "key": "VAN_JOHNSON_CANDICE_2026-11-18",
    "name": "Candice Nachele Johnson",
@@ -473,64 +528,64 @@
    "more": 0,
    "ts": 1794988051,
    "photo": "photos/MAD_SILLS_ERIK_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_MADISON_DORA_2026-11-18",
-   "name": "Dora Madison",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 4,
-   "ts": 1794988035,
-   "photo": "photos/ALL_MADISON_DORA_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_ROGAN_BARBARA_2026-11-18",
-   "name": "Barbara Rogan",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794984433,
-   "photo": "photos/ALL_ROGAN_BARBARA_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_LITTLEFIELD_IAN_2026-11-17",
-   "name": "Ian Robert Littlefield",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 3,
-   "ts": 1794980853,
-   "photo": "photos/POR_LITTLEFIELD_IAN_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_LOVE_QUENTIN_2026-11-17",
-   "name": "Quentin Love",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1794977237,
-   "photo": "photos/ALL_LOVE_QUENTIN_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_SMALL_ROBERT_2026-11-17",
-   "name": "Robert Lee Small",
-   "age": "38",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794966464,
-   "photo": "photos/MAD_SMALL_ROBERT_2026-11-17.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_STRONG_PAUL_2026-11-18",
+   "name": "Paul Wayne Strong",
+   "age": "61",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Intimidation",
+   "more": 2,
+   "ts": 1795049262,
+   "photo": "photos/MAD_STRONG_PAUL_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_CAMACHOMENDEZ_JOSE_2026-11-17",
+   "name": "Jose Guadalupe Camacho-Mendez",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Operating While Intoxicated Endangers a Misd",
+   "more": 1,
+   "ts": 1795049251,
+   "photo": "photos/POR_CAMACHOMENDEZ_JOSE_2026-11-17.jpg"
+  },
+  {
+   "key": "POR_RAMIREZ_VICTOR_2026-11-18",
+   "name": "Victor Ramirez",
+   "age": "53",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "35-42-2-1 (B)(1) (Simple Assault) : Battery Against A Public Safety\u2026",
+   "more": 0,
+   "ts": 1795049249,
+   "photo": "photos/POR_RAMIREZ_VICTOR_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_WILLIAMS_SULTON_2026-11-18",
+   "name": "Sulton Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795049243,
+   "photo": "photos/ALL_WILLIAMS_SULTON_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_LUNAGARCIA_ISAIAS_2026-11-18",
+   "name": "Isaias Lunagarcia",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder",
+   "more": 0,
+   "ts": 1795049238,
+   "photo": "photos/ALL_LUNAGARCIA_ISAIAS_2026-11-18.jpg"
+  },
   {
    "key": "VAN_JOHNSON_CANDICE_2026-11-18",
    "name": "Candice Nachele Johnson",
@@ -2433,39 +2488,6 @@
    "more": 3,
    "ts": 1794793637,
    "photo": "photos/MAD_STGERMAIN_CHRISTOPHER_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_BROWN_PHILLIP_2026-11-15",
-   "name": "Phillip Michael Brown",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1794790040,
-   "photo": "photos/VAN_BROWN_PHILLIP_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_LEWIS_ALFRED_2026-11-15",
-   "name": "Alfred Nmn Lewis",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft",
-   "more": 2,
-   "ts": 1794790039,
-   "photo": "photos/VAN_LEWIS_ALFRED_2026-11-15.jpg"
-  },
-  {
-   "key": "ALL_WALLACE_DYLAN_2026-11-15",
-   "name": "Dylan Wallace",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1794790035,
-   "photo": null
   }
  ]
 }
