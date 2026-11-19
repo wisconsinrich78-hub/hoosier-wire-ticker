@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T19:19:12+00:00",
+ "updated": "2026-11-19T19:47:41+00:00",
  "items": [
+  {
+   "key": "VAN_COOPER_BRANDON_2026-11-19",
+   "name": "Brandon Michael Cooper",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Sex Crime- Unlawful Entry of School Property by a Serious Se",
+   "more": 0,
+   "ts": 1795117645,
+   "photo": "photos/VAN_COOPER_BRANDON_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_JOHNSON_MAKAYLA_2026-11-19",
+   "name": "Makayla Lanae Johnson",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Family Offense- Neglect of Dependant/Child Violations",
+   "more": 0,
+   "ts": 1795117642,
+   "photo": null
+  },
+  {
+   "key": "ALL_RAMBO_MICHAEL_2026-11-19",
+   "name": "Michael Rambo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation by Threats",
+   "more": 0,
+   "ts": 1795117639,
+   "photo": "photos/ALL_RAMBO_MICHAEL_2026-11-19.jpg"
+  },
   {
    "key": "MAD_JACKSON_ASHLEY_2026-11-19",
    "name": "Ashley Monique Jackson",
@@ -475,17 +508,6 @@
    "photo": "photos/POR_SMART_ELLIOTT_2026-11-18.jpg"
   },
   {
-   "key": "ALL_BELCHER_RODNEY_2026-11-18",
-   "name": "Rodney Belcher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1795063647,
-   "photo": "photos/ALL_BELCHER_RODNEY_2026-11-18.jpg"
-  },
-  {
    "key": "VAN_WILLIAMS_SHONTAE_2026-11-18",
    "name": "Shontae Leshay Williams",
    "age": "50",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1795056436,
    "photo": "photos/VAN_DREIMAN_MERCIDE_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_ABBOTT_ARRICK_2026-11-18",
-   "name": "Arrick Andrew Abbott",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 2,
-   "ts": 1795056435,
-   "photo": "photos/VAN_ABBOTT_ARRICK_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_GILMORE_JAYVON_2026-11-18",
-   "name": "Jayvon Jontay Gilmore",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1795052838,
-   "photo": "photos/VAN_GILMORE_JAYVON_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_COOPER_BRANDON_2026-11-19",
+   "name": "Brandon Michael Cooper",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Sex Crime- Unlawful Entry of School Property by a Serious Se",
+   "more": 0,
+   "ts": 1795117645,
+   "photo": "photos/VAN_COOPER_BRANDON_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_JOHNSON_MAKAYLA_2026-11-19",
+   "name": "Makayla Lanae Johnson",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Family Offense- Neglect of Dependant/Child Violations",
+   "more": 0,
+   "ts": 1795117642,
+   "photo": null
+  },
+  {
+   "key": "ALL_RAMBO_MICHAEL_2026-11-19",
+   "name": "Michael Rambo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation by Threats",
+   "more": 0,
+   "ts": 1795117639,
+   "photo": "photos/ALL_RAMBO_MICHAEL_2026-11-19.jpg"
+  },
   {
    "key": "MAD_JACKSON_ASHLEY_2026-11-19",
    "name": "Ashley Monique Jackson",
@@ -2796,50 +2829,6 @@
    "more": 0,
    "ts": 1794862034,
    "photo": "photos/ALL_BRUCE_JOEVON_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_WARD_CAMERON_2026-11-16",
-   "name": "Cameron Lee Ward",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794858455,
-   "photo": "photos/VAN_WARD_CAMERON_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_STONER_JAVON_2026-11-16",
-   "name": "Javon Allen Stoner",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Traffic-Operate W/O Ever Receiving Lic Prior",
-   "more": 0,
-   "ts": 1794858451,
-   "photo": "photos/VAN_STONER_JAVON_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_MCCLEARY_MEILI_2026-11-16",
-   "name": "Meili Marie Mccleary",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794858450,
-   "photo": "photos/VAN_MCCLEARY_MEILI_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_RODOCKER_DANIEL_2026-11-16",
-   "name": "Daniel Rodocker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 1,
-   "ts": 1794858444,
-   "photo": "photos/ALL_RODOCKER_DANIEL_2026-11-16.jpg"
   }
  ]
 }
