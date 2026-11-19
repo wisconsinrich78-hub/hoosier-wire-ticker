@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T15:47:34+00:00",
+ "updated": "2026-11-19T16:29:09+00:00",
  "items": [
   {
    "key": "POR_CANTUMUNOZ_ALFONZO_2026-11-18",
@@ -2763,17 +2763,6 @@
    "more": 1,
    "ts": 1794847630,
    "photo": "photos/ALL_HICKS_KRYSTAL_2026-11-16.jpg"
-  },
-  {
-   "key": "MAD_THOMPSON_MICHAEL_2026-11-16",
-   "name": "Michael Leroy Thompson",
-   "age": "55",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Probation - Jail Booking",
-   "more": 2,
-   "ts": 1794844066,
-   "photo": "photos/MAD_THOMPSON_MICHAEL_2026-11-16.jpg"
   }
  ]
 }
