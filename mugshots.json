@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T01:47:32+00:00",
+ "updated": "2026-11-19T02:47:26+00:00",
  "items": [
+  {
+   "key": "VAN_DREIMAN_MERCIDE_2026-11-18",
+   "name": "Mercide Nicole Dreiman",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Shoplifting - Prior Unrelated Conviction for Theft or",
+   "more": 0,
+   "ts": 1795056436,
+   "photo": "photos/VAN_DREIMAN_MERCIDE_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_ABBOTT_ARRICK_2026-11-18",
+   "name": "Arrick Andrew Abbott",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 2,
+   "ts": 1795056435,
+   "photo": "photos/VAN_ABBOTT_ARRICK_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_HOERGER_JORDEN_2026-11-18",
+   "name": "Jorden Hoerger",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 1,
+   "ts": 1795056431,
+   "photo": "photos/ALL_HOERGER_JORDEN_2026-11-18.jpg"
+  },
   {
    "key": "VAN_GILMORE_JAYVON_2026-11-18",
    "name": "Jayvon Jontay Gilmore",
@@ -376,28 +409,6 @@
    "photo": "photos/MAD_GREER_BREANN_2026-11-18.jpg"
   },
   {
-   "key": "VAN_WILLIAMS_JESSE_2026-11-18",
-   "name": "Jesse Martin Williams",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795027638,
-   "photo": null
-  },
-  {
-   "key": "VAN_REDDING_MONIQUA_2026-11-18",
-   "name": "Moniqua Dashary Redding",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Prior Unrelated Conviction for Theft or Conversion",
-   "more": 0,
-   "ts": 1795027638,
-   "photo": null
-  },
-  {
    "key": "MAD_VANAUSDAL_FRANK_2026-11-18",
    "name": "Frank D Junior Vanausdal",
    "age": "28",
@@ -517,20 +528,42 @@
    "more": 1,
    "ts": 1795013238,
    "photo": "photos/POR_HURNI_JAMIE_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_SILLS_ERIK_2026-11-18",
-   "name": "Erik Stanley Sills",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794988051,
-   "photo": "photos/MAD_SILLS_ERIK_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_DREIMAN_MERCIDE_2026-11-18",
+   "name": "Mercide Nicole Dreiman",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Shoplifting - Prior Unrelated Conviction for Theft or",
+   "more": 0,
+   "ts": 1795056436,
+   "photo": "photos/VAN_DREIMAN_MERCIDE_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_ABBOTT_ARRICK_2026-11-18",
+   "name": "Arrick Andrew Abbott",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 2,
+   "ts": 1795056435,
+   "photo": "photos/VAN_ABBOTT_ARRICK_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_HOERGER_JORDEN_2026-11-18",
+   "name": "Jorden Hoerger",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 1,
+   "ts": 1795056431,
+   "photo": "photos/ALL_HOERGER_JORDEN_2026-11-18.jpg"
+  },
   {
    "key": "VAN_GILMORE_JAYVON_2026-11-18",
    "name": "Jayvon Jontay Gilmore",
@@ -2499,17 +2532,6 @@
    "more": 0,
    "ts": 1794800831,
    "photo": null
-  },
-  {
-   "key": "VAN_SELLNER_LOGAN_2026-11-15",
-   "name": "Logan Casey Sellner",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794797242,
-   "photo": "photos/VAN_SELLNER_LOGAN_2026-11-15.jpg"
   }
  ]
 }
