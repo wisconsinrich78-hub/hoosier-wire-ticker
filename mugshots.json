@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T12:47:29+00:00",
+ "updated": "2026-11-19T13:47:33+00:00",
  "items": [
+  {
+   "key": "POR_BURNS_SIR_2026-11-18",
+   "name": "Sir Alexandor Deshawn Burns",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 1,
+   "ts": 1795096038,
+   "photo": "photos/POR_BURNS_SIR_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_HICKS_DAYSHAWN_2026-11-18",
+   "name": "Dayshawn Antonio Hicks",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 1,
+   "ts": 1795096034,
+   "photo": "photos/POR_HICKS_DAYSHAWN_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_SMITH_JEREMY_2026-11-19",
+   "name": "Jeremy Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1795096029,
+   "photo": "photos/ALL_SMITH_JEREMY_2026-11-19.jpg"
+  },
   {
    "key": "MAD_WATKINS_RICHARD_2026-11-19",
    "name": "Richard R Third Watkins",
@@ -431,17 +464,6 @@
    "photo": "photos/VAN_JOHNSON_CANDICE_2026-11-18.jpg"
   },
   {
-   "key": "ALL_WATTLEY_LES_2026-11-18",
-   "name": "Les Wattley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1795045646,
-   "photo": "photos/ALL_WATTLEY_LES_2026-11-18.jpg"
-  },
-  {
    "key": "VAN_NORRIS_CEDRIC_2026-11-18",
    "name": "Cedric Lamont Norris",
    "age": "40",
@@ -506,31 +528,42 @@
    "more": 1,
    "ts": 1795031245,
    "photo": "photos/POR_BACHMAN_JESSIE_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_SHAW_ANTHONY_2026-11-18",
-   "name": "Anthony Ross Shaw",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795027650,
-   "photo": "photos/MAD_SHAW_ANTHONY_2026-11-18.jpg"
-  },
-  {
-   "key": "MAD_GREER_BREANN_2026-11-18",
-   "name": "Breann Marishawn Greer",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1795027647,
-   "photo": "photos/MAD_GREER_BREANN_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_BURNS_SIR_2026-11-18",
+   "name": "Sir Alexandor Deshawn Burns",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 1,
+   "ts": 1795096038,
+   "photo": "photos/POR_BURNS_SIR_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_HICKS_DAYSHAWN_2026-11-18",
+   "name": "Dayshawn Antonio Hicks",
+   "age": "23",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 1,
+   "ts": 1795096034,
+   "photo": "photos/POR_HICKS_DAYSHAWN_2026-11-18.jpg"
+  },
+  {
+   "key": "ALL_SMITH_JEREMY_2026-11-19",
+   "name": "Jeremy Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1795096029,
+   "photo": "photos/ALL_SMITH_JEREMY_2026-11-19.jpg"
+  },
   {
    "key": "MAD_WATKINS_RICHARD_2026-11-19",
    "name": "Richard R Third Watkins",
