@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T07:47:39+00:00",
+ "updated": "2026-11-19T08:47:35+00:00",
  "items": [
+  {
+   "key": "VAN_LOWE_CHEYENNE_2026-11-19",
+   "name": "Cheyenne Deanna Lowe",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795078043,
+   "photo": "photos/VAN_LOWE_CHEYENNE_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_STARR_CODI_2026-11-19",
+   "name": "Codi Starr",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 2,
+   "ts": 1795078037,
+   "photo": "photos/ALL_STARR_CODI_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_DELCAMP_ANGEL_2026-11-19",
+   "name": "Angel Delcamp",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 3,
+   "ts": 1795078032,
+   "photo": "photos/ALL_DELCAMP_ANGEL_2026-11-19.jpg"
+  },
   {
    "key": "VAN_SKILES_HEIDI_2026-11-19",
    "name": "Heidi Lynae Skiles",
@@ -343,17 +376,6 @@
    "photo": "photos/ALL_WATTLEY_LES_2026-11-18.jpg"
   },
   {
-   "key": "ALL_FISHER_THOMARIUS_2026-11-18",
-   "name": "Thomarius Fisher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1795045640,
-   "photo": null
-  },
-  {
    "key": "VAN_NORRIS_CEDRIC_2026-11-18",
    "name": "Cedric Lamont Norris",
    "age": "40",
@@ -376,17 +398,6 @@
    "photo": null
   },
   {
-   "key": "ALL_CAUSEY_JALEN_2026-11-18",
-   "name": "Jalen Causey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Murder - Attempted",
-   "more": 0,
-   "ts": 1795042035,
-   "photo": "photos/ALL_CAUSEY_JALEN_2026-11-18.jpg"
-  },
-  {
    "key": "MAD_KENDALL_ZACHARY_2026-11-18",
    "name": "Zachary Lester Kendall",
    "age": "39",
@@ -407,17 +418,6 @@
    "more": 1,
    "ts": 1795038454,
    "photo": "photos/VAN_BROWN_GREGORY_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_HAWKINS_SHACOREY_2026-11-18",
-   "name": "Shacorey Aburce Hawkins",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1795038451,
-   "photo": null
   },
   {
    "key": "POR_GRUND_CAROLYN_2026-11-17",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_LOWE_CHEYENNE_2026-11-19",
+   "name": "Cheyenne Deanna Lowe",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795078043,
+   "photo": "photos/VAN_LOWE_CHEYENNE_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_STARR_CODI_2026-11-19",
+   "name": "Codi Starr",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 2,
+   "ts": 1795078037,
+   "photo": "photos/ALL_STARR_CODI_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_DELCAMP_ANGEL_2026-11-19",
+   "name": "Angel Delcamp",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 3,
+   "ts": 1795078032,
+   "photo": "photos/ALL_DELCAMP_ANGEL_2026-11-19.jpg"
+  },
   {
    "key": "VAN_SKILES_HEIDI_2026-11-19",
    "name": "Heidi Lynae Skiles",
@@ -2664,17 +2697,6 @@
    "more": 2,
    "ts": 1794826037,
    "photo": "photos/MAD_ALEXANDER_JEREMY_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_COX_JAMESON_2026-11-16",
-   "name": "Jameson Allen Cox",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 2,
-   "ts": 1794818827,
-   "photo": "photos/VAN_COX_JAMESON_2026-11-16.jpg"
   }
  ]
 }
