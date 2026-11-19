@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-19T06:47:25+00:00",
+ "updated": "2026-11-19T07:47:39+00:00",
  "items": [
+  {
+   "key": "VAN_SKILES_HEIDI_2026-11-19",
+   "name": "Heidi Lynae Skiles",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 0,
+   "ts": 1795074445,
+   "photo": null
+  },
+  {
+   "key": "ALL_PEARSON_JADEN_2026-11-19",
+   "name": "Jaden Pearson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795074442,
+   "photo": "photos/ALL_PEARSON_JADEN_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_BYERLEY_JAMES_2026-11-19",
+   "name": "James Byerley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1795074437,
+   "photo": "photos/ALL_BYERLEY_JAMES_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_CASTILLO_VICTOR_2026-11-19",
+   "name": "Victor Castillo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 5,
+   "ts": 1795074432,
+   "photo": "photos/ALL_CASTILLO_VICTOR_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_HUMPHREY_AMBER_2026-11-19",
+   "name": "Amber Humphrey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1795074428,
+   "photo": "photos/ALL_HUMPHREY_AMBER_2026-11-19.jpg"
+  },
   {
    "key": "VAN_POWELL_MICHAEL_2026-11-18",
    "name": "Michael Scott Powell",
@@ -365,39 +420,6 @@
    "photo": null
   },
   {
-   "key": "ALL_NORD_JESSE_2026-11-18",
-   "name": "Jesse Nord",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion of Privacy",
-   "more": 0,
-   "ts": 1795038449,
-   "photo": "photos/ALL_NORD_JESSE_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_PORTER_SHEMARIUS_2026-11-18",
-   "name": "Shemarius Porter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Murder - Attempted",
-   "more": 0,
-   "ts": 1795038445,
-   "photo": "photos/ALL_PORTER_SHEMARIUS_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_KOLB_DEBORAH_2026-11-18",
-   "name": "Deborah Kolb",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795038440,
-   "photo": "photos/ALL_KOLB_DEBORAH_2026-11-18.jpg"
-  },
-  {
    "key": "POR_GRUND_CAROLYN_2026-11-17",
    "name": "Carolyn Linnea Grund",
    "age": "50",
@@ -407,28 +429,6 @@
    "more": 2,
    "ts": 1795034846,
    "photo": "photos/POR_GRUND_CAROLYN_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_BONKE_JASON_2026-11-18",
-   "name": "Jason Wayne Bonke",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1795034843,
-   "photo": null
-  },
-  {
-   "key": "ALL_KAIN_JONATHAN_2026-11-18",
-   "name": "Jonathan Kain",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Cocaine or Narcotic Drug",
-   "more": 2,
-   "ts": 1795034841,
-   "photo": "photos/ALL_KAIN_JONATHAN_2026-11-18.jpg"
   },
   {
    "key": "MAD_JOHNSON_CURTIS_2026-11-18",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_SKILES_HEIDI_2026-11-19",
+   "name": "Heidi Lynae Skiles",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 0,
+   "ts": 1795074445,
+   "photo": null
+  },
+  {
+   "key": "ALL_PEARSON_JADEN_2026-11-19",
+   "name": "Jaden Pearson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795074442,
+   "photo": "photos/ALL_PEARSON_JADEN_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_BYERLEY_JAMES_2026-11-19",
+   "name": "James Byerley",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1795074437,
+   "photo": "photos/ALL_BYERLEY_JAMES_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_CASTILLO_VICTOR_2026-11-19",
+   "name": "Victor Castillo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 5,
+   "ts": 1795074432,
+   "photo": "photos/ALL_CASTILLO_VICTOR_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_HUMPHREY_AMBER_2026-11-19",
+   "name": "Amber Humphrey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1795074428,
+   "photo": "photos/ALL_HUMPHREY_AMBER_2026-11-19.jpg"
+  },
   {
    "key": "VAN_POWELL_MICHAEL_2026-11-18",
    "name": "Michael Scott Powell",
