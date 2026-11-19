@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T23:24:49+00:00",
+ "updated": "2026-11-19T23:47:49+00:00",
  "items": [
+  {
+   "key": "VAN_COLEMAN_JAMES_2026-11-19",
+   "name": "James Robert Coleman",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795132043,
+   "photo": "photos/VAN_COLEMAN_JAMES_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_HERNANDEZ_ANGELICA_2026-11-19",
+   "name": "Angelica Lynn Hernandez",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1795132043,
+   "photo": null
+  },
+  {
+   "key": "ALL_RUTLEDGE_SHANNON_2026-11-19",
+   "name": "Shannon Rutledge",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1795132037,
+   "photo": "photos/ALL_RUTLEDGE_SHANNON_2026-11-19.jpg"
+  },
   {
    "key": "POR_LOCKETT_RANDY_2026-11-18",
    "name": "Randy Dierre Lockett",
@@ -495,42 +528,42 @@
    "more": 2,
    "ts": 1795078037,
    "photo": "photos/ALL_STARR_CODI_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_DELCAMP_ANGEL_2026-11-19",
-   "name": "Angel Delcamp",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 3,
-   "ts": 1795078032,
-   "photo": "photos/ALL_DELCAMP_ANGEL_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_SKILES_HEIDI_2026-11-19",
-   "name": "Heidi Lynae Skiles",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 0,
-   "ts": 1795074445,
-   "photo": null
-  },
-  {
-   "key": "ALL_PEARSON_JADEN_2026-11-19",
-   "name": "Jaden Pearson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1795074442,
-   "photo": "photos/ALL_PEARSON_JADEN_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_COLEMAN_JAMES_2026-11-19",
+   "name": "James Robert Coleman",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795132043,
+   "photo": "photos/VAN_COLEMAN_JAMES_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_HERNANDEZ_ANGELICA_2026-11-19",
+   "name": "Angelica Lynn Hernandez",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1795132043,
+   "photo": null
+  },
+  {
+   "key": "ALL_RUTLEDGE_SHANNON_2026-11-19",
+   "name": "Shannon Rutledge",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1795132037,
+   "photo": "photos/ALL_RUTLEDGE_SHANNON_2026-11-19.jpg"
+  },
   {
    "key": "POR_LOCKETT_RANDY_2026-11-18",
    "name": "Randy Dierre Lockett",
@@ -2785,50 +2818,6 @@
    "more": 1,
    "ts": 1794876437,
    "photo": null
-  },
-  {
-   "key": "VAN_BURNS_MITZIE_2026-11-16",
-   "name": "Mitzie Channel Monique Burns",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Value of Property at Least $750 and Less That $50,000",
-   "more": 1,
-   "ts": 1794872854,
-   "photo": "photos/VAN_BURNS_MITZIE_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_ALEXANDER_FRAZONE_2026-11-16",
-   "name": "Frazone Edward Alexander",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794872853,
-   "photo": "photos/VAN_ALEXANDER_FRAZONE_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_ROSE_HEATHER_2026-11-16",
-   "name": "Heather Rose",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession Controlled Substance",
-   "more": 2,
-   "ts": 1794872847,
-   "photo": null
-  },
-  {
-   "key": "ALL_BLYTHE_JORDAN_2026-11-16",
-   "name": "Jordan Blythe",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794872842,
-   "photo": "photos/ALL_BLYTHE_JORDAN_2026-11-16.jpg"
   }
  ]
 }
