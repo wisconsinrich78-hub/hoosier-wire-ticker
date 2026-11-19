@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-19T02:47:26+00:00",
+ "updated": "2026-11-19T03:47:29+00:00",
  "items": [
+  {
+   "key": "VAN_WILLIAMS_SHONTAE_2026-11-18",
+   "name": "Shontae Leshay Williams",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 1,
+   "ts": 1795060035,
+   "photo": "photos/VAN_WILLIAMS_SHONTAE_2026-11-18.jpg"
+  },
   {
    "key": "VAN_DREIMAN_MERCIDE_2026-11-18",
    "name": "Mercide Nicole Dreiman",
@@ -365,17 +376,6 @@
    "photo": null
   },
   {
-   "key": "VAN_DAVIS_NORAH_2026-11-18",
-   "name": "Norah Grace Davis",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1795031241,
-   "photo": null
-  },
-  {
    "key": "ALL_MOORE_MARZINE_2026-11-18",
    "name": "Marzine Moore",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_WILLIAMS_SHONTAE_2026-11-18",
+   "name": "Shontae Leshay Williams",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 1,
+   "ts": 1795060035,
+   "photo": "photos/VAN_WILLIAMS_SHONTAE_2026-11-18.jpg"
+  },
   {
    "key": "VAN_DREIMAN_MERCIDE_2026-11-18",
    "name": "Mercide Nicole Dreiman",
@@ -2521,17 +2532,6 @@
    "more": 0,
    "ts": 1794804433,
    "photo": "photos/ALL_GRIBBLE_CARL_2026-11-15.jpg"
-  },
-  {
-   "key": "MAD_BELZ_NICHOLAS_2026-11-15",
-   "name": "Nicholas Belz",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794800831,
-   "photo": null
   }
  ]
 }
