@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-19T09:47:17+00:00",
+ "updated": "2026-11-19T10:47:23+00:00",
  "items": [
+  {
+   "key": "POR_BIDDLE_BRIAN_2026-11-18",
+   "name": "Brian Allen Biddle",
+   "age": "46",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Dealing Marijuana/Hashish/Salvia- Felony",
+   "more": 1,
+   "ts": 1795085232,
+   "photo": "photos/POR_BIDDLE_BRIAN_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_BARFIELD_HEATHER_2026-11-19",
+   "name": "Heather Renee Barfield",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Residential Entry",
+   "more": 0,
+   "ts": 1795085228,
+   "photo": null
+  },
   {
    "key": "POR_MARTINEZ_NICHOLAS_2026-11-18",
    "name": "Nicholas Jon Martinez",
@@ -420,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "VAN_BROWN_GREGORY_2026-11-18",
-   "name": "Gregory Allen Brown",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 1,
-   "ts": 1795038454,
-   "photo": "photos/VAN_BROWN_GREGORY_2026-11-18.jpg"
-  },
-  {
    "key": "POR_GRUND_CAROLYN_2026-11-17",
    "name": "Carolyn Linnea Grund",
    "age": "50",
@@ -517,20 +528,31 @@
    "more": 1,
    "ts": 1795024053,
    "photo": "photos/POR_HOWES_WYATT_2026-11-17.jpg"
-  },
-  {
-   "key": "POR_KUEHL_JOSHUA_2026-11-17",
-   "name": "Joshua Justin George Kuehl",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 3,
-   "ts": 1795024052,
-   "photo": "photos/POR_KUEHL_JOSHUA_2026-11-17.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_BIDDLE_BRIAN_2026-11-18",
+   "name": "Brian Allen Biddle",
+   "age": "46",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Dealing Marijuana/Hashish/Salvia- Felony",
+   "more": 1,
+   "ts": 1795085232,
+   "photo": "photos/POR_BIDDLE_BRIAN_2026-11-18.jpg"
+  },
+  {
+   "key": "VAN_BARFIELD_HEATHER_2026-11-19",
+   "name": "Heather Renee Barfield",
+   "age": "40",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Residential Entry",
+   "more": 0,
+   "ts": 1795085228,
+   "photo": null
+  },
   {
    "key": "POR_MARTINEZ_NICHOLAS_2026-11-18",
    "name": "Nicholas Jon Martinez",
@@ -2697,17 +2719,6 @@
    "more": 0,
    "ts": 1794833235,
    "photo": "photos/POR_SUYAK_CHERYL_2026-11-15.jpg"
-  },
-  {
-   "key": "MAD_ALEXANDER_JEREMY_2026-11-16",
-   "name": "Jeremy Matthew Alexander",
-   "age": "38",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession paraphernalia",
-   "more": 2,
-   "ts": 1794826037,
-   "photo": "photos/MAD_ALEXANDER_JEREMY_2026-11-16.jpg"
   }
  ]
 }
