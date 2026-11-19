@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T22:47:38+00:00",
+ "updated": "2026-11-19T23:24:49+00:00",
  "items": [
   {
    "key": "POR_LOCKETT_RANDY_2026-11-18",
@@ -2829,39 +2829,6 @@
    "more": 0,
    "ts": 1794872842,
    "photo": "photos/ALL_BLYTHE_JORDAN_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_BELLAMY_AARON_2026-11-16",
-   "name": "Aaron Douglas Bellamy",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794869274,
-   "photo": "photos/VAN_BELLAMY_AARON_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_JOHNSON_QUANDALE_2026-11-16",
-   "name": "Quandale Johnson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving the Scene-Driver Fails to Immediately Stop at the Scene of\u2026",
-   "more": 0,
-   "ts": 1794869267,
-   "photo": "photos/ALL_JOHNSON_QUANDALE_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_STARKS_TAJ_2026-11-16",
-   "name": "Taj Starks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1794869262,
-   "photo": "photos/ALL_STARKS_TAJ_2026-11-16.jpg"
   }
  ]
 }
