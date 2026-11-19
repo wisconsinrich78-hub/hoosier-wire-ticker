@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:47:40+00:00",
+ "updated": "2026-11-19T20:57:47+00:00",
  "items": [
   {
    "key": "MAD_OBRYANT_LARRY_2026-11-19",
@@ -2829,17 +2829,6 @@
    "more": 1,
    "ts": 1794865642,
    "photo": "photos/ALL_MORRIS_MICHAEL_2026-11-16.jpg"
-  },
-  {
-   "key": "MAD_WHITESELL_ANDREW_2026-11-16",
-   "name": "Andrew Perry Whitesell",
-   "age": "42",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794862063,
-   "photo": "photos/MAD_WHITESELL_ANDREW_2026-11-16.jpg"
   }
  ]
 }
