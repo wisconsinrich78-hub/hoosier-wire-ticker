@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T13:47:33+00:00",
+ "updated": "2026-11-19T14:47:34+00:00",
  "items": [
+  {
+   "key": "MAD_LEPHEW_STACY_2026-11-19",
+   "name": "Stacy Danielle Lephew",
+   "age": "29",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795099643,
+   "photo": "photos/MAD_LEPHEW_STACY_2026-11-19.jpg"
+  },
+  {
+   "key": "POR_LEONARDWOODARD_WISDOM_2026-11-18",
+   "name": "Wisdom Knowledge Leonard-Woodard",
+   "age": "21",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 1,
+   "ts": 1795099637,
+   "photo": "photos/POR_LEONARDWOODARD_WISDOM_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_SHIRLEY_ALLIE_2026-11-18",
+   "name": "Allie Mae Shirley",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795099634,
+   "photo": "photos/POR_SHIRLEY_ALLIE_2026-11-18.jpg"
+  },
   {
    "key": "POR_BURNS_SIR_2026-11-18",
    "name": "Sir Alexandor Deshawn Burns",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1795038463,
    "photo": null
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "POR_GRUND_CAROLYN_2026-11-17",
-   "name": "Carolyn Linnea Grund",
-   "age": "50",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1795034846,
-   "photo": "photos/POR_GRUND_CAROLYN_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_JOHNSON_CURTIS_2026-11-18",
-   "name": "Curtis Devie Johnson",
-   "age": "28",
+   "key": "MAD_LEPHEW_STACY_2026-11-19",
+   "name": "Stacy Danielle Lephew",
+   "age": "29",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1795031249,
-   "photo": "photos/MAD_JOHNSON_CURTIS_2026-11-18.jpg"
+   "ts": 1795099643,
+   "photo": "photos/MAD_LEPHEW_STACY_2026-11-19.jpg"
   },
   {
-   "key": "POR_BACHMAN_JESSIE_2026-11-17",
-   "name": "Jessie Leigh Bachman",
-   "age": "33",
+   "key": "POR_LEONARDWOODARD_WISDOM_2026-11-18",
+   "name": "Wisdom Knowledge Leonard-Woodard",
+   "age": "21",
    "county": "Porter County",
    "region": "northwest",
-   "charge": "RESIDENTIAL ENTRY - Crime Against Society",
+   "charge": "Failure to Appear",
    "more": 1,
-   "ts": 1795031245,
-   "photo": "photos/POR_BACHMAN_JESSIE_2026-11-17.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1795099637,
+   "photo": "photos/POR_LEONARDWOODARD_WISDOM_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_SHIRLEY_ALLIE_2026-11-18",
+   "name": "Allie Mae Shirley",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795099634,
+   "photo": "photos/POR_SHIRLEY_ALLIE_2026-11-18.jpg"
+  },
   {
    "key": "POR_BURNS_SIR_2026-11-18",
    "name": "Sir Alexandor Deshawn Burns",
@@ -2763,17 +2796,6 @@
    "more": 1,
    "ts": 1794844040,
    "photo": "photos/ALL_MOORE_JUSTIN_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_ATKINSON_DARRIUS_2026-11-16",
-   "name": "Darrius Atkinson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1794840443,
-   "photo": "photos/ALL_ATKINSON_DARRIUS_2026-11-16.jpg"
   }
  ]
 }
