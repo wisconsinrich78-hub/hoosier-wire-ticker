@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-19T11:08:01+00:00",
+ "updated": "2026-11-19T12:47:29+00:00",
  "items": [
+  {
+   "key": "MAD_WATKINS_RICHARD_2026-11-19",
+   "name": "Richard R Third Watkins",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Strangulation (simple)- no/minor Injury (L/6)",
+   "more": 1,
+   "ts": 1795092443,
+   "photo": "photos/MAD_WATKINS_RICHARD_2026-11-19.jpg"
+  },
+  {
+   "key": "POR_BOND_KATTIE_2026-11-18",
+   "name": "Kattie Maxine Bond",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795092435,
+   "photo": "photos/POR_BOND_KATTIE_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_TOTH_LAUREN_2026-11-18",
+   "name": "Lauren Michelle Toth",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Possession of Paraphernalia",
+   "more": 1,
+   "ts": 1795092432,
+   "photo": "photos/POR_TOTH_LAUREN_2026-11-18.jpg"
+  },
   {
    "key": "POR_BIDDLE_BRIAN_2026-11-18",
    "name": "Brian Allen Biddle",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1795027647,
    "photo": "photos/MAD_GREER_BREANN_2026-11-18.jpg"
-  },
-  {
-   "key": "MAD_VANAUSDAL_FRANK_2026-11-18",
-   "name": "Frank D Junior Vanausdal",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery - against public safety official (level 6 felony)",
-   "more": 0,
-   "ts": 1795024063,
-   "photo": null
-  },
-  {
-   "key": "MAD_SWANGO_VAUGHAN_2026-11-18",
-   "name": "Vaughan Rider Swango",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Pre-Trial Release",
-   "more": 0,
-   "ts": 1795024062,
-   "photo": "photos/MAD_SWANGO_VAUGHAN_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_HOWES_WYATT_2026-11-17",
-   "name": "Wyatt Jacob Howes",
-   "age": "31",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1795024053,
-   "photo": "photos/POR_HOWES_WYATT_2026-11-17.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WATKINS_RICHARD_2026-11-19",
+   "name": "Richard R Third Watkins",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Strangulation (simple)- no/minor Injury (L/6)",
+   "more": 1,
+   "ts": 1795092443,
+   "photo": "photos/MAD_WATKINS_RICHARD_2026-11-19.jpg"
+  },
+  {
+   "key": "POR_BOND_KATTIE_2026-11-18",
+   "name": "Kattie Maxine Bond",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 0,
+   "ts": 1795092435,
+   "photo": "photos/POR_BOND_KATTIE_2026-11-18.jpg"
+  },
+  {
+   "key": "POR_TOTH_LAUREN_2026-11-18",
+   "name": "Lauren Michelle Toth",
+   "age": "40",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Possession of Paraphernalia",
+   "more": 1,
+   "ts": 1795092432,
+   "photo": "photos/POR_TOTH_LAUREN_2026-11-18.jpg"
+  },
   {
    "key": "POR_BIDDLE_BRIAN_2026-11-18",
    "name": "Brian Allen Biddle",
@@ -2708,17 +2741,6 @@
    "more": 0,
    "ts": 1794840443,
    "photo": "photos/ALL_ATKINSON_DARRIUS_2026-11-16.jpg"
-  },
-  {
-   "key": "POR_SUYAK_CHERYL_2026-11-15",
-   "name": "Cheryl Lynne Suyak",
-   "age": "52",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1794833235,
-   "photo": "photos/POR_SUYAK_CHERYL_2026-11-15.jpg"
   }
  ]
 }
