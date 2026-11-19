@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T18:47:44+00:00",
+ "updated": "2026-11-19T19:19:12+00:00",
  "items": [
   {
    "key": "MAD_JACKSON_ASHLEY_2026-11-19",
@@ -2840,17 +2840,6 @@
    "more": 1,
    "ts": 1794858444,
    "photo": "photos/ALL_RODOCKER_DANIEL_2026-11-16.jpg"
-  },
-  {
-   "key": "MAD_BUSBY_TRENT_2026-11-16",
-   "name": "Trent Michael Busby",
-   "age": "54",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Nonsupport of dependent",
-   "more": 0,
-   "ts": 1794854897,
-   "photo": "photos/MAD_BUSBY_TRENT_2026-11-16.jpg"
   }
  ]
 }
