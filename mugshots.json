@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-19T23:47:49+00:00",
+ "updated": "2026-11-20T00:47:52+00:00",
  "items": [
+  {
+   "key": "POR_WALTON_MARQUES_2026-11-19",
+   "name": "Marques Anthony Walton",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Resisting Law Enforcement Def. Uses a Vehicle.",
+   "more": 2,
+   "ts": 1795135652,
+   "photo": "photos/POR_WALTON_MARQUES_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_COLE_TYRIEK_2026-11-19",
+   "name": "Tyriek Sedrik Cole",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795135649,
+   "photo": "photos/VAN_COLE_TYRIEK_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_TALLEY_BRADFORD_2026-11-19",
+   "name": "Bradford Scott Talley",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Child Support - Writ of Attachment",
+   "more": 0,
+   "ts": 1795135646,
+   "photo": null
+  },
+  {
+   "key": "VAN_COOMES_ASHLEY_2026-11-19",
+   "name": "Ashley Brooke Coomes",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Racketeer- Corrupt Business Influence",
+   "more": 4,
+   "ts": 1795135646,
+   "photo": null
+  },
+  {
+   "key": "ALL_BUSZ_BRANDEN_2026-11-19",
+   "name": "Branden Busz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1795135644,
+   "photo": "photos/ALL_BUSZ_BRANDEN_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_AGUILARESTEBAN_ALAN_2026-11-19",
+   "name": "Alan Aguilar-Esteban",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Child Molesting - Statutory Rape",
+   "more": 0,
+   "ts": 1795135639,
+   "photo": "photos/ALL_AGUILARESTEBAN_ALAN_2026-11-19.jpg"
+  },
   {
    "key": "VAN_COLEMAN_JAMES_2026-11-19",
    "name": "James Robert Coleman",
@@ -332,17 +398,6 @@
    "photo": "photos/ALL_SMITH_CRAIG_2026-11-19.jpg"
   },
   {
-   "key": "VAN_COLLINS_NICHOLAS_2026-11-19",
-   "name": "Nicholas Wayne Collins",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1795106838,
-   "photo": "photos/VAN_COLLINS_NICHOLAS_2026-11-19.jpg"
-  },
-  {
    "key": "ALL_BOSTON_ANTHONY_2026-11-19",
    "name": "Anthony Boston",
    "age": "",
@@ -473,64 +528,75 @@
    "more": 1,
    "ts": 1795092432,
    "photo": "photos/POR_TOTH_LAUREN_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_BIDDLE_BRIAN_2026-11-18",
-   "name": "Brian Allen Biddle",
-   "age": "46",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Dealing Marijuana/Hashish/Salvia- Felony",
-   "more": 1,
-   "ts": 1795085232,
-   "photo": "photos/POR_BIDDLE_BRIAN_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_BARFIELD_HEATHER_2026-11-19",
-   "name": "Heather Renee Barfield",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Residential Entry",
-   "more": 0,
-   "ts": 1795085228,
-   "photo": "photos/VAN_BARFIELD_HEATHER_2026-11-19.jpg"
-  },
-  {
-   "key": "POR_MARTINEZ_NICHOLAS_2026-11-18",
-   "name": "Nicholas Jon Martinez",
-   "age": "46",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 1,
-   "ts": 1795081628,
-   "photo": "photos/POR_MARTINEZ_NICHOLAS_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_LOWE_CHEYENNE_2026-11-19",
-   "name": "Cheyenne Deanna Lowe",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795078043,
-   "photo": "photos/VAN_LOWE_CHEYENNE_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_STARR_CODI_2026-11-19",
-   "name": "Codi Starr",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 2,
-   "ts": 1795078037,
-   "photo": "photos/ALL_STARR_CODI_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_WALTON_MARQUES_2026-11-19",
+   "name": "Marques Anthony Walton",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Resisting Law Enforcement Def. Uses a Vehicle.",
+   "more": 2,
+   "ts": 1795135652,
+   "photo": "photos/POR_WALTON_MARQUES_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_COLE_TYRIEK_2026-11-19",
+   "name": "Tyriek Sedrik Cole",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795135649,
+   "photo": "photos/VAN_COLE_TYRIEK_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_TALLEY_BRADFORD_2026-11-19",
+   "name": "Bradford Scott Talley",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Child Support - Writ of Attachment",
+   "more": 0,
+   "ts": 1795135646,
+   "photo": null
+  },
+  {
+   "key": "VAN_COOMES_ASHLEY_2026-11-19",
+   "name": "Ashley Brooke Coomes",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Racketeer- Corrupt Business Influence",
+   "more": 4,
+   "ts": 1795135646,
+   "photo": null
+  },
+  {
+   "key": "ALL_BUSZ_BRANDEN_2026-11-19",
+   "name": "Branden Busz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1795135644,
+   "photo": "photos/ALL_BUSZ_BRANDEN_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_AGUILARESTEBAN_ALAN_2026-11-19",
+   "name": "Alan Aguilar-Esteban",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Child Molesting - Statutory Rape",
+   "more": 0,
+   "ts": 1795135639,
+   "photo": "photos/ALL_AGUILARESTEBAN_ALAN_2026-11-19.jpg"
+  },
   {
    "key": "VAN_COLEMAN_JAMES_2026-11-19",
    "name": "James Robert Coleman",
@@ -2752,72 +2818,6 @@
    "more": 0,
    "ts": 1794883634,
    "photo": "photos/VAN_JOHNSON_LASHAWN_2026-11-16.jpg"
-  },
-  {
-   "key": "POR_MALEC_JOSHUA_2026-11-15",
-   "name": "Joshua Richard Malec",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Public Administration- Resisting Law Enforcement",
-   "more": 0,
-   "ts": 1794876454,
-   "photo": "photos/POR_MALEC_JOSHUA_2026-11-15.jpg"
-  },
-  {
-   "key": "VAN_JONES_SHEILA_2026-11-16",
-   "name": "Sheila Marie Jones",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794876451,
-   "photo": "photos/VAN_JONES_SHEILA_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_BIGGS_CHRISTOPHER_2026-11-16",
-   "name": "Christopher Brian Biggs",
-   "age": "56",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Registration Violation",
-   "more": 1,
-   "ts": 1794876450,
-   "photo": "photos/VAN_BIGGS_CHRISTOPHER_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_JASON_CHRISTOPHER_2026-11-16",
-   "name": "Christopher Jason",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Child Non-Support",
-   "more": 0,
-   "ts": 1794876445,
-   "photo": "photos/ALL_JASON_CHRISTOPHER_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_JERMICHAEL_2026-11-16",
-   "name": "Jermichael Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Abandonment or Neglect of Vertebrate Animal",
-   "more": 0,
-   "ts": 1794876441,
-   "photo": "photos/ALL_WILLIAMS_JERMICHAEL_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_KELSAW_KENYON_2026-11-16",
-   "name": "Kenyon Kelsaw",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
-   "more": 1,
-   "ts": 1794876437,
-   "photo": null
   }
  ]
 }
