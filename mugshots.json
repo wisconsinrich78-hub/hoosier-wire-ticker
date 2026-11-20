@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T03:47:29+00:00",
+ "updated": "2026-11-20T04:47:37+00:00",
  "items": [
+  {
+   "key": "VAN_FELTNER_STYLES_2026-11-19",
+   "name": "Styles James Feltner",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1795150035,
+   "photo": null
+  },
+  {
+   "key": "ALL_NAHRWOLD_DAVID_2026-11-19",
+   "name": "David Nahrwold",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Deadly Weapon",
+   "more": 3,
+   "ts": 1795150034,
+   "photo": "photos/ALL_NAHRWOLD_DAVID_2026-11-19.jpg"
+  },
   {
    "key": "VAN_BOWLER_BROOKE_2026-11-19",
    "name": "Brooke Nickole Bowler",
@@ -409,17 +431,6 @@
    "photo": "photos/VAN_HAGER_JACE_2026-11-19.jpg"
   },
   {
-   "key": "VAN_MOORE_JAMES_2026-11-19",
-   "name": "James Leo Moore",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
-   "more": 0,
-   "ts": 1795121237,
-   "photo": null
-  },
-  {
    "key": "ALL_RAMBO_MICHAEL_2026-11-19",
    "name": "Michael Rambo",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795103236,
    "photo": "photos/POR_CANTUMUNOZ_ALFONZO_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_FAZIO_CHRISTOPHER_2026-11-19",
-   "name": "Christopher Fazio",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Intimidation",
-   "more": 2,
-   "ts": 1795103231,
-   "photo": "photos/ALL_FAZIO_CHRISTOPHER_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_FELTNER_STYLES_2026-11-19",
+   "name": "Styles James Feltner",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1795150035,
+   "photo": null
+  },
+  {
+   "key": "ALL_NAHRWOLD_DAVID_2026-11-19",
+   "name": "David Nahrwold",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Deadly Weapon",
+   "more": 3,
+   "ts": 1795150034,
+   "photo": "photos/ALL_NAHRWOLD_DAVID_2026-11-19.jpg"
+  },
   {
    "key": "VAN_BOWLER_BROOKE_2026-11-19",
    "name": "Brooke Nickole Bowler",
@@ -2895,39 +2917,6 @@
    "more": 1,
    "ts": 1794894742,
    "photo": "photos/ALL_LUCCHESEGRAHAM_MALACHI_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_MAXWELL_BRIAN_2026-11-16",
-   "name": "Brian Michael Maxwell",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Auto theft",
-   "more": 2,
-   "ts": 1794890848,
-   "photo": "photos/MAD_MAXWELL_BRIAN_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_YU_HAIJIANG_2026-11-16",
-   "name": "Haijiang Nmn Yu",
-   "age": "52",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
-   "more": 0,
-   "ts": 1794890838,
-   "photo": "photos/VAN_YU_HAIJIANG_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_SHARI_2026-11-16",
-   "name": "Shari Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 2,
-   "ts": 1794890834,
-   "photo": "photos/ALL_WILLIAMS_SHARI_2026-11-16.jpg"
   }
  ]
 }
