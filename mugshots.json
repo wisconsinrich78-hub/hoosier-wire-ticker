@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T05:47:38+00:00",
+ "updated": "2026-11-20T06:05:53+00:00",
  "items": [
   {
    "key": "ALL_BUELOW_JOHN_2026-11-19",
@@ -2906,39 +2906,6 @@
    "more": 2,
    "ts": 1794898030,
    "photo": "photos/ALL_HORMANN_KENT_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_PEARSON_EBONIE_2026-11-16",
-   "name": "Ebonie Pearson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1794894750,
-   "photo": "photos/ALL_PEARSON_EBONIE_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_REYES_SERGIO_2026-11-17",
-   "name": "Sergio Reyes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794894746,
-   "photo": "photos/ALL_REYES_SERGIO_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_LUCCHESEGRAHAM_MALACHI_2026-11-17",
-   "name": "Malachi Lucchesegraham",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794894742,
-   "photo": "photos/ALL_LUCCHESEGRAHAM_MALACHI_2026-11-17.jpg"
   }
  ]
 }
