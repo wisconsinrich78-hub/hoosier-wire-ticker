@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-20T16:47:32+00:00",
+ "updated": "2026-11-20T17:47:41+00:00",
  "items": [
+  {
+   "key": "MAD_PIERCE_HENRY_2026-11-20",
+   "name": "Henry Adrian Pierce",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Probation - Jail Booking",
+   "more": 0,
+   "ts": 1795196850,
+   "photo": "photos/MAD_PIERCE_HENRY_2026-11-20.jpg"
+  },
+  {
+   "key": "MAD_LAWRENCE_CHARLES_2026-11-20",
+   "name": "Charles Vernon Junior Lawrence",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795196848,
+   "photo": "photos/MAD_LAWRENCE_CHARLES_2026-11-20.jpg"
+  },
+  {
+   "key": "MAD_KENDALL_CHRISTOPHER_2026-11-20",
+   "name": "Christopher Seath Kendall",
+   "age": "44",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for 10 day Probation Violation - Jail Booking",
+   "more": 4,
+   "ts": 1795196847,
+   "photo": null
+  },
+  {
+   "key": "ALL_BLACK_RANDY_2026-11-20",
+   "name": "Randy Black",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1795196839,
+   "photo": "photos/ALL_BLACK_RANDY_2026-11-20.jpg"
+  },
   {
    "key": "MAD_STANSBERRY_JUSTIN_2026-11-20",
    "name": "Justin Lee Stansberry",
@@ -484,53 +528,53 @@
    "more": 2,
    "ts": 1795132037,
    "photo": "photos/ALL_RUTLEDGE_SHANNON_2026-11-19.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MAD_PIERCE_HENRY_2026-11-20",
+   "name": "Henry Adrian Pierce",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Probation - Jail Booking",
+   "more": 0,
+   "ts": 1795196850,
+   "photo": "photos/MAD_PIERCE_HENRY_2026-11-20.jpg"
   },
   {
-   "key": "POR_LOCKETT_RANDY_2026-11-18",
-   "name": "Randy Dierre Lockett",
-   "age": "44",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Prior Conviction",
-   "more": 4,
-   "ts": 1795128442,
-   "photo": "photos/POR_LOCKETT_RANDY_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_LOVE_JESSE_2026-11-19",
-   "name": "Jesse Love",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Paraphernalia",
-   "more": 1,
-   "ts": 1795128434,
-   "photo": "photos/ALL_LOVE_JESSE_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_WILLHOITE_CHRISTOPHER_2026-11-19",
-   "name": "Christopher Lee Willhoite",
-   "age": "49",
+   "key": "MAD_LAWRENCE_CHARLES_2026-11-20",
+   "name": "Charles Vernon Junior Lawrence",
+   "age": "31",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1795124852,
-   "photo": "photos/MAD_WILLHOITE_CHRISTOPHER_2026-11-19.jpg"
+   "ts": 1795196848,
+   "photo": "photos/MAD_LAWRENCE_CHARLES_2026-11-20.jpg"
   },
   {
-   "key": "ALL_SCHRECK_JANICE_2026-11-19",
-   "name": "Janice Schreck",
+   "key": "MAD_KENDALL_CHRISTOPHER_2026-11-20",
+   "name": "Christopher Seath Kendall",
+   "age": "44",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for 10 day Probation Violation - Jail Booking",
+   "more": 4,
+   "ts": 1795196847,
+   "photo": null
+  },
+  {
+   "key": "ALL_BLACK_RANDY_2026-11-20",
+   "name": "Randy Black",
    "age": "",
    "county": "Allen County",
    "region": "northeast",
-   "charge": "Neglect of Dependent",
+   "charge": "Criminal Trespass",
    "more": 0,
-   "ts": 1795124835,
-   "photo": null
-  }
- ],
- "all_items": [
+   "ts": 1795196839,
+   "photo": "photos/ALL_BLACK_RANDY_2026-11-20.jpg"
+  },
   {
    "key": "MAD_STANSBERRY_JUSTIN_2026-11-20",
    "name": "Justin Lee Stansberry",
@@ -2785,61 +2829,6 @@
    "more": 0,
    "ts": 1794941234,
    "photo": "photos/VAN_WARFIELD_JASON_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_WORLEY_SARAH_2026-11-17",
-   "name": "Sarah Ashley Worley",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794937656,
-   "photo": "photos/MAD_WORLEY_SARAH_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_ALLEN_DEON_2026-11-17",
-   "name": "Deon Dewayne Allen",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery - Against Public Safety Official/Bodily Injury (L5)",
-   "more": 0,
-   "ts": 1794937646,
-   "photo": "photos/MAD_ALLEN_DEON_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_WENTWORTH_ELIZABETH_2026-11-17",
-   "name": "Elizabeth Paige Wentworth",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1794937643,
-   "photo": "photos/VAN_WENTWORTH_ELIZABETH_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_SPENCER_STORM_2026-11-17",
-   "name": "Storm Spencer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery to Public Safety Official (Includes Bodily Fluid/Waste)",
-   "more": 2,
-   "ts": 1794937639,
-   "photo": "photos/ALL_SPENCER_STORM_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_SHETLEY_OLIVIA_2026-11-17",
-   "name": "Olivia Shetley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Robbery",
-   "more": 0,
-   "ts": 1794937634,
-   "photo": "photos/ALL_SHETLEY_OLIVIA_2026-11-17.jpg"
   }
  ]
 }
