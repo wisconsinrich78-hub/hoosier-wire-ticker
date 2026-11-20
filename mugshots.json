@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-20T18:47:38+00:00",
+ "updated": "2026-11-20T19:47:25+00:00",
  "items": [
+  {
+   "key": "MAD_BOYD_JONATHAN_2026-11-20",
+   "name": "Jonathan Douglass Boyd",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795204045,
+   "photo": "photos/MAD_BOYD_JONATHAN_2026-11-20.jpg"
+  },
+  {
+   "key": "MAD_ASPEL_RONALD_2026-11-20",
+   "name": "Ronald James Aspel",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795204044,
+   "photo": "photos/MAD_ASPEL_RONALD_2026-11-20.jpg"
+  },
+  {
+   "key": "POR_CONGRESSJONES_KIMBERLY_2026-11-19",
+   "name": "Kimberly Angelica Congress-Jones",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
+   "more": 0,
+   "ts": 1795204040,
+   "photo": "photos/POR_CONGRESSJONES_KIMBERLY_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_ALLEN_REGINALD_2026-11-20",
+   "name": "Reginald Deshawn Allen",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 1,
+   "ts": 1795204037,
+   "photo": null
+  },
+  {
+   "key": "ALL_SYKES_MYREIONA_2026-11-20",
+   "name": "Myreiona Sykes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value of Property at Least 750 and Less Than\u2026",
+   "more": 3,
+   "ts": 1795204035,
+   "photo": "photos/ALL_SYKES_MYREIONA_2026-11-20.jpg"
+  },
   {
    "key": "MAD_STURGEON_CHAD_2026-11-20",
    "name": "Chad Anthony Sturgeon",
@@ -473,64 +528,64 @@
    "more": 2,
    "ts": 1795139258,
    "photo": "photos/MAD_HILL_HEATHER_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_PORTER_CHRISTOPHER_2026-11-19",
-   "name": "Christopher Keyshawn Porter",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Strangulation",
-   "more": 0,
-   "ts": 1795139248,
-   "photo": "photos/VAN_PORTER_CHRISTOPHER_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_ARVIN_ANDREW_2026-11-19",
-   "name": "Andrew Nicholas Arvin",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 2,
-   "ts": 1795139247,
-   "photo": "photos/VAN_ARVIN_ANDREW_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_JONES_MARK_2026-11-19",
-   "name": "Mark Jones",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Paraphernalia",
-   "more": 0,
-   "ts": 1795139241,
-   "photo": "photos/ALL_JONES_MARK_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_LLOYD_BRYAN_2026-11-19",
-   "name": "Bryan Lloyd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Child Molesting - Fondling/Touching",
-   "more": 0,
-   "ts": 1795139236,
-   "photo": "photos/ALL_LLOYD_BRYAN_2026-11-19.jpg"
-  },
-  {
-   "key": "POR_WALTON_MARQUES_2026-11-19",
-   "name": "Marques Anthony Walton",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Resisting Law Enforcement Def. Uses a Vehicle.",
-   "more": 2,
-   "ts": 1795135652,
-   "photo": "photos/POR_WALTON_MARQUES_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_BOYD_JONATHAN_2026-11-20",
+   "name": "Jonathan Douglass Boyd",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795204045,
+   "photo": "photos/MAD_BOYD_JONATHAN_2026-11-20.jpg"
+  },
+  {
+   "key": "MAD_ASPEL_RONALD_2026-11-20",
+   "name": "Ronald James Aspel",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795204044,
+   "photo": "photos/MAD_ASPEL_RONALD_2026-11-20.jpg"
+  },
+  {
+   "key": "POR_CONGRESSJONES_KIMBERLY_2026-11-19",
+   "name": "Kimberly Angelica Congress-Jones",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
+   "more": 0,
+   "ts": 1795204040,
+   "photo": "photos/POR_CONGRESSJONES_KIMBERLY_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_ALLEN_REGINALD_2026-11-20",
+   "name": "Reginald Deshawn Allen",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 1,
+   "ts": 1795204037,
+   "photo": null
+  },
+  {
+   "key": "ALL_SYKES_MYREIONA_2026-11-20",
+   "name": "Myreiona Sykes",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Value of Property at Least 750 and Less Than\u2026",
+   "more": 3,
+   "ts": 1795204035,
+   "photo": "photos/ALL_SYKES_MYREIONA_2026-11-20.jpg"
+  },
   {
    "key": "MAD_STURGEON_CHAD_2026-11-20",
    "name": "Chad Anthony Sturgeon",
