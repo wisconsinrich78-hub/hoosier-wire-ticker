@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-20T00:47:52+00:00",
+ "updated": "2026-11-20T01:47:53+00:00",
  "items": [
+  {
+   "key": "MAD_SELTZER_MICHAEL_2026-11-19",
+   "name": "Michael Warren Seltzer",
+   "age": "60",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1795139262,
+   "photo": null
+  },
+  {
+   "key": "MAD_HILL_CALVIN_2026-11-19",
+   "name": "Calvin Dewayne Second Hill",
+   "age": "21",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 1,
+   "ts": 1795139258,
+   "photo": null
+  },
+  {
+   "key": "MAD_HILL_HEATHER_2026-11-19",
+   "name": "Heather Crystal Hill",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Pointing a firearm",
+   "more": 2,
+   "ts": 1795139258,
+   "photo": "photos/MAD_HILL_HEATHER_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_PORTER_CHRISTOPHER_2026-11-19",
+   "name": "Christopher Keyshawn Porter",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 0,
+   "ts": 1795139248,
+   "photo": "photos/VAN_PORTER_CHRISTOPHER_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_ARVIN_ANDREW_2026-11-19",
+   "name": "Andrew Nicholas Arvin",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 2,
+   "ts": 1795139247,
+   "photo": "photos/VAN_ARVIN_ANDREW_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_CLARK_LUCAS_2026-11-19",
+   "name": "Lucas Joseph Clark",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Operating with Controlled Substance in Body",
+   "more": 1,
+   "ts": 1795139244,
+   "photo": null
+  },
+  {
+   "key": "ALL_JONES_MARK_2026-11-19",
+   "name": "Mark Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Paraphernalia",
+   "more": 0,
+   "ts": 1795139241,
+   "photo": "photos/ALL_JONES_MARK_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_LLOYD_BRYAN_2026-11-19",
+   "name": "Bryan Lloyd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Child Molesting - Fondling/Touching",
+   "more": 0,
+   "ts": 1795139236,
+   "photo": "photos/ALL_LLOYD_BRYAN_2026-11-19.jpg"
+  },
   {
    "key": "POR_WALTON_MARQUES_2026-11-19",
    "name": "Marques Anthony Walton",
@@ -310,17 +398,6 @@
    "photo": null
   },
   {
-   "key": "VAN_HARDING_ERIC_2026-11-19",
-   "name": "Eric Scott Harding",
-   "age": "59",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
-   "more": 2,
-   "ts": 1795114041,
-   "photo": null
-  },
-  {
    "key": "ALL_HOFFMAN_BRYCE_2026-11-19",
    "name": "Bryce Hoffman",
    "age": "",
@@ -352,28 +429,6 @@
    "more": 0,
    "ts": 1795110446,
    "photo": "photos/MAD_OLDEN_LAMONTE_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_STRODE_JOSHUA_2026-11-19",
-   "name": "Joshua Ryan Strode",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795110439,
-   "photo": "photos/VAN_STRODE_JOSHUA_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_HERNANDEZGOMEZ_DIEGO_2026-11-19",
-   "name": "Diego Nmn Hernandez Gomez",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795110436,
-   "photo": null
   },
   {
    "key": "ALL_KARTHOLL_ADAM_2026-11-19",
@@ -473,64 +528,97 @@
    "more": 1,
    "ts": 1795096038,
    "photo": "photos/POR_BURNS_SIR_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_HICKS_DAYSHAWN_2026-11-18",
-   "name": "Dayshawn Antonio Hicks",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 1,
-   "ts": 1795096034,
-   "photo": "photos/POR_HICKS_DAYSHAWN_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_SMITH_JEREMY_2026-11-19",
-   "name": "Jeremy Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1795096029,
-   "photo": "photos/ALL_SMITH_JEREMY_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_WATKINS_RICHARD_2026-11-19",
-   "name": "Richard R Third Watkins",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Strangulation (simple)- no/minor Injury (L/6)",
-   "more": 1,
-   "ts": 1795092443,
-   "photo": "photos/MAD_WATKINS_RICHARD_2026-11-19.jpg"
-  },
-  {
-   "key": "POR_BOND_KATTIE_2026-11-18",
-   "name": "Kattie Maxine Bond",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795092435,
-   "photo": "photos/POR_BOND_KATTIE_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_TOTH_LAUREN_2026-11-18",
-   "name": "Lauren Michelle Toth",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Possession of Paraphernalia",
-   "more": 1,
-   "ts": 1795092432,
-   "photo": "photos/POR_TOTH_LAUREN_2026-11-18.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SELTZER_MICHAEL_2026-11-19",
+   "name": "Michael Warren Seltzer",
+   "age": "60",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1795139262,
+   "photo": null
+  },
+  {
+   "key": "MAD_HILL_CALVIN_2026-11-19",
+   "name": "Calvin Dewayne Second Hill",
+   "age": "21",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 1,
+   "ts": 1795139258,
+   "photo": null
+  },
+  {
+   "key": "MAD_HILL_HEATHER_2026-11-19",
+   "name": "Heather Crystal Hill",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Pointing a firearm",
+   "more": 2,
+   "ts": 1795139258,
+   "photo": "photos/MAD_HILL_HEATHER_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_PORTER_CHRISTOPHER_2026-11-19",
+   "name": "Christopher Keyshawn Porter",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 0,
+   "ts": 1795139248,
+   "photo": "photos/VAN_PORTER_CHRISTOPHER_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_ARVIN_ANDREW_2026-11-19",
+   "name": "Andrew Nicholas Arvin",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement (A Misd)",
+   "more": 2,
+   "ts": 1795139247,
+   "photo": "photos/VAN_ARVIN_ANDREW_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_CLARK_LUCAS_2026-11-19",
+   "name": "Lucas Joseph Clark",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Operating with Controlled Substance in Body",
+   "more": 1,
+   "ts": 1795139244,
+   "photo": null
+  },
+  {
+   "key": "ALL_JONES_MARK_2026-11-19",
+   "name": "Mark Jones",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Paraphernalia",
+   "more": 0,
+   "ts": 1795139241,
+   "photo": "photos/ALL_JONES_MARK_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_LLOYD_BRYAN_2026-11-19",
+   "name": "Bryan Lloyd",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Child Molesting - Fondling/Touching",
+   "more": 0,
+   "ts": 1795139236,
+   "photo": "photos/ALL_LLOYD_BRYAN_2026-11-19.jpg"
+  },
   {
    "key": "POR_WALTON_MARQUES_2026-11-19",
    "name": "Marques Anthony Walton",
