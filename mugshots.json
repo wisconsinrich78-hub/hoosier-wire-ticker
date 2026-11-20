@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-20T01:47:53+00:00",
+ "updated": "2026-11-20T02:47:34+00:00",
  "items": [
+  {
+   "key": "MAD_WOODWARD_MERANDA_2026-11-19",
+   "name": "Meranda Kathlene-Rachele Woodward",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-adult knowing presence of child less than 16 years\u2026",
+   "more": 0,
+   "ts": 1795142850,
+   "photo": null
+  },
+  {
+   "key": "MAD_LANGFORD_ANDREANA_2026-11-19",
+   "name": "Andreana Marie Langford",
+   "age": "44",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795142844,
+   "photo": "photos/MAD_LANGFORD_ANDREANA_2026-11-19.jpg"
+  },
+  {
+   "key": "MAD_DIAZ_MARGRET_2026-11-19",
+   "name": "Margret Diaz",
+   "age": "27",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated",
+   "more": 2,
+   "ts": 1795142842,
+   "photo": "photos/MAD_DIAZ_MARGRET_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_BAYER_CLAYTON_2026-11-19",
+   "name": "Clayton Joseph Bayer",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement-Creates Substantial Risk Injury L5",
+   "more": 2,
+   "ts": 1795142836,
+   "photo": "photos/VAN_BAYER_CLAYTON_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_PAYNE_DENNIS_2026-11-19",
+   "name": "Dennis Payne",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft Shoplifting Value of Property at Least 750 and Less Than 50K",
+   "more": 0,
+   "ts": 1795142832,
+   "photo": "photos/ALL_PAYNE_DENNIS_2026-11-19.jpg"
+  },
   {
    "key": "MAD_SELTZER_MICHAEL_2026-11-19",
    "name": "Michael Warren Seltzer",
@@ -387,17 +442,6 @@
    "photo": "photos/MAD_JACKSON_ASHLEY_2026-11-19.jpg"
   },
   {
-   "key": "VAN_GILL_MICHAEL_2026-11-19",
-   "name": "Michael Joseph Gill",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Strangulation",
-   "more": 1,
-   "ts": 1795114041,
-   "photo": null
-  },
-  {
    "key": "ALL_HOFFMAN_BRYCE_2026-11-19",
    "name": "Bryce Hoffman",
    "age": "",
@@ -484,53 +528,64 @@
    "more": 2,
    "ts": 1795103231,
    "photo": "photos/ALL_FAZIO_CHRISTOPHER_2026-11-19.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MAD_WOODWARD_MERANDA_2026-11-19",
+   "name": "Meranda Kathlene-Rachele Woodward",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-adult knowing presence of child less than 16 years\u2026",
+   "more": 0,
+   "ts": 1795142850,
+   "photo": null
   },
   {
-   "key": "MAD_LEPHEW_STACY_2026-11-19",
-   "name": "Stacy Danielle Lephew",
-   "age": "29",
+   "key": "MAD_LANGFORD_ANDREANA_2026-11-19",
+   "name": "Andreana Marie Langford",
+   "age": "44",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1795099643,
-   "photo": "photos/MAD_LEPHEW_STACY_2026-11-19.jpg"
+   "ts": 1795142844,
+   "photo": "photos/MAD_LANGFORD_ANDREANA_2026-11-19.jpg"
   },
   {
-   "key": "POR_LEONARDWOODARD_WISDOM_2026-11-18",
-   "name": "Wisdom Knowledge Leonard-Woodard",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 1,
-   "ts": 1795099637,
-   "photo": "photos/POR_LEONARDWOODARD_WISDOM_2026-11-18.jpg"
+   "key": "MAD_DIAZ_MARGRET_2026-11-19",
+   "name": "Margret Diaz",
+   "age": "27",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated",
+   "more": 2,
+   "ts": 1795142842,
+   "photo": "photos/MAD_DIAZ_MARGRET_2026-11-19.jpg"
   },
   {
-   "key": "POR_SHIRLEY_ALLIE_2026-11-18",
-   "name": "Allie Mae Shirley",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
+   "key": "VAN_BAYER_CLAYTON_2026-11-19",
+   "name": "Clayton Joseph Bayer",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement-Creates Substantial Risk Injury L5",
+   "more": 2,
+   "ts": 1795142836,
+   "photo": "photos/VAN_BAYER_CLAYTON_2026-11-19.jpg"
+  },
+  {
+   "key": "ALL_PAYNE_DENNIS_2026-11-19",
+   "name": "Dennis Payne",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft Shoplifting Value of Property at Least 750 and Less Than 50K",
    "more": 0,
-   "ts": 1795099634,
-   "photo": "photos/POR_SHIRLEY_ALLIE_2026-11-18.jpg"
+   "ts": 1795142832,
+   "photo": "photos/ALL_PAYNE_DENNIS_2026-11-19.jpg"
   },
-  {
-   "key": "POR_BURNS_SIR_2026-11-18",
-   "name": "Sir Alexandor Deshawn Burns",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 1,
-   "ts": 1795096038,
-   "photo": "photos/POR_BURNS_SIR_2026-11-18.jpg"
-  }
- ],
- "all_items": [
   {
    "key": "MAD_SELTZER_MICHAEL_2026-11-19",
    "name": "Michael Warren Seltzer",
@@ -2873,39 +2928,6 @@
    "more": 0,
    "ts": 1794887231,
    "photo": null
-  },
-  {
-   "key": "MAD_PURKEY_TIMOTHY_2026-11-16",
-   "name": "Timothy Ryan Purkey",
-   "age": "52",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794883648,
-   "photo": "photos/MAD_PURKEY_TIMOTHY_2026-11-16.jpg"
-  },
-  {
-   "key": "POR_CHAMBERS_NICHOLAS_2026-11-16",
-   "name": "Nicholas James Chambers",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Sex Crime- Child Solicitation",
-   "more": 1,
-   "ts": 1794883636,
-   "photo": "photos/POR_CHAMBERS_NICHOLAS_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_LASHAWN_2026-11-16",
-   "name": "Lashawn Nmn Johnson",
-   "age": "55",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794883634,
-   "photo": "photos/VAN_JOHNSON_LASHAWN_2026-11-16.jpg"
   }
  ]
 }
