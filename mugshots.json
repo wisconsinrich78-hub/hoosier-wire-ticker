@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T20:47:38+00:00",
+ "updated": "2026-11-20T20:56:41+00:00",
  "items": [
   {
    "key": "VAN_DAVIS_CODY_2026-11-20",
@@ -21,7 +21,7 @@
    "charge": "Family Offense- Invasion of Privacy",
    "more": 3,
    "ts": 1795207635,
-   "photo": null
+   "photo": "photos/VAN_GREEN_PASHINAY_2026-11-20.jpg"
   },
   {
    "key": "ALL_ANDERSON_KALIN_2026-11-20",
@@ -551,7 +551,7 @@
    "charge": "Family Offense- Invasion of Privacy",
    "more": 3,
    "ts": 1795207635,
-   "photo": null
+   "photo": "photos/VAN_GREEN_PASHINAY_2026-11-20.jpg"
   },
   {
    "key": "ALL_ANDERSON_KALIN_2026-11-20",
@@ -2928,28 +2928,6 @@
    "more": 0,
    "ts": 1794952061,
    "photo": "photos/ALL_WOODS_ANDREW_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_COOPERWOOD_JAMIKEL_2026-11-17",
-   "name": "Jamikel Cooperwood",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1794948484,
-   "photo": "photos/ALL_COOPERWOOD_JAMIKEL_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_COY_TRACEY_2026-11-17",
-   "name": "Tracey Coy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Driver Over 21/Passenger Less Than 18",
-   "more": 2,
-   "ts": 1794948477,
-   "photo": "photos/ALL_COY_TRACEY_2026-11-17.jpg"
   }
  ]
 }
