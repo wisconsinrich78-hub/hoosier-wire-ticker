@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T19:51:25+00:00",
+ "updated": "2026-11-20T20:47:38+00:00",
  "items": [
+  {
+   "key": "VAN_DAVIS_CODY_2026-11-20",
+   "name": "Cody Alan Davis",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795207638,
+   "photo": "photos/VAN_DAVIS_CODY_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_GREEN_PASHINAY_2026-11-20",
+   "name": "Pashinay Patrizia Green",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Family Offense- Invasion of Privacy",
+   "more": 3,
+   "ts": 1795207635,
+   "photo": null
+  },
+  {
+   "key": "ALL_ANDERSON_KALIN_2026-11-20",
+   "name": "Kalin Anderson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Robbery / Armed",
+   "more": 2,
+   "ts": 1795207633,
+   "photo": "photos/ALL_ANDERSON_KALIN_2026-11-20.jpg"
+  },
   {
    "key": "MAD_HILLIGOSS_JASON_2026-11-20",
    "name": "Jason Patrick Hilligoss",
@@ -495,42 +528,42 @@
    "more": 2,
    "ts": 1795142842,
    "photo": "photos/MAD_DIAZ_MARGRET_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_BAYER_CLAYTON_2026-11-19",
-   "name": "Clayton Joseph Bayer",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement-Creates Substantial Risk Injury L5",
-   "more": 2,
-   "ts": 1795142836,
-   "photo": "photos/VAN_BAYER_CLAYTON_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_PAYNE_DENNIS_2026-11-19",
-   "name": "Dennis Payne",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Shoplifting Value of Property at Least 750 and Less Than 50K",
-   "more": 0,
-   "ts": 1795142832,
-   "photo": "photos/ALL_PAYNE_DENNIS_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_SELTZER_MICHAEL_2026-11-19",
-   "name": "Michael Warren Seltzer",
-   "age": "60",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1795139262,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_DAVIS_CODY_2026-11-20",
+   "name": "Cody Alan Davis",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795207638,
+   "photo": "photos/VAN_DAVIS_CODY_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_GREEN_PASHINAY_2026-11-20",
+   "name": "Pashinay Patrizia Green",
+   "age": "19",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Family Offense- Invasion of Privacy",
+   "more": 3,
+   "ts": 1795207635,
+   "photo": null
+  },
+  {
+   "key": "ALL_ANDERSON_KALIN_2026-11-20",
+   "name": "Kalin Anderson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Robbery / Armed",
+   "more": 2,
+   "ts": 1795207633,
+   "photo": "photos/ALL_ANDERSON_KALIN_2026-11-20.jpg"
+  },
   {
    "key": "MAD_HILLIGOSS_JASON_2026-11-20",
    "name": "Jason Patrick Hilligoss",
