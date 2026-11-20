@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-20T17:47:41+00:00",
+ "updated": "2026-11-20T18:47:38+00:00",
  "items": [
+  {
+   "key": "MAD_STURGEON_CHAD_2026-11-20",
+   "name": "Chad Anthony Sturgeon",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-adult knowing presence of child less than 16 years\u2026",
+   "more": 2,
+   "ts": 1795200449,
+   "photo": null
+  },
+  {
+   "key": "MAD_SLAYTON_DAMIAN_2026-11-20",
+   "name": "Damian Scott Slayton",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795200448,
+   "photo": "photos/MAD_SLAYTON_DAMIAN_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_KINNEY_SCOTT_2026-11-20",
+   "name": "Scott Ray Kinney",
+   "age": "59",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795200435,
+   "photo": "photos/VAN_KINNEY_SCOTT_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_STALEY_LORETTA_2026-11-20",
+   "name": "Loretta Lynn Staley",
+   "age": "60",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795200433,
+   "photo": null
+  },
+  {
+   "key": "ALL_STUCKEY_ZACHARY_2026-11-20",
+   "name": "Zachary Stuckey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Stalking with Intent to Place Victim in Fear of Sexual\u2026",
+   "more": 1,
+   "ts": 1795200431,
+   "photo": "photos/ALL_STUCKEY_ZACHARY_2026-11-20.jpg"
+  },
   {
    "key": "MAD_PIERCE_HENRY_2026-11-20",
    "name": "Henry Adrian Pierce",
@@ -442,17 +497,6 @@
    "photo": "photos/VAN_ARVIN_ANDREW_2026-11-19.jpg"
   },
   {
-   "key": "VAN_CLARK_LUCAS_2026-11-19",
-   "name": "Lucas Joseph Clark",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating with Controlled Substance in Body",
-   "more": 1,
-   "ts": 1795139244,
-   "photo": null
-  },
-  {
    "key": "ALL_JONES_MARK_2026-11-19",
    "name": "Mark Jones",
    "age": "",
@@ -484,53 +528,64 @@
    "more": 2,
    "ts": 1795135652,
    "photo": "photos/POR_WALTON_MARQUES_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_COLE_TYRIEK_2026-11-19",
-   "name": "Tyriek Sedrik Cole",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1795135649,
-   "photo": "photos/VAN_COLE_TYRIEK_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_BUSZ_BRANDEN_2026-11-19",
-   "name": "Branden Busz",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1795135644,
-   "photo": "photos/ALL_BUSZ_BRANDEN_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_AGUILARESTEBAN_ALAN_2026-11-19",
-   "name": "Alan Aguilar-Esteban",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Child Molesting - Statutory Rape",
-   "more": 0,
-   "ts": 1795135639,
-   "photo": "photos/ALL_AGUILARESTEBAN_ALAN_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_RUTLEDGE_SHANNON_2026-11-19",
-   "name": "Shannon Rutledge",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1795132037,
-   "photo": "photos/ALL_RUTLEDGE_SHANNON_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_STURGEON_CHAD_2026-11-20",
+   "name": "Chad Anthony Sturgeon",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery-adult knowing presence of child less than 16 years\u2026",
+   "more": 2,
+   "ts": 1795200449,
+   "photo": null
+  },
+  {
+   "key": "MAD_SLAYTON_DAMIAN_2026-11-20",
+   "name": "Damian Scott Slayton",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795200448,
+   "photo": "photos/MAD_SLAYTON_DAMIAN_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_KINNEY_SCOTT_2026-11-20",
+   "name": "Scott Ray Kinney",
+   "age": "59",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795200435,
+   "photo": "photos/VAN_KINNEY_SCOTT_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_STALEY_LORETTA_2026-11-20",
+   "name": "Loretta Lynn Staley",
+   "age": "60",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795200433,
+   "photo": null
+  },
+  {
+   "key": "ALL_STUCKEY_ZACHARY_2026-11-20",
+   "name": "Zachary Stuckey",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Stalking with Intent to Place Victim in Fear of Sexual\u2026",
+   "more": 1,
+   "ts": 1795200431,
+   "photo": "photos/ALL_STUCKEY_ZACHARY_2026-11-20.jpg"
+  },
   {
    "key": "MAD_PIERCE_HENRY_2026-11-20",
    "name": "Henry Adrian Pierce",
@@ -2807,28 +2862,6 @@
    "more": 2,
    "ts": 1794944848,
    "photo": "photos/ALL_JOHNSON_CLAYTON_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_PATE_BRANDON_2026-11-17",
-   "name": "Brandon James Pate",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794941235,
-   "photo": "photos/VAN_PATE_BRANDON_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_WARFIELD_JASON_2026-11-17",
-   "name": "Jason Jabbar Warfield",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794941234,
-   "photo": "photos/VAN_WARFIELD_JASON_2026-11-17.jpg"
   }
  ]
 }
