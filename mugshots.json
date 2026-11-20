@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T11:47:34+00:00",
+ "updated": "2026-11-20T12:47:35+00:00",
  "items": [
+  {
+   "key": "VAN_KENDRICK_JOSHUA_2026-11-20",
+   "name": "Joshua Lewis Kendrick",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
+   "more": 1,
+   "ts": 1795178838,
+   "photo": "photos/VAN_KENDRICK_JOSHUA_2026-11-20.jpg"
+  },
   {
    "key": "VAN_VESPOLI_ANTHONY_2026-11-20",
    "name": "Anthony Michael Vespoli",
@@ -398,17 +409,6 @@
    "photo": "photos/VAN_COLEMAN_JAMES_2026-11-19.jpg"
   },
   {
-   "key": "VAN_HERNANDEZ_ANGELICA_2026-11-19",
-   "name": "Angelica Lynn Hernandez",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1795132043,
-   "photo": null
-  },
-  {
    "key": "ALL_RUTLEDGE_SHANNON_2026-11-19",
    "name": "Shannon Rutledge",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_KENDRICK_JOSHUA_2026-11-20",
+   "name": "Joshua Lewis Kendrick",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
+   "more": 1,
+   "ts": 1795178838,
+   "photo": "photos/VAN_KENDRICK_JOSHUA_2026-11-20.jpg"
+  },
   {
    "key": "VAN_VESPOLI_ANTHONY_2026-11-20",
    "name": "Anthony Michael Vespoli",
@@ -2807,17 +2818,6 @@
    "more": 2,
    "ts": 1794923235,
    "photo": "photos/ALL_MOORE_MARZINE_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_BONNER_CHRISTOPHER_2026-11-17",
-   "name": "Christopher Darnell Bonner",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 4,
-   "ts": 1794919632,
-   "photo": null
   }
  ]
 }
