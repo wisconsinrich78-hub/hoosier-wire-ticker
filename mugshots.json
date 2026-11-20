@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T15:47:34+00:00",
+ "updated": "2026-11-20T16:47:32+00:00",
  "items": [
+  {
+   "key": "MAD_STANSBERRY_JUSTIN_2026-11-20",
+   "name": "Justin Lee Stansberry",
+   "age": "44",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation Continuum Sanctions",
+   "more": 0,
+   "ts": 1795193244,
+   "photo": "photos/MAD_STANSBERRY_JUSTIN_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_JONES_TAYLOR_2026-11-20",
+   "name": "Taylor Marie Jones",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795193233,
+   "photo": "photos/VAN_JONES_TAYLOR_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_PARKER_STEFAN_2026-11-20",
+   "name": "Stefan Robert Parker",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795193232,
+   "photo": "photos/VAN_PARKER_STEFAN_2026-11-20.jpg"
+  },
   {
    "key": "ALL_BATTERSHELL_BRAD_2026-11-20",
    "name": "Brad Battershell",
@@ -420,28 +453,6 @@
    "photo": "photos/VAN_COLE_TYRIEK_2026-11-19.jpg"
   },
   {
-   "key": "VAN_TALLEY_BRADFORD_2026-11-19",
-   "name": "Bradford Scott Talley",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Child Support - Writ of Attachment",
-   "more": 0,
-   "ts": 1795135646,
-   "photo": null
-  },
-  {
-   "key": "VAN_COOMES_ASHLEY_2026-11-19",
-   "name": "Ashley Brooke Coomes",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Racketeer- Corrupt Business Influence",
-   "more": 4,
-   "ts": 1795135646,
-   "photo": null
-  },
-  {
    "key": "ALL_BUSZ_BRANDEN_2026-11-19",
    "name": "Branden Busz",
    "age": "",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795124835,
    "photo": null
-  },
-  {
-   "key": "MAD_OBRYANT_LARRY_2026-11-19",
-   "name": "Larry Dwayne Second Obryant",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795121251,
-   "photo": "photos/MAD_OBRYANT_LARRY_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_STANSBERRY_JUSTIN_2026-11-20",
+   "name": "Justin Lee Stansberry",
+   "age": "44",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation Continuum Sanctions",
+   "more": 0,
+   "ts": 1795193244,
+   "photo": "photos/MAD_STANSBERRY_JUSTIN_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_JONES_TAYLOR_2026-11-20",
+   "name": "Taylor Marie Jones",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795193233,
+   "photo": "photos/VAN_JONES_TAYLOR_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_PARKER_STEFAN_2026-11-20",
+   "name": "Stefan Robert Parker",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795193232,
+   "photo": "photos/VAN_PARKER_STEFAN_2026-11-20.jpg"
+  },
   {
    "key": "ALL_BATTERSHELL_BRAD_2026-11-20",
    "name": "Brad Battershell",
@@ -2807,61 +2840,6 @@
    "more": 0,
    "ts": 1794937634,
    "photo": "photos/ALL_SHETLEY_OLIVIA_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_SMITH_DONALD_2026-11-17",
-   "name": "Donald Jermaine Smith",
-   "age": "44",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794934050,
-   "photo": "photos/MAD_SMITH_DONALD_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_MILLER_THERESA_2026-11-17",
-   "name": "Theresa Miller",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794934049,
-   "photo": null
-  },
-  {
-   "key": "POR_VRSKA_ZACHERY_2026-11-16",
-   "name": "Zachery John Vrska",
-   "age": "44",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1794934041,
-   "photo": "photos/POR_VRSKA_ZACHERY_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_BYRD_OLANDUS_2026-11-17",
-   "name": "Olandus Byrd",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft from Building Prior Unrelated Coviction Theft or Conversion",
-   "more": 0,
-   "ts": 1794934037,
-   "photo": "photos/ALL_BYRD_OLANDUS_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_STOKES_AUGUST_2026-11-17",
-   "name": "August Stokes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794934032,
-   "photo": "photos/ALL_STOKES_AUGUST_2026-11-17.jpg"
   }
  ]
 }
