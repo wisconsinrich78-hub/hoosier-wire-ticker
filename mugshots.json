@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T02:47:34+00:00",
+ "updated": "2026-11-20T03:47:29+00:00",
  "items": [
+  {
+   "key": "VAN_BOWLER_BROOKE_2026-11-19",
+   "name": "Brooke Nickole Bowler",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 0,
+   "ts": 1795146433,
+   "photo": "photos/VAN_BOWLER_BROOKE_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_GIVENS_JACK_2026-11-19",
+   "name": "Jack Deon Givens",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 3,
+   "ts": 1795146433,
+   "photo": "photos/VAN_GIVENS_JACK_2026-11-19.jpg"
+  },
   {
    "key": "MAD_WOODWARD_MERANDA_2026-11-19",
    "name": "Meranda Kathlene-Rachele Woodward",
@@ -398,28 +420,6 @@
    "photo": null
   },
   {
-   "key": "VAN_COOPER_BRANDON_2026-11-19",
-   "name": "Brandon Michael Cooper",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Sex Crime- Unlawful Entry of School Property by a Serious Se",
-   "more": 0,
-   "ts": 1795117645,
-   "photo": "photos/VAN_COOPER_BRANDON_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_MAKAYLA_2026-11-19",
-   "name": "Makayla Lanae Johnson",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Family Offense- Neglect of Dependant/Child Violations",
-   "more": 0,
-   "ts": 1795117642,
-   "photo": null
-  },
-  {
    "key": "ALL_RAMBO_MICHAEL_2026-11-19",
    "name": "Michael Rambo",
    "age": "",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BOWLER_BROOKE_2026-11-19",
+   "name": "Brooke Nickole Bowler",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 0,
+   "ts": 1795146433,
+   "photo": "photos/VAN_BOWLER_BROOKE_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_GIVENS_JACK_2026-11-19",
+   "name": "Jack Deon Givens",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 3,
+   "ts": 1795146433,
+   "photo": "photos/VAN_GIVENS_JACK_2026-11-19.jpg"
+  },
   {
    "key": "MAD_WOODWARD_MERANDA_2026-11-19",
    "name": "Meranda Kathlene-Rachele Woodward",
@@ -2906,28 +2928,6 @@
    "more": 2,
    "ts": 1794890834,
    "photo": "photos/ALL_WILLIAMS_SHARI_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_CONNER_ANDREW_2026-11-16",
-   "name": "Andrew Joseph Conner",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794887231,
-   "photo": "photos/VAN_CONNER_ANDREW_2026-11-16.jpg"
-  },
-  {
-   "key": "VAN_REEVES_JESSICA_2026-11-16",
-   "name": "Jessica Faye Reeves",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Shoplifting - Prior Unrelated Conviction for Theft or",
-   "more": 0,
-   "ts": 1794887231,
-   "photo": null
   }
  ]
 }
