@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T06:47:17+00:00",
+ "updated": "2026-11-20T07:47:30+00:00",
  "items": [
+  {
+   "key": "MAD_WILLIAMSON_HUNTER_2026-11-20",
+   "name": "Hunter Kaine Williamson",
+   "age": "18",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Leaving the scene of a crash- serious bodily injury",
+   "more": 1,
+   "ts": 1795160844,
+   "photo": "photos/MAD_WILLIAMSON_HUNTER_2026-11-20.jpg"
+  },
   {
    "key": "ALL_BUELOW_JOHN_2026-11-19",
    "name": "John Buelow",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795110434,
    "photo": "photos/ALL_KARTHOLL_ADAM_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_SMITH_CRAIG_2026-11-19",
-   "name": "Craig Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1795110429,
-   "photo": "photos/ALL_SMITH_CRAIG_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WILLIAMSON_HUNTER_2026-11-20",
+   "name": "Hunter Kaine Williamson",
+   "age": "18",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Leaving the scene of a crash- serious bodily injury",
+   "more": 1,
+   "ts": 1795160844,
+   "photo": "photos/MAD_WILLIAMSON_HUNTER_2026-11-20.jpg"
+  },
   {
    "key": "ALL_BUELOW_JOHN_2026-11-19",
    "name": "John Buelow",
@@ -2818,72 +2829,6 @@
    "more": 0,
    "ts": 1794901718,
    "photo": null
-  },
-  {
-   "key": "ALL_PARKER_TYREE_2026-11-17",
-   "name": "Tyree Parker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794901646,
-   "photo": "photos/ALL_PARKER_TYREE_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_CAYLOR_ANTHONY_2026-11-17",
-   "name": "Anthony Caylor",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794901633,
-   "photo": null
-  },
-  {
-   "key": "MAD_MOSBAUGH_ZACHERY_2026-11-17",
-   "name": "Zachery Ryan Mosbaugh",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 1,
-   "ts": 1794898049,
-   "photo": "photos/MAD_MOSBAUGH_ZACHERY_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_FERRELL_CODY_2026-11-17",
-   "name": "Cody Lee Ferrell",
-   "age": "27",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating While Intoxicated - Causes Catastrophic Injury or Death",
-   "more": 1,
-   "ts": 1794898045,
-   "photo": null
-  },
-  {
-   "key": "MAD_BROCK_DERRICK_2026-11-17",
-   "name": "Derrick Lynn Junior Brock",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession methamphetamine",
-   "more": 1,
-   "ts": 1794898043,
-   "photo": "photos/MAD_BROCK_DERRICK_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_ISBILL_ELIZABETH_2026-11-16",
-   "name": "Elizabeth Jean Isbill",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794898039,
-   "photo": "photos/VAN_ISBILL_ELIZABETH_2026-11-16.jpg"
   }
  ]
 }
