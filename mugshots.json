@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-20T13:47:37+00:00",
+ "updated": "2026-11-20T14:47:36+00:00",
  "items": [
+  {
+   "key": "POR_LYNCH_KEVIN_2026-11-19",
+   "name": "Kevin Donbea Lynch",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795186045,
+   "photo": "photos/POR_LYNCH_KEVIN_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_MITZ_CALEB_2026-11-20",
+   "name": "Caleb Wayne Mitz",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 2,
+   "ts": 1795186041,
+   "photo": "photos/VAN_MITZ_CALEB_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_ALLEN_ISABEL_2026-11-20",
+   "name": "Isabel Allen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1795186031,
+   "photo": "photos/ALL_ALLEN_ISABEL_2026-11-20.jpg"
+  },
   {
    "key": "MAD_BRAMER_SHAUN_2026-11-20",
    "name": "Shaun Paul Bramer",
@@ -420,17 +453,6 @@
    "photo": "photos/ALL_AGUILARESTEBAN_ALAN_2026-11-19.jpg"
   },
   {
-   "key": "VAN_COLEMAN_JAMES_2026-11-19",
-   "name": "James Robert Coleman",
-   "age": "53",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795132043,
-   "photo": "photos/VAN_COLEMAN_JAMES_2026-11-19.jpg"
-  },
-  {
    "key": "ALL_RUTLEDGE_SHANNON_2026-11-19",
    "name": "Shannon Rutledge",
    "age": "",
@@ -506,31 +528,42 @@
    "more": 3,
    "ts": 1795121250,
    "photo": "photos/MAD_MONEYHUN_MICHAELA_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_MAY_BRANDON_2026-11-19",
-   "name": "Brandon Lee May",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Contempt of Court (Child Support) - Jail Booking",
-   "more": 0,
-   "ts": 1795121249,
-   "photo": "photos/MAD_MAY_BRANDON_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_MCCUNE_KELLY_2026-11-19",
-   "name": "Kelly Margaret Mccune",
-   "age": "50",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795121249,
-   "photo": "photos/MAD_MCCUNE_KELLY_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_LYNCH_KEVIN_2026-11-19",
+   "name": "Kevin Donbea Lynch",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795186045,
+   "photo": "photos/POR_LYNCH_KEVIN_2026-11-19.jpg"
+  },
+  {
+   "key": "VAN_MITZ_CALEB_2026-11-20",
+   "name": "Caleb Wayne Mitz",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 2,
+   "ts": 1795186041,
+   "photo": "photos/VAN_MITZ_CALEB_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_ALLEN_ISABEL_2026-11-20",
+   "name": "Isabel Allen",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1795186031,
+   "photo": "photos/ALL_ALLEN_ISABEL_2026-11-20.jpg"
+  },
   {
    "key": "MAD_BRAMER_SHAUN_2026-11-20",
    "name": "Shaun Paul Bramer",
