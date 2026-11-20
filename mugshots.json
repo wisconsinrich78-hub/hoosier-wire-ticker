@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-20T14:47:36+00:00",
+ "updated": "2026-11-20T15:47:34+00:00",
  "items": [
+  {
+   "key": "ALL_BATTERSHELL_BRAD_2026-11-20",
+   "name": "Brad Battershell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Rape Intercourse",
+   "more": 0,
+   "ts": 1795189633,
+   "photo": "photos/ALL_BATTERSHELL_BRAD_2026-11-20.jpg"
+  },
   {
    "key": "POR_LYNCH_KEVIN_2026-11-19",
    "name": "Kevin Donbea Lynch",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795121251,
    "photo": "photos/MAD_OBRYANT_LARRY_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_MONEYHUN_MICHAELA_2026-11-19",
-   "name": "Michaela Catherine Moneyhun",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Probation Juvenile /WR",
-   "more": 3,
-   "ts": 1795121250,
-   "photo": "photos/MAD_MONEYHUN_MICHAELA_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_BATTERSHELL_BRAD_2026-11-20",
+   "name": "Brad Battershell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Rape Intercourse",
+   "more": 0,
+   "ts": 1795189633,
+   "photo": "photos/ALL_BATTERSHELL_BRAD_2026-11-20.jpg"
+  },
   {
    "key": "POR_LYNCH_KEVIN_2026-11-19",
    "name": "Kevin Donbea Lynch",
@@ -2851,17 +2862,6 @@
    "more": 0,
    "ts": 1794934032,
    "photo": "photos/ALL_STOKES_AUGUST_2026-11-17.jpg"
-  },
-  {
-   "key": "POR_KEEFE_HEATH_2026-11-16",
-   "name": "Heath Benjamin Keefe",
-   "age": "50",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1794930432,
-   "photo": "photos/POR_KEEFE_HEATH_2026-11-16.jpg"
   }
  ]
 }
