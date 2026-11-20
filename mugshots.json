@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T19:47:25+00:00",
+ "updated": "2026-11-20T19:51:25+00:00",
  "items": [
+  {
+   "key": "MAD_HILLIGOSS_JASON_2026-11-20",
+   "name": "Jason Patrick Hilligoss",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795204048,
+   "photo": "photos/MAD_HILLIGOSS_JASON_2026-11-20.jpg"
+  },
+  {
+   "key": "MAD_GOODWIN_RICHARD_2026-11-20",
+   "name": "Richard Lee Junior Goodwin",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795204047,
+   "photo": "photos/MAD_GOODWIN_RICHARD_2026-11-20.jpg"
+  },
   {
    "key": "MAD_BOYD_JONATHAN_2026-11-20",
    "name": "Jonathan Douglass Boyd",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795139262,
    "photo": null
-  },
-  {
-   "key": "MAD_HILL_CALVIN_2026-11-19",
-   "name": "Calvin Dewayne Second Hill",
-   "age": "21",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery (A/M) Simple",
-   "more": 1,
-   "ts": 1795139258,
-   "photo": null
-  },
-  {
-   "key": "MAD_HILL_HEATHER_2026-11-19",
-   "name": "Heather Crystal Hill",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Pointing a firearm",
-   "more": 2,
-   "ts": 1795139258,
-   "photo": "photos/MAD_HILL_HEATHER_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_HILLIGOSS_JASON_2026-11-20",
+   "name": "Jason Patrick Hilligoss",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795204048,
+   "photo": "photos/MAD_HILLIGOSS_JASON_2026-11-20.jpg"
+  },
+  {
+   "key": "MAD_GOODWIN_RICHARD_2026-11-20",
+   "name": "Richard Lee Junior Goodwin",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795204047,
+   "photo": "photos/MAD_GOODWIN_RICHARD_2026-11-20.jpg"
+  },
   {
    "key": "MAD_BOYD_JONATHAN_2026-11-20",
    "name": "Jonathan Douglass Boyd",
@@ -2895,28 +2917,6 @@
    "more": 2,
    "ts": 1794948477,
    "photo": "photos/ALL_COY_TRACEY_2026-11-17.jpg"
-  },
-  {
-   "key": "POR_MCNICHOLS_DAMARIO_2026-11-16",
-   "name": "Damario Dailyn Mcnichols",
-   "age": "19",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Commitment Prior Charge",
-   "more": 0,
-   "ts": 1794944863,
-   "photo": "photos/POR_MCNICHOLS_DAMARIO_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_JOHNSON_CLAYTON_2026-11-17",
-   "name": "Clayton Johnson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1794944848,
-   "photo": "photos/ALL_JOHNSON_CLAYTON_2026-11-17.jpg"
   }
  ]
 }
