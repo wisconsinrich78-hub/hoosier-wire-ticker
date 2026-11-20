@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T07:47:30+00:00",
+ "updated": "2026-11-20T08:47:27+00:00",
  "items": [
+  {
+   "key": "VAN_MELENDEZ_NICOLAS_2026-11-20",
+   "name": "Nicolas Isaac Melendez",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795164433,
+   "photo": null
+  },
+  {
+   "key": "ALL_NICKOLSON_BRITTNAY_2026-11-20",
+   "name": "Brittnay Nickolson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Cocaine or Narcotic Drug",
+   "more": 4,
+   "ts": 1795164432,
+   "photo": "photos/ALL_NICKOLSON_BRITTNAY_2026-11-20.jpg"
+  },
   {
    "key": "MAD_WILLIAMSON_HUNTER_2026-11-20",
    "name": "Hunter Kaine Williamson",
@@ -453,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "VAN_HAGER_JACE_2026-11-19",
-   "name": "Jace Deland Hager",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Family Offense- Neglect of Dependant/Child Violations",
-   "more": 0,
-   "ts": 1795121240,
-   "photo": "photos/VAN_HAGER_JACE_2026-11-19.jpg"
-  },
-  {
    "key": "ALL_RAMBO_MICHAEL_2026-11-19",
    "name": "Michael Rambo",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795110446,
    "photo": "photos/MAD_OLDEN_LAMONTE_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_KARTHOLL_ADAM_2026-11-19",
-   "name": "Adam Kartholl",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing in Methamphetamine",
-   "more": 0,
-   "ts": 1795110434,
-   "photo": "photos/ALL_KARTHOLL_ADAM_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_MELENDEZ_NICOLAS_2026-11-20",
+   "name": "Nicolas Isaac Melendez",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795164433,
+   "photo": null
+  },
+  {
+   "key": "ALL_NICKOLSON_BRITTNAY_2026-11-20",
+   "name": "Brittnay Nickolson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Cocaine or Narcotic Drug",
+   "more": 4,
+   "ts": 1795164432,
+   "photo": "photos/ALL_NICKOLSON_BRITTNAY_2026-11-20.jpg"
+  },
   {
    "key": "MAD_WILLIAMSON_HUNTER_2026-11-20",
    "name": "Hunter Kaine Williamson",
@@ -2741,94 +2763,6 @@
    "more": 0,
    "ts": 1794908831,
    "photo": "photos/ALL_EDWARDS_LUKE_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_BRIDENTHAL_ADORA_2026-11-17",
-   "name": "Adora Havyn Bridenthal",
-   "age": "20",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794905244,
-   "photo": null
-  },
-  {
-   "key": "VAN_POOLE_ERIC_2026-11-17",
-   "name": "Eric Andre Poole",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 1,
-   "ts": 1794905239,
-   "photo": "photos/VAN_POOLE_ERIC_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_EASON_JASPER_2026-11-17",
-   "name": "Jasper Makal Eason",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794905238,
-   "photo": "photos/VAN_EASON_JASPER_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_PAYTON_ISAIAH_2026-11-17",
-   "name": "Isaiah Payton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement - Fleeing",
-   "more": 1,
-   "ts": 1794905234,
-   "photo": "photos/ALL_PAYTON_ISAIAH_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_PETERSON_DAMARION_2026-11-17",
-   "name": "Da'Marion Peterson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Vehicle Theft",
-   "more": 3,
-   "ts": 1794905230,
-   "photo": "photos/ALL_PETERSON_DAMARION_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_FRALEY_JOHNATHAN_2026-11-17",
-   "name": "Johnathan Kodi Fraley",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Nonsupport of dependent",
-   "more": 0,
-   "ts": 1794901727,
-   "photo": "photos/MAD_FRALEY_JOHNATHAN_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_JOYCE_TRAIEVANTE_2026-11-17",
-   "name": "Traievante Allen Joyce",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
-   "more": 0,
-   "ts": 1794901719,
-   "photo": null
-  },
-  {
-   "key": "ALL_PEOPLES_DEVONTAY_2026-11-17",
-   "name": "Devontay Peoples",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1794901718,
-   "photo": null
   }
  ]
 }
