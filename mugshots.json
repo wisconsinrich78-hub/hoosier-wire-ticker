@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T06:05:53+00:00",
+ "updated": "2026-11-20T06:47:17+00:00",
  "items": [
   {
    "key": "ALL_BUELOW_JOHN_2026-11-19",
@@ -2884,28 +2884,6 @@
    "more": 0,
    "ts": 1794898039,
    "photo": "photos/VAN_ISBILL_ELIZABETH_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_ASHER_ZACHARIAH_2026-11-17",
-   "name": "Zachariah Asher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1794898035,
-   "photo": "photos/ALL_ASHER_ZACHARIAH_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_HORMANN_KENT_2026-11-17",
-   "name": "Kent Hormann",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794898030,
-   "photo": "photos/ALL_HORMANN_KENT_2026-11-17.jpg"
   }
  ]
 }
