@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-20T12:47:35+00:00",
+ "updated": "2026-11-20T13:47:37+00:00",
  "items": [
+  {
+   "key": "MAD_BRAMER_SHAUN_2026-11-20",
+   "name": "Shaun Paul Bramer",
+   "age": "47",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795182443,
+   "photo": "photos/MAD_BRAMER_SHAUN_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_COULTER_NATHAN_2026-11-20",
+   "name": "Nathan Coulter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 1,
+   "ts": 1795182433,
+   "photo": "photos/ALL_COULTER_NATHAN_2026-11-20.jpg"
+  },
   {
    "key": "VAN_KENDRICK_JOSHUA_2026-11-20",
    "name": "Joshua Lewis Kendrick",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795121249,
    "photo": "photos/MAD_MCCUNE_KELLY_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_DANIEL_KRYSTAL_2026-11-19",
-   "name": "Krystal Marie Daniel",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for 10 day Probation Violation - Jail Booking",
-   "more": 2,
-   "ts": 1795121246,
-   "photo": null
-  },
-  {
-   "key": "ALL_RAMBO_MICHAEL_2026-11-19",
-   "name": "Michael Rambo",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Intimidation by Threats",
-   "more": 0,
-   "ts": 1795117639,
-   "photo": "photos/ALL_RAMBO_MICHAEL_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_BRAMER_SHAUN_2026-11-20",
+   "name": "Shaun Paul Bramer",
+   "age": "47",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795182443,
+   "photo": "photos/MAD_BRAMER_SHAUN_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_COULTER_NATHAN_2026-11-20",
+   "name": "Nathan Coulter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 1,
+   "ts": 1795182433,
+   "photo": "photos/ALL_COULTER_NATHAN_2026-11-20.jpg"
+  },
   {
    "key": "VAN_KENDRICK_JOSHUA_2026-11-20",
    "name": "Joshua Lewis Kendrick",
@@ -2807,17 +2829,6 @@
    "more": 0,
    "ts": 1794930432,
    "photo": "photos/POR_KEEFE_HEATH_2026-11-16.jpg"
-  },
-  {
-   "key": "ALL_MOORE_MARZINE_2026-11-17",
-   "name": "Marzine Moore",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Refusal to Identify Self",
-   "more": 2,
-   "ts": 1794923235,
-   "photo": "photos/ALL_MOORE_MARZINE_2026-11-17.jpg"
   }
  ]
 }
