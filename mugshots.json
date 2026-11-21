@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T22:47:45+00:00",
+ "updated": "2026-11-21T23:47:54+00:00",
  "items": [
+  {
+   "key": "VAN_EBERHARDT_DEVON_2026-11-21",
+   "name": "Devon Demitrius Eberhardt",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795304854,
+   "photo": null
+  },
+  {
+   "key": "ALL_STARKS_JHAEDYN_2026-11-21",
+   "name": "Jhaedyn Starks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft or Conversion",
+   "more": 0,
+   "ts": 1795304852,
+   "photo": "photos/ALL_STARKS_JHAEDYN_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_PERKINS_MELVIN_2026-11-21",
+   "name": "Melvin Perkins",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 3,
+   "ts": 1795304842,
+   "photo": "photos/ALL_PERKINS_MELVIN_2026-11-21.jpg"
+  },
   {
    "key": "ALL_MARTI_JAMES_2026-11-21",
    "name": "James Marti",
@@ -464,17 +497,6 @@
    "photo": "photos/ALL_DAVIS_JADE_2026-11-20.jpg"
   },
   {
-   "key": "ALL_THATCHER_KELLI_2026-11-21",
-   "name": "Kelli Thatcher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Paraphernalia",
-   "more": 0,
-   "ts": 1795240032,
-   "photo": "photos/ALL_THATCHER_KELLI_2026-11-21.jpg"
-  },
-  {
    "key": "MAD_DAUENHAUER_MICHAEL_2026-11-20",
    "name": "Michael Edward Dauenhauer",
    "age": "62",
@@ -497,17 +519,6 @@
    "photo": "photos/VAN_MILES_TERRY_2026-11-20.jpg"
   },
   {
-   "key": "ALL_HOLLINESS_DAIQUAN_2026-11-20",
-   "name": "Daiquan Holliness",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1795236452,
-   "photo": "photos/ALL_HOLLINESS_DAIQUAN_2026-11-20.jpg"
-  },
-  {
    "key": "MAD_COFFEY_JOHN_2026-11-20",
    "name": "John C Third Coffey",
    "age": "28",
@@ -517,20 +528,42 @@
    "more": 0,
    "ts": 1795232841,
    "photo": "photos/MAD_COFFEY_JOHN_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_SIMMONS_DOUGLAS_2026-11-20",
-   "name": "Douglas Ray Simmons",
-   "age": "52",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft",
-   "more": 0,
-   "ts": 1795229240,
-   "photo": "photos/VAN_SIMMONS_DOUGLAS_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_EBERHARDT_DEVON_2026-11-21",
+   "name": "Devon Demitrius Eberhardt",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795304854,
+   "photo": null
+  },
+  {
+   "key": "ALL_STARKS_JHAEDYN_2026-11-21",
+   "name": "Jhaedyn Starks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft or Conversion",
+   "more": 0,
+   "ts": 1795304852,
+   "photo": "photos/ALL_STARKS_JHAEDYN_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_PERKINS_MELVIN_2026-11-21",
+   "name": "Melvin Perkins",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 3,
+   "ts": 1795304842,
+   "photo": "photos/ALL_PERKINS_MELVIN_2026-11-21.jpg"
+  },
   {
    "key": "ALL_MARTI_JAMES_2026-11-21",
    "name": "James Marti",
@@ -2851,39 +2884,6 @@
    "more": 0,
    "ts": 1795049238,
    "photo": "photos/ALL_LUNAGARCIA_ISAIAS_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_CANDICE_2026-11-18",
-   "name": "Candice Nachele Johnson",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Manufacture/Dealing Methamphetamine",
-   "more": 0,
-   "ts": 1795045652,
-   "photo": "photos/VAN_JOHNSON_CANDICE_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_WATTLEY_LES_2026-11-18",
-   "name": "Les Wattley",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 1,
-   "ts": 1795045646,
-   "photo": "photos/ALL_WATTLEY_LES_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_FISHER_THOMARIUS_2026-11-18",
-   "name": "Thomarius Fisher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1795045640,
-   "photo": null
   }
  ]
 }
