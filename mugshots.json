@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T11:06:59+00:00",
+ "updated": "2026-11-21T11:47:33+00:00",
  "items": [
+  {
+   "key": "MAD_JACINTHE_JONATHAN_2026-11-21",
+   "name": "Jonathan Andy Jacinthe",
+   "age": "29",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795261643,
+   "photo": null
+  },
+  {
+   "key": "POR_BASILE_DAVID_2026-11-20",
+   "name": "David Paul Basile",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Revocation of Probation",
+   "more": 0,
+   "ts": 1795261633,
+   "photo": "photos/POR_BASILE_DAVID_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_LEISTER_CORY_2026-11-21",
+   "name": "Cory Dean Leister",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 1,
+   "ts": 1795261630,
+   "photo": "photos/VAN_LEISTER_CORY_2026-11-21.jpg"
+  },
   {
    "key": "MAD_WARE_TYLER_2026-11-21",
    "name": "Tyler Wayne Ware",
@@ -442,17 +475,6 @@
    "photo": null
   },
   {
-   "key": "VAN_DAVIS_CODY_2026-11-20",
-   "name": "Cody Alan Davis",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1795207638,
-   "photo": "photos/VAN_DAVIS_CODY_2026-11-20.jpg"
-  },
-  {
    "key": "MAD_HILLIGOSS_JASON_2026-11-20",
    "name": "Jason Patrick Hilligoss",
    "age": "39",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1795204040,
    "photo": "photos/POR_CONGRESSJONES_KIMBERLY_2026-11-19.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_STURGEON_CHAD_2026-11-20",
-   "name": "Chad Anthony Sturgeon",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery-adult knowing presence of child less than 16 years\u2026",
-   "more": 2,
-   "ts": 1795200449,
-   "photo": null
-  },
-  {
-   "key": "MAD_SLAYTON_DAMIAN_2026-11-20",
-   "name": "Damian Scott Slayton",
-   "age": "32",
+   "key": "MAD_JACINTHE_JONATHAN_2026-11-21",
+   "name": "Jonathan Andy Jacinthe",
+   "age": "29",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1795200448,
-   "photo": "photos/MAD_SLAYTON_DAMIAN_2026-11-20.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1795261643,
+   "photo": null
+  },
+  {
+   "key": "POR_BASILE_DAVID_2026-11-20",
+   "name": "David Paul Basile",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Revocation of Probation",
+   "more": 0,
+   "ts": 1795261633,
+   "photo": "photos/POR_BASILE_DAVID_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_LEISTER_CORY_2026-11-21",
+   "name": "Cory Dean Leister",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 1,
+   "ts": 1795261630,
+   "photo": "photos/VAN_LEISTER_CORY_2026-11-21.jpg"
+  },
   {
    "key": "MAD_WARE_TYLER_2026-11-21",
    "name": "Tyler Wayne Ware",
@@ -3049,17 +3082,6 @@
    "more": 1,
    "ts": 1795013238,
    "photo": "photos/POR_HURNI_JAMIE_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_MATA_REBEKAH_2026-11-18",
-   "name": "Rebekah Lynn Mata",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795002430,
-   "photo": "photos/VAN_MATA_REBEKAH_2026-11-18.jpg"
   }
  ]
 }
