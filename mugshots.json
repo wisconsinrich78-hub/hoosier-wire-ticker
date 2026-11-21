@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T13:47:44+00:00",
+ "updated": "2026-11-21T14:47:52+00:00",
  "items": [
+  {
+   "key": "MAD_GRAY_STEVEN_2026-11-21",
+   "name": "Steven Thomas Gray",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795272453,
+   "photo": "photos/MAD_GRAY_STEVEN_2026-11-21.jpg"
+  },
+  {
+   "key": "VAN_SUTTON_WESLEY_2026-11-21",
+   "name": "Wesley Lee Sutton",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795272438,
+   "photo": "photos/VAN_SUTTON_WESLEY_2026-11-21.jpg"
+  },
   {
    "key": "MAD_AMELL_JADESS_2026-11-21",
    "name": "Jadess Ann Marie Amell",
@@ -497,17 +519,6 @@
    "photo": "photos/POR_LABELLE_CHEYENE_2026-11-19.jpg"
   },
   {
-   "key": "VAN_CROW_MICHAEL_2026-11-20",
-   "name": "Michael Scott Crow",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795211247,
-   "photo": null
-  },
-  {
    "key": "MAD_HILLIGOSS_JASON_2026-11-20",
    "name": "Jason Patrick Hilligoss",
    "age": "39",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795204048,
    "photo": "photos/MAD_HILLIGOSS_JASON_2026-11-20.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_GOODWIN_RICHARD_2026-11-20",
-   "name": "Richard Lee Junior Goodwin",
+   "key": "MAD_GRAY_STEVEN_2026-11-21",
+   "name": "Steven Thomas Gray",
    "age": "39",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1795204047,
-   "photo": "photos/MAD_GOODWIN_RICHARD_2026-11-20.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1795272453,
+   "photo": "photos/MAD_GRAY_STEVEN_2026-11-21.jpg"
+  },
+  {
+   "key": "VAN_SUTTON_WESLEY_2026-11-21",
+   "name": "Wesley Lee Sutton",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795272438,
+   "photo": "photos/VAN_SUTTON_WESLEY_2026-11-21.jpg"
+  },
   {
    "key": "MAD_AMELL_JADESS_2026-11-21",
    "name": "Jadess Ann Marie Amell",
@@ -3126,17 +3148,6 @@
    "more": 0,
    "ts": 1795016851,
    "photo": "photos/ALL_HARVEY_ARITHA_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_HURNI_JAMIE_2026-11-17",
-   "name": "Jamie Marie Hurni",
-   "age": "54",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Communication- Intimidation",
-   "more": 1,
-   "ts": 1795013238,
-   "photo": "photos/POR_HURNI_JAMIE_2026-11-17.jpg"
   }
  ]
 }
