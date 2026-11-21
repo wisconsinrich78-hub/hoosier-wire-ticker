@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T00:47:30+00:00",
+ "updated": "2026-11-21T01:47:37+00:00",
  "items": [
+  {
+   "key": "POR_BAYRON_NAOMI_2026-11-20",
+   "name": "Naomi Natasha Bayron",
+   "age": "50",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10\u2026",
+   "more": 0,
+   "ts": 1795225646,
+   "photo": "photos/POR_BAYRON_NAOMI_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_RODOCKER_DANIEL_2026-11-20",
+   "name": "Daniel Rodocker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 1,
+   "ts": 1795225637,
+   "photo": "photos/ALL_RODOCKER_DANIEL_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_THOMAS_AARON_2026-11-20",
+   "name": "Aaron Thomas",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795225630,
+   "photo": "photos/ALL_THOMAS_AARON_2026-11-20.jpg"
+  },
   {
    "key": "MAD_RITENOUR_DANNIE_2026-11-20",
    "name": "Dannie Lee Junior Ritenour",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1795175238,
    "photo": "photos/VAN_VESPOLI_ANTHONY_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_CALHOUN_LEROY_2026-11-20",
-   "name": "Leroy Copeland Calhoun",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Residential Entry",
-   "more": 0,
-   "ts": 1795175237,
-   "photo": "photos/VAN_CALHOUN_LEROY_2026-11-20.jpg"
-  },
-  {
-   "key": "POR_LANDESS_CODI_2026-11-19",
-   "name": "Codi Lynn Landess",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1795171632,
-   "photo": "photos/POR_LANDESS_CODI_2026-11-19.jpg"
-  },
-  {
-   "key": "POR_HURLEY_CODY_2026-11-19",
-   "name": "Cody Michael James Hurley",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Intimidation",
-   "more": 1,
-   "ts": 1795168039,
-   "photo": "photos/POR_HURLEY_CODY_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_BAYRON_NAOMI_2026-11-20",
+   "name": "Naomi Natasha Bayron",
+   "age": "50",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10\u2026",
+   "more": 0,
+   "ts": 1795225646,
+   "photo": "photos/POR_BAYRON_NAOMI_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_RODOCKER_DANIEL_2026-11-20",
+   "name": "Daniel Rodocker",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 1,
+   "ts": 1795225637,
+   "photo": "photos/ALL_RODOCKER_DANIEL_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_THOMAS_AARON_2026-11-20",
+   "name": "Aaron Thomas",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795225630,
+   "photo": "photos/ALL_THOMAS_AARON_2026-11-20.jpg"
+  },
   {
    "key": "MAD_RITENOUR_DANNIE_2026-11-20",
    "name": "Dannie Lee Junior Ritenour",
@@ -2917,50 +2950,6 @@
    "more": 0,
    "ts": 1794966464,
    "photo": "photos/MAD_SMALL_ROBERT_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_MENDA_DAWIT_2026-11-17",
-   "name": "Dawit Menda",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 1,
-   "ts": 1794966450,
-   "photo": "photos/ALL_MENDA_DAWIT_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_BOWMAN_CHEYENNE_2026-11-17",
-   "name": "Cheyenne Bowman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 0,
-   "ts": 1794966445,
-   "photo": null
-  },
-  {
-   "key": "ALL_DAVIS_TONY_2026-11-17",
-   "name": "Tony Davis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1794966441,
-   "photo": "photos/ALL_DAVIS_TONY_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_RANDOL_MAISIE_2026-11-17",
-   "name": "Maisie Randol",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt of Court-Criminal",
-   "more": 1,
-   "ts": 1794966437,
-   "photo": "photos/ALL_RANDOL_MAISIE_2026-11-17.jpg"
   }
  ]
 }
