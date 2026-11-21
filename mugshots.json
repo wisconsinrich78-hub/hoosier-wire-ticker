@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T00:18:05+00:00",
+ "updated": "2026-11-21T00:47:30+00:00",
  "items": [
+  {
+   "key": "MAD_RITENOUR_DANNIE_2026-11-20",
+   "name": "Dannie Lee Junior Ritenour",
+   "age": "69",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1795222037,
+   "photo": "photos/MAD_RITENOUR_DANNIE_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_RICHARDSON_SHANE_2026-11-20",
+   "name": "Shane Richardson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1795222032,
+   "photo": "photos/ALL_RICHARDSON_SHANE_2026-11-20.jpg"
+  },
   {
    "key": "ALL_BOOKER_ZANALYNN_2026-11-20",
    "name": "Zanalynn Booker",
@@ -506,31 +528,31 @@
    "more": 1,
    "ts": 1795168039,
    "photo": "photos/POR_HURLEY_CODY_2026-11-19.jpg"
-  },
-  {
-   "key": "POR_HABEL_THOMAS_2026-11-19",
-   "name": "Thomas Arthur Habel",
-   "age": "46",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Possession Marijuana",
-   "more": 1,
-   "ts": 1795168036,
-   "photo": "photos/POR_HABEL_THOMAS_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_BONHAM_MICHAEL_2026-11-20",
-   "name": "Michael Bonham",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1795168031,
-   "photo": "photos/ALL_BONHAM_MICHAEL_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_RITENOUR_DANNIE_2026-11-20",
+   "name": "Dannie Lee Junior Ritenour",
+   "age": "69",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 0,
+   "ts": 1795222037,
+   "photo": "photos/MAD_RITENOUR_DANNIE_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_RICHARDSON_SHANE_2026-11-20",
+   "name": "Shane Richardson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1795222032,
+   "photo": "photos/ALL_RICHARDSON_SHANE_2026-11-20.jpg"
+  },
   {
    "key": "ALL_BOOKER_ZANALYNN_2026-11-20",
    "name": "Zanalynn Booker",
@@ -2939,61 +2961,6 @@
    "more": 1,
    "ts": 1794966437,
    "photo": "photos/ALL_RANDOL_MAISIE_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_MACK_JASON_2026-11-17",
-   "name": "Jason Mack",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1794962848,
-   "photo": null
-  },
-  {
-   "key": "ALL_JONES_DARREL_2026-11-17",
-   "name": "Darrel Jones",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1794962844,
-   "photo": "photos/ALL_JONES_DARREL_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_CLARK_CODY_2026-11-17",
-   "name": "Cody Allen Clark",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794962843,
-   "photo": "photos/VAN_CLARK_CODY_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_BLAIR_WILLIAM_2026-11-17",
-   "name": "William Blayd Blair",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794962842,
-   "photo": "photos/VAN_BLAIR_WILLIAM_2026-11-17.jpg"
-  },
-  {
-   "key": "MAD_ADAMS_AUBREY_2026-11-17",
-   "name": "Aubrey Mekeanna Adams",
-   "age": "18",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery- aggravated",
-   "more": 0,
-   "ts": 1794962839,
-   "photo": "photos/MAD_ADAMS_AUBREY_2026-11-17.jpg"
   }
  ]
 }
