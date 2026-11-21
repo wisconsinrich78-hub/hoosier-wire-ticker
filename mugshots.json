@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-21T08:47:53+00:00",
+ "updated": "2026-11-21T09:48:05+00:00",
  "items": [
+  {
+   "key": "VAN_BLAASCH_LOGAN_2026-11-21",
+   "name": "Logan Grant Blaasch",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
+   "more": 0,
+   "ts": 1795254460,
+   "photo": "photos/VAN_BLAASCH_LOGAN_2026-11-21.jpg"
+  },
+  {
+   "key": "VAN_IRVIN_COLTON_2026-11-21",
+   "name": "Colton Chase Irvin",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1795254459,
+   "photo": "photos/VAN_IRVIN_COLTON_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_SANDERS_CLARENCE_2026-11-21",
+   "name": "Clarence Sanders",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795254454,
+   "photo": "photos/ALL_SANDERS_CLARENCE_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_DERRICK_ANTONIO_2026-11-21",
+   "name": "Antonio Derrick",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795254450,
+   "photo": "photos/ALL_DERRICK_ANTONIO_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_MASKA_BRENDAN_2026-11-21",
+   "name": "Brendan Maska",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > or = to .15%",
+   "more": 1,
+   "ts": 1795254438,
+   "photo": "photos/ALL_MASKA_BRENDAN_2026-11-21.jpg"
+  },
   {
    "key": "VAN_HOLTZ_JULIA_2026-11-21",
    "name": "Julia Lynn Holtz",
@@ -266,17 +321,6 @@
    "photo": "photos/ALL_RICHARDSON_SHANE_2026-11-20.jpg"
   },
   {
-   "key": "ALL_BOOKER_ZANALYNN_2026-11-20",
-   "name": "Zanalynn Booker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795218438,
-   "photo": "photos/ALL_BOOKER_ZANALYNN_2026-11-20.jpg"
-  },
-  {
    "key": "VAN_WALDEN_ANTHONY_2026-11-20",
    "name": "Anthony Davis Walden",
    "age": "37",
@@ -329,28 +373,6 @@
    "charge": "Communication- Intimidation",
    "more": 2,
    "ts": 1795214840,
-   "photo": null
-  },
-  {
-   "key": "ALL_MCKENNA_STONE_2026-11-20",
-   "name": "Stone Mckenna",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1795214839,
-   "photo": "photos/ALL_MCKENNA_STONE_2026-11-20.jpg"
-  },
-  {
-   "key": "ALL_YBARRA_JESSICA_2026-11-20",
-   "name": "Jessica Ybarra",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Shoplifting",
-   "more": 0,
-   "ts": 1795214834,
    "photo": null
   },
   {
@@ -486,28 +508,6 @@
    "photo": "photos/MAD_SLAYTON_DAMIAN_2026-11-20.jpg"
   },
   {
-   "key": "VAN_KINNEY_SCOTT_2026-11-20",
-   "name": "Scott Ray Kinney",
-   "age": "59",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795200435,
-   "photo": "photos/VAN_KINNEY_SCOTT_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_STALEY_LORETTA_2026-11-20",
-   "name": "Loretta Lynn Staley",
-   "age": "60",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795200433,
-   "photo": null
-  },
-  {
    "key": "MAD_PIERCE_HENRY_2026-11-20",
    "name": "Henry Adrian Pierce",
    "age": "48",
@@ -531,6 +531,61 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BLAASCH_LOGAN_2026-11-21",
+   "name": "Logan Grant Blaasch",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
+   "more": 0,
+   "ts": 1795254460,
+   "photo": "photos/VAN_BLAASCH_LOGAN_2026-11-21.jpg"
+  },
+  {
+   "key": "VAN_IRVIN_COLTON_2026-11-21",
+   "name": "Colton Chase Irvin",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1795254459,
+   "photo": "photos/VAN_IRVIN_COLTON_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_SANDERS_CLARENCE_2026-11-21",
+   "name": "Clarence Sanders",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795254454,
+   "photo": "photos/ALL_SANDERS_CLARENCE_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_DERRICK_ANTONIO_2026-11-21",
+   "name": "Antonio Derrick",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795254450,
+   "photo": "photos/ALL_DERRICK_ANTONIO_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_MASKA_BRENDAN_2026-11-21",
+   "name": "Brendan Maska",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > or = to .15%",
+   "more": 1,
+   "ts": 1795254438,
+   "photo": "photos/ALL_MASKA_BRENDAN_2026-11-21.jpg"
+  },
   {
    "key": "VAN_HOLTZ_JULIA_2026-11-21",
    "name": "Julia Lynn Holtz",
@@ -2972,17 +3027,6 @@
    "more": 0,
    "ts": 1794998841,
    "photo": "photos/VAN_CALDWELL_TARON_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_STRAYHORN_CAMRYN_2026-11-18",
-   "name": "Camryn Neal Strayhorn",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "False Reporting; False Informing",
-   "more": 1,
-   "ts": 1794995232,
-   "photo": "photos/VAN_STRAYHORN_CAMRYN_2026-11-18.jpg"
   }
  ]
 }
