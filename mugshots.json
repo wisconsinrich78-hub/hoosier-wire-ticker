@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:47:37+00:00",
+ "updated": "2026-11-21T02:02:02+00:00",
  "items": [
   {
    "key": "POR_BAYRON_NAOMI_2026-11-20",
@@ -2939,17 +2939,6 @@
    "more": 0,
    "ts": 1794970036,
    "photo": null
-  },
-  {
-   "key": "MAD_SMALL_ROBERT_2026-11-17",
-   "name": "Robert Lee Small",
-   "age": "38",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1794966464,
-   "photo": "photos/MAD_SMALL_ROBERT_2026-11-17.jpg"
   }
  ]
 }
