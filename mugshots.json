@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-21T21:47:40+00:00",
+ "updated": "2026-11-21T22:47:45+00:00",
  "items": [
+  {
+   "key": "ALL_MARTI_JAMES_2026-11-21",
+   "name": "James Marti",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 1,
+   "ts": 1795301233,
+   "photo": "photos/ALL_MARTI_JAMES_2026-11-21.jpg"
+  },
   {
    "key": "MAD_FARLEY_JOEL_2026-11-21",
    "name": "Joel Darrin Farley",
@@ -497,17 +508,6 @@
    "photo": "photos/ALL_HOLLINESS_DAIQUAN_2026-11-20.jpg"
   },
   {
-   "key": "ALL_PETERSEN_CHRISTOPHER_2026-11-20",
-   "name": "Christopher Petersen",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail to Register",
-   "more": 0,
-   "ts": 1795236442,
-   "photo": "photos/ALL_PETERSEN_CHRISTOPHER_2026-11-20.jpg"
-  },
-  {
    "key": "MAD_COFFEY_JOHN_2026-11-20",
    "name": "John C Third Coffey",
    "age": "28",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_MARTI_JAMES_2026-11-21",
+   "name": "James Marti",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 1,
+   "ts": 1795301233,
+   "photo": "photos/ALL_MARTI_JAMES_2026-11-21.jpg"
+  },
   {
    "key": "MAD_FARLEY_JOEL_2026-11-21",
    "name": "Joel Darrin Farley",
@@ -2872,50 +2883,6 @@
    "charge": "Domestic Battery",
    "more": 0,
    "ts": 1795045640,
-   "photo": null
-  },
-  {
-   "key": "VAN_NORRIS_CEDRIC_2026-11-18",
-   "name": "Cedric Lamont Norris",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Weapon/Instrument of Violence- Fail to Display Handgun Deale",
-   "more": 1,
-   "ts": 1795042040,
-   "photo": "photos/VAN_NORRIS_CEDRIC_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_STCOIS_STEVE_2026-11-18",
-   "name": "Steve Bill St Cois",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating Without Ever Obtaining License",
-   "more": 3,
-   "ts": 1795042037,
-   "photo": null
-  },
-  {
-   "key": "ALL_CAUSEY_JALEN_2026-11-18",
-   "name": "Jalen Causey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Murder - Attempted",
-   "more": 0,
-   "ts": 1795042035,
-   "photo": "photos/ALL_CAUSEY_JALEN_2026-11-18.jpg"
-  },
-  {
-   "key": "MAD_KENDALL_ZACHARY_2026-11-18",
-   "name": "Zachary Lester Kendall",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Domestic battery-adult knowing presence of child less than 16 years\u2026",
-   "more": 0,
-   "ts": 1795038463,
    "photo": null
   }
  ]
