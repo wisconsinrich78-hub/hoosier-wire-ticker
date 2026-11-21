@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T05:47:34+00:00",
+ "updated": "2026-11-21T06:47:43+00:00",
  "items": [
+  {
+   "key": "MAD_BOWMAN_JAY_2026-11-21",
+   "name": "Jay Paul Bowman",
+   "age": "60",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Driving while suspended- prior suspension within 10 years",
+   "more": 2,
+   "ts": 1795243648,
+   "photo": "photos/MAD_BOWMAN_JAY_2026-11-21.jpg"
+  },
+  {
+   "key": "VAN_GUZMAN_PERLA_2026-11-20",
+   "name": "Perla Beatriz Guzman",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795243638,
+   "photo": "photos/VAN_GUZMAN_PERLA_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_LAMB_ABIGAIL_2026-11-21",
+   "name": "Abigail Lamb",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing in Methamphetamine",
+   "more": 4,
+   "ts": 1795243630,
+   "photo": "photos/ALL_LAMB_ABIGAIL_2026-11-21.jpg"
+  },
   {
    "key": "ALL_DAVIS_JADE_2026-11-20",
    "name": "Jade Davis",
@@ -409,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "ALL_SYKES_MYREIONA_2026-11-20",
-   "name": "Myreiona Sykes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Value of Property at Least 750 and Less Than\u2026",
-   "more": 3,
-   "ts": 1795204035,
-   "photo": "photos/ALL_SYKES_MYREIONA_2026-11-20.jpg"
-  },
-  {
    "key": "MAD_STURGEON_CHAD_2026-11-20",
    "name": "Chad Anthony Sturgeon",
    "age": "41",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1795193244,
    "photo": "photos/MAD_STANSBERRY_JUSTIN_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_JONES_TAYLOR_2026-11-20",
-   "name": "Taylor Marie Jones",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795193233,
-   "photo": "photos/VAN_JONES_TAYLOR_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_PARKER_STEFAN_2026-11-20",
-   "name": "Stefan Robert Parker",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795193232,
-   "photo": "photos/VAN_PARKER_STEFAN_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_BOWMAN_JAY_2026-11-21",
+   "name": "Jay Paul Bowman",
+   "age": "60",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Driving while suspended- prior suspension within 10 years",
+   "more": 2,
+   "ts": 1795243648,
+   "photo": "photos/MAD_BOWMAN_JAY_2026-11-21.jpg"
+  },
+  {
+   "key": "VAN_GUZMAN_PERLA_2026-11-20",
+   "name": "Perla Beatriz Guzman",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795243638,
+   "photo": "photos/VAN_GUZMAN_PERLA_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_LAMB_ABIGAIL_2026-11-21",
+   "name": "Abigail Lamb",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing in Methamphetamine",
+   "more": 4,
+   "ts": 1795243630,
+   "photo": "photos/ALL_LAMB_ABIGAIL_2026-11-21.jpg"
+  },
   {
    "key": "ALL_DAVIS_JADE_2026-11-20",
    "name": "Jade Davis",
@@ -2906,50 +2939,6 @@
    "more": 4,
    "ts": 1794988035,
    "photo": "photos/ALL_MADISON_DORA_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_SUGGSHICKS_CHAUNCEY_2026-11-17",
-   "name": "Chauncey Lee Suggs-Hicks",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1794984435,
-   "photo": null
-  },
-  {
-   "key": "VAN_OSKINS_JOSHUA_2026-11-17",
-   "name": "Joshua Kyle Oskins",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery - Against Public Safety Official Engaged in Official",
-   "more": 6,
-   "ts": 1794984435,
-   "photo": null
-  },
-  {
-   "key": "VAN_MATTHEWS_TERESA_2026-11-17",
-   "name": "Teresa Gay Matthews",
-   "age": "63",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1794984435,
-   "photo": null
-  },
-  {
-   "key": "ALL_ROGAN_BARBARA_2026-11-18",
-   "name": "Barbara Rogan",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1794984433,
-   "photo": "photos/ALL_ROGAN_BARBARA_2026-11-18.jpg"
   }
  ]
 }
