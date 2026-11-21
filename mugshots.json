@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T04:48:03+00:00",
+ "updated": "2026-11-21T05:47:34+00:00",
  "items": [
+  {
+   "key": "ALL_DAVIS_JADE_2026-11-20",
+   "name": "Jade Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1795240040,
+   "photo": "photos/ALL_DAVIS_JADE_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_THATCHER_KELLI_2026-11-21",
+   "name": "Kelli Thatcher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Paraphernalia",
+   "more": 0,
+   "ts": 1795240032,
+   "photo": "photos/ALL_THATCHER_KELLI_2026-11-21.jpg"
+  },
   {
    "key": "MAD_DAUENHAUER_MICHAEL_2026-11-20",
    "name": "Michael Edward Dauenhauer",
@@ -442,17 +464,6 @@
    "photo": null
   },
   {
-   "key": "ALL_STUCKEY_ZACHARY_2026-11-20",
-   "name": "Zachary Stuckey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Stalking with Intent to Place Victim in Fear of Sexual\u2026",
-   "more": 1,
-   "ts": 1795200431,
-   "photo": "photos/ALL_STUCKEY_ZACHARY_2026-11-20.jpg"
-  },
-  {
    "key": "MAD_PIERCE_HENRY_2026-11-20",
    "name": "Henry Adrian Pierce",
    "age": "48",
@@ -484,17 +495,6 @@
    "more": 4,
    "ts": 1795196847,
    "photo": null
-  },
-  {
-   "key": "ALL_BLACK_RANDY_2026-11-20",
-   "name": "Randy Black",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1795196839,
-   "photo": "photos/ALL_BLACK_RANDY_2026-11-20.jpg"
   },
   {
    "key": "MAD_STANSBERRY_JUSTIN_2026-11-20",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_DAVIS_JADE_2026-11-20",
+   "name": "Jade Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1795240040,
+   "photo": "photos/ALL_DAVIS_JADE_2026-11-20.jpg"
+  },
+  {
+   "key": "ALL_THATCHER_KELLI_2026-11-21",
+   "name": "Kelli Thatcher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Paraphernalia",
+   "more": 0,
+   "ts": 1795240032,
+   "photo": "photos/ALL_THATCHER_KELLI_2026-11-21.jpg"
+  },
   {
    "key": "MAD_DAUENHAUER_MICHAEL_2026-11-20",
    "name": "Michael Edward Dauenhauer",
@@ -2928,28 +2950,6 @@
    "more": 2,
    "ts": 1794984433,
    "photo": "photos/ALL_ROGAN_BARBARA_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_LITTLEFIELD_IAN_2026-11-17",
-   "name": "Ian Robert Littlefield",
-   "age": "35",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 3,
-   "ts": 1794980853,
-   "photo": "photos/POR_LITTLEFIELD_IAN_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_HEAD_JUSTIN_2026-11-17",
-   "name": "Justin Gregory Head",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Theft- Value of Property at Least $750 and Less That $50,000",
-   "more": 2,
-   "ts": 1794980847,
-   "photo": null
   }
  ]
 }
