@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T11:47:33+00:00",
+ "updated": "2026-11-21T12:47:37+00:00",
  "items": [
+  {
+   "key": "POR_MURPHY_ASHLEY_2026-11-20",
+   "name": "Ashley Licole Murphy",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795265237,
+   "photo": "photos/POR_MURPHY_ASHLEY_2026-11-20.jpg"
+  },
+  {
+   "key": "POR_JOHNS_TRACY_2026-11-20",
+   "name": "Tracy Lee Johns",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Family Offense- Invasion of Privacy",
+   "more": 0,
+   "ts": 1795265231,
+   "photo": "photos/POR_JOHNS_TRACY_2026-11-20.jpg"
+  },
   {
    "key": "MAD_JACINTHE_JONATHAN_2026-11-21",
    "name": "Jonathan Andy Jacinthe",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795204045,
    "photo": "photos/MAD_BOYD_JONATHAN_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_ASPEL_RONALD_2026-11-20",
-   "name": "Ronald James Aspel",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795204044,
-   "photo": "photos/MAD_ASPEL_RONALD_2026-11-20.jpg"
-  },
-  {
-   "key": "POR_CONGRESSJONES_KIMBERLY_2026-11-19",
-   "name": "Kimberly Angelica Congress-Jones",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
-   "more": 0,
-   "ts": 1795204040,
-   "photo": "photos/POR_CONGRESSJONES_KIMBERLY_2026-11-19.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_MURPHY_ASHLEY_2026-11-20",
+   "name": "Ashley Licole Murphy",
+   "age": "39",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795265237,
+   "photo": "photos/POR_MURPHY_ASHLEY_2026-11-20.jpg"
+  },
+  {
+   "key": "POR_JOHNS_TRACY_2026-11-20",
+   "name": "Tracy Lee Johns",
+   "age": "60",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Family Offense- Invasion of Privacy",
+   "more": 0,
+   "ts": 1795265231,
+   "photo": "photos/POR_JOHNS_TRACY_2026-11-20.jpg"
+  },
   {
    "key": "MAD_JACINTHE_JONATHAN_2026-11-21",
    "name": "Jonathan Andy Jacinthe",
