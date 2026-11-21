@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T18:47:58+00:00",
+ "updated": "2026-11-21T19:47:56+00:00",
  "items": [
+  {
+   "key": "POR_SCHWING_COLIN_2026-11-20",
+   "name": "Colin Ford Schwing",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1795290454,
+   "photo": "photos/POR_SCHWING_COLIN_2026-11-20.jpg"
+  },
+  {
+   "key": "POR_DRZEWIECKI_WILLIAM_2026-11-20",
+   "name": "William Jay Drzewiecki",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1795290451,
+   "photo": "photos/POR_DRZEWIECKI_WILLIAM_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_STRAIGHT_KENDALL_2026-11-21",
+   "name": "Kendall Nicole Straight",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795290447,
+   "photo": "photos/VAN_STRAIGHT_KENDALL_2026-11-21.jpg"
+  },
   {
    "key": "POR_SELIGER_RYAN_2026-11-20",
    "name": "Ryan Keith Seliger",
@@ -495,42 +528,42 @@
    "more": 1,
    "ts": 1795229235,
    "photo": null
-  },
-  {
-   "key": "POR_BAYRON_NAOMI_2026-11-20",
-   "name": "Naomi Natasha Bayron",
-   "age": "50",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Driving While Suspended- Prior Suspension Within 10\u2026",
-   "more": 0,
-   "ts": 1795225646,
-   "photo": "photos/POR_BAYRON_NAOMI_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_RITENOUR_DANNIE_2026-11-20",
-   "name": "Dannie Lee Junior Ritenour",
-   "age": "69",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 0,
-   "ts": 1795222037,
-   "photo": "photos/MAD_RITENOUR_DANNIE_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_WALDEN_ANTHONY_2026-11-20",
-   "name": "Anthony Davis Walden",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
-   "more": 4,
-   "ts": 1795218430,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "POR_SCHWING_COLIN_2026-11-20",
+   "name": "Colin Ford Schwing",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1795290454,
+   "photo": "photos/POR_SCHWING_COLIN_2026-11-20.jpg"
+  },
+  {
+   "key": "POR_DRZEWIECKI_WILLIAM_2026-11-20",
+   "name": "William Jay Drzewiecki",
+   "age": "37",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1795290451,
+   "photo": "photos/POR_DRZEWIECKI_WILLIAM_2026-11-20.jpg"
+  },
+  {
+   "key": "VAN_STRAIGHT_KENDALL_2026-11-21",
+   "name": "Kendall Nicole Straight",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795290447,
+   "photo": "photos/VAN_STRAIGHT_KENDALL_2026-11-21.jpg"
+  },
   {
    "key": "POR_SELIGER_RYAN_2026-11-20",
    "name": "Ryan Keith Seliger",
@@ -2994,72 +3027,6 @@
    "more": 1,
    "ts": 1795034836,
    "photo": "photos/ALL_SAFFORE_JOHNNY_2026-11-18.jpg"
-  },
-  {
-   "key": "MAD_JOHNSON_CURTIS_2026-11-18",
-   "name": "Curtis Devie Johnson",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795031249,
-   "photo": "photos/MAD_JOHNSON_CURTIS_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_BACHMAN_JESSIE_2026-11-17",
-   "name": "Jessie Leigh Bachman",
-   "age": "33",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "RESIDENTIAL ENTRY - Crime Against Society",
-   "more": 1,
-   "ts": 1795031245,
-   "photo": "photos/POR_BACHMAN_JESSIE_2026-11-17.jpg"
-  },
-  {
-   "key": "VAN_MOORE_ANDREW_2026-11-18",
-   "name": "Andrew Joseph Moore",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1795031241,
-   "photo": null
-  },
-  {
-   "key": "VAN_JOHNSON_JUMAREYAN_2026-11-18",
-   "name": "Jumareyan Towalo Johnson",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery-Committed with a Deadly Weapon-Felony",
-   "more": 0,
-   "ts": 1795031241,
-   "photo": null
-  },
-  {
-   "key": "VAN_DAVIS_NORAH_2026-11-18",
-   "name": "Norah Grace Davis",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 0,
-   "ts": 1795031241,
-   "photo": null
-  },
-  {
-   "key": "ALL_MOORE_MARZINE_2026-11-18",
-   "name": "Marzine Moore",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt of Court-Criminal",
-   "more": 0,
-   "ts": 1795031240,
-   "photo": "photos/ALL_MOORE_MARZINE_2026-11-18.jpg"
   }
  ]
 }
