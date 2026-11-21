@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T23:47:32+00:00",
+ "updated": "2026-11-21T00:18:05+00:00",
  "items": [
   {
    "key": "ALL_BOOKER_ZANALYNN_2026-11-20",
@@ -2994,17 +2994,6 @@
    "more": 0,
    "ts": 1794962839,
    "photo": "photos/MAD_ADAMS_AUBREY_2026-11-17.jpg"
-  },
-  {
-   "key": "ALL_MARTIN_MATTHEW_2026-11-17",
-   "name": "Matthew Martin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Residential Entry",
-   "more": 0,
-   "ts": 1794959257,
-   "photo": "photos/ALL_MARTIN_MATTHEW_2026-11-17.jpg"
   }
  ]
 }
