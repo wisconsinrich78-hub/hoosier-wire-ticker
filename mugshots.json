@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-21T06:47:43+00:00",
+ "updated": "2026-11-21T07:48:01+00:00",
  "items": [
+  {
+   "key": "VAN_GIBSON_DARIUS_2026-11-21",
+   "name": "Darius Marques Darnell Gibson",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1795247252,
+   "photo": "photos/VAN_GIBSON_DARIUS_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_HALL_THELMA_2026-11-21",
+   "name": "Thelma Hall",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Methamphetamine",
+   "more": 3,
+   "ts": 1795247247,
+   "photo": "photos/ALL_HALL_THELMA_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_RUIZSIAN_SELVIN_2026-11-21",
+   "name": "Selvin Ruizsian",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > or = to .15%",
+   "more": 1,
+   "ts": 1795247240,
+   "photo": "photos/ALL_RUIZSIAN_SELVIN_2026-11-21.jpg"
+  },
   {
    "key": "MAD_BOWMAN_JAY_2026-11-21",
    "name": "Jay Paul Bowman",
@@ -332,17 +365,6 @@
    "photo": "photos/ALL_KENDALL_NICHOLAS_2026-11-20.jpg"
   },
   {
-   "key": "ALL_ROBINSON_ANDRE_2026-11-20",
-   "name": "Andre Robinson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Adult Knowing Presence of Child Less Than 16\u2026",
-   "more": 2,
-   "ts": 1795211237,
-   "photo": "photos/ALL_ROBINSON_ANDRE_2026-11-20.jpg"
-  },
-  {
    "key": "VAN_DAVIS_CODY_2026-11-20",
    "name": "Cody Alan Davis",
    "age": "38",
@@ -363,17 +385,6 @@
    "more": 3,
    "ts": 1795207635,
    "photo": "photos/VAN_GREEN_PASHINAY_2026-11-20.jpg"
-  },
-  {
-   "key": "ALL_ANDERSON_KALIN_2026-11-20",
-   "name": "Kalin Anderson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Robbery / Armed",
-   "more": 2,
-   "ts": 1795207633,
-   "photo": "photos/ALL_ANDERSON_KALIN_2026-11-20.jpg"
   },
   {
    "key": "MAD_HILLIGOSS_JASON_2026-11-20",
@@ -517,20 +528,42 @@
    "more": 4,
    "ts": 1795196847,
    "photo": null
-  },
-  {
-   "key": "MAD_STANSBERRY_JUSTIN_2026-11-20",
-   "name": "Justin Lee Stansberry",
-   "age": "44",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Continuum Sanctions",
-   "more": 0,
-   "ts": 1795193244,
-   "photo": "photos/MAD_STANSBERRY_JUSTIN_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_GIBSON_DARIUS_2026-11-21",
+   "name": "Darius Marques Darnell Gibson",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
+   "more": 1,
+   "ts": 1795247252,
+   "photo": "photos/VAN_GIBSON_DARIUS_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_HALL_THELMA_2026-11-21",
+   "name": "Thelma Hall",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Methamphetamine",
+   "more": 3,
+   "ts": 1795247247,
+   "photo": "photos/ALL_HALL_THELMA_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_RUIZSIAN_SELVIN_2026-11-21",
+   "name": "Selvin Ruizsian",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > or = to .15%",
+   "more": 1,
+   "ts": 1795247240,
+   "photo": "photos/ALL_RUIZSIAN_SELVIN_2026-11-21.jpg"
+  },
   {
    "key": "MAD_BOWMAN_JAY_2026-11-21",
    "name": "Jay Paul Bowman",
@@ -2917,28 +2950,6 @@
    "more": 1,
    "ts": 1794995232,
    "photo": "photos/VAN_STRAYHORN_CAMRYN_2026-11-18.jpg"
-  },
-  {
-   "key": "MAD_SILLS_ERIK_2026-11-18",
-   "name": "Erik Stanley Sills",
-   "age": "46",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1794988051,
-   "photo": "photos/MAD_SILLS_ERIK_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_MADISON_DORA_2026-11-18",
-   "name": "Dora Madison",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 4,
-   "ts": 1794988035,
-   "photo": "photos/ALL_MADISON_DORA_2026-11-18.jpg"
   }
  ]
 }
