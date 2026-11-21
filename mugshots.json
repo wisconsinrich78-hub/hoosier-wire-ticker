@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T15:47:53+00:00",
+ "updated": "2026-11-21T16:47:53+00:00",
  "items": [
   {
    "key": "MAD_FULLER_STASHON_2026-11-21",
@@ -3126,39 +3126,6 @@
    "more": 0,
    "ts": 1795024043,
    "photo": "photos/ALL_CLARK_JUSTIN_2026-11-18.jpg"
-  },
-  {
-   "key": "MAD_VANVOORST_DILLON_2026-11-18",
-   "name": "Dillon Andrew Van Voorst",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795020452,
-   "photo": "photos/MAD_VANVOORST_DILLON_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_STOY_BARRY_2026-11-18",
-   "name": "Barry Stoy",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 0,
-   "ts": 1795020440,
-   "photo": "photos/ALL_STOY_BARRY_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_THOMPSON_NARVIS_2026-11-18",
-   "name": "Narvis Thompson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft of a Firearm",
-   "more": 1,
-   "ts": 1795020435,
-   "photo": "photos/ALL_THOMPSON_NARVIS_2026-11-18.jpg"
   }
  ]
 }
