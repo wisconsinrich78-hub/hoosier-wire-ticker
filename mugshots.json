@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:47:36+00:00",
+ "updated": "2026-11-21T18:11:09+00:00",
  "items": [
   {
    "key": "ALL_WOODS_MARJORIE_2026-11-21",
@@ -3060,28 +3060,6 @@
    "more": 0,
    "ts": 1795027638,
    "photo": null
-  },
-  {
-   "key": "MAD_VANAUSDAL_FRANK_2026-11-18",
-   "name": "Frank D Junior Vanausdal",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery - against public safety official (level 6 felony)",
-   "more": 0,
-   "ts": 1795024063,
-   "photo": null
-  },
-  {
-   "key": "MAD_SWANGO_VAUGHAN_2026-11-18",
-   "name": "Vaughan Rider Swango",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Pre-Trial Release",
-   "more": 0,
-   "ts": 1795024062,
-   "photo": "photos/MAD_SWANGO_VAUGHAN_2026-11-18.jpg"
   }
  ]
 }
