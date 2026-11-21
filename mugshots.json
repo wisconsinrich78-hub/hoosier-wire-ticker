@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-21T14:47:52+00:00",
+ "updated": "2026-11-21T15:47:53+00:00",
  "items": [
+  {
+   "key": "MAD_FULLER_STASHON_2026-11-21",
+   "name": "Stashon Dionte Senior Fuller",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1795276054,
+   "photo": "photos/MAD_FULLER_STASHON_2026-11-21.jpg"
+  },
+  {
+   "key": "POR_GMITEREK_BRENT_2026-11-20",
+   "name": "Brent C Gmiterek",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Family Offense- Invasion of Privacy",
+   "more": 0,
+   "ts": 1795276043,
+   "photo": "photos/POR_GMITEREK_BRENT_2026-11-20.jpg"
+  },
   {
    "key": "MAD_GRAY_STEVEN_2026-11-21",
    "name": "Steven Thomas Gray",
@@ -506,31 +528,31 @@
    "more": 2,
    "ts": 1795214840,
    "photo": null
-  },
-  {
-   "key": "POR_LABELLE_CHEYENE_2026-11-19",
-   "name": "Cheyene Hope Labelle",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Comply",
-   "more": 0,
-   "ts": 1795211251,
-   "photo": "photos/POR_LABELLE_CHEYENE_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_HILLIGOSS_JASON_2026-11-20",
-   "name": "Jason Patrick Hilligoss",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795204048,
-   "photo": "photos/MAD_HILLIGOSS_JASON_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_FULLER_STASHON_2026-11-21",
+   "name": "Stashon Dionte Senior Fuller",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1795276054,
+   "photo": "photos/MAD_FULLER_STASHON_2026-11-21.jpg"
+  },
+  {
+   "key": "POR_GMITEREK_BRENT_2026-11-20",
+   "name": "Brent C Gmiterek",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Family Offense- Invasion of Privacy",
+   "more": 0,
+   "ts": 1795276043,
+   "photo": "photos/POR_GMITEREK_BRENT_2026-11-20.jpg"
+  },
   {
    "key": "MAD_GRAY_STEVEN_2026-11-21",
    "name": "Steven Thomas Gray",
@@ -3137,17 +3159,6 @@
    "more": 1,
    "ts": 1795020435,
    "photo": "photos/ALL_THOMPSON_NARVIS_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_HARVEY_ARITHA_2026-11-18",
-   "name": "Aritha Harvey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1795016851,
-   "photo": "photos/ALL_HARVEY_ARITHA_2026-11-18.jpg"
   }
  ]
 }
