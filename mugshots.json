@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:47:50+00:00",
+ "updated": "2026-11-21T21:47:40+00:00",
  "items": [
   {
    "key": "MAD_FARLEY_JOEL_2026-11-21",
@@ -2917,61 +2917,6 @@
    "more": 0,
    "ts": 1795038463,
    "photo": null
-  },
-  {
-   "key": "VAN_BROWN_GREGORY_2026-11-18",
-   "name": "Gregory Allen Brown",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 1,
-   "ts": 1795038454,
-   "photo": "photos/VAN_BROWN_GREGORY_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_HAWKINS_SHACOREY_2026-11-18",
-   "name": "Shacorey Aburce Hawkins",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1795038451,
-   "photo": null
-  },
-  {
-   "key": "ALL_NORD_JESSE_2026-11-18",
-   "name": "Jesse Nord",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion of Privacy",
-   "more": 0,
-   "ts": 1795038449,
-   "photo": "photos/ALL_NORD_JESSE_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_PORTER_SHEMARIUS_2026-11-18",
-   "name": "Shemarius Porter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Murder - Attempted",
-   "more": 0,
-   "ts": 1795038445,
-   "photo": "photos/ALL_PORTER_SHEMARIUS_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_KOLB_DEBORAH_2026-11-18",
-   "name": "Deborah Kolb",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795038440,
-   "photo": "photos/ALL_KOLB_DEBORAH_2026-11-18.jpg"
   }
  ]
 }
