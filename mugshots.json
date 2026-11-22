@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-22T18:47:32+00:00",
+ "updated": "2026-11-22T19:47:33+00:00",
  "items": [
+  {
+   "key": "MAD_MEZICK_LLOYD_2026-11-22",
+   "name": "Lloyd Warner Mezick",
+   "age": "61",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Probation - Jail Booking",
+   "more": 0,
+   "ts": 1795376841,
+   "photo": "photos/MAD_MEZICK_LLOYD_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_HILL_DARRAIL_2026-11-22",
+   "name": "Darrail Hill",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Adult Knowing Presence of Child Less Than 16\u2026",
+   "more": 1,
+   "ts": 1795376831,
+   "photo": null
+  },
   {
    "key": "ALL_RAGSDALE_CARLEON_2026-11-22",
    "name": "Carleon Ragsdale",
@@ -299,17 +321,6 @@
    "photo": "photos/POR_KING_KENNETH_2026-11-21.jpg"
   },
   {
-   "key": "ALL_SUGGS_LEONARD_2026-11-21",
-   "name": "Leonard Suggs",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 0,
-   "ts": 1795322863,
-   "photo": "photos/ALL_SUGGS_LEONARD_2026-11-21.jpg"
-  },
-  {
    "key": "MAD_FISHER_MARK_2026-11-21",
    "name": "Mark Russell Fisher",
    "age": "43",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795276043,
    "photo": "photos/POR_GMITEREK_BRENT_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_GRAY_STEVEN_2026-11-21",
-   "name": "Steven Thomas Gray",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795272453,
-   "photo": "photos/MAD_GRAY_STEVEN_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_MEZICK_LLOYD_2026-11-22",
+   "name": "Lloyd Warner Mezick",
+   "age": "61",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Probation - Jail Booking",
+   "more": 0,
+   "ts": 1795376841,
+   "photo": "photos/MAD_MEZICK_LLOYD_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_HILL_DARRAIL_2026-11-22",
+   "name": "Darrail Hill",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Adult Knowing Presence of Child Less Than 16\u2026",
+   "more": 1,
+   "ts": 1795376831,
+   "photo": null
+  },
   {
    "key": "ALL_RAGSDALE_CARLEON_2026-11-22",
    "name": "Carleon Ragsdale",
@@ -2664,39 +2686,6 @@
    "more": 0,
    "ts": 1795121237,
    "photo": null
-  },
-  {
-   "key": "VAN_COOPER_BRANDON_2026-11-19",
-   "name": "Brandon Michael Cooper",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Sex Crime- Unlawful Entry of School Property by a Serious Se",
-   "more": 0,
-   "ts": 1795117645,
-   "photo": "photos/VAN_COOPER_BRANDON_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_MAKAYLA_2026-11-19",
-   "name": "Makayla Lanae Johnson",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Family Offense- Neglect of Dependant/Child Violations",
-   "more": 0,
-   "ts": 1795117642,
-   "photo": null
-  },
-  {
-   "key": "ALL_RAMBO_MICHAEL_2026-11-19",
-   "name": "Michael Rambo",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Intimidation by Threats",
-   "more": 0,
-   "ts": 1795117639,
-   "photo": "photos/ALL_RAMBO_MICHAEL_2026-11-19.jpg"
   }
  ]
 }
