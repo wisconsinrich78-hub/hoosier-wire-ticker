@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-22T00:47:42+00:00",
+ "updated": "2026-11-22T01:47:45+00:00",
  "items": [
+  {
+   "key": "MAD_THOMAS_CODY_2026-11-21",
+   "name": "Cody Dale Thomas",
+   "age": "33",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Intimidation w/ Deadly Weapon",
+   "more": 4,
+   "ts": 1795312053,
+   "photo": "photos/MAD_THOMAS_CODY_2026-11-21.jpg"
+  },
+  {
+   "key": "POR_BARRON_CALEB_2026-11-21",
+   "name": "Caleb Ryan Barron",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endangerment",
+   "more": 2,
+   "ts": 1795312038,
+   "photo": "photos/POR_BARRON_CALEB_2026-11-21.jpg"
+  },
+  {
+   "key": "POR_HUBBARD_CADASHIA_2026-11-21",
+   "name": "Cadashia Renea Hubbard",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Deception- Identity",
+   "more": 1,
+   "ts": 1795312036,
+   "photo": "photos/POR_HUBBARD_CADASHIA_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_MARTIN_CANDICE_2026-11-21",
+   "name": "Candice Martin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery on a Person Less Than 14 Years Old",
+   "more": 1,
+   "ts": 1795312032,
+   "photo": "photos/ALL_MARTIN_CANDICE_2026-11-21.jpg"
+  },
   {
    "key": "VAN_MERIWEATHER_MARIO_2026-11-21",
    "name": "Mario Nmn Meriweather",
@@ -484,53 +528,53 @@
    "more": 2,
    "ts": 1795243648,
    "photo": "photos/MAD_BOWMAN_JAY_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_GUZMAN_PERLA_2026-11-20",
-   "name": "Perla Beatriz Guzman",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795243638,
-   "photo": "photos/VAN_GUZMAN_PERLA_2026-11-20.jpg"
-  },
-  {
-   "key": "ALL_LAMB_ABIGAIL_2026-11-21",
-   "name": "Abigail Lamb",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Dealing in Methamphetamine",
-   "more": 4,
-   "ts": 1795243630,
-   "photo": "photos/ALL_LAMB_ABIGAIL_2026-11-21.jpg"
-  },
-  {
-   "key": "MAD_DAUENHAUER_MICHAEL_2026-11-20",
-   "name": "Michael Edward Dauenhauer",
-   "age": "62",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795236465,
-   "photo": "photos/MAD_DAUENHAUER_MICHAEL_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_MILES_TERRY_2026-11-20",
-   "name": "Terry Nmn Miles",
-   "age": "59",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 1,
-   "ts": 1795236457,
-   "photo": "photos/VAN_MILES_TERRY_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_THOMAS_CODY_2026-11-21",
+   "name": "Cody Dale Thomas",
+   "age": "33",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Intimidation w/ Deadly Weapon",
+   "more": 4,
+   "ts": 1795312053,
+   "photo": "photos/MAD_THOMAS_CODY_2026-11-21.jpg"
+  },
+  {
+   "key": "POR_BARRON_CALEB_2026-11-21",
+   "name": "Caleb Ryan Barron",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endangerment",
+   "more": 2,
+   "ts": 1795312038,
+   "photo": "photos/POR_BARRON_CALEB_2026-11-21.jpg"
+  },
+  {
+   "key": "POR_HUBBARD_CADASHIA_2026-11-21",
+   "name": "Cadashia Renea Hubbard",
+   "age": "30",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Deception- Identity",
+   "more": 1,
+   "ts": 1795312036,
+   "photo": "photos/POR_HUBBARD_CADASHIA_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_MARTIN_CANDICE_2026-11-21",
+   "name": "Candice Martin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery on a Person Less Than 14 Years Old",
+   "more": 1,
+   "ts": 1795312032,
+   "photo": "photos/ALL_MARTIN_CANDICE_2026-11-21.jpg"
+  },
   {
    "key": "VAN_MERIWEATHER_MARIO_2026-11-21",
    "name": "Mario Nmn Meriweather",
