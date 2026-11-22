@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:47:39+00:00",
+ "updated": "2026-11-22T21:47:53+00:00",
  "items": [
   {
    "key": "ALL_BONDS_RONETTE_2026-11-22",
@@ -2587,39 +2587,6 @@
    "more": 1,
    "ts": 1795128434,
    "photo": "photos/ALL_LOVE_JESSE_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_WILLHOITE_CHRISTOPHER_2026-11-19",
-   "name": "Christopher Lee Willhoite",
-   "age": "49",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795124852,
-   "photo": "photos/MAD_WILLHOITE_CHRISTOPHER_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_HOOKS_TYSON_2026-11-19",
-   "name": "Tyson Lamont Hooks",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Dealing Marijuana/Hashish/Salvia- Felo",
-   "more": 0,
-   "ts": 1795124839,
-   "photo": "photos/VAN_HOOKS_TYSON_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_SCHRECK_JANICE_2026-11-19",
-   "name": "Janice Schreck",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Neglect of Dependent",
-   "more": 0,
-   "ts": 1795124835,
-   "photo": null
   }
  ]
 }
