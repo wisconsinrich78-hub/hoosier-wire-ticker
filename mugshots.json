@@ -1,6 +1,127 @@
 {
- "updated": "2026-11-22T09:47:37+00:00",
+ "updated": "2026-11-22T16:48:37+00:00",
  "items": [
+  {
+   "key": "MAD_WALLACE_SERINA_2026-11-22",
+   "name": "Serina Nicole Wallace",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Criminal Vandalism (B/M)",
+   "more": 1,
+   "ts": 1795366107,
+   "photo": "photos/MAD_WALLACE_SERINA_2026-11-22.jpg"
+  },
+  {
+   "key": "POR_SWART_ELIZABETH_2026-11-21",
+   "name": "Elizabeth Verna Swart",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
+   "more": 0,
+   "ts": 1795366085,
+   "photo": "photos/POR_SWART_ELIZABETH_2026-11-21.jpg"
+  },
+  {
+   "key": "VAN_WELBORN_CHRISTINE_2026-11-22",
+   "name": "Christine Marie Welborn",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation with a Deadly Weapon",
+   "more": 0,
+   "ts": 1795366077,
+   "photo": "photos/VAN_WELBORN_CHRISTINE_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_CALDERONDELEON_ARAM_2026-11-22",
+   "name": "Aram Ali Calderon De Leon",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor",
+   "more": 0,
+   "ts": 1795366074,
+   "photo": "photos/VAN_CALDERONDELEON_ARAM_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_HALL_MORGON_2026-11-22",
+   "name": "Morgon Kyle Marshall Hall",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
+   "more": 2,
+   "ts": 1795366073,
+   "photo": "photos/VAN_HALL_MORGON_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_SAMPLE_JHALEASE_2026-11-22",
+   "name": "Jhalease Sample",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > .08% and < .15%",
+   "more": 3,
+   "ts": 1795366065,
+   "photo": "photos/ALL_SAMPLE_JHALEASE_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_SNYDER_CHRISTINA_2026-11-22",
+   "name": "Christina Snyder",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery Enhanced with Previous Unrelated Conviction (S)",
+   "more": 1,
+   "ts": 1795366061,
+   "photo": "photos/ALL_SNYDER_CHRISTINA_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_LOPEZ_BRENDAN_2026-11-22",
+   "name": "Brendan Lopez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > .08% and < .15%",
+   "more": 1,
+   "ts": 1795366050,
+   "photo": null
+  },
+  {
+   "key": "ALL_MCGRADY_DESTINEE_2026-11-22",
+   "name": "Destinee Mcgrady",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Moderate Bodily Injury",
+   "more": 1,
+   "ts": 1795366042,
+   "photo": "photos/ALL_MCGRADY_DESTINEE_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_MATHEWS_SHAMYA_2026-11-22",
+   "name": "Shamya Mathews",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 1,
+   "ts": 1795366038,
+   "photo": null
+  },
+  {
+   "key": "ALL_HERRERA_VALERIE_2026-11-22",
+   "name": "Valerie Herrera",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1795366033,
+   "photo": "photos/ALL_HERRERA_VALERIE_2026-11-22.jpg"
+  },
   {
    "key": "MAD_INGRAM_SEANELLE_2026-11-22",
    "name": "Seanelle Charlette Ingram",
@@ -189,17 +310,6 @@
    "photo": "photos/ALL_BROWN_ANTHONY_2026-11-21.jpg"
   },
   {
-   "key": "ALL_CAREY_CORANDOLUS_2026-11-21",
-   "name": "Corandolus Carey",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 3,
-   "ts": 1795322851,
-   "photo": "photos/ALL_CAREY_CORANDOLUS_2026-11-21.jpg"
-  },
-  {
    "key": "MAD_FISHER_MARK_2026-11-21",
    "name": "Mark Russell Fisher",
    "age": "43",
@@ -244,17 +354,6 @@
    "photo": "photos/POR_DELGADO_MIGUEL_2026-11-21.jpg"
   },
   {
-   "key": "ALL_SMITH_NICKLAS_2026-11-21",
-   "name": "Nicklas Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1795315634,
-   "photo": "photos/ALL_SMITH_NICKLAS_2026-11-21.jpg"
-  },
-  {
    "key": "MAD_THOMAS_CODY_2026-11-21",
    "name": "Cody Dale Thomas",
    "age": "33",
@@ -288,17 +387,6 @@
    "photo": "photos/POR_HUBBARD_CADASHIA_2026-11-21.jpg"
   },
   {
-   "key": "ALL_MARTIN_CANDICE_2026-11-21",
-   "name": "Candice Martin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery on a Person Less Than 14 Years Old",
-   "more": 1,
-   "ts": 1795312032,
-   "photo": "photos/ALL_MARTIN_CANDICE_2026-11-21.jpg"
-  },
-  {
    "key": "VAN_MERIWEATHER_MARIO_2026-11-21",
    "name": "Mario Nmn Meriweather",
    "age": "46",
@@ -310,17 +398,6 @@
    "photo": "photos/VAN_MERIWEATHER_MARIO_2026-11-21.jpg"
   },
   {
-   "key": "ALL_ROGAN_DENNIS_2026-11-21",
-   "name": "Dennis Rogan",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion of Privacy",
-   "more": 0,
-   "ts": 1795308430,
-   "photo": "photos/ALL_ROGAN_DENNIS_2026-11-21.jpg"
-  },
-  {
    "key": "VAN_EBERHARDT_DEVON_2026-11-21",
    "name": "Devon Demitrius Eberhardt",
    "age": "34",
@@ -330,28 +407,6 @@
    "more": 0,
    "ts": 1795304854,
    "photo": null
-  },
-  {
-   "key": "ALL_STARKS_JHAEDYN_2026-11-21",
-   "name": "Jhaedyn Starks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft or Conversion",
-   "more": 0,
-   "ts": 1795304852,
-   "photo": "photos/ALL_STARKS_JHAEDYN_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_PERKINS_MELVIN_2026-11-21",
-   "name": "Melvin Perkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 3,
-   "ts": 1795304842,
-   "photo": "photos/ALL_PERKINS_MELVIN_2026-11-21.jpg"
   },
   {
    "key": "MAD_FARLEY_JOEL_2026-11-21",
@@ -473,64 +528,130 @@
    "more": 0,
    "ts": 1795272453,
    "photo": "photos/MAD_GRAY_STEVEN_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_SUTTON_WESLEY_2026-11-21",
-   "name": "Wesley Lee Sutton",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795272438,
-   "photo": "photos/VAN_SUTTON_WESLEY_2026-11-21.jpg"
-  },
-  {
-   "key": "MAD_AMELL_JADESS_2026-11-21",
-   "name": "Jadess Ann Marie Amell",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated",
-   "more": 0,
-   "ts": 1795268850,
-   "photo": "photos/MAD_AMELL_JADESS_2026-11-21.jpg"
-  },
-  {
-   "key": "POR_MURPHY_ASHLEY_2026-11-20",
-   "name": "Ashley Licole Murphy",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1795265237,
-   "photo": "photos/POR_MURPHY_ASHLEY_2026-11-20.jpg"
-  },
-  {
-   "key": "POR_JOHNS_TRACY_2026-11-20",
-   "name": "Tracy Lee Johns",
-   "age": "60",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Family Offense- Invasion of Privacy",
-   "more": 0,
-   "ts": 1795265231,
-   "photo": "photos/POR_JOHNS_TRACY_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_JACINTHE_JONATHAN_2026-11-21",
-   "name": "Jonathan Andy Jacinthe",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795261643,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WALLACE_SERINA_2026-11-22",
+   "name": "Serina Nicole Wallace",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Criminal Vandalism (B/M)",
+   "more": 1,
+   "ts": 1795366107,
+   "photo": "photos/MAD_WALLACE_SERINA_2026-11-22.jpg"
+  },
+  {
+   "key": "POR_SWART_ELIZABETH_2026-11-21",
+   "name": "Elizabeth Verna Swart",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
+   "more": 0,
+   "ts": 1795366085,
+   "photo": "photos/POR_SWART_ELIZABETH_2026-11-21.jpg"
+  },
+  {
+   "key": "VAN_WELBORN_CHRISTINE_2026-11-22",
+   "name": "Christine Marie Welborn",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation with a Deadly Weapon",
+   "more": 0,
+   "ts": 1795366077,
+   "photo": "photos/VAN_WELBORN_CHRISTINE_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_CALDERONDELEON_ARAM_2026-11-22",
+   "name": "Aram Ali Calderon De Leon",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor",
+   "more": 0,
+   "ts": 1795366074,
+   "photo": "photos/VAN_CALDERONDELEON_ARAM_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_HALL_MORGON_2026-11-22",
+   "name": "Morgon Kyle Marshall Hall",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
+   "more": 2,
+   "ts": 1795366073,
+   "photo": "photos/VAN_HALL_MORGON_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_SAMPLE_JHALEASE_2026-11-22",
+   "name": "Jhalease Sample",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > .08% and < .15%",
+   "more": 3,
+   "ts": 1795366065,
+   "photo": "photos/ALL_SAMPLE_JHALEASE_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_SNYDER_CHRISTINA_2026-11-22",
+   "name": "Christina Snyder",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery Enhanced with Previous Unrelated Conviction (S)",
+   "more": 1,
+   "ts": 1795366061,
+   "photo": "photos/ALL_SNYDER_CHRISTINA_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_LOPEZ_BRENDAN_2026-11-22",
+   "name": "Brendan Lopez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > .08% and < .15%",
+   "more": 1,
+   "ts": 1795366050,
+   "photo": null
+  },
+  {
+   "key": "ALL_MCGRADY_DESTINEE_2026-11-22",
+   "name": "Destinee Mcgrady",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Moderate Bodily Injury",
+   "more": 1,
+   "ts": 1795366042,
+   "photo": "photos/ALL_MCGRADY_DESTINEE_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_MATHEWS_SHAMYA_2026-11-22",
+   "name": "Shamya Mathews",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Endangerment",
+   "more": 1,
+   "ts": 1795366038,
+   "photo": null
+  },
+  {
+   "key": "ALL_HERRERA_VALERIE_2026-11-22",
+   "name": "Valerie Herrera",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 0,
+   "ts": 1795366033,
+   "photo": "photos/ALL_HERRERA_VALERIE_2026-11-22.jpg"
+  },
   {
    "key": "MAD_INGRAM_SEANELLE_2026-11-22",
    "name": "Seanelle Charlette Ingram",
@@ -2675,171 +2796,6 @@
    "more": 0,
    "ts": 1795110429,
    "photo": "photos/ALL_SMITH_CRAIG_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_COLLINS_NICHOLAS_2026-11-19",
-   "name": "Nicholas Wayne Collins",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Parole Violation",
-   "more": 0,
-   "ts": 1795106838,
-   "photo": "photos/VAN_COLLINS_NICHOLAS_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_BOSTON_ANTHONY_2026-11-19",
-   "name": "Anthony Boston",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1795106833,
-   "photo": "photos/ALL_BOSTON_ANTHONY_2026-11-19.jpg"
-  },
-  {
-   "key": "POR_CANTUMUNOZ_ALFONZO_2026-11-18",
-   "name": "Alfonzo Nmn Cantu-Munoz",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1795103236,
-   "photo": "photos/POR_CANTUMUNOZ_ALFONZO_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_FAZIO_CHRISTOPHER_2026-11-19",
-   "name": "Christopher Fazio",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Intimidation",
-   "more": 2,
-   "ts": 1795103231,
-   "photo": "photos/ALL_FAZIO_CHRISTOPHER_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_LEPHEW_STACY_2026-11-19",
-   "name": "Stacy Danielle Lephew",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795099643,
-   "photo": "photos/MAD_LEPHEW_STACY_2026-11-19.jpg"
-  },
-  {
-   "key": "POR_LEONARDWOODARD_WISDOM_2026-11-18",
-   "name": "Wisdom Knowledge Leonard-Woodard",
-   "age": "21",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 1,
-   "ts": 1795099637,
-   "photo": "photos/POR_LEONARDWOODARD_WISDOM_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_SHIRLEY_ALLIE_2026-11-18",
-   "name": "Allie Mae Shirley",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1795099634,
-   "photo": "photos/POR_SHIRLEY_ALLIE_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_BURNS_SIR_2026-11-18",
-   "name": "Sir Alexandor Deshawn Burns",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 1,
-   "ts": 1795096038,
-   "photo": "photos/POR_BURNS_SIR_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_HICKS_DAYSHAWN_2026-11-18",
-   "name": "Dayshawn Antonio Hicks",
-   "age": "23",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 1,
-   "ts": 1795096034,
-   "photo": "photos/POR_HICKS_DAYSHAWN_2026-11-18.jpg"
-  },
-  {
-   "key": "ALL_SMITH_JEREMY_2026-11-19",
-   "name": "Jeremy Smith",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 1,
-   "ts": 1795096029,
-   "photo": "photos/ALL_SMITH_JEREMY_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_WATKINS_RICHARD_2026-11-19",
-   "name": "Richard R Third Watkins",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Strangulation (simple)- no/minor Injury (L/6)",
-   "more": 1,
-   "ts": 1795092443,
-   "photo": "photos/MAD_WATKINS_RICHARD_2026-11-19.jpg"
-  },
-  {
-   "key": "POR_BOND_KATTIE_2026-11-18",
-   "name": "Kattie Maxine Bond",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 0,
-   "ts": 1795092435,
-   "photo": "photos/POR_BOND_KATTIE_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_TOTH_LAUREN_2026-11-18",
-   "name": "Lauren Michelle Toth",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Possession of Paraphernalia",
-   "more": 1,
-   "ts": 1795092432,
-   "photo": "photos/POR_TOTH_LAUREN_2026-11-18.jpg"
-  },
-  {
-   "key": "POR_BIDDLE_BRIAN_2026-11-18",
-   "name": "Brian Allen Biddle",
-   "age": "46",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Dealing Marijuana/Hashish/Salvia- Felony",
-   "more": 1,
-   "ts": 1795085232,
-   "photo": "photos/POR_BIDDLE_BRIAN_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_BARFIELD_HEATHER_2026-11-19",
-   "name": "Heather Renee Barfield",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Residential Entry",
-   "more": 0,
-   "ts": 1795085228,
-   "photo": "photos/VAN_BARFIELD_HEATHER_2026-11-19.jpg"
   }
  ]
 }
