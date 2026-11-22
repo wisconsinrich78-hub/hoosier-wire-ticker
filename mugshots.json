@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-22T22:47:24+00:00",
+ "updated": "2026-11-22T23:47:45+00:00",
  "items": [
+  {
+   "key": "VAN_FULKS_JASON_2026-11-22",
+   "name": "Jason Duane Fulks",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 0,
+   "ts": 1795391241,
+   "photo": "photos/VAN_FULKS_JASON_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_STEVENS_KADEN_2026-11-22",
+   "name": "Kaden Joseph Stevens",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Sex Offender- Req to Poss Valid Driver Lic [Am]",
+   "more": 1,
+   "ts": 1795391241,
+   "photo": "photos/VAN_STEVENS_KADEN_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_DEAN_JONATHAN_2026-11-22",
+   "name": "Jonathan Dean",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795391236,
+   "photo": "photos/ALL_DEAN_JONATHAN_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_ERPELDING_DAWN_2026-11-22",
+   "name": "Dawn Erpelding",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Burglary",
+   "more": 0,
+   "ts": 1795391232,
+   "photo": "photos/ALL_ERPELDING_DAWN_2026-11-22.jpg"
+  },
   {
    "key": "VAN_KING_KAREN_2026-11-22",
    "name": "Karen Marie King",
@@ -277,17 +321,6 @@
    "photo": "photos/ALL_DUTIEL_NICHOLAS_2026-11-22.jpg"
   },
   {
-   "key": "ALL_SNYDER_JOSHUA_2026-11-22",
-   "name": "Joshua Snyder",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1795333631,
-   "photo": "photos/ALL_SNYDER_JOSHUA_2026-11-22.jpg"
-  },
-  {
    "key": "MAD_XIQQE_GIOVANNI_2026-11-22",
    "name": "Giovanni Xiqqe",
    "age": "20",
@@ -308,17 +341,6 @@
    "more": 1,
    "ts": 1795330038,
    "photo": "photos/MAD_CRIPE_JAMES_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_BROOKS_CHRISTOPHER_2026-11-22",
-   "name": "Christopher Brooks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Reckless Driving / Unreasonable High or Low Speed",
-   "more": 1,
-   "ts": 1795330032,
-   "photo": "photos/ALL_BROOKS_CHRISTOPHER_2026-11-22.jpg"
   },
   {
    "key": "POR_KING_KENNETH_2026-11-21",
@@ -506,31 +528,53 @@
    "more": 0,
    "ts": 1795286848,
    "photo": "photos/VAN_MCCLEARY_MEILI_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_SLAWSON_ALAN_2026-11-21",
-   "name": "Alan Jeffrey Slawson",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Confinement",
-   "more": 1,
-   "ts": 1795283237,
-   "photo": "photos/VAN_SLAWSON_ALAN_2026-11-21.jpg"
-  },
-  {
-   "key": "MAD_FULLER_STASHON_2026-11-21",
-   "name": "Stashon Dionte Senior Fuller",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1795276054,
-   "photo": "photos/MAD_FULLER_STASHON_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_FULKS_JASON_2026-11-22",
+   "name": "Jason Duane Fulks",
+   "age": "46",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 0,
+   "ts": 1795391241,
+   "photo": "photos/VAN_FULKS_JASON_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_STEVENS_KADEN_2026-11-22",
+   "name": "Kaden Joseph Stevens",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Sex Offender- Req to Poss Valid Driver Lic [Am]",
+   "more": 1,
+   "ts": 1795391241,
+   "photo": "photos/VAN_STEVENS_KADEN_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_DEAN_JONATHAN_2026-11-22",
+   "name": "Jonathan Dean",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795391236,
+   "photo": "photos/ALL_DEAN_JONATHAN_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_ERPELDING_DAWN_2026-11-22",
+   "name": "Dawn Erpelding",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Burglary",
+   "more": 0,
+   "ts": 1795391232,
+   "photo": "photos/ALL_ERPELDING_DAWN_2026-11-22.jpg"
+  },
   {
    "key": "VAN_KING_KAREN_2026-11-22",
    "name": "Karen Marie King",
@@ -2532,39 +2576,6 @@
    "more": 0,
    "ts": 1795135639,
    "photo": "photos/ALL_AGUILARESTEBAN_ALAN_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_COLEMAN_JAMES_2026-11-19",
-   "name": "James Robert Coleman",
-   "age": "53",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795132043,
-   "photo": "photos/VAN_COLEMAN_JAMES_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_HERNANDEZ_ANGELICA_2026-11-19",
-   "name": "Angelica Lynn Hernandez",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 0,
-   "ts": 1795132043,
-   "photo": null
-  },
-  {
-   "key": "ALL_RUTLEDGE_SHANNON_2026-11-19",
-   "name": "Shannon Rutledge",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1795132037,
-   "photo": "photos/ALL_RUTLEDGE_SHANNON_2026-11-19.jpg"
   }
  ]
 }
