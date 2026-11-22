@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:47:38+00:00",
+ "updated": "2026-11-22T18:47:32+00:00",
  "items": [
   {
    "key": "ALL_RAGSDALE_CARLEON_2026-11-22",
@@ -2697,50 +2697,6 @@
    "more": 0,
    "ts": 1795117639,
    "photo": "photos/ALL_RAMBO_MICHAEL_2026-11-19.jpg"
-  },
-  {
-   "key": "MAD_JACKSON_ASHLEY_2026-11-19",
-   "name": "Ashley Monique Jackson",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795114049,
-   "photo": "photos/MAD_JACKSON_ASHLEY_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_GILL_MICHAEL_2026-11-19",
-   "name": "Michael Joseph Gill",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Strangulation",
-   "more": 1,
-   "ts": 1795114041,
-   "photo": null
-  },
-  {
-   "key": "VAN_HARDING_ERIC_2026-11-19",
-   "name": "Eric Scott Harding",
-   "age": "59",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
-   "more": 2,
-   "ts": 1795114041,
-   "photo": null
-  },
-  {
-   "key": "ALL_HOFFMAN_BRYCE_2026-11-19",
-   "name": "Bryce Hoffman",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1795114038,
-   "photo": "photos/ALL_HOFFMAN_BRYCE_2026-11-19.jpg"
   }
  ]
 }
