@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-22T05:47:47+00:00",
+ "updated": "2026-11-22T06:47:37+00:00",
  "items": [
+  {
+   "key": "MAD_XIQQE_GIOVANNI_2026-11-22",
+   "name": "Giovanni Xiqqe",
+   "age": "20",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795330049,
+   "photo": null
+  },
+  {
+   "key": "MAD_CRIPE_JAMES_2026-11-22",
+   "name": "James Joseph Cripe",
+   "age": "52",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "more": 1,
+   "ts": 1795330038,
+   "photo": "photos/MAD_CRIPE_JAMES_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_BROOKS_CHRISTOPHER_2026-11-22",
+   "name": "Christopher Brooks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Reckless Driving / Unreasonable High or Low Speed",
+   "more": 1,
+   "ts": 1795330032,
+   "photo": "photos/ALL_BROOKS_CHRISTOPHER_2026-11-22.jpg"
+  },
   {
    "key": "ALL_CRUZ_ROBER_2026-11-21",
    "name": "Rober Cruz",
@@ -495,42 +528,42 @@
    "more": 0,
    "ts": 1795258041,
    "photo": "photos/MAD_MORGAN_RUTH_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_BAKER_DERIECE_2026-11-21",
-   "name": "Deriece Jsean Baker",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 0,
-   "ts": 1795258028,
-   "photo": "photos/VAN_BAKER_DERIECE_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_SMITH_MATTHEW_2026-11-21",
-   "name": "Matthew Damion Edward Smith",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795258027,
-   "photo": "photos/VAN_SMITH_MATTHEW_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_BLAASCH_LOGAN_2026-11-21",
-   "name": "Logan Grant Blaasch",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 0,
-   "ts": 1795254460,
-   "photo": "photos/VAN_BLAASCH_LOGAN_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_XIQQE_GIOVANNI_2026-11-22",
+   "name": "Giovanni Xiqqe",
+   "age": "20",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795330049,
+   "photo": null
+  },
+  {
+   "key": "MAD_CRIPE_JAMES_2026-11-22",
+   "name": "James Joseph Cripe",
+   "age": "52",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "more": 1,
+   "ts": 1795330038,
+   "photo": "photos/MAD_CRIPE_JAMES_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_BROOKS_CHRISTOPHER_2026-11-22",
+   "name": "Christopher Brooks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Reckless Driving / Unreasonable High or Low Speed",
+   "more": 1,
+   "ts": 1795330032,
+   "photo": "photos/ALL_BROOKS_CHRISTOPHER_2026-11-22.jpg"
+  },
   {
    "key": "ALL_CRUZ_ROBER_2026-11-21",
    "name": "Rober Cruz",
@@ -2807,28 +2840,6 @@
    "more": 1,
    "ts": 1795074428,
    "photo": "photos/ALL_HUMPHREY_AMBER_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_POWELL_MICHAEL_2026-11-18",
-   "name": "Michael Scott Powell",
-   "age": "53",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Methamphetamine",
-   "more": 2,
-   "ts": 1795070830,
-   "photo": "photos/VAN_POWELL_MICHAEL_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_THOMPSON_XAVIER_2026-11-18",
-   "name": "Xavier Renard Thompson",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795070829,
-   "photo": "photos/VAN_THOMPSON_XAVIER_2026-11-18.jpg"
   }
  ]
 }
