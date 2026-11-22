@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-22T04:48:07+00:00",
+ "updated": "2026-11-22T05:47:47+00:00",
  "items": [
+  {
+   "key": "ALL_CRUZ_ROBER_2026-11-21",
+   "name": "Rober Cruz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1795326436,
+   "photo": "photos/ALL_CRUZ_ROBER_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_VELEZ_VINCENTE_2026-11-22",
+   "name": "Vincente Velez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1795326432,
+   "photo": "photos/ALL_VELEZ_VINCENTE_2026-11-22.jpg"
+  },
   {
    "key": "POR_KING_KENNETH_2026-11-21",
    "name": "Kenneth Lee King",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795254460,
    "photo": "photos/VAN_BLAASCH_LOGAN_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_IRVIN_COLTON_2026-11-21",
-   "name": "Colton Chase Irvin",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 1,
-   "ts": 1795254459,
-   "photo": "photos/VAN_IRVIN_COLTON_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_SANDERS_CLARENCE_2026-11-21",
-   "name": "Clarence Sanders",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1795254454,
-   "photo": "photos/ALL_SANDERS_CLARENCE_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_CRUZ_ROBER_2026-11-21",
+   "name": "Rober Cruz",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1795326436,
+   "photo": "photos/ALL_CRUZ_ROBER_2026-11-21.jpg"
+  },
+  {
+   "key": "ALL_VELEZ_VINCENTE_2026-11-22",
+   "name": "Vincente Velez",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1795326432,
+   "photo": "photos/ALL_VELEZ_VINCENTE_2026-11-22.jpg"
+  },
   {
    "key": "POR_KING_KENNETH_2026-11-21",
    "name": "Kenneth Lee King",
