@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-22T07:47:47+00:00",
+ "updated": "2026-11-22T08:47:36+00:00",
  "items": [
+  {
+   "key": "MAD_STOHLER_DEBBIE_2026-11-22",
+   "name": "Debbie Lynn Stohler",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795337247,
+   "photo": "photos/MAD_STOHLER_DEBBIE_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_MERIWETHER_JEREMIAH_2026-11-22",
+   "name": "Jeremiah James Meriwether",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
+   "more": 0,
+   "ts": 1795337234,
+   "photo": "photos/VAN_MERIWETHER_JEREMIAH_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_WEST_REBECCA_2026-11-22",
+   "name": "Rebecca West",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1795337230,
+   "photo": "photos/ALL_WEST_REBECCA_2026-11-22.jpg"
+  },
   {
    "key": "ALL_ROSS_JOSEPH_2026-11-22",
    "name": "Joseph Ross",
@@ -376,17 +409,6 @@
    "photo": "photos/VAN_MCCLEARY_MEILI_2026-11-21.jpg"
   },
   {
-   "key": "ALL_DORVIL_SYLVIO_2026-11-21",
-   "name": "Sylvio Dorvil",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1795286833,
-   "photo": null
-  },
-  {
    "key": "VAN_SLAWSON_ALAN_2026-11-21",
    "name": "Alan Jeffrey Slawson",
    "age": "31",
@@ -506,31 +528,42 @@
    "more": 1,
    "ts": 1795261630,
    "photo": "photos/VAN_LEISTER_CORY_2026-11-21.jpg"
-  },
-  {
-   "key": "MAD_WARE_TYLER_2026-11-21",
-   "name": "Tyler Wayne Ware",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated - prior conviction",
-   "more": 0,
-   "ts": 1795258046,
-   "photo": null
-  },
-  {
-   "key": "MAD_MORGAN_RUTH_2026-11-21",
-   "name": "Ruth Ann Morgan",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1795258041,
-   "photo": "photos/MAD_MORGAN_RUTH_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_STOHLER_DEBBIE_2026-11-22",
+   "name": "Debbie Lynn Stohler",
+   "age": "41",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795337247,
+   "photo": "photos/MAD_STOHLER_DEBBIE_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_MERIWETHER_JEREMIAH_2026-11-22",
+   "name": "Jeremiah James Meriwether",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
+   "more": 0,
+   "ts": 1795337234,
+   "photo": "photos/VAN_MERIWETHER_JEREMIAH_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_WEST_REBECCA_2026-11-22",
+   "name": "Rebecca West",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1795337230,
+   "photo": "photos/ALL_WEST_REBECCA_2026-11-22.jpg"
+  },
   {
    "key": "ALL_ROSS_JOSEPH_2026-11-22",
    "name": "Joseph Ross",
@@ -2785,39 +2818,6 @@
    "more": 1,
    "ts": 1795081628,
    "photo": "photos/POR_MARTINEZ_NICHOLAS_2026-11-18.jpg"
-  },
-  {
-   "key": "VAN_LOWE_CHEYENNE_2026-11-19",
-   "name": "Cheyenne Deanna Lowe",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795078043,
-   "photo": "photos/VAN_LOWE_CHEYENNE_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_STARR_CODI_2026-11-19",
-   "name": "Codi Starr",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 2,
-   "ts": 1795078037,
-   "photo": "photos/ALL_STARR_CODI_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_DELCAMP_ANGEL_2026-11-19",
-   "name": "Angel Delcamp",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 3,
-   "ts": 1795078032,
-   "photo": "photos/ALL_DELCAMP_ANGEL_2026-11-19.jpg"
   }
  ]
 }
