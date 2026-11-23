@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-23T00:04:08+00:00",
+ "updated": "2026-11-23T00:47:45+00:00",
  "items": [
+  {
+   "key": "MAD_BURNS_RICHARD_2026-11-22",
+   "name": "Richard Scott Burns",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Pointing a firearm",
+   "more": 2,
+   "ts": 1795394843,
+   "photo": null
+  },
+  {
+   "key": "POR_SPAGNA_ALICIA_2026-11-22",
+   "name": "Alicia Spagna",
+   "age": "51",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1795394840,
+   "photo": "photos/POR_SPAGNA_ALICIA_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_SPALDING_NATHAN_2026-11-22",
+   "name": "Nathan Thomas Spalding",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 1,
+   "ts": 1795394837,
+   "photo": "photos/VAN_SPALDING_NATHAN_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_BLUME_GARY_2026-11-22",
+   "name": "Gary Russell Blume",
+   "age": "59",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1795394835,
+   "photo": "photos/VAN_BLUME_GARY_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_MANG_ZOSIAN_2026-11-22",
+   "name": "Zosian Mang",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unauthorized Entry/Vehicle",
+   "more": 1,
+   "ts": 1795394830,
+   "photo": "photos/ALL_MANG_ZOSIAN_2026-11-22.jpg"
+  },
   {
    "key": "VAN_FULKS_JASON_2026-11-22",
    "name": "Jason Duane Fulks",
@@ -310,17 +365,6 @@
    "photo": "photos/ALL_ROSS_JOSEPH_2026-11-22.jpg"
   },
   {
-   "key": "ALL_DUTIEL_NICHOLAS_2026-11-22",
-   "name": "Nicholas Dutiel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1795333636,
-   "photo": "photos/ALL_DUTIEL_NICHOLAS_2026-11-22.jpg"
-  },
-  {
    "key": "MAD_XIQQE_GIOVANNI_2026-11-22",
    "name": "Giovanni Xiqqe",
    "age": "20",
@@ -484,53 +528,64 @@
    "more": 0,
    "ts": 1795290451,
    "photo": "photos/POR_DRZEWIECKI_WILLIAM_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_STRAIGHT_KENDALL_2026-11-21",
-   "name": "Kendall Nicole Straight",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795290447,
-   "photo": "photos/VAN_STRAIGHT_KENDALL_2026-11-21.jpg"
-  },
-  {
-   "key": "POR_SELIGER_RYAN_2026-11-20",
-   "name": "Ryan Keith Seliger",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 1,
-   "ts": 1795286856,
-   "photo": "photos/POR_SELIGER_RYAN_2026-11-20.jpg"
-  },
-  {
-   "key": "POR_FITCHIE_FORREST_2026-11-20",
-   "name": "Forrest Dale Fitchie",
-   "age": "59",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795286853,
-   "photo": "photos/POR_FITCHIE_FORREST_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_MCCLEARY_MEILI_2026-11-21",
-   "name": "Meili Marie Mccleary",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Treatment Court Filed Ptr",
-   "more": 0,
-   "ts": 1795286848,
-   "photo": "photos/VAN_MCCLEARY_MEILI_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_BURNS_RICHARD_2026-11-22",
+   "name": "Richard Scott Burns",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Pointing a firearm",
+   "more": 2,
+   "ts": 1795394843,
+   "photo": null
+  },
+  {
+   "key": "POR_SPAGNA_ALICIA_2026-11-22",
+   "name": "Alicia Spagna",
+   "age": "51",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1795394840,
+   "photo": "photos/POR_SPAGNA_ALICIA_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_SPALDING_NATHAN_2026-11-22",
+   "name": "Nathan Thomas Spalding",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 1,
+   "ts": 1795394837,
+   "photo": "photos/VAN_SPALDING_NATHAN_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_BLUME_GARY_2026-11-22",
+   "name": "Gary Russell Blume",
+   "age": "59",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Simple Assault",
+   "more": 0,
+   "ts": 1795394835,
+   "photo": "photos/VAN_BLUME_GARY_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_MANG_ZOSIAN_2026-11-22",
+   "name": "Zosian Mang",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Unauthorized Entry/Vehicle",
+   "more": 1,
+   "ts": 1795394830,
+   "photo": "photos/ALL_MANG_ZOSIAN_2026-11-22.jpg"
+  },
   {
    "key": "VAN_FULKS_JASON_2026-11-22",
    "name": "Jason Duane Fulks",
