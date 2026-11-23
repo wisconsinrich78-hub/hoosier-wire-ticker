@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-23T19:47:47+00:00",
+ "updated": "2026-11-23T20:47:53+00:00",
  "items": [
+  {
+   "key": "MAD_YOUNG_JEREMIAH_2026-11-23",
+   "name": "Jeremiah Young",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795466865,
+   "photo": null
+  },
+  {
+   "key": "MAD_WILSONJONES_NAYVIN_2026-11-23",
+   "name": "Nayvin Isaiah Wilson-Jones",
+   "age": "22",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795466864,
+   "photo": "photos/MAD_WILSONJONES_NAYVIN_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_SCOTT_TRINITY_2026-11-23",
+   "name": "Trinity Coryona Dolores Scott",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 1,
+   "ts": 1795466843,
+   "photo": "photos/VAN_SCOTT_TRINITY_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_LONG_PAUL_2026-11-23",
+   "name": "Paul Trevor Long",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Failure to Appear-Original Charge Misd",
+   "more": 0,
+   "ts": 1795466840,
+   "photo": "photos/VAN_LONG_PAUL_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_PHILLIPS_KRISTA_2026-11-23",
+   "name": "Krista Beth Phillips",
+   "age": "48",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795466838,
+   "photo": "photos/VAN_PHILLIPS_KRISTA_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_WITT_MICHAEL_2026-11-23",
+   "name": "Michael Shane Witt",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795466835,
+   "photo": null
+  },
+  {
+   "key": "ALL_GFELL_RENEA_2026-11-23",
+   "name": "Renea Gfell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795466834,
+   "photo": "photos/ALL_GFELL_RENEA_2026-11-23.jpg"
+  },
   {
    "key": "MAD_PETERS_CORY_2026-11-23",
    "name": "Cory Thomas Peters",
@@ -420,17 +497,6 @@
    "photo": "photos/MAD_THOMAS_JAYDEN_2026-11-23.jpg"
   },
   {
-   "key": "ALL_SILVERS_NICHOLAS_2026-11-23",
-   "name": "Nicholas Silvers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 3,
-   "ts": 1795420048,
-   "photo": "photos/ALL_SILVERS_NICHOLAS_2026-11-23.jpg"
-  },
-  {
    "key": "VAN_SIGLER_ANDREW_2026-11-22",
    "name": "Andrew Ryan Sigler",
    "age": "41",
@@ -453,17 +519,6 @@
    "photo": "photos/VAN_WILLIAMS_MADISON_2026-11-22.jpg"
   },
   {
-   "key": "VAN_MONTGOMERY_DAVID_2026-11-22",
-   "name": "David Lee Montgomery",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
-   "more": 0,
-   "ts": 1795416432,
-   "photo": null
-  },
-  {
    "key": "MAD_HAYNES_DUSTIN_2026-11-23",
    "name": "Dustin Allen Haynes",
    "age": "41",
@@ -473,64 +528,86 @@
    "more": 0,
    "ts": 1795416432,
    "photo": "photos/MAD_HAYNES_DUSTIN_2026-11-23.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_MILES_DARIS_2026-11-22",
-   "name": "Daris Ty Cier Miles",
-   "age": "21",
+   "key": "MAD_YOUNG_JEREMIAH_2026-11-23",
+   "name": "Jeremiah Young",
+   "age": "43",
    "county": "Madison County",
    "region": "central",
-   "charge": "Domestic battery (A/M) Simple",
+   "charge": "",
    "more": 0,
-   "ts": 1795409247,
+   "ts": 1795466865,
    "photo": null
   },
   {
-   "key": "MAD_HARRIER_AMBRY_2026-11-22",
-   "name": "Ambry Lynne Harrier",
+   "key": "MAD_WILSONJONES_NAYVIN_2026-11-23",
+   "name": "Nayvin Isaiah Wilson-Jones",
    "age": "22",
    "county": "Madison County",
    "region": "central",
-   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "charge": "",
    "more": 0,
-   "ts": 1795409242,
-   "photo": "photos/MAD_HARRIER_AMBRY_2026-11-22.jpg"
+   "ts": 1795466864,
+   "photo": "photos/MAD_WILSONJONES_NAYVIN_2026-11-23.jpg"
   },
   {
-   "key": "VAN_BEUMER_RICK_2026-11-22",
-   "name": "Rick Eugene Beumer",
-   "age": "62",
+   "key": "VAN_SCOTT_TRINITY_2026-11-23",
+   "name": "Trinity Coryona Dolores Scott",
+   "age": "25",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Controlled Substance- Dealing Cocaine or Narcotic Drug",
-   "more": 2,
-   "ts": 1795409241,
-   "photo": "photos/VAN_BEUMER_RICK_2026-11-22.jpg"
+   "charge": "Petition to Revoke Probation",
+   "more": 1,
+   "ts": 1795466843,
+   "photo": "photos/VAN_SCOTT_TRINITY_2026-11-23.jpg"
   },
   {
-   "key": "POR_HAMOOD_MOHAMAD_2026-11-22",
-   "name": "Mohamad Bassem Hamood",
-   "age": "28",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Resisting Law Enforcement Def. Uses a Vehicle.",
-   "more": 4,
-   "ts": 1795405634,
-   "photo": "photos/POR_HAMOOD_MOHAMAD_2026-11-22.jpg"
+   "key": "VAN_LONG_PAUL_2026-11-23",
+   "name": "Paul Trevor Long",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Failure to Appear-Original Charge Misd",
+   "more": 0,
+   "ts": 1795466840,
+   "photo": "photos/VAN_LONG_PAUL_2026-11-23.jpg"
   },
   {
-   "key": "VAN_FELTON_TROY_2026-11-22",
-   "name": "Troy Dewayne Felton",
-   "age": "44",
+   "key": "VAN_PHILLIPS_KRISTA_2026-11-23",
+   "name": "Krista Beth Phillips",
+   "age": "48",
    "county": "Vanderburgh County",
    "region": "south",
    "charge": "Petition to Revoke Probation",
    "more": 0,
-   "ts": 1795405630,
+   "ts": 1795466838,
+   "photo": "photos/VAN_PHILLIPS_KRISTA_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_WITT_MICHAEL_2026-11-23",
+   "name": "Michael Shane Witt",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795466835,
    "photo": null
-  }
- ],
- "all_items": [
+  },
+  {
+   "key": "ALL_GFELL_RENEA_2026-11-23",
+   "name": "Renea Gfell",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795466834,
+   "photo": "photos/ALL_GFELL_RENEA_2026-11-23.jpg"
+  },
   {
    "key": "MAD_PETERS_CORY_2026-11-23",
    "name": "Cory Thomas Peters",
@@ -2576,39 +2653,6 @@
    "more": 2,
    "ts": 1795211237,
    "photo": "photos/ALL_ROBINSON_ANDRE_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_DAVIS_CODY_2026-11-20",
-   "name": "Cody Alan Davis",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1795207638,
-   "photo": "photos/VAN_DAVIS_CODY_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_GREEN_PASHINAY_2026-11-20",
-   "name": "Pashinay Patrizia Green",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Family Offense- Invasion of Privacy",
-   "more": 3,
-   "ts": 1795207635,
-   "photo": "photos/VAN_GREEN_PASHINAY_2026-11-20.jpg"
-  },
-  {
-   "key": "ALL_ANDERSON_KALIN_2026-11-20",
-   "name": "Kalin Anderson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Robbery / Armed",
-   "more": 2,
-   "ts": 1795207633,
-   "photo": "photos/ALL_ANDERSON_KALIN_2026-11-20.jpg"
   }
  ]
 }
