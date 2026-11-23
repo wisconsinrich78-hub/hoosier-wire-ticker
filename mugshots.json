@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-23T21:47:40+00:00",
+ "updated": "2026-11-23T22:47:30+00:00",
  "items": [
+  {
+   "key": "MAD_MABBITT_SUMMER_2026-11-23",
+   "name": "Summer Dawn Mabbitt",
+   "age": "40",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795474039,
+   "photo": null
+  },
+  {
+   "key": "ALL_LACAI_KEIZO_2026-11-23",
+   "name": "Keizo Lacai",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1795474029,
+   "photo": null
+  },
   {
    "key": "MAD_STEPHENS_SAVANNAH_2026-11-23",
    "name": "Savannah Kathryn Stephens",
@@ -506,31 +528,31 @@
    "more": 4,
    "ts": 1795452436,
    "photo": "photos/ALL_GONZALEZGONZALEZ_BRIAN_2026-11-23.jpg"
-  },
-  {
-   "key": "POR_ZINSOU_FREJUS_2026-11-22",
-   "name": "Frejus Zinsou",
-   "age": "24",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Mv/Road/Passing School Bus",
-   "more": 0,
-   "ts": 1795427248,
-   "photo": "photos/POR_ZINSOU_FREJUS_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_SIPE_ALEXIS_2026-11-23",
-   "name": "Alexis Sipe",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1795427244,
-   "photo": "photos/ALL_SIPE_ALEXIS_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_MABBITT_SUMMER_2026-11-23",
+   "name": "Summer Dawn Mabbitt",
+   "age": "40",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795474039,
+   "photo": null
+  },
+  {
+   "key": "ALL_LACAI_KEIZO_2026-11-23",
+   "name": "Keizo Lacai",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1795474029,
+   "photo": null
+  },
   {
    "key": "MAD_STEPHENS_SAVANNAH_2026-11-23",
    "name": "Savannah Kathryn Stephens",
@@ -2620,50 +2642,6 @@
    "more": 0,
    "ts": 1795214854,
    "photo": "photos/MAD_REEDER_KIRSTEN_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_JOHNSON_TYLER_2026-11-20",
-   "name": "Tyler Ray Johnson",
-   "age": "26",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795214844,
-   "photo": "photos/VAN_JOHNSON_TYLER_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_POWELL_JOHN_2026-11-20",
-   "name": "John Gerald Powell",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 2,
-   "ts": 1795214840,
-   "photo": null
-  },
-  {
-   "key": "ALL_MCKENNA_STONE_2026-11-20",
-   "name": "Stone Mckenna",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1795214839,
-   "photo": "photos/ALL_MCKENNA_STONE_2026-11-20.jpg"
-  },
-  {
-   "key": "ALL_YBARRA_JESSICA_2026-11-20",
-   "name": "Jessica Ybarra",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Shoplifting",
-   "more": 0,
-   "ts": 1795214834,
-   "photo": null
   }
  ]
 }
