@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-23T23:04:58+00:00",
+ "updated": "2026-11-23T23:48:02+00:00",
  "items": [
+  {
+   "key": "MAD_DUFFY_RONALD_2026-11-23",
+   "name": "Ronald Eugene Duffy",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795477659,
+   "photo": "photos/MAD_DUFFY_RONALD_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_DELGADO_ALAZAY_2026-11-23",
+   "name": "Alazay Haven Delgado",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795477647,
+   "photo": "photos/VAN_DELGADO_ALAZAY_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_IVY_MARCUS_2026-11-23",
+   "name": "Marcus Edward Ivy",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795477644,
+   "photo": "photos/VAN_IVY_MARCUS_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_SMITH_THOMAS_2026-11-23",
+   "name": "Thomas Benjamin Smith",
+   "age": "54",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795477642,
+   "photo": "photos/VAN_SMITH_THOMAS_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_MOORE_DERRIAN_2026-11-23",
+   "name": "Derrian Moore",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder - Attempted",
+   "more": 0,
+   "ts": 1795477637,
+   "photo": "photos/ALL_MOORE_DERRIAN_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_KAR_BAR_2026-11-23",
+   "name": "Bar Kar",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery on a Person Less Than 14 Years Old",
+   "more": 0,
+   "ts": 1795477632,
+   "photo": "photos/ALL_KAR_BAR_2026-11-23.jpg"
+  },
   {
    "key": "MAD_MABBITT_SUMMER_2026-11-23",
    "name": "Summer Dawn Mabbitt",
@@ -453,28 +519,6 @@
    "photo": "photos/VAN_BROOKS_CHEYENNE_2026-11-23.jpg"
   },
   {
-   "key": "VAN_REDWINE_TRASAI_2026-11-23",
-   "name": "Trasai Javon Redwine",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795452473,
-   "photo": "photos/VAN_REDWINE_TRASAI_2026-11-23.jpg"
-  },
-  {
-   "key": "VAN_SIEKMAN_SARAH_2026-11-23",
-   "name": "Sarah Jane Siekman",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795452473,
-   "photo": null
-  },
-  {
    "key": "ALL_KAHN_WILLIAM_2026-11-23",
    "name": "William Kahn",
    "age": "",
@@ -484,53 +528,75 @@
    "more": 0,
    "ts": 1795452468,
    "photo": "photos/ALL_KAHN_WILLIAM_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_WATKINS_SHARDA_2026-11-23",
-   "name": "Sharda Watkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Paraphernalia",
-   "more": 2,
-   "ts": 1795452455,
-   "photo": "photos/ALL_WATKINS_SHARDA_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_WARREN_REGINALD_2026-11-23",
-   "name": "Reginald Warren",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Escape",
-   "more": 6,
-   "ts": 1795452447,
-   "photo": "photos/ALL_WARREN_REGINALD_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_WRIGHT_ELIJAH_2026-11-23",
-   "name": "Elijah Wright",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1795452442,
-   "photo": "photos/ALL_WRIGHT_ELIJAH_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_GONZALEZGONZALEZ_BRIAN_2026-11-23",
-   "name": "Brian Gonzalez-Gonzalez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Prior Conviction",
-   "more": 4,
-   "ts": 1795452436,
-   "photo": "photos/ALL_GONZALEZGONZALEZ_BRIAN_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_DUFFY_RONALD_2026-11-23",
+   "name": "Ronald Eugene Duffy",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795477659,
+   "photo": "photos/MAD_DUFFY_RONALD_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_DELGADO_ALAZAY_2026-11-23",
+   "name": "Alazay Haven Delgado",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795477647,
+   "photo": "photos/VAN_DELGADO_ALAZAY_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_IVY_MARCUS_2026-11-23",
+   "name": "Marcus Edward Ivy",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795477644,
+   "photo": "photos/VAN_IVY_MARCUS_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_SMITH_THOMAS_2026-11-23",
+   "name": "Thomas Benjamin Smith",
+   "age": "54",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795477642,
+   "photo": "photos/VAN_SMITH_THOMAS_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_MOORE_DERRIAN_2026-11-23",
+   "name": "Derrian Moore",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Murder - Attempted",
+   "more": 0,
+   "ts": 1795477637,
+   "photo": "photos/ALL_MOORE_DERRIAN_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_KAR_BAR_2026-11-23",
+   "name": "Bar Kar",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Battery on a Person Less Than 14 Years Old",
+   "more": 0,
+   "ts": 1795477632,
+   "photo": "photos/ALL_KAR_BAR_2026-11-23.jpg"
+  },
   {
    "key": "MAD_MABBITT_SUMMER_2026-11-23",
    "name": "Summer Dawn Mabbitt",
@@ -2598,39 +2664,6 @@
    "more": 1,
    "ts": 1795222032,
    "photo": "photos/ALL_RICHARDSON_SHANE_2026-11-20.jpg"
-  },
-  {
-   "key": "ALL_BOOKER_ZANALYNN_2026-11-20",
-   "name": "Zanalynn Booker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795218438,
-   "photo": "photos/ALL_BOOKER_ZANALYNN_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_WALDEN_ANTHONY_2026-11-20",
-   "name": "Anthony Davis Walden",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
-   "more": 4,
-   "ts": 1795218430,
-   "photo": null
-  },
-  {
-   "key": "VAN_DECKER_SHANNA_2026-11-20",
-   "name": "Shanna Lee Decker",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 2,
-   "ts": 1795218430,
-   "photo": null
   }
  ]
 }
