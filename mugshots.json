@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-23T20:47:53+00:00",
+ "updated": "2026-11-23T21:47:40+00:00",
  "items": [
+  {
+   "key": "MAD_STEPHENS_SAVANNAH_2026-11-23",
+   "name": "Savannah Kathryn Stephens",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery - B misdemeanor",
+   "more": 1,
+   "ts": 1795470453,
+   "photo": null
+  },
+  {
+   "key": "MAD_PURDY_SCOTT_2026-11-23",
+   "name": "Scott Michael Purdy",
+   "age": "49",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795470450,
+   "photo": "photos/MAD_PURDY_SCOTT_2026-11-23.jpg"
+  },
+  {
+   "key": "MAD_PASCHAL_MANNIE_2026-11-23",
+   "name": "Mannie Evan Paschal",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795470449,
+   "photo": "photos/MAD_PASCHAL_MANNIE_2026-11-23.jpg"
+  },
+  {
+   "key": "POR_BAWCUM_AMY_2026-11-22",
+   "name": "Amy Love Bawcum",
+   "age": "38",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 3,
+   "ts": 1795470441,
+   "photo": "photos/POR_BAWCUM_AMY_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_CUSICK_NICOLE_2026-11-23",
+   "name": "Nicole Irene Cusick",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Leaving the Scene of a Crash- Property Damage",
+   "more": 0,
+   "ts": 1795470438,
+   "photo": "photos/VAN_CUSICK_NICOLE_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_LEE_STACY_2026-11-23",
+   "name": "Stacy Lee",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1795470433,
+   "photo": "photos/ALL_LEE_STACY_2026-11-23.jpg"
+  },
   {
    "key": "MAD_YOUNG_JEREMIAH_2026-11-23",
    "name": "Jeremiah Young",
@@ -462,75 +528,75 @@
    "more": 1,
    "ts": 1795427244,
    "photo": "photos/ALL_SIPE_ALEXIS_2026-11-23.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "ALL_WILLIAMS_ANTONIO_2026-11-23",
-   "name": "Antonio Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
+   "key": "MAD_STEPHENS_SAVANNAH_2026-11-23",
+   "name": "Savannah Kathryn Stephens",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Battery - B misdemeanor",
    "more": 1,
-   "ts": 1795427239,
-   "photo": "photos/ALL_WILLIAMS_ANTONIO_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_HUFFSTETLER_SARAH_2026-11-23",
-   "name": "Sarah Huffstetler",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1795427234,
+   "ts": 1795470453,
    "photo": null
   },
   {
-   "key": "MAD_THOMAS_JAYDEN_2026-11-23",
-   "name": "Jayden Christopher Thomas",
-   "age": "19",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for 10 day Probation Violation - Jail Booking",
-   "more": 2,
-   "ts": 1795423640,
-   "photo": "photos/MAD_THOMAS_JAYDEN_2026-11-23.jpg"
-  },
-  {
-   "key": "VAN_SIGLER_ANDREW_2026-11-22",
-   "name": "Andrew Ryan Sigler",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Leaving the Scene of a Crash- Property Damage",
-   "more": 2,
-   "ts": 1795416433,
-   "photo": "photos/VAN_SIGLER_ANDREW_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_WILLIAMS_MADISON_2026-11-22",
-   "name": "Madison Nicole Williams",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795416432,
-   "photo": "photos/VAN_WILLIAMS_MADISON_2026-11-22.jpg"
-  },
-  {
-   "key": "MAD_HAYNES_DUSTIN_2026-11-23",
-   "name": "Dustin Allen Haynes",
-   "age": "41",
+   "key": "MAD_PURDY_SCOTT_2026-11-23",
+   "name": "Scott Michael Purdy",
+   "age": "49",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1795416432,
-   "photo": "photos/MAD_HAYNES_DUSTIN_2026-11-23.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1795470450,
+   "photo": "photos/MAD_PURDY_SCOTT_2026-11-23.jpg"
+  },
+  {
+   "key": "MAD_PASCHAL_MANNIE_2026-11-23",
+   "name": "Mannie Evan Paschal",
+   "age": "32",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795470449,
+   "photo": "photos/MAD_PASCHAL_MANNIE_2026-11-23.jpg"
+  },
+  {
+   "key": "POR_BAWCUM_AMY_2026-11-22",
+   "name": "Amy Love Bawcum",
+   "age": "38",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
+   "more": 3,
+   "ts": 1795470441,
+   "photo": "photos/POR_BAWCUM_AMY_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_CUSICK_NICOLE_2026-11-23",
+   "name": "Nicole Irene Cusick",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Leaving the Scene of a Crash- Property Damage",
+   "more": 0,
+   "ts": 1795470438,
+   "photo": "photos/VAN_CUSICK_NICOLE_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_LEE_STACY_2026-11-23",
+   "name": "Stacy Lee",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1795470433,
+   "photo": "photos/ALL_LEE_STACY_2026-11-23.jpg"
+  },
   {
    "key": "MAD_YOUNG_JEREMIAH_2026-11-23",
    "name": "Jeremiah Young",
@@ -2598,61 +2664,6 @@
    "more": 0,
    "ts": 1795214834,
    "photo": null
-  },
-  {
-   "key": "POR_LABELLE_CHEYENE_2026-11-19",
-   "name": "Cheyene Hope Labelle",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Comply",
-   "more": 0,
-   "ts": 1795211251,
-   "photo": "photos/POR_LABELLE_CHEYENE_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_CROW_MICHAEL_2026-11-20",
-   "name": "Michael Scott Crow",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795211247,
-   "photo": null
-  },
-  {
-   "key": "ALL_TUTTLE_JASON_2026-11-20",
-   "name": "Jason Tuttle",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Contempt of Court-Civil",
-   "more": 1,
-   "ts": 1795211246,
-   "photo": "photos/ALL_TUTTLE_JASON_2026-11-20.jpg"
-  },
-  {
-   "key": "ALL_KENDALL_NICHOLAS_2026-11-20",
-   "name": "Nicholas Kendall",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795211242,
-   "photo": "photos/ALL_KENDALL_NICHOLAS_2026-11-20.jpg"
-  },
-  {
-   "key": "ALL_ROBINSON_ANDRE_2026-11-20",
-   "name": "Andre Robinson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Adult Knowing Presence of Child Less Than 16\u2026",
-   "more": 2,
-   "ts": 1795211237,
-   "photo": "photos/ALL_ROBINSON_ANDRE_2026-11-20.jpg"
   }
  ]
 }
