@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-23T08:47:30+00:00",
+ "updated": "2026-11-23T09:47:22+00:00",
  "items": [
+  {
+   "key": "ALL_WILLIAMS_ANTONIO_2026-11-23",
+   "name": "Antonio Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1795427239,
+   "photo": "photos/ALL_WILLIAMS_ANTONIO_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_HUFFSTETLER_SARAH_2026-11-23",
+   "name": "Sarah Huffstetler",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1795427234,
+   "photo": null
+  },
   {
    "key": "MAD_THOMAS_JAYDEN_2026-11-23",
    "name": "Jayden Christopher Thomas",
@@ -387,28 +409,6 @@
    "photo": "photos/MAD_MEZICK_LLOYD_2026-11-22.jpg"
   },
   {
-   "key": "ALL_HILL_DARRAIL_2026-11-22",
-   "name": "Darrail Hill",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Adult Knowing Presence of Child Less Than 16\u2026",
-   "more": 1,
-   "ts": 1795376831,
-   "photo": null
-  },
-  {
-   "key": "ALL_RAGSDALE_CARLEON_2026-11-22",
-   "name": "Carleon Ragsdale",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 4,
-   "ts": 1795369633,
-   "photo": "photos/ALL_RAGSDALE_CARLEON_2026-11-22.jpg"
-  },
-  {
    "key": "MAD_WALLACE_SERINA_2026-11-22",
    "name": "Serina Nicole Wallace",
    "age": "24",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_WILLIAMS_ANTONIO_2026-11-23",
+   "name": "Antonio Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1795427239,
+   "photo": "photos/ALL_WILLIAMS_ANTONIO_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_HUFFSTETLER_SARAH_2026-11-23",
+   "name": "Sarah Huffstetler",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 2,
+   "ts": 1795427234,
+   "photo": null
+  },
   {
    "key": "MAD_THOMAS_JAYDEN_2026-11-23",
    "name": "Jayden Christopher Thomas",
@@ -2532,39 +2554,6 @@
    "more": 0,
    "ts": 1795171632,
    "photo": "photos/POR_LANDESS_CODI_2026-11-19.jpg"
-  },
-  {
-   "key": "POR_HURLEY_CODY_2026-11-19",
-   "name": "Cody Michael James Hurley",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Intimidation",
-   "more": 1,
-   "ts": 1795168039,
-   "photo": "photos/POR_HURLEY_CODY_2026-11-19.jpg"
-  },
-  {
-   "key": "POR_HABEL_THOMAS_2026-11-19",
-   "name": "Thomas Arthur Habel",
-   "age": "46",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Possession Marijuana",
-   "more": 1,
-   "ts": 1795168036,
-   "photo": "photos/POR_HABEL_THOMAS_2026-11-19.jpg"
-  },
-  {
-   "key": "ALL_BONHAM_MICHAEL_2026-11-20",
-   "name": "Michael Bonham",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1795168031,
-   "photo": "photos/ALL_BONHAM_MICHAEL_2026-11-20.jpg"
   }
  ]
 }
