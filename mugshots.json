@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-23T00:47:45+00:00",
+ "updated": "2026-11-23T01:47:59+00:00",
  "items": [
+  {
+   "key": "MAD_GOMEZ_HUGO_2026-11-22",
+   "name": "Hugo Monroe Gomez",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Strangulation (simple)- no/minor Injury (L/6)",
+   "more": 1,
+   "ts": 1795398465,
+   "photo": "photos/MAD_GOMEZ_HUGO_2026-11-22.jpg"
+  },
+  {
+   "key": "POR_BIERKAMP_VICTORIA_2026-11-22",
+   "name": "Victoria Lynn Bierkamp",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Moderate Bodily Injury",
+   "more": 0,
+   "ts": 1795398460,
+   "photo": "photos/POR_BIERKAMP_VICTORIA_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_GOODMAN_ETHAN_2026-11-22",
+   "name": "Ethan Ryan Goodman",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795398450,
+   "photo": "photos/VAN_GOODMAN_ETHAN_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_GIBSONWEAVER_CORINNA_2026-11-22",
+   "name": "Corinna Gibsonweaver",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 2,
+   "ts": 1795398442,
+   "photo": "photos/ALL_GIBSONWEAVER_CORINNA_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_COMBS_STEPHEN_2026-11-22",
+   "name": "Stephen Combs",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 3,
+   "ts": 1795398436,
+   "photo": "photos/ALL_COMBS_STEPHEN_2026-11-22.jpg"
+  },
   {
    "key": "MAD_BURNS_RICHARD_2026-11-22",
    "name": "Richard Scott Burns",
@@ -343,28 +398,6 @@
    "photo": "photos/VAN_MERIWETHER_JEREMIAH_2026-11-22.jpg"
   },
   {
-   "key": "ALL_WEST_REBECCA_2026-11-22",
-   "name": "Rebecca West",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1795337230,
-   "photo": "photos/ALL_WEST_REBECCA_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_ROSS_JOSEPH_2026-11-22",
-   "name": "Joseph Ross",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 3,
-   "ts": 1795333641,
-   "photo": "photos/ALL_ROSS_JOSEPH_2026-11-22.jpg"
-  },
-  {
    "key": "MAD_XIQQE_GIOVANNI_2026-11-22",
    "name": "Giovanni Xiqqe",
    "age": "20",
@@ -495,42 +528,64 @@
    "more": 0,
    "ts": 1795304854,
    "photo": null
-  },
-  {
-   "key": "MAD_FARLEY_JOEL_2026-11-21",
-   "name": "Joel Darrin Farley",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795294049,
-   "photo": null
-  },
-  {
-   "key": "POR_SCHWING_COLIN_2026-11-20",
-   "name": "Colin Ford Schwing",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1795290454,
-   "photo": "photos/POR_SCHWING_COLIN_2026-11-20.jpg"
-  },
-  {
-   "key": "POR_DRZEWIECKI_WILLIAM_2026-11-20",
-   "name": "William Jay Drzewiecki",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1795290451,
-   "photo": "photos/POR_DRZEWIECKI_WILLIAM_2026-11-20.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_GOMEZ_HUGO_2026-11-22",
+   "name": "Hugo Monroe Gomez",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Strangulation (simple)- no/minor Injury (L/6)",
+   "more": 1,
+   "ts": 1795398465,
+   "photo": "photos/MAD_GOMEZ_HUGO_2026-11-22.jpg"
+  },
+  {
+   "key": "POR_BIERKAMP_VICTORIA_2026-11-22",
+   "name": "Victoria Lynn Bierkamp",
+   "age": "36",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery-Moderate Bodily Injury",
+   "more": 0,
+   "ts": 1795398460,
+   "photo": "photos/POR_BIERKAMP_VICTORIA_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_GOODMAN_ETHAN_2026-11-22",
+   "name": "Ethan Ryan Goodman",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795398450,
+   "photo": "photos/VAN_GOODMAN_ETHAN_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_GIBSONWEAVER_CORINNA_2026-11-22",
+   "name": "Corinna Gibsonweaver",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Public Intoxication",
+   "more": 2,
+   "ts": 1795398442,
+   "photo": "photos/ALL_GIBSONWEAVER_CORINNA_2026-11-22.jpg"
+  },
+  {
+   "key": "ALL_COMBS_STEPHEN_2026-11-22",
+   "name": "Stephen Combs",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 3,
+   "ts": 1795398436,
+   "photo": "photos/ALL_COMBS_STEPHEN_2026-11-22.jpg"
+  },
   {
    "key": "MAD_BURNS_RICHARD_2026-11-22",
    "name": "Richard Scott Burns",
