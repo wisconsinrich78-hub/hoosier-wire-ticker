@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-23T03:47:31+00:00",
+ "updated": "2026-11-23T04:47:50+00:00",
  "items": [
+  {
+   "key": "ALL_PHILLIPS_GLENN_2026-11-22",
+   "name": "Glenn Phillips",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Escape",
+   "more": 1,
+   "ts": 1795409253,
+   "photo": "photos/ALL_PHILLIPS_GLENN_2026-11-22.jpg"
+  },
+  {
+   "key": "MAD_MILES_DARIS_2026-11-22",
+   "name": "Daris Ty Cier Miles",
+   "age": "21",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1795409247,
+   "photo": null
+  },
+  {
+   "key": "ALL_DALER_AMANDA_2026-11-22",
+   "name": "Amanda Daler",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795409243,
+   "photo": "photos/ALL_DALER_AMANDA_2026-11-22.jpg"
+  },
+  {
+   "key": "MAD_HARRIER_AMBRY_2026-11-22",
+   "name": "Ambry Lynne Harrier",
+   "age": "22",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "more": 0,
+   "ts": 1795409242,
+   "photo": "photos/MAD_HARRIER_AMBRY_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_BEUMER_RICK_2026-11-22",
+   "name": "Rick Eugene Beumer",
+   "age": "62",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Dealing Cocaine or Narcotic Drug",
+   "more": 2,
+   "ts": 1795409241,
+   "photo": "photos/VAN_BEUMER_RICK_2026-11-22.jpg"
+  },
   {
    "key": "POR_HAMOOD_MOHAMAD_2026-11-22",
    "name": "Mohamad Bassem Hamood",
@@ -354,17 +409,6 @@
    "photo": null
   },
   {
-   "key": "ALL_HERRERA_VALERIE_2026-11-22",
-   "name": "Valerie Herrera",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1795366033,
-   "photo": "photos/ALL_HERRERA_VALERIE_2026-11-22.jpg"
-  },
-  {
    "key": "MAD_INGRAM_SEANELLE_2026-11-22",
    "name": "Seanelle Charlette Ingram",
    "age": "39",
@@ -385,17 +429,6 @@
    "more": 2,
    "ts": 1795340835,
    "photo": "photos/POR_GREEN_TOREY_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_HILKER_TIMOTHY_2026-11-22",
-   "name": "Timothy Hilker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 1,
-   "ts": 1795340831,
-   "photo": "photos/ALL_HILKER_TIMOTHY_2026-11-22.jpg"
   },
   {
    "key": "MAD_STOHLER_DEBBIE_2026-11-22",
@@ -495,42 +528,64 @@
    "more": 0,
    "ts": 1795315639,
    "photo": "photos/POR_DELGADO_MIGUEL_2026-11-21.jpg"
-  },
-  {
-   "key": "MAD_THOMAS_CODY_2026-11-21",
-   "name": "Cody Dale Thomas",
-   "age": "33",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Intimidation w/ Deadly Weapon",
-   "more": 4,
-   "ts": 1795312053,
-   "photo": "photos/MAD_THOMAS_CODY_2026-11-21.jpg"
-  },
-  {
-   "key": "POR_BARRON_CALEB_2026-11-21",
-   "name": "Caleb Ryan Barron",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endangerment",
-   "more": 2,
-   "ts": 1795312038,
-   "photo": "photos/POR_BARRON_CALEB_2026-11-21.jpg"
-  },
-  {
-   "key": "POR_HUBBARD_CADASHIA_2026-11-21",
-   "name": "Cadashia Renea Hubbard",
-   "age": "30",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Deception- Identity",
-   "more": 1,
-   "ts": 1795312036,
-   "photo": "photos/POR_HUBBARD_CADASHIA_2026-11-21.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_PHILLIPS_GLENN_2026-11-22",
+   "name": "Glenn Phillips",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Escape",
+   "more": 1,
+   "ts": 1795409253,
+   "photo": "photos/ALL_PHILLIPS_GLENN_2026-11-22.jpg"
+  },
+  {
+   "key": "MAD_MILES_DARIS_2026-11-22",
+   "name": "Daris Ty Cier Miles",
+   "age": "21",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1795409247,
+   "photo": null
+  },
+  {
+   "key": "ALL_DALER_AMANDA_2026-11-22",
+   "name": "Amanda Daler",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795409243,
+   "photo": "photos/ALL_DALER_AMANDA_2026-11-22.jpg"
+  },
+  {
+   "key": "MAD_HARRIER_AMBRY_2026-11-22",
+   "name": "Ambry Lynne Harrier",
+   "age": "22",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "more": 0,
+   "ts": 1795409242,
+   "photo": "photos/MAD_HARRIER_AMBRY_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_BEUMER_RICK_2026-11-22",
+   "name": "Rick Eugene Beumer",
+   "age": "62",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Dealing Cocaine or Narcotic Drug",
+   "more": 2,
+   "ts": 1795409241,
+   "photo": "photos/VAN_BEUMER_RICK_2026-11-22.jpg"
+  },
   {
    "key": "POR_HAMOOD_MOHAMAD_2026-11-22",
    "name": "Mohamad Bassem Hamood",
