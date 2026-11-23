@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-23T16:48:28+00:00",
+ "updated": "2026-11-23T17:47:38+00:00",
  "items": [
+  {
+   "key": "ALL_GALLACHER_GEORGE_2026-11-23",
+   "name": "George Gallacher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Voyeurism - Use of Camera or Prior Conviction",
+   "more": 0,
+   "ts": 1795456049,
+   "photo": "photos/ALL_GALLACHER_GEORGE_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_HESS_JAMES_2026-11-23",
+   "name": "James Hess",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sex / Violent Offender - Fail to Register - Prior",
+   "more": 0,
+   "ts": 1795456044,
+   "photo": "photos/ALL_HESS_JAMES_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_GIVANDS_NEHEMIAH_2026-11-23",
+   "name": "Nehemiah Givands",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1795456039,
+   "photo": null
+  },
+  {
+   "key": "POR_CHAVEZ_CHANDLER_2026-11-22",
+   "name": "Chandler David Chavez",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol",
+   "more": 0,
+   "ts": 1795456035,
+   "photo": "photos/POR_CHAVEZ_CHANDLER_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_CLARK_ABBEY_2026-11-23",
+   "name": "Abbey Nicole Clark",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Vccc Filed Ptr",
+   "more": 1,
+   "ts": 1795456033,
+   "photo": null
+  },
   {
    "key": "MAD_STEWART_ANTHONY_2026-11-23",
    "name": "Anthony Lee Stewart",
@@ -343,17 +398,6 @@
    "photo": "photos/MAD_HAYNES_DUSTIN_2026-11-23.jpg"
   },
   {
-   "key": "ALL_PHILLIPS_GLENN_2026-11-22",
-   "name": "Glenn Phillips",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Escape",
-   "more": 1,
-   "ts": 1795409253,
-   "photo": "photos/ALL_PHILLIPS_GLENN_2026-11-22.jpg"
-  },
-  {
    "key": "MAD_MILES_DARIS_2026-11-22",
    "name": "Daris Ty Cier Miles",
    "age": "21",
@@ -363,17 +407,6 @@
    "more": 0,
    "ts": 1795409247,
    "photo": null
-  },
-  {
-   "key": "ALL_DALER_AMANDA_2026-11-22",
-   "name": "Amanda Daler",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795409243,
-   "photo": "photos/ALL_DALER_AMANDA_2026-11-22.jpg"
   },
   {
    "key": "MAD_HARRIER_AMBRY_2026-11-22",
@@ -453,17 +486,6 @@
    "photo": "photos/VAN_GOODMAN_ETHAN_2026-11-22.jpg"
   },
   {
-   "key": "ALL_GIBSONWEAVER_CORINNA_2026-11-22",
-   "name": "Corinna Gibsonweaver",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Public Intoxication",
-   "more": 2,
-   "ts": 1795398442,
-   "photo": "photos/ALL_GIBSONWEAVER_CORINNA_2026-11-22.jpg"
-  },
-  {
    "key": "MAD_BURNS_RICHARD_2026-11-22",
    "name": "Richard Scott Burns",
    "age": "35",
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1795394835,
    "photo": "photos/VAN_BLUME_GARY_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_FULKS_JASON_2026-11-22",
-   "name": "Jason Duane Fulks",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 0,
-   "ts": 1795391241,
-   "photo": "photos/VAN_FULKS_JASON_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_STEVENS_KADEN_2026-11-22",
-   "name": "Kaden Joseph Stevens",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Sex Offender- Req to Poss Valid Driver Lic [Am]",
-   "more": 1,
-   "ts": 1795391241,
-   "photo": "photos/VAN_STEVENS_KADEN_2026-11-22.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_GALLACHER_GEORGE_2026-11-23",
+   "name": "George Gallacher",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Voyeurism - Use of Camera or Prior Conviction",
+   "more": 0,
+   "ts": 1795456049,
+   "photo": "photos/ALL_GALLACHER_GEORGE_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_HESS_JAMES_2026-11-23",
+   "name": "James Hess",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sex / Violent Offender - Fail to Register - Prior",
+   "more": 0,
+   "ts": 1795456044,
+   "photo": "photos/ALL_HESS_JAMES_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_GIVANDS_NEHEMIAH_2026-11-23",
+   "name": "Nehemiah Givands",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1795456039,
+   "photo": null
+  },
+  {
+   "key": "POR_CHAVEZ_CHANDLER_2026-11-22",
+   "name": "Chandler David Chavez",
+   "age": "29",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol",
+   "more": 0,
+   "ts": 1795456035,
+   "photo": "photos/POR_CHAVEZ_CHANDLER_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_CLARK_ABBEY_2026-11-23",
+   "name": "Abbey Nicole Clark",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Vccc Filed Ptr",
+   "more": 1,
+   "ts": 1795456033,
+   "photo": null
+  },
   {
    "key": "MAD_STEWART_ANTHONY_2026-11-23",
    "name": "Anthony Lee Stewart",
@@ -2565,50 +2620,6 @@
    "more": 1,
    "ts": 1795200431,
    "photo": "photos/ALL_STUCKEY_ZACHARY_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_PIERCE_HENRY_2026-11-20",
-   "name": "Henry Adrian Pierce",
-   "age": "48",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Probation - Jail Booking",
-   "more": 0,
-   "ts": 1795196850,
-   "photo": "photos/MAD_PIERCE_HENRY_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_LAWRENCE_CHARLES_2026-11-20",
-   "name": "Charles Vernon Junior Lawrence",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795196848,
-   "photo": "photos/MAD_LAWRENCE_CHARLES_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_KENDALL_CHRISTOPHER_2026-11-20",
-   "name": "Christopher Seath Kendall",
-   "age": "44",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for 10 day Probation Violation - Jail Booking",
-   "more": 4,
-   "ts": 1795196847,
-   "photo": null
-  },
-  {
-   "key": "ALL_BLACK_RANDY_2026-11-20",
-   "name": "Randy Black",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1795196839,
-   "photo": "photos/ALL_BLACK_RANDY_2026-11-20.jpg"
   }
  ]
 }
