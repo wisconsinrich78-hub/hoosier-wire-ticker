@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-23T19:02:53+00:00",
+ "updated": "2026-11-23T19:47:47+00:00",
  "items": [
+  {
+   "key": "MAD_PETERS_CORY_2026-11-23",
+   "name": "Cory Thomas Peters",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795463254,
+   "photo": "photos/MAD_PETERS_CORY_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_WHEATON_JANARI_2026-11-23",
+   "name": "Janari Wheaton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795463247,
+   "photo": "photos/ALL_WHEATON_JANARI_2026-11-23.jpg"
+  },
+  {
+   "key": "MAD_HALLAM_MATTHEW_2026-11-23",
+   "name": "Matthew Roy Hallam",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Parole Violation - Jail Booking",
+   "more": 1,
+   "ts": 1795463246,
+   "photo": "photos/MAD_HALLAM_MATTHEW_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_REED_CHRISHONE_2026-11-23",
+   "name": "Chrishone Tyrell Reed",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 0,
+   "ts": 1795463245,
+   "photo": "photos/VAN_REED_CHRISHONE_2026-11-23.jpg"
+  },
   {
    "key": "MAD_ROBINSON_KIMBERLEY_2026-11-23",
    "name": "Kimberley Renea Robinson",
@@ -387,17 +431,6 @@
    "photo": "photos/ALL_SILVERS_NICHOLAS_2026-11-23.jpg"
   },
   {
-   "key": "ALL_WILSONWINDER_LATONY_2026-11-23",
-   "name": "Latony Wilson-Winder",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795420043,
-   "photo": "photos/ALL_WILSONWINDER_LATONY_2026-11-23.jpg"
-  },
-  {
    "key": "VAN_SIGLER_ANDREW_2026-11-22",
    "name": "Andrew Ryan Sigler",
    "age": "41",
@@ -495,42 +528,53 @@
    "more": 0,
    "ts": 1795405630,
    "photo": null
-  },
-  {
-   "key": "MAD_GOMEZ_HUGO_2026-11-22",
-   "name": "Hugo Monroe Gomez",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Strangulation (simple)- no/minor Injury (L/6)",
-   "more": 1,
-   "ts": 1795398465,
-   "photo": "photos/MAD_GOMEZ_HUGO_2026-11-22.jpg"
-  },
-  {
-   "key": "POR_BIERKAMP_VICTORIA_2026-11-22",
-   "name": "Victoria Lynn Bierkamp",
-   "age": "36",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Moderate Bodily Injury",
-   "more": 0,
-   "ts": 1795398460,
-   "photo": "photos/POR_BIERKAMP_VICTORIA_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_GOODMAN_ETHAN_2026-11-22",
-   "name": "Ethan Ryan Goodman",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795398450,
-   "photo": "photos/VAN_GOODMAN_ETHAN_2026-11-22.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_PETERS_CORY_2026-11-23",
+   "name": "Cory Thomas Peters",
+   "age": "37",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795463254,
+   "photo": "photos/MAD_PETERS_CORY_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_WHEATON_JANARI_2026-11-23",
+   "name": "Janari Wheaton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795463247,
+   "photo": "photos/ALL_WHEATON_JANARI_2026-11-23.jpg"
+  },
+  {
+   "key": "MAD_HALLAM_MATTHEW_2026-11-23",
+   "name": "Matthew Roy Hallam",
+   "age": "42",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Parole Violation - Jail Booking",
+   "more": 1,
+   "ts": 1795463246,
+   "photo": "photos/MAD_HALLAM_MATTHEW_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_REED_CHRISHONE_2026-11-23",
+   "name": "Chrishone Tyrell Reed",
+   "age": "37",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Strangulation",
+   "more": 0,
+   "ts": 1795463245,
+   "photo": "photos/VAN_REED_CHRISHONE_2026-11-23.jpg"
+  },
   {
    "key": "MAD_ROBINSON_KIMBERLEY_2026-11-23",
    "name": "Kimberley Renea Robinson",
@@ -2565,83 +2609,6 @@
    "more": 2,
    "ts": 1795207633,
    "photo": "photos/ALL_ANDERSON_KALIN_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_HILLIGOSS_JASON_2026-11-20",
-   "name": "Jason Patrick Hilligoss",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795204048,
-   "photo": "photos/MAD_HILLIGOSS_JASON_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_GOODWIN_RICHARD_2026-11-20",
-   "name": "Richard Lee Junior Goodwin",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795204047,
-   "photo": "photos/MAD_GOODWIN_RICHARD_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_BOYD_JONATHAN_2026-11-20",
-   "name": "Jonathan Douglass Boyd",
-   "age": "34",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795204045,
-   "photo": "photos/MAD_BOYD_JONATHAN_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_ASPEL_RONALD_2026-11-20",
-   "name": "Ronald James Aspel",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795204044,
-   "photo": "photos/MAD_ASPEL_RONALD_2026-11-20.jpg"
-  },
-  {
-   "key": "POR_CONGRESSJONES_KIMBERLY_2026-11-19",
-   "name": "Kimberly Angelica Congress-Jones",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
-   "more": 0,
-   "ts": 1795204040,
-   "photo": "photos/POR_CONGRESSJONES_KIMBERLY_2026-11-19.jpg"
-  },
-  {
-   "key": "VAN_ALLEN_REGINALD_2026-11-20",
-   "name": "Reginald Deshawn Allen",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 1,
-   "ts": 1795204037,
-   "photo": null
-  },
-  {
-   "key": "ALL_SYKES_MYREIONA_2026-11-20",
-   "name": "Myreiona Sykes",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Value of Property at Least 750 and Less Than\u2026",
-   "more": 3,
-   "ts": 1795204035,
-   "photo": "photos/ALL_SYKES_MYREIONA_2026-11-20.jpg"
   }
  ]
 }
