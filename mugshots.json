@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-23T01:47:59+00:00",
+ "updated": "2026-11-23T03:47:31+00:00",
  "items": [
+  {
+   "key": "POR_HAMOOD_MOHAMAD_2026-11-22",
+   "name": "Mohamad Bassem Hamood",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Resisting Law Enforcement Def. Uses a Vehicle.",
+   "more": 4,
+   "ts": 1795405634,
+   "photo": "photos/POR_HAMOOD_MOHAMAD_2026-11-22.jpg"
+  },
+  {
+   "key": "VAN_FELTON_TROY_2026-11-22",
+   "name": "Troy Dewayne Felton",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795405630,
+   "photo": null
+  },
   {
    "key": "MAD_GOMEZ_HUGO_2026-11-22",
    "name": "Hugo Monroe Gomez",
@@ -506,31 +528,31 @@
    "more": 1,
    "ts": 1795312036,
    "photo": "photos/POR_HUBBARD_CADASHIA_2026-11-21.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "POR_HAMOOD_MOHAMAD_2026-11-22",
+   "name": "Mohamad Bassem Hamood",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Resisting Law Enforcement Def. Uses a Vehicle.",
+   "more": 4,
+   "ts": 1795405634,
+   "photo": "photos/POR_HAMOOD_MOHAMAD_2026-11-22.jpg"
   },
   {
-   "key": "VAN_MERIWEATHER_MARIO_2026-11-21",
-   "name": "Mario Nmn Meriweather",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
-   "more": 0,
-   "ts": 1795308435,
-   "photo": "photos/VAN_MERIWEATHER_MARIO_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_EBERHARDT_DEVON_2026-11-21",
-   "name": "Devon Demitrius Eberhardt",
-   "age": "34",
+   "key": "VAN_FELTON_TROY_2026-11-22",
+   "name": "Troy Dewayne Felton",
+   "age": "44",
    "county": "Vanderburgh County",
    "region": "south",
    "charge": "Petition to Revoke Probation",
    "more": 0,
-   "ts": 1795304854,
+   "ts": 1795405630,
    "photo": null
-  }
- ],
- "all_items": [
+  },
   {
    "key": "MAD_GOMEZ_HUGO_2026-11-22",
    "name": "Hugo Monroe Gomez",
