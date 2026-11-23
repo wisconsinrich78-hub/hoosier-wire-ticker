@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-23T06:47:22+00:00",
+ "updated": "2026-11-23T07:47:36+00:00",
  "items": [
+  {
+   "key": "ALL_SILVERS_NICHOLAS_2026-11-23",
+   "name": "Nicholas Silvers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 3,
+   "ts": 1795420048,
+   "photo": "photos/ALL_SILVERS_NICHOLAS_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_WILSONWINDER_LATONY_2026-11-23",
+   "name": "Latony Wilson-Winder",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795420043,
+   "photo": "photos/ALL_WILSONWINDER_LATONY_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_GOYTISOLO_FERMIN_2026-11-23",
+   "name": "Fermin Goytisolo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Prior Unrelated Conviction for Battery Against\u2026",
+   "more": 1,
+   "ts": 1795420038,
+   "photo": "photos/ALL_GOYTISOLO_FERMIN_2026-11-23.jpg"
+  },
   {
    "key": "ALL_STONE_MICHAEL_2026-11-23",
    "name": "Michael Stone",
@@ -420,39 +453,6 @@
    "photo": "photos/VAN_HALL_MORGON_2026-11-22.jpg"
   },
   {
-   "key": "ALL_SAMPLE_JHALEASE_2026-11-22",
-   "name": "Jhalease Sample",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% and < .15%",
-   "more": 3,
-   "ts": 1795366065,
-   "photo": "photos/ALL_SAMPLE_JHALEASE_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_SNYDER_CHRISTINA_2026-11-22",
-   "name": "Christina Snyder",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery Enhanced with Previous Unrelated Conviction (S)",
-   "more": 1,
-   "ts": 1795366061,
-   "photo": "photos/ALL_SNYDER_CHRISTINA_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_LOPEZ_BRENDAN_2026-11-22",
-   "name": "Brendan Lopez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% and < .15%",
-   "more": 1,
-   "ts": 1795366050,
-   "photo": null
-  },
-  {
    "key": "MAD_INGRAM_SEANELLE_2026-11-22",
    "name": "Seanelle Charlette Ingram",
    "age": "39",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_SILVERS_NICHOLAS_2026-11-23",
+   "name": "Nicholas Silvers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 3,
+   "ts": 1795420048,
+   "photo": "photos/ALL_SILVERS_NICHOLAS_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_WILSONWINDER_LATONY_2026-11-23",
+   "name": "Latony Wilson-Winder",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795420043,
+   "photo": "photos/ALL_WILSONWINDER_LATONY_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_GOYTISOLO_FERMIN_2026-11-23",
+   "name": "Fermin Goytisolo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Prior Unrelated Conviction for Battery Against\u2026",
+   "more": 1,
+   "ts": 1795420038,
+   "photo": "photos/ALL_GOYTISOLO_FERMIN_2026-11-23.jpg"
+  },
   {
    "key": "ALL_STONE_MICHAEL_2026-11-23",
    "name": "Michael Stone",
@@ -2543,17 +2576,6 @@
    "more": 4,
    "ts": 1795164432,
    "photo": "photos/ALL_NICKOLSON_BRITTNAY_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_WILLIAMSON_HUNTER_2026-11-20",
-   "name": "Hunter Kaine Williamson",
-   "age": "18",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Leaving the scene of a crash- serious bodily injury",
-   "more": 1,
-   "ts": 1795160844,
-   "photo": "photos/MAD_WILLIAMSON_HUNTER_2026-11-20.jpg"
   }
  ]
 }
