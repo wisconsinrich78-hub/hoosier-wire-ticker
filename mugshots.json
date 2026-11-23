@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:48:05+00:00",
+ "updated": "2026-11-23T10:59:05+00:00",
  "items": [
   {
    "key": "POR_ZINSOU_FREJUS_2026-11-22",
@@ -2554,28 +2554,6 @@
    "more": 0,
    "ts": 1795175237,
    "photo": "photos/VAN_CALHOUN_LEROY_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_STEPHAN_AMANDA_2026-11-20",
-   "name": "Amanda Faith Stephan",
-   "age": "52",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
-   "more": 1,
-   "ts": 1795171633,
-   "photo": "photos/VAN_STEPHAN_AMANDA_2026-11-20.jpg"
-  },
-  {
-   "key": "POR_LANDESS_CODI_2026-11-19",
-   "name": "Codi Lynn Landess",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1795171632,
-   "photo": "photos/POR_LANDESS_CODI_2026-11-19.jpg"
   }
  ]
 }
