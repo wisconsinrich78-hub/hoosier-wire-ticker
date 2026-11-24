@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-24T16:48:38+00:00",
+ "updated": "2026-11-24T17:48:08+00:00",
  "items": [
+  {
+   "key": "MAD_SMITHSHELTON_AMBER_2026-11-24",
+   "name": "Amber Nicole Smith-Shelton",
+   "age": "44",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795542467,
+   "photo": "photos/MAD_SMITHSHELTON_AMBER_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_HOBBS_THOMAS_2026-11-24",
+   "name": "Thomas Wesley Hobbs",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Value of Property at Least $750 and Less That $50,000",
+   "more": 0,
+   "ts": 1795542439,
+   "photo": "photos/VAN_HOBBS_THOMAS_2026-11-24.jpg"
+  },
   {
    "key": "MAD_RAYFORD_ROBIN_2026-11-24",
    "name": "Robin Darnell Rayford",
@@ -464,17 +486,6 @@
    "photo": "photos/VAN_DELGADO_ALAZAY_2026-11-23.jpg"
   },
   {
-   "key": "VAN_IVY_MARCUS_2026-11-23",
-   "name": "Marcus Edward Ivy",
-   "age": "53",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795477644,
-   "photo": "photos/VAN_IVY_MARCUS_2026-11-23.jpg"
-  },
-  {
    "key": "MAD_MABBITT_SUMMER_2026-11-23",
    "name": "Summer Dawn Mabbitt",
    "age": "40",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795470449,
    "photo": "photos/MAD_PASCHAL_MANNIE_2026-11-23.jpg"
-  },
-  {
-   "key": "POR_BAWCUM_AMY_2026-11-22",
-   "name": "Amy Love Bawcum",
-   "age": "38",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/Salvia",
-   "more": 3,
-   "ts": 1795470441,
-   "photo": "photos/POR_BAWCUM_AMY_2026-11-22.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SMITHSHELTON_AMBER_2026-11-24",
+   "name": "Amber Nicole Smith-Shelton",
+   "age": "44",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795542467,
+   "photo": "photos/MAD_SMITHSHELTON_AMBER_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_HOBBS_THOMAS_2026-11-24",
+   "name": "Thomas Wesley Hobbs",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Value of Property at Least $750 and Less That $50,000",
+   "more": 0,
+   "ts": 1795542439,
+   "photo": "photos/VAN_HOBBS_THOMAS_2026-11-24.jpg"
+  },
   {
    "key": "MAD_RAYFORD_ROBIN_2026-11-24",
    "name": "Robin Darnell Rayford",
@@ -2587,28 +2609,6 @@
    "more": 0,
    "ts": 1795286833,
    "photo": null
-  },
-  {
-   "key": "ALL_WOODS_MARJORIE_2026-11-21",
-   "name": "Marjorie Woods",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Paraphernalia",
-   "more": 1,
-   "ts": 1795283244,
-   "photo": "photos/ALL_WOODS_MARJORIE_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_SLAWSON_ALAN_2026-11-21",
-   "name": "Alan Jeffrey Slawson",
-   "age": "31",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Confinement",
-   "more": 1,
-   "ts": 1795283237,
-   "photo": "photos/VAN_SLAWSON_ALAN_2026-11-21.jpg"
   }
  ]
 }
