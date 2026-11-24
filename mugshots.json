@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-24T17:48:08+00:00",
+ "updated": "2026-11-24T18:47:59+00:00",
  "items": [
+  {
+   "key": "VAN_SINCLAIR_BLAKE_2026-11-24",
+   "name": "Blake Andrew Sinclair",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795546045,
+   "photo": "photos/VAN_SINCLAIR_BLAKE_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_THOMAS_KEONTAY_2026-11-24",
+   "name": "Keontay Dushon Thomas",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 2,
+   "ts": 1795546040,
+   "photo": null
+  },
   {
    "key": "MAD_SMITHSHELTON_AMBER_2026-11-24",
    "name": "Amber Nicole Smith-Shelton",
@@ -442,17 +464,6 @@
    "photo": "photos/VAN_WATKINS_DELTRICE_2026-11-23.jpg"
   },
   {
-   "key": "VAN_ROBERSON_LATRENA_2026-11-23",
-   "name": "Latrena Arebae Pearl Roberson",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 5,
-   "ts": 1795481237,
-   "photo": null
-  },
-  {
    "key": "ALL_MEEKS_WILLIAM_2026-11-23",
    "name": "William Meeks",
    "age": "",
@@ -473,17 +484,6 @@
    "more": 0,
    "ts": 1795477659,
    "photo": "photos/MAD_DUFFY_RONALD_2026-11-23.jpg"
-  },
-  {
-   "key": "VAN_DELGADO_ALAZAY_2026-11-23",
-   "name": "Alazay Haven Delgado",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795477647,
-   "photo": "photos/VAN_DELGADO_ALAZAY_2026-11-23.jpg"
   },
   {
    "key": "MAD_MABBITT_SUMMER_2026-11-23",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_SINCLAIR_BLAKE_2026-11-24",
+   "name": "Blake Andrew Sinclair",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795546045,
+   "photo": "photos/VAN_SINCLAIR_BLAKE_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_THOMAS_KEONTAY_2026-11-24",
+   "name": "Keontay Dushon Thomas",
+   "age": "33",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 2,
+   "ts": 1795546040,
+   "photo": null
+  },
   {
    "key": "MAD_SMITHSHELTON_AMBER_2026-11-24",
    "name": "Amber Nicole Smith-Shelton",
@@ -2565,50 +2587,6 @@
    "more": 0,
    "ts": 1795290447,
    "photo": "photos/VAN_STRAIGHT_KENDALL_2026-11-21.jpg"
-  },
-  {
-   "key": "POR_SELIGER_RYAN_2026-11-20",
-   "name": "Ryan Keith Seliger",
-   "age": "40",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 1,
-   "ts": 1795286856,
-   "photo": "photos/POR_SELIGER_RYAN_2026-11-20.jpg"
-  },
-  {
-   "key": "POR_FITCHIE_FORREST_2026-11-20",
-   "name": "Forrest Dale Fitchie",
-   "age": "59",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795286853,
-   "photo": "photos/POR_FITCHIE_FORREST_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_MCCLEARY_MEILI_2026-11-21",
-   "name": "Meili Marie Mccleary",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Treatment Court Filed Ptr",
-   "more": 0,
-   "ts": 1795286848,
-   "photo": "photos/VAN_MCCLEARY_MEILI_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_DORVIL_SYLVIO_2026-11-21",
-   "name": "Sylvio Dorvil",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1795286833,
-   "photo": null
   }
  ]
 }
