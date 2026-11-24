@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-24T00:01:15+00:00",
+ "updated": "2026-11-24T00:47:55+00:00",
  "items": [
+  {
+   "key": "MAD_SPARKMAN_KAYLIN_2026-11-23",
+   "name": "Kaylin Paige Sparkman",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795481263,
+   "photo": "photos/MAD_SPARKMAN_KAYLIN_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_ADCOCK_CHRISTIAN_2026-11-23",
+   "name": "Christian Alexander Adcock",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1795481243,
+   "photo": "photos/VAN_ADCOCK_CHRISTIAN_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_WATKINS_DELTRICE_2026-11-23",
+   "name": "Deltrice Lamecia Watkins",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795481241,
+   "photo": "photos/VAN_WATKINS_DELTRICE_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_ROBERSON_LATRENA_2026-11-23",
+   "name": "Latrena Arebae Pearl Roberson",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 5,
+   "ts": 1795481237,
+   "photo": null
+  },
+  {
+   "key": "ALL_MEEKS_WILLIAM_2026-11-23",
+   "name": "William Meeks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Distribution of an Intimate Image - Nonconsensual Pornography",
+   "more": 0,
+   "ts": 1795481234,
+   "photo": "photos/ALL_MEEKS_WILLIAM_2026-11-23.jpg"
+  },
   {
    "key": "MAD_DUFFY_RONALD_2026-11-23",
    "name": "Ronald Eugene Duffy",
@@ -473,64 +528,64 @@
    "more": 0,
    "ts": 1795452486,
    "photo": "photos/POR_SUYAK_CHERYL_2026-11-22.jpg"
-  },
-  {
-   "key": "POR_FOX_ZANE_2026-11-22",
-   "name": "Zane Edwin Fox",
-   "age": "25",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Leaving the Scene of a Crash- Property Damage Crash",
-   "more": 4,
-   "ts": 1795452482,
-   "photo": "photos/POR_FOX_ZANE_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_LONGEST_JUSTIN_2026-11-23",
-   "name": "Justin Ray Longest",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 0,
-   "ts": 1795452479,
-   "photo": "photos/VAN_LONGEST_JUSTIN_2026-11-23.jpg"
-  },
-  {
-   "key": "VAN_GALINDO_JOSHUA_2026-11-23",
-   "name": "Joshua Alberto Galindo",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement (A Misd)",
-   "more": 2,
-   "ts": 1795452478,
-   "photo": "photos/VAN_GALINDO_JOSHUA_2026-11-23.jpg"
-  },
-  {
-   "key": "VAN_BROOKS_CHEYENNE_2026-11-23",
-   "name": "Cheyenne Renea Brooklyne Brooks",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 3,
-   "ts": 1795452475,
-   "photo": "photos/VAN_BROOKS_CHEYENNE_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_KAHN_WILLIAM_2026-11-23",
-   "name": "William Kahn",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1795452468,
-   "photo": "photos/ALL_KAHN_WILLIAM_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SPARKMAN_KAYLIN_2026-11-23",
+   "name": "Kaylin Paige Sparkman",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795481263,
+   "photo": "photos/MAD_SPARKMAN_KAYLIN_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_ADCOCK_CHRISTIAN_2026-11-23",
+   "name": "Christian Alexander Adcock",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1795481243,
+   "photo": "photos/VAN_ADCOCK_CHRISTIAN_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_WATKINS_DELTRICE_2026-11-23",
+   "name": "Deltrice Lamecia Watkins",
+   "age": "53",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795481241,
+   "photo": "photos/VAN_WATKINS_DELTRICE_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_ROBERSON_LATRENA_2026-11-23",
+   "name": "Latrena Arebae Pearl Roberson",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 5,
+   "ts": 1795481237,
+   "photo": null
+  },
+  {
+   "key": "ALL_MEEKS_WILLIAM_2026-11-23",
+   "name": "William Meeks",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Distribution of an Intimate Image - Nonconsensual Pornography",
+   "more": 0,
+   "ts": 1795481234,
+   "photo": "photos/ALL_MEEKS_WILLIAM_2026-11-23.jpg"
+  },
   {
    "key": "MAD_DUFFY_RONALD_2026-11-23",
    "name": "Ronald Eugene Duffy",
