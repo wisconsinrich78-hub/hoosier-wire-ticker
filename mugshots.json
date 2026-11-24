@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T01:48:01+00:00",
+ "updated": "2026-11-24T02:47:16+00:00",
  "items": [
+  {
+   "key": "ALL_WILLIAMS_JERALD_2026-11-23",
+   "name": "Jerald Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1795488434,
+   "photo": "photos/ALL_WILLIAMS_JERALD_2026-11-23.jpg"
+  },
   {
    "key": "VAN_ZACK_WHITLEY_2026-11-23",
    "name": "Whitley Shaye Zack",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795452495,
    "photo": null
-  },
-  {
-   "key": "MAD_HARTWELL_ANTARIO_2026-11-23",
-   "name": "Antario Lyrone Hartwell",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of In Home Detention",
-   "more": 1,
-   "ts": 1795452493,
-   "photo": "photos/MAD_HARTWELL_ANTARIO_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_WILLIAMS_JERALD_2026-11-23",
+   "name": "Jerald Williams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1795488434,
+   "photo": "photos/ALL_WILLIAMS_JERALD_2026-11-23.jpg"
+  },
   {
    "key": "VAN_ZACK_WHITLEY_2026-11-23",
    "name": "Whitley Shaye Zack",
