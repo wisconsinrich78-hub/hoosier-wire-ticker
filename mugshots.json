@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-24T03:47:32+00:00",
+ "updated": "2026-11-24T04:48:04+00:00",
  "items": [
+  {
+   "key": "VAN_THOMAS_WILLIAM_2026-11-23",
+   "name": "William Leroy Thomas",
+   "age": "57",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 2,
+   "ts": 1795495647,
+   "photo": "photos/VAN_THOMAS_WILLIAM_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_MORKEN_PHYLLISA_2026-11-23",
+   "name": "Phyllisa Morken",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > or = to .15%",
+   "more": 3,
+   "ts": 1795495639,
+   "photo": "photos/ALL_MORKEN_PHYLLISA_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_HAIRSTON_ZEIQUIL_2026-11-23",
+   "name": "Zeiquil Hairston",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Strangulation Simple No or Minor Injury",
+   "more": 1,
+   "ts": 1795495633,
+   "photo": "photos/ALL_HAIRSTON_ZEIQUIL_2026-11-23.jpg"
+  },
   {
    "key": "VAN_COBREN_TRESSY_2026-11-23",
    "name": "Tressy Ann Cobren",
@@ -409,17 +442,6 @@
    "photo": "photos/MAD_ROBINSON_KIMBERLEY_2026-11-23.jpg"
   },
   {
-   "key": "VAN_SMALL_BAMBI_2026-11-23",
-   "name": "Bambi Renee Small",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 0,
-   "ts": 1795459652,
-   "photo": "photos/VAN_SMALL_BAMBI_2026-11-23.jpg"
-  },
-  {
    "key": "ALL_SPONHOWER_SETH_2026-11-23",
    "name": "Seth Sponhower",
    "age": "",
@@ -462,28 +484,6 @@
    "more": 0,
    "ts": 1795456049,
    "photo": "photos/ALL_GALLACHER_GEORGE_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_HESS_JAMES_2026-11-23",
-   "name": "James Hess",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sex / Violent Offender - Fail to Register - Prior",
-   "more": 0,
-   "ts": 1795456044,
-   "photo": "photos/ALL_HESS_JAMES_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_GIVANDS_NEHEMIAH_2026-11-23",
-   "name": "Nehemiah Givands",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1795456039,
-   "photo": null
   },
   {
    "key": "POR_CHAVEZ_CHANDLER_2026-11-22",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_THOMAS_WILLIAM_2026-11-23",
+   "name": "William Leroy Thomas",
+   "age": "57",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 2,
+   "ts": 1795495647,
+   "photo": "photos/VAN_THOMAS_WILLIAM_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_MORKEN_PHYLLISA_2026-11-23",
+   "name": "Phyllisa Morken",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > or = to .15%",
+   "more": 3,
+   "ts": 1795495639,
+   "photo": "photos/ALL_MORKEN_PHYLLISA_2026-11-23.jpg"
+  },
+  {
+   "key": "ALL_HAIRSTON_ZEIQUIL_2026-11-23",
+   "name": "Zeiquil Hairston",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Strangulation Simple No or Minor Injury",
+   "more": 1,
+   "ts": 1795495633,
+   "photo": "photos/ALL_HAIRSTON_ZEIQUIL_2026-11-23.jpg"
+  },
   {
    "key": "VAN_COBREN_TRESSY_2026-11-23",
    "name": "Tressy Ann Cobren",
