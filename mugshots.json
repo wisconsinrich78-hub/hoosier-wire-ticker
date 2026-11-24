@@ -1,6 +1,138 @@
 {
- "updated": "2026-11-24T11:31:34+00:00",
+ "updated": "2026-11-24T16:48:38+00:00",
  "items": [
+  {
+   "key": "MAD_RAYFORD_ROBIN_2026-11-24",
+   "name": "Robin Darnell Rayford",
+   "age": "50",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Drug Court - Jail Booking",
+   "more": 1,
+   "ts": 1795538908,
+   "photo": "photos/MAD_RAYFORD_ROBIN_2026-11-24.jpg"
+  },
+  {
+   "key": "MAD_MAY_BRANDON_2026-11-24",
+   "name": "Brandon Lee May",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Nonsupport of dependent/prior conviction",
+   "more": 0,
+   "ts": 1795538905,
+   "photo": "photos/MAD_MAY_BRANDON_2026-11-24.jpg"
+  },
+  {
+   "key": "MAD_KING_MADELINE_2026-11-24",
+   "name": "Madeline Paige King",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Rle",
+   "more": 1,
+   "ts": 1795538904,
+   "photo": "photos/MAD_KING_MADELINE_2026-11-24.jpg"
+  },
+  {
+   "key": "MAD_CHANLEY_RAYMOND_2026-11-24",
+   "name": "Raymond Scott Chanley",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 1,
+   "ts": 1795538898,
+   "photo": "photos/MAD_CHANLEY_RAYMOND_2026-11-24.jpg"
+  },
+  {
+   "key": "POR_MCKINNEY_JASON_2026-11-23",
+   "name": "Jason Paul Mckinney",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 5,
+   "ts": 1795538889,
+   "photo": "photos/POR_MCKINNEY_JASON_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_JAGOE_KYLE_2026-11-24",
+   "name": "Kyle William Jagoe",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 1,
+   "ts": 1795538879,
+   "photo": "photos/VAN_JAGOE_KYLE_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_HOUSTON_BRYAN_2026-11-24",
+   "name": "Bryan Michael Houston",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 1,
+   "ts": 1795538870,
+   "photo": "photos/VAN_HOUSTON_BRYAN_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_SHEPPERLY_AVA_2026-11-24",
+   "name": "Ava Paige Shepperly",
+   "age": "18",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795538868,
+   "photo": "photos/VAN_SHEPPERLY_AVA_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_CHAMBERS_CAMERON_2026-11-24",
+   "name": "Cameron Chambers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1795538859,
+   "photo": "photos/ALL_CHAMBERS_CAMERON_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_FEIPEL_JACOB_2026-11-24",
+   "name": "Jacob Feipel",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > or = to .15%",
+   "more": 0,
+   "ts": 1795538852,
+   "photo": "photos/ALL_FEIPEL_JACOB_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_ADAMS_JERRIAUN_2026-11-24",
+   "name": "Jerriaun Adams",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1795538846,
+   "photo": "photos/ALL_ADAMS_JERRIAUN_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_SAVAGE_MAKALA_2026-11-24",
+   "name": "Makala Savage",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1795538841,
+   "photo": "photos/ALL_SAVAGE_MAKALA_2026-11-24.jpg"
+  },
   {
    "key": "VAN_MCINTYRE_RYAN_2026-11-24",
    "name": "Ryan Patrick Mcintyre",
@@ -343,39 +475,6 @@
    "photo": "photos/VAN_IVY_MARCUS_2026-11-23.jpg"
   },
   {
-   "key": "VAN_SMITH_THOMAS_2026-11-23",
-   "name": "Thomas Benjamin Smith",
-   "age": "54",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795477642,
-   "photo": "photos/VAN_SMITH_THOMAS_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_MOORE_DERRIAN_2026-11-23",
-   "name": "Derrian Moore",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Murder - Attempted",
-   "more": 0,
-   "ts": 1795477637,
-   "photo": "photos/ALL_MOORE_DERRIAN_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_KAR_BAR_2026-11-23",
-   "name": "Bar Kar",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Battery on a Person Less Than 14 Years Old",
-   "more": 0,
-   "ts": 1795477632,
-   "photo": "photos/ALL_KAR_BAR_2026-11-23.jpg"
-  },
-  {
    "key": "MAD_MABBITT_SUMMER_2026-11-23",
    "name": "Summer Dawn Mabbitt",
    "age": "40",
@@ -384,17 +483,6 @@
    "charge": "",
    "more": 0,
    "ts": 1795474039,
-   "photo": null
-  },
-  {
-   "key": "ALL_LACAI_KEIZO_2026-11-23",
-   "name": "Keizo Lacai",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1795474029,
    "photo": null
   },
   {
@@ -440,97 +528,141 @@
    "more": 3,
    "ts": 1795470441,
    "photo": "photos/POR_BAWCUM_AMY_2026-11-22.jpg"
+  }
+ ],
+ "all_items": [
+  {
+   "key": "MAD_RAYFORD_ROBIN_2026-11-24",
+   "name": "Robin Darnell Rayford",
+   "age": "50",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Drug Court - Jail Booking",
+   "more": 1,
+   "ts": 1795538908,
+   "photo": "photos/MAD_RAYFORD_ROBIN_2026-11-24.jpg"
   },
   {
-   "key": "VAN_CUSICK_NICOLE_2026-11-23",
-   "name": "Nicole Irene Cusick",
-   "age": "35",
+   "key": "MAD_MAY_BRANDON_2026-11-24",
+   "name": "Brandon Lee May",
+   "age": "43",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Nonsupport of dependent/prior conviction",
+   "more": 0,
+   "ts": 1795538905,
+   "photo": "photos/MAD_MAY_BRANDON_2026-11-24.jpg"
+  },
+  {
+   "key": "MAD_KING_MADELINE_2026-11-24",
+   "name": "Madeline Paige King",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Rle",
+   "more": 1,
+   "ts": 1795538904,
+   "photo": "photos/MAD_KING_MADELINE_2026-11-24.jpg"
+  },
+  {
+   "key": "MAD_CHANLEY_RAYMOND_2026-11-24",
+   "name": "Raymond Scott Chanley",
+   "age": "48",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Court Commitment",
+   "more": 1,
+   "ts": 1795538898,
+   "photo": "photos/MAD_CHANLEY_RAYMOND_2026-11-24.jpg"
+  },
+  {
+   "key": "POR_MCKINNEY_JASON_2026-11-23",
+   "name": "Jason Paul Mckinney",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Probation Violation",
+   "more": 5,
+   "ts": 1795538889,
+   "photo": "photos/POR_MCKINNEY_JASON_2026-11-23.jpg"
+  },
+  {
+   "key": "VAN_JAGOE_KYLE_2026-11-24",
+   "name": "Kyle William Jagoe",
+   "age": "30",
    "county": "Vanderburgh County",
    "region": "south",
-   "charge": "Motor Vehicle- Leaving the Scene of a Crash- Property Damage",
-   "more": 0,
-   "ts": 1795470438,
-   "photo": "photos/VAN_CUSICK_NICOLE_2026-11-23.jpg"
+   "charge": "Controlled Substance- Possess Paraphernalia",
+   "more": 1,
+   "ts": 1795538879,
+   "photo": "photos/VAN_JAGOE_KYLE_2026-11-24.jpg"
   },
   {
-   "key": "ALL_LEE_STACY_2026-11-23",
-   "name": "Stacy Lee",
+   "key": "VAN_HOUSTON_BRYAN_2026-11-24",
+   "name": "Bryan Michael Houston",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Other Agencies Charges",
+   "more": 1,
+   "ts": 1795538870,
+   "photo": "photos/VAN_HOUSTON_BRYAN_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_SHEPPERLY_AVA_2026-11-24",
+   "name": "Ava Paige Shepperly",
+   "age": "18",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795538868,
+   "photo": "photos/VAN_SHEPPERLY_AVA_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_CHAMBERS_CAMERON_2026-11-24",
+   "name": "Cameron Chambers",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish",
+   "more": 0,
+   "ts": 1795538859,
+   "photo": "photos/ALL_CHAMBERS_CAMERON_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_FEIPEL_JACOB_2026-11-24",
+   "name": "Jacob Feipel",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > or = to .15%",
+   "more": 0,
+   "ts": 1795538852,
+   "photo": "photos/ALL_FEIPEL_JACOB_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_ADAMS_JERRIAUN_2026-11-24",
+   "name": "Jerriaun Adams",
    "age": "",
    "county": "Allen County",
    "region": "northeast",
    "charge": "Home Detention Placement Violation",
    "more": 0,
-   "ts": 1795470433,
-   "photo": "photos/ALL_LEE_STACY_2026-11-23.jpg"
+   "ts": 1795538846,
+   "photo": "photos/ALL_ADAMS_JERRIAUN_2026-11-24.jpg"
   },
   {
-   "key": "MAD_YOUNG_JEREMIAH_2026-11-23",
-   "name": "Jeremiah Young",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795466865,
-   "photo": null
+   "key": "ALL_SAVAGE_MAKALA_2026-11-24",
+   "name": "Makala Savage",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 2,
+   "ts": 1795538841,
+   "photo": "photos/ALL_SAVAGE_MAKALA_2026-11-24.jpg"
   },
-  {
-   "key": "MAD_WILSONJONES_NAYVIN_2026-11-23",
-   "name": "Nayvin Isaiah Wilson-Jones",
-   "age": "22",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795466864,
-   "photo": "photos/MAD_WILSONJONES_NAYVIN_2026-11-23.jpg"
-  },
-  {
-   "key": "VAN_SCOTT_TRINITY_2026-11-23",
-   "name": "Trinity Coryona Dolores Scott",
-   "age": "25",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 1,
-   "ts": 1795466843,
-   "photo": "photos/VAN_SCOTT_TRINITY_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_PETERS_CORY_2026-11-23",
-   "name": "Cory Thomas Peters",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795463254,
-   "photo": "photos/MAD_PETERS_CORY_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_HALLAM_MATTHEW_2026-11-23",
-   "name": "Matthew Roy Hallam",
-   "age": "42",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Parole Violation - Jail Booking",
-   "more": 1,
-   "ts": 1795463246,
-   "photo": "photos/MAD_HALLAM_MATTHEW_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_ROBINSON_KIMBERLEY_2026-11-23",
-   "name": "Kimberley Renea Robinson",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795459670,
-   "photo": "photos/MAD_ROBINSON_KIMBERLEY_2026-11-23.jpg"
-  }
- ],
- "all_items": [
   {
    "key": "VAN_MCINTYRE_RYAN_2026-11-24",
    "name": "Ryan Patrick Mcintyre",
@@ -2477,138 +2609,6 @@
    "more": 1,
    "ts": 1795283237,
    "photo": "photos/VAN_SLAWSON_ALAN_2026-11-21.jpg"
-  },
-  {
-   "key": "MAD_FULLER_STASHON_2026-11-21",
-   "name": "Stashon Dionte Senior Fuller",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1795276054,
-   "photo": "photos/MAD_FULLER_STASHON_2026-11-21.jpg"
-  },
-  {
-   "key": "POR_GMITEREK_BRENT_2026-11-20",
-   "name": "Brent C Gmiterek",
-   "age": "43",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Family Offense- Invasion of Privacy",
-   "more": 0,
-   "ts": 1795276043,
-   "photo": "photos/POR_GMITEREK_BRENT_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_GRAY_STEVEN_2026-11-21",
-   "name": "Steven Thomas Gray",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795272453,
-   "photo": "photos/MAD_GRAY_STEVEN_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_SUTTON_WESLEY_2026-11-21",
-   "name": "Wesley Lee Sutton",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795272438,
-   "photo": "photos/VAN_SUTTON_WESLEY_2026-11-21.jpg"
-  },
-  {
-   "key": "MAD_AMELL_JADESS_2026-11-21",
-   "name": "Jadess Ann Marie Amell",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated",
-   "more": 0,
-   "ts": 1795268850,
-   "photo": "photos/MAD_AMELL_JADESS_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_KNOX_TINA_2026-11-21",
-   "name": "Tina Knox",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Cocaine or Narcotic Drug",
-   "more": 1,
-   "ts": 1795268840,
-   "photo": "photos/ALL_KNOX_TINA_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_KING_PASSION_2026-11-21",
-   "name": "Passion King",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1795268831,
-   "photo": "photos/ALL_KING_PASSION_2026-11-21.jpg"
-  },
-  {
-   "key": "POR_MURPHY_ASHLEY_2026-11-20",
-   "name": "Ashley Licole Murphy",
-   "age": "39",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1795265237,
-   "photo": "photos/POR_MURPHY_ASHLEY_2026-11-20.jpg"
-  },
-  {
-   "key": "POR_JOHNS_TRACY_2026-11-20",
-   "name": "Tracy Lee Johns",
-   "age": "60",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Family Offense- Invasion of Privacy",
-   "more": 0,
-   "ts": 1795265231,
-   "photo": "photos/POR_JOHNS_TRACY_2026-11-20.jpg"
-  },
-  {
-   "key": "MAD_JACINTHE_JONATHAN_2026-11-21",
-   "name": "Jonathan Andy Jacinthe",
-   "age": "29",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795261643,
-   "photo": null
-  },
-  {
-   "key": "POR_BASILE_DAVID_2026-11-20",
-   "name": "David Paul Basile",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Revocation of Probation",
-   "more": 0,
-   "ts": 1795261633,
-   "photo": "photos/POR_BASILE_DAVID_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_LEISTER_CORY_2026-11-21",
-   "name": "Cory Dean Leister",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 1,
-   "ts": 1795261630,
-   "photo": "photos/VAN_LEISTER_CORY_2026-11-21.jpg"
   }
  ]
 }
