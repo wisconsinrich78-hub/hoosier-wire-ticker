@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:47:50+00:00",
+ "updated": "2026-11-24T22:47:27+00:00",
  "items": [
   {
    "key": "MAD_SKEEN_GEORGE_2026-11-24",
@@ -2675,17 +2675,6 @@
    "more": 3,
    "ts": 1795304842,
    "photo": "photos/ALL_PERKINS_MELVIN_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_MARTI_JAMES_2026-11-21",
-   "name": "James Marti",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 1,
-   "ts": 1795301233,
-   "photo": "photos/ALL_MARTI_JAMES_2026-11-21.jpg"
   }
  ]
 }
