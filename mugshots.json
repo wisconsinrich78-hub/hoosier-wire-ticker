@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-24T06:48:05+00:00",
+ "updated": "2026-11-24T07:47:41+00:00",
  "items": [
+  {
+   "key": "MAD_TRAVIS_NATHAN_2026-11-24",
+   "name": "Nathan Charles Travis",
+   "age": "30",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795506452,
+   "photo": null
+  },
+  {
+   "key": "MAD_FIELDS_AMANDA_2026-11-24",
+   "name": "Amanda June Fields",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession paraphernalia",
+   "more": 2,
+   "ts": 1795506442,
+   "photo": "photos/MAD_FIELDS_AMANDA_2026-11-24.jpg"
+  },
   {
    "key": "MAD_PIPITO_LOUIS_2026-11-24",
    "name": "Louis Pipito",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795459670,
    "photo": "photos/MAD_ROBINSON_KIMBERLEY_2026-11-23.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "POR_CHAVEZ_CHANDLER_2026-11-22",
-   "name": "Chandler David Chavez",
-   "age": "29",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol",
-   "more": 0,
-   "ts": 1795456035,
-   "photo": "photos/POR_CHAVEZ_CHANDLER_2026-11-22.jpg"
-  },
-  {
-   "key": "MAD_STEWART_ANTHONY_2026-11-23",
-   "name": "Anthony Lee Stewart",
-   "age": "36",
+   "key": "MAD_TRAVIS_NATHAN_2026-11-24",
+   "name": "Nathan Charles Travis",
+   "age": "30",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1795452498,
-   "photo": "photos/MAD_STEWART_ANTHONY_2026-11-23.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1795506452,
+   "photo": null
+  },
+  {
+   "key": "MAD_FIELDS_AMANDA_2026-11-24",
+   "name": "Amanda June Fields",
+   "age": "39",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Possession paraphernalia",
+   "more": 2,
+   "ts": 1795506442,
+   "photo": "photos/MAD_FIELDS_AMANDA_2026-11-24.jpg"
+  },
   {
    "key": "MAD_PIPITO_LOUIS_2026-11-24",
    "name": "Louis Pipito",
@@ -2653,39 +2675,6 @@
    "more": 1,
    "ts": 1795250834,
    "photo": "photos/ALL_SIGMAN_MICHAEL_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_GIBSON_DARIUS_2026-11-21",
-   "name": "Darius Marques Darnell Gibson",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 1,
-   "ts": 1795247252,
-   "photo": "photos/VAN_GIBSON_DARIUS_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_HALL_THELMA_2026-11-21",
-   "name": "Thelma Hall",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Methamphetamine",
-   "more": 3,
-   "ts": 1795247247,
-   "photo": "photos/ALL_HALL_THELMA_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_RUIZSIAN_SELVIN_2026-11-21",
-   "name": "Selvin Ruizsian",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > or = to .15%",
-   "more": 1,
-   "ts": 1795247240,
-   "photo": "photos/ALL_RUIZSIAN_SELVIN_2026-11-21.jpg"
   }
  ]
 }
