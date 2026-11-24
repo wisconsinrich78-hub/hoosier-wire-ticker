@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-24T19:47:38+00:00",
+ "updated": "2026-11-24T20:47:42+00:00",
  "items": [
+  {
+   "key": "MAD_PEARSON_MARCUS_2026-11-24",
+   "name": "Marcus Antonio Pearson",
+   "age": "54",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Return to County Jail Per Court Order - Jail Bookings",
+   "more": 0,
+   "ts": 1795553250,
+   "photo": "photos/MAD_PEARSON_MARCUS_2026-11-24.jpg"
+  },
+  {
+   "key": "MAD_COX_ROBIN_2026-11-24",
+   "name": "Robin Nathan Cox",
+   "age": "65",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Criminal trespass",
+   "more": 0,
+   "ts": 1795553244,
+   "photo": "photos/MAD_COX_ROBIN_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_NOLL_BRIAN_2026-11-24",
+   "name": "Brian Noll",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Methamphetamine",
+   "more": 4,
+   "ts": 1795553231,
+   "photo": "photos/ALL_NOLL_BRIAN_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_GRIDDINS_JARMAN_2026-11-24",
+   "name": "Jarman Anthony Griddins",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1795553229,
+   "photo": "photos/VAN_GRIDDINS_JARMAN_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_TAMSKI_ALLISON_2026-11-24",
+   "name": "Allison Nicole Tamski",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795553224,
+   "photo": null
+  },
   {
    "key": "MAD_SMITH_CLINT_2026-11-24",
    "name": "Clint Smith",
@@ -442,17 +497,6 @@
    "photo": "photos/ALL_WILLIAMS_JERALD_2026-11-23.jpg"
   },
   {
-   "key": "VAN_ZACK_WHITLEY_2026-11-23",
-   "name": "Whitley Shaye Zack",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Vccc Filed Ptr",
-   "more": 0,
-   "ts": 1795484848,
-   "photo": "photos/VAN_ZACK_WHITLEY_2026-11-23.jpg"
-  },
-  {
    "key": "ALL_HAIRSTON_YOSHZMIN_2026-11-23",
    "name": "Yoshzmin Hairston",
    "age": "",
@@ -462,17 +506,6 @@
    "more": 0,
    "ts": 1795484842,
    "photo": "photos/ALL_HAIRSTON_YOSHZMIN_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_BARNFIELD_JASMINE_2026-11-23",
-   "name": "Jasmine Barnfield",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795484837,
-   "photo": "photos/ALL_BARNFIELD_JASMINE_2026-11-23.jpg"
   },
   {
    "key": "MAD_SPARKMAN_KAYLIN_2026-11-23",
@@ -486,17 +519,6 @@
    "photo": "photos/MAD_SPARKMAN_KAYLIN_2026-11-23.jpg"
   },
   {
-   "key": "VAN_ADCOCK_CHRISTIAN_2026-11-23",
-   "name": "Christian Alexander Adcock",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 1,
-   "ts": 1795481243,
-   "photo": "photos/VAN_ADCOCK_CHRISTIAN_2026-11-23.jpg"
-  },
-  {
    "key": "MAD_DUFFY_RONALD_2026-11-23",
    "name": "Ronald Eugene Duffy",
    "age": "35",
@@ -506,31 +528,64 @@
    "more": 0,
    "ts": 1795477659,
    "photo": "photos/MAD_DUFFY_RONALD_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_MABBITT_SUMMER_2026-11-23",
-   "name": "Summer Dawn Mabbitt",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795474039,
-   "photo": null
-  },
-  {
-   "key": "MAD_STEPHENS_SAVANNAH_2026-11-23",
-   "name": "Savannah Kathryn Stephens",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Battery - B misdemeanor",
-   "more": 1,
-   "ts": 1795470453,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_PEARSON_MARCUS_2026-11-24",
+   "name": "Marcus Antonio Pearson",
+   "age": "54",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Return to County Jail Per Court Order - Jail Bookings",
+   "more": 0,
+   "ts": 1795553250,
+   "photo": "photos/MAD_PEARSON_MARCUS_2026-11-24.jpg"
+  },
+  {
+   "key": "MAD_COX_ROBIN_2026-11-24",
+   "name": "Robin Nathan Cox",
+   "age": "65",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Criminal trespass",
+   "more": 0,
+   "ts": 1795553244,
+   "photo": "photos/MAD_COX_ROBIN_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_NOLL_BRIAN_2026-11-24",
+   "name": "Brian Noll",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Methamphetamine",
+   "more": 4,
+   "ts": 1795553231,
+   "photo": "photos/ALL_NOLL_BRIAN_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_GRIDDINS_JARMAN_2026-11-24",
+   "name": "Jarman Anthony Griddins",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1795553229,
+   "photo": "photos/VAN_GRIDDINS_JARMAN_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_TAMSKI_ALLISON_2026-11-24",
+   "name": "Allison Nicole Tamski",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795553224,
+   "photo": null
+  },
   {
    "key": "MAD_SMITH_CLINT_2026-11-24",
    "name": "Clint Smith",
@@ -2587,17 +2642,6 @@
    "more": 1,
    "ts": 1795301233,
    "photo": "photos/ALL_MARTI_JAMES_2026-11-21.jpg"
-  },
-  {
-   "key": "MAD_FARLEY_JOEL_2026-11-21",
-   "name": "Joel Darrin Farley",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795294049,
-   "photo": null
   }
  ]
 }
