@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T02:47:16+00:00",
+ "updated": "2026-11-24T02:47:43+00:00",
  "items": [
+  {
+   "key": "VAN_COLEMAN_EDNA_2026-11-23",
+   "name": "Edna Louise Coleman",
+   "age": "48",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery - Against Public Safety Official Engaged in Official",
+   "more": 1,
+   "ts": 1795488438,
+   "photo": "photos/VAN_COLEMAN_EDNA_2026-11-23.jpg"
+  },
   {
    "key": "ALL_WILLIAMS_JERALD_2026-11-23",
    "name": "Jerald Williams",
@@ -409,17 +420,6 @@
    "photo": "photos/VAN_WARFIELD_JASON_2026-11-23.jpg"
   },
   {
-   "key": "VAN_MOORE_MIRANDA_2026-11-23",
-   "name": "Miranda Nichole Moore",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Writ of Attachment",
-   "more": 2,
-   "ts": 1795459647,
-   "photo": null
-  },
-  {
    "key": "ALL_SPONHOWER_SETH_2026-11-23",
    "name": "Seth Sponhower",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_COLEMAN_EDNA_2026-11-23",
+   "name": "Edna Louise Coleman",
+   "age": "48",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery - Against Public Safety Official Engaged in Official",
+   "more": 1,
+   "ts": 1795488438,
+   "photo": "photos/VAN_COLEMAN_EDNA_2026-11-23.jpg"
+  },
   {
    "key": "ALL_WILLIAMS_JERALD_2026-11-23",
    "name": "Jerald Williams",
