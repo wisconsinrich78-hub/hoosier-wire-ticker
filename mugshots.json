@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-24T22:47:27+00:00",
+ "updated": "2026-11-24T23:47:41+00:00",
  "items": [
+  {
+   "key": "VAN_THOMAS_JEFFERY_2026-11-24",
+   "name": "Jeffery Allen Thomas",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sexual Violent Predator Duty to Notify Violation",
+   "more": 0,
+   "ts": 1795564039,
+   "photo": "photos/VAN_THOMAS_JEFFERY_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_DAVIS_ASHLI_2026-11-24",
+   "name": "Ashli Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 2,
+   "ts": 1795564039,
+   "photo": "photos/ALL_DAVIS_ASHLI_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_DANIELS_ANTWION_2026-11-24",
+   "name": "Antwion Demarco Daniels",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795564037,
+   "photo": "photos/VAN_DANIELS_ANTWION_2026-11-24.jpg"
+  },
   {
    "key": "MAD_SKEEN_GEORGE_2026-11-24",
    "name": "George Edward Junior Skeen",
@@ -475,17 +508,6 @@
    "photo": "photos/ALL_SPRINGER_SHAUN_2026-11-24.jpg"
   },
   {
-   "key": "VAN_THOMAS_WILLIAM_2026-11-23",
-   "name": "William Leroy Thomas",
-   "age": "57",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 2,
-   "ts": 1795495647,
-   "photo": "photos/VAN_THOMAS_WILLIAM_2026-11-23.jpg"
-  },
-  {
    "key": "ALL_MORKEN_PHYLLISA_2026-11-23",
    "name": "Phyllisa Morken",
    "age": "",
@@ -495,28 +517,6 @@
    "more": 3,
    "ts": 1795495639,
    "photo": "photos/ALL_MORKEN_PHYLLISA_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_HAIRSTON_ZEIQUIL_2026-11-23",
-   "name": "Zeiquil Hairston",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Strangulation Simple No or Minor Injury",
-   "more": 1,
-   "ts": 1795495633,
-   "photo": "photos/ALL_HAIRSTON_ZEIQUIL_2026-11-23.jpg"
-  },
-  {
-   "key": "VAN_COBREN_TRESSY_2026-11-23",
-   "name": "Tressy Ann Cobren",
-   "age": "57",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795492040,
-   "photo": "photos/VAN_COBREN_TRESSY_2026-11-23.jpg"
   },
   {
    "key": "MAD_SPARKMAN_KAYLIN_2026-11-23",
@@ -531,6 +531,39 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_THOMAS_JEFFERY_2026-11-24",
+   "name": "Jeffery Allen Thomas",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sexual Violent Predator Duty to Notify Violation",
+   "more": 0,
+   "ts": 1795564039,
+   "photo": "photos/VAN_THOMAS_JEFFERY_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_DAVIS_ASHLI_2026-11-24",
+   "name": "Ashli Davis",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Driving While Suspended - Prior",
+   "more": 2,
+   "ts": 1795564039,
+   "photo": "photos/ALL_DAVIS_ASHLI_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_DANIELS_ANTWION_2026-11-24",
+   "name": "Antwion Demarco Daniels",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795564037,
+   "photo": "photos/VAN_DANIELS_ANTWION_2026-11-24.jpg"
+  },
   {
    "key": "MAD_SKEEN_GEORGE_2026-11-24",
    "name": "George Edward Junior Skeen",
@@ -2642,39 +2675,6 @@
    "more": 0,
    "ts": 1795308430,
    "photo": "photos/ALL_ROGAN_DENNIS_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_EBERHARDT_DEVON_2026-11-21",
-   "name": "Devon Demitrius Eberhardt",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795304854,
-   "photo": null
-  },
-  {
-   "key": "ALL_STARKS_JHAEDYN_2026-11-21",
-   "name": "Jhaedyn Starks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft All Other Larceny Prior Unrelated Conviction Theft or Conversion",
-   "more": 0,
-   "ts": 1795304852,
-   "photo": "photos/ALL_STARKS_JHAEDYN_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_PERKINS_MELVIN_2026-11-21",
-   "name": "Melvin Perkins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 3,
-   "ts": 1795304842,
-   "photo": "photos/ALL_PERKINS_MELVIN_2026-11-21.jpg"
   }
  ]
 }
