@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-24T04:48:04+00:00",
+ "updated": "2026-11-24T05:48:15+00:00",
  "items": [
+  {
+   "key": "ALL_SPRINGER_SHAUN_2026-11-24",
+   "name": "Shaun Springer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 1,
+   "ts": 1795499239,
+   "photo": "photos/ALL_SPRINGER_SHAUN_2026-11-24.jpg"
+  },
   {
    "key": "VAN_THOMAS_WILLIAM_2026-11-23",
    "name": "William Leroy Thomas",
@@ -475,17 +486,6 @@
    "photo": "photos/ALL_CASTILLO_ERICA_2026-11-23.jpg"
   },
   {
-   "key": "ALL_GALLACHER_GEORGE_2026-11-23",
-   "name": "George Gallacher",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Voyeurism - Use of Camera or Prior Conviction",
-   "more": 0,
-   "ts": 1795456049,
-   "photo": "photos/ALL_GALLACHER_GEORGE_2026-11-23.jpg"
-  },
-  {
    "key": "POR_CHAVEZ_CHANDLER_2026-11-22",
    "name": "Chandler David Chavez",
    "age": "29",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_SPRINGER_SHAUN_2026-11-24",
+   "name": "Shaun Springer",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 1,
+   "ts": 1795499239,
+   "photo": "photos/ALL_SPRINGER_SHAUN_2026-11-24.jpg"
+  },
   {
    "key": "VAN_THOMAS_WILLIAM_2026-11-23",
    "name": "William Leroy Thomas",
