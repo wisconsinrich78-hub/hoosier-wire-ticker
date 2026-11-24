@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-24T18:47:59+00:00",
+ "updated": "2026-11-24T19:47:38+00:00",
  "items": [
+  {
+   "key": "MAD_SMITH_CLINT_2026-11-24",
+   "name": "Clint Smith",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795549647,
+   "photo": null
+  },
+  {
+   "key": "MAD_HALEY_ANNABELL_2026-11-24",
+   "name": "Annabell Haley",
+   "age": "81",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795549641,
+   "photo": null
+  },
+  {
+   "key": "ALL_FIGGS_KATRINA_2026-11-24",
+   "name": "Katrina Figgs",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Confinement - Armed W/ Deadly Weapon; Results in Serious\u2026",
+   "more": 4,
+   "ts": 1795549639,
+   "photo": "photos/ALL_FIGGS_KATRINA_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_COLE_BRAD_2026-11-24",
+   "name": "Brad Ray Cole",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795549637,
+   "photo": "photos/VAN_COLE_BRAD_2026-11-24.jpg"
+  },
   {
    "key": "VAN_SINCLAIR_BLAKE_2026-11-24",
    "name": "Blake Andrew Sinclair",
@@ -453,28 +497,6 @@
    "photo": "photos/VAN_ADCOCK_CHRISTIAN_2026-11-23.jpg"
   },
   {
-   "key": "VAN_WATKINS_DELTRICE_2026-11-23",
-   "name": "Deltrice Lamecia Watkins",
-   "age": "53",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795481241,
-   "photo": "photos/VAN_WATKINS_DELTRICE_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_MEEKS_WILLIAM_2026-11-23",
-   "name": "William Meeks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Distribution of an Intimate Image - Nonconsensual Pornography",
-   "more": 0,
-   "ts": 1795481234,
-   "photo": "photos/ALL_MEEKS_WILLIAM_2026-11-23.jpg"
-  },
-  {
    "key": "MAD_DUFFY_RONALD_2026-11-23",
    "name": "Ronald Eugene Duffy",
    "age": "35",
@@ -506,31 +528,53 @@
    "more": 1,
    "ts": 1795470453,
    "photo": null
-  },
-  {
-   "key": "MAD_PURDY_SCOTT_2026-11-23",
-   "name": "Scott Michael Purdy",
-   "age": "49",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795470450,
-   "photo": "photos/MAD_PURDY_SCOTT_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_PASCHAL_MANNIE_2026-11-23",
-   "name": "Mannie Evan Paschal",
-   "age": "32",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795470449,
-   "photo": "photos/MAD_PASCHAL_MANNIE_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SMITH_CLINT_2026-11-24",
+   "name": "Clint Smith",
+   "age": "45",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795549647,
+   "photo": null
+  },
+  {
+   "key": "MAD_HALEY_ANNABELL_2026-11-24",
+   "name": "Annabell Haley",
+   "age": "81",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795549641,
+   "photo": null
+  },
+  {
+   "key": "ALL_FIGGS_KATRINA_2026-11-24",
+   "name": "Katrina Figgs",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Confinement - Armed W/ Deadly Weapon; Results in Serious\u2026",
+   "more": 4,
+   "ts": 1795549639,
+   "photo": "photos/ALL_FIGGS_KATRINA_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_COLE_BRAD_2026-11-24",
+   "name": "Brad Ray Cole",
+   "age": "45",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795549637,
+   "photo": "photos/VAN_COLE_BRAD_2026-11-24.jpg"
+  },
   {
    "key": "VAN_SINCLAIR_BLAKE_2026-11-24",
    "name": "Blake Andrew Sinclair",
@@ -2554,39 +2598,6 @@
    "more": 0,
    "ts": 1795294049,
    "photo": null
-  },
-  {
-   "key": "POR_SCHWING_COLIN_2026-11-20",
-   "name": "Colin Ford Schwing",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1795290454,
-   "photo": "photos/POR_SCHWING_COLIN_2026-11-20.jpg"
-  },
-  {
-   "key": "POR_DRZEWIECKI_WILLIAM_2026-11-20",
-   "name": "William Jay Drzewiecki",
-   "age": "37",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1795290451,
-   "photo": "photos/POR_DRZEWIECKI_WILLIAM_2026-11-20.jpg"
-  },
-  {
-   "key": "VAN_STRAIGHT_KENDALL_2026-11-21",
-   "name": "Kendall Nicole Straight",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795290447,
-   "photo": "photos/VAN_STRAIGHT_KENDALL_2026-11-21.jpg"
   }
  ]
 }
