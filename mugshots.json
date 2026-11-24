@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:47:33+00:00",
+ "updated": "2026-11-24T09:48:02+00:00",
  "items": [
   {
    "key": "VAN_MCINTYRE_RYAN_2026-11-24",
@@ -2653,39 +2653,6 @@
    "more": 0,
    "ts": 1795258027,
    "photo": "photos/VAN_SMITH_MATTHEW_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_BLAASCH_LOGAN_2026-11-21",
-   "name": "Logan Grant Blaasch",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 0,
-   "ts": 1795254460,
-   "photo": "photos/VAN_BLAASCH_LOGAN_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_IRVIN_COLTON_2026-11-21",
-   "name": "Colton Chase Irvin",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Cocaine or Narcotic Drug",
-   "more": 1,
-   "ts": 1795254459,
-   "photo": "photos/VAN_IRVIN_COLTON_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_SANDERS_CLARENCE_2026-11-21",
-   "name": "Clarence Sanders",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1795254454,
-   "photo": "photos/ALL_SANDERS_CLARENCE_2026-11-21.jpg"
   }
  ]
 }
