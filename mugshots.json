@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-24T20:47:42+00:00",
+ "updated": "2026-11-24T21:47:50+00:00",
  "items": [
+  {
+   "key": "MAD_SKEEN_GEORGE_2026-11-24",
+   "name": "George Edward Junior Skeen",
+   "age": "61",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Drug Court - Jail Booking",
+   "more": 0,
+   "ts": 1795556855,
+   "photo": "photos/MAD_SKEEN_GEORGE_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_MIDDLETON_SAMUEL_2026-11-24",
+   "name": "Samuel Middleton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
+   "more": 3,
+   "ts": 1795556850,
+   "photo": "photos/ALL_MIDDLETON_SAMUEL_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_JOHNSON_DEVAUN_2026-11-24",
+   "name": "Devaun Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Strangulation Simple No or Minor Injury",
+   "more": 0,
+   "ts": 1795556844,
+   "photo": null
+  },
+  {
+   "key": "VAN_KERNEY_KEELA_2026-11-24",
+   "name": "Keela Ann Kerney",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 1,
+   "ts": 1795556841,
+   "photo": "photos/VAN_KERNEY_KEELA_2026-11-24.jpg"
+  },
   {
    "key": "MAD_PEARSON_MARCUS_2026-11-24",
    "name": "Marcus Antonio Pearson",
@@ -475,39 +519,6 @@
    "photo": "photos/VAN_COBREN_TRESSY_2026-11-23.jpg"
   },
   {
-   "key": "VAN_COLEMAN_EDNA_2026-11-23",
-   "name": "Edna Louise Coleman",
-   "age": "48",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery - Against Public Safety Official Engaged in Official",
-   "more": 1,
-   "ts": 1795488438,
-   "photo": "photos/VAN_COLEMAN_EDNA_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_JERALD_2026-11-23",
-   "name": "Jerald Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1795488434,
-   "photo": "photos/ALL_WILLIAMS_JERALD_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_HAIRSTON_YOSHZMIN_2026-11-23",
-   "name": "Yoshzmin Hairston",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1795484842,
-   "photo": "photos/ALL_HAIRSTON_YOSHZMIN_2026-11-23.jpg"
-  },
-  {
    "key": "MAD_SPARKMAN_KAYLIN_2026-11-23",
    "name": "Kaylin Paige Sparkman",
    "age": "28",
@@ -517,20 +528,53 @@
    "more": 0,
    "ts": 1795481263,
    "photo": "photos/MAD_SPARKMAN_KAYLIN_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_DUFFY_RONALD_2026-11-23",
-   "name": "Ronald Eugene Duffy",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795477659,
-   "photo": "photos/MAD_DUFFY_RONALD_2026-11-23.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SKEEN_GEORGE_2026-11-24",
+   "name": "George Edward Junior Skeen",
+   "age": "61",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Violation of Drug Court - Jail Booking",
+   "more": 0,
+   "ts": 1795556855,
+   "photo": "photos/MAD_SKEEN_GEORGE_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_MIDDLETON_SAMUEL_2026-11-24",
+   "name": "Samuel Middleton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
+   "more": 3,
+   "ts": 1795556850,
+   "photo": "photos/ALL_MIDDLETON_SAMUEL_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_JOHNSON_DEVAUN_2026-11-24",
+   "name": "Devaun Johnson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Strangulation Simple No or Minor Injury",
+   "more": 0,
+   "ts": 1795556844,
+   "photo": null
+  },
+  {
+   "key": "VAN_KERNEY_KEELA_2026-11-24",
+   "name": "Keela Ann Kerney",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 1,
+   "ts": 1795556841,
+   "photo": "photos/VAN_KERNEY_KEELA_2026-11-24.jpg"
+  },
   {
    "key": "MAD_PEARSON_MARCUS_2026-11-24",
    "name": "Marcus Antonio Pearson",
