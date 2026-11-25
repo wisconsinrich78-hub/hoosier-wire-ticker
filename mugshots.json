@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-25T00:18:21+00:00",
+ "updated": "2026-11-25T00:47:41+00:00",
  "items": [
+  {
+   "key": "VAN_THOMAS_PIERRE_2026-11-24",
+   "name": "Pierre Demont Thomas",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795567642,
+   "photo": "photos/VAN_THOMAS_PIERRE_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_MARTS_MARSHA_2026-11-24",
+   "name": "Marsha Gene Marts",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
+   "more": 0,
+   "ts": 1795567639,
+   "photo": "photos/VAN_MARTS_MARSHA_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_RHOADES_DEREK_2026-11-24",
+   "name": "Derek Rhoades",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1795567639,
+   "photo": "photos/ALL_RHOADES_DEREK_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_HELM_MICHAEL_2026-11-24",
+   "name": "Michael Lee Helm",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1795567637,
+   "photo": "photos/VAN_HELM_MICHAEL_2026-11-24.jpg"
+  },
   {
    "key": "VAN_THOMAS_JEFFERY_2026-11-24",
    "name": "Jeffery Allen Thomas",
@@ -365,17 +409,6 @@
    "photo": "photos/VAN_MCINTYRE_RYAN_2026-11-24.jpg"
   },
   {
-   "key": "VAN_AGEE_MADDOX_2026-11-24",
-   "name": "Maddox Michael Agee",
-   "age": "19",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Unlawful Carrying of a Handgun W/ Prior Conviction [L5]",
-   "more": 1,
-   "ts": 1795513630,
-   "photo": "photos/VAN_AGEE_MADDOX_2026-11-24.jpg"
-  },
-  {
    "key": "ALL_THOMPSON_AARON_2026-11-24",
    "name": "Aaron Thompson",
    "age": "",
@@ -387,17 +420,6 @@
    "photo": "photos/ALL_THOMPSON_AARON_2026-11-24.jpg"
   },
   {
-   "key": "VAN_GREEN_CHASITY_2026-11-24",
-   "name": "Chasity Ashlyn Green",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation with a Deadly Weapon",
-   "more": 3,
-   "ts": 1795510036,
-   "photo": "photos/VAN_GREEN_CHASITY_2026-11-24.jpg"
-  },
-  {
    "key": "ALL_LOCKE_ROBIN_2026-11-24",
    "name": "Robin Locke",
    "age": "",
@@ -407,17 +429,6 @@
    "more": 0,
    "ts": 1795510036,
    "photo": null
-  },
-  {
-   "key": "VAN_COATES_JUSTIN_2026-11-24",
-   "name": "Justin Deon Coates",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sex Offender Registration Violation",
-   "more": 2,
-   "ts": 1795510034,
-   "photo": "photos/VAN_COATES_JUSTIN_2026-11-24.jpg"
   },
   {
    "key": "MAD_TRAVIS_NATHAN_2026-11-24",
@@ -508,17 +519,6 @@
    "photo": "photos/ALL_SPRINGER_SHAUN_2026-11-24.jpg"
   },
   {
-   "key": "ALL_MORKEN_PHYLLISA_2026-11-23",
-   "name": "Phyllisa Morken",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > or = to .15%",
-   "more": 3,
-   "ts": 1795495639,
-   "photo": "photos/ALL_MORKEN_PHYLLISA_2026-11-23.jpg"
-  },
-  {
    "key": "MAD_SPARKMAN_KAYLIN_2026-11-23",
    "name": "Kaylin Paige Sparkman",
    "age": "28",
@@ -531,6 +531,50 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_THOMAS_PIERRE_2026-11-24",
+   "name": "Pierre Demont Thomas",
+   "age": "50",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795567642,
+   "photo": "photos/VAN_THOMAS_PIERRE_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_MARTS_MARSHA_2026-11-24",
+   "name": "Marsha Gene Marts",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
+   "more": 0,
+   "ts": 1795567639,
+   "photo": "photos/VAN_MARTS_MARSHA_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_RHOADES_DEREK_2026-11-24",
+   "name": "Derek Rhoades",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Home Detention Placement Violation",
+   "more": 0,
+   "ts": 1795567639,
+   "photo": "photos/ALL_RHOADES_DEREK_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_HELM_MICHAEL_2026-11-24",
+   "name": "Michael Lee Helm",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1795567637,
+   "photo": "photos/VAN_HELM_MICHAEL_2026-11-24.jpg"
+  },
   {
    "key": "VAN_THOMAS_JEFFERY_2026-11-24",
    "name": "Jeffery Allen Thomas",
