@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-25T17:47:24+00:00",
+ "updated": "2026-11-25T18:47:36+00:00",
  "items": [
+  {
+   "key": "MAD_SAYLOR_ROGER_2026-11-25",
+   "name": "Roger Dale Third Saylor",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Confinement",
+   "more": 1,
+   "ts": 1795632448,
+   "photo": "photos/MAD_SAYLOR_ROGER_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_NORMAN_VINCENT_2026-11-24",
+   "name": "Vincent Edward Norman",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795632440,
+   "photo": "photos/POR_NORMAN_VINCENT_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_JACKSON_ROBERT_2026-11-25",
+   "name": "Robert Lee Jackson",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795632436,
+   "photo": "photos/VAN_JACKSON_ROBERT_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_GIBSON_DARIUS_2026-11-25",
+   "name": "Darius Marques Darnell Gibson",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795632433,
+   "photo": null
+  },
+  {
+   "key": "ALL_JEMISON_JYQUEL_2026-11-25",
+   "name": "Jyquel Jemison",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt of Court-Civil",
+   "more": 0,
+   "ts": 1795632431,
+   "photo": "photos/ALL_JEMISON_JYQUEL_2026-11-25.jpg"
+  },
   {
    "key": "MAD_TURNER_JACOB_2026-11-25",
    "name": "Jacob A Turner",
@@ -398,17 +453,6 @@
    "photo": "photos/VAN_GRIDDINS_JARMAN_2026-11-24.jpg"
   },
   {
-   "key": "VAN_TAMSKI_ALLISON_2026-11-24",
-   "name": "Allison Nicole Tamski",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1795553224,
-   "photo": null
-  },
-  {
    "key": "MAD_SMITH_CLINT_2026-11-24",
    "name": "Clint Smith",
    "age": "45",
@@ -440,17 +484,6 @@
    "more": 4,
    "ts": 1795549639,
    "photo": "photos/ALL_FIGGS_KATRINA_2026-11-24.jpg"
-  },
-  {
-   "key": "VAN_COLE_BRAD_2026-11-24",
-   "name": "Brad Ray Cole",
-   "age": "45",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795549637,
-   "photo": "photos/VAN_COLE_BRAD_2026-11-24.jpg"
   },
   {
    "key": "MAD_SMITHSHELTON_AMBER_2026-11-24",
@@ -495,42 +528,64 @@
    "more": 1,
    "ts": 1795538904,
    "photo": "photos/MAD_KING_MADELINE_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_CHANLEY_RAYMOND_2026-11-24",
-   "name": "Raymond Scott Chanley",
-   "age": "48",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Court Commitment",
-   "more": 1,
-   "ts": 1795538898,
-   "photo": "photos/MAD_CHANLEY_RAYMOND_2026-11-24.jpg"
-  },
-  {
-   "key": "POR_MCKINNEY_JASON_2026-11-23",
-   "name": "Jason Paul Mckinney",
-   "age": "48",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Probation Violation",
-   "more": 5,
-   "ts": 1795538889,
-   "photo": "photos/POR_MCKINNEY_JASON_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_CHAMBERS_CAMERON_2026-11-24",
-   "name": "Cameron Chambers",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 0,
-   "ts": 1795538859,
-   "photo": "photos/ALL_CHAMBERS_CAMERON_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SAYLOR_ROGER_2026-11-25",
+   "name": "Roger Dale Third Saylor",
+   "age": "35",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Confinement",
+   "more": 1,
+   "ts": 1795632448,
+   "photo": "photos/MAD_SAYLOR_ROGER_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_NORMAN_VINCENT_2026-11-24",
+   "name": "Vincent Edward Norman",
+   "age": "47",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795632440,
+   "photo": "photos/POR_NORMAN_VINCENT_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_JACKSON_ROBERT_2026-11-25",
+   "name": "Robert Lee Jackson",
+   "age": "39",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795632436,
+   "photo": "photos/VAN_JACKSON_ROBERT_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_GIBSON_DARIUS_2026-11-25",
+   "name": "Darius Marques Darnell Gibson",
+   "age": "30",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795632433,
+   "photo": null
+  },
+  {
+   "key": "ALL_JEMISON_JYQUEL_2026-11-25",
+   "name": "Jyquel Jemison",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Contempt of Court-Civil",
+   "more": 0,
+   "ts": 1795632431,
+   "photo": "photos/ALL_JEMISON_JYQUEL_2026-11-25.jpg"
+  },
   {
    "key": "MAD_TURNER_JACOB_2026-11-25",
    "name": "Jacob A Turner",
