@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-25T22:47:36+00:00",
+ "updated": "2026-11-25T23:48:01+00:00",
  "items": [
+  {
+   "key": "VAN_GARRISON_CAMREN_2026-11-25",
+   "name": "Camren Joseph Garrison",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795650450,
+   "photo": null
+  },
+  {
+   "key": "ALL_CARTWRIGHT_ASPEN_2026-11-25",
+   "name": "Aspen Cartwright",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Mischief",
+   "more": 1,
+   "ts": 1795650442,
+   "photo": "photos/ALL_CARTWRIGHT_ASPEN_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_POTTER_JESSICA_2026-11-25",
+   "name": "Jessica Potter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft Shoplifting",
+   "more": 0,
+   "ts": 1795650437,
+   "photo": "photos/ALL_POTTER_JESSICA_2026-11-25.jpg"
+  },
   {
    "key": "MAD_JORDAN_JONATHAN_2026-11-25",
    "name": "Jonathan Demetrius Jordan",
@@ -475,17 +508,6 @@
    "photo": "photos/ALL_RHOADES_DEREK_2026-11-24.jpg"
   },
   {
-   "key": "VAN_HELM_MICHAEL_2026-11-24",
-   "name": "Michael Lee Helm",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 1,
-   "ts": 1795567637,
-   "photo": "photos/VAN_HELM_MICHAEL_2026-11-24.jpg"
-  },
-  {
    "key": "ALL_DAVIS_ASHLI_2026-11-24",
    "name": "Ashli Davis",
    "age": "",
@@ -506,31 +528,42 @@
    "more": 0,
    "ts": 1795556855,
    "photo": "photos/MAD_SKEEN_GEORGE_2026-11-24.jpg"
-  },
-  {
-   "key": "ALL_MIDDLETON_SAMUEL_2026-11-24",
-   "name": "Samuel Middleton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
-   "more": 3,
-   "ts": 1795556850,
-   "photo": "photos/ALL_MIDDLETON_SAMUEL_2026-11-24.jpg"
-  },
-  {
-   "key": "ALL_JOHNSON_DEVAUN_2026-11-24",
-   "name": "Devaun Johnson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Strangulation Simple No or Minor Injury",
-   "more": 0,
-   "ts": 1795556844,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_GARRISON_CAMREN_2026-11-25",
+   "name": "Camren Joseph Garrison",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795650450,
+   "photo": null
+  },
+  {
+   "key": "ALL_CARTWRIGHT_ASPEN_2026-11-25",
+   "name": "Aspen Cartwright",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Mischief",
+   "more": 1,
+   "ts": 1795650442,
+   "photo": "photos/ALL_CARTWRIGHT_ASPEN_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_POTTER_JESSICA_2026-11-25",
+   "name": "Jessica Potter",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Theft Shoplifting",
+   "more": 0,
+   "ts": 1795650437,
+   "photo": "photos/ALL_POTTER_JESSICA_2026-11-25.jpg"
+  },
   {
    "key": "MAD_JORDAN_JONATHAN_2026-11-25",
    "name": "Jonathan Demetrius Jordan",
@@ -2609,50 +2642,6 @@
    "more": 1,
    "ts": 1795394830,
    "photo": "photos/ALL_MANG_ZOSIAN_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_FULKS_JASON_2026-11-22",
-   "name": "Jason Duane Fulks",
-   "age": "46",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 0,
-   "ts": 1795391241,
-   "photo": "photos/VAN_FULKS_JASON_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_STEVENS_KADEN_2026-11-22",
-   "name": "Kaden Joseph Stevens",
-   "age": "22",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Sex Offender- Req to Poss Valid Driver Lic [Am]",
-   "more": 1,
-   "ts": 1795391241,
-   "photo": "photos/VAN_STEVENS_KADEN_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_DEAN_JONATHAN_2026-11-22",
-   "name": "Jonathan Dean",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795391236,
-   "photo": "photos/ALL_DEAN_JONATHAN_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_ERPELDING_DAWN_2026-11-22",
-   "name": "Dawn Erpelding",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Burglary",
-   "more": 0,
-   "ts": 1795391232,
-   "photo": "photos/ALL_ERPELDING_DAWN_2026-11-22.jpg"
   }
  ]
 }
