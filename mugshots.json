@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T05:47:48+00:00",
+ "updated": "2026-11-25T06:47:38+00:00",
  "items": [
+  {
+   "key": "ALL_DAMICO_LOUIS_2026-11-25",
+   "name": "Louis Damico",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Refusal Submit Chemical Test",
+   "more": 1,
+   "ts": 1795589233,
+   "photo": "photos/ALL_DAMICO_LOUIS_2026-11-25.jpg"
+  },
   {
    "key": "MAD_ARMSTRONG_JAI_2026-11-24",
    "name": "Jai Tyveise Armstrong",
@@ -517,20 +528,20 @@
    "more": 2,
    "ts": 1795506442,
    "photo": "photos/MAD_FIELDS_AMANDA_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_PIPITO_LOUIS_2026-11-24",
-   "name": "Louis Pipito",
-   "age": "",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795502870,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_DAMICO_LOUIS_2026-11-25",
+   "name": "Louis Damico",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Refusal Submit Chemical Test",
+   "more": 1,
+   "ts": 1795589233,
+   "photo": "photos/ALL_DAMICO_LOUIS_2026-11-25.jpg"
+  },
   {
    "key": "MAD_ARMSTRONG_JAI_2026-11-24",
    "name": "Jai Tyveise Armstrong",
@@ -2609,39 +2620,6 @@
    "more": 2,
    "ts": 1795333631,
    "photo": "photos/ALL_SNYDER_JOSHUA_2026-11-22.jpg"
-  },
-  {
-   "key": "MAD_XIQQE_GIOVANNI_2026-11-22",
-   "name": "Giovanni Xiqqe",
-   "age": "20",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795330049,
-   "photo": null
-  },
-  {
-   "key": "MAD_CRIPE_JAMES_2026-11-22",
-   "name": "James Joseph Cripe",
-   "age": "52",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Operating a vehicle while intoxicated- endangerment",
-   "more": 1,
-   "ts": 1795330038,
-   "photo": "photos/MAD_CRIPE_JAMES_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_BROOKS_CHRISTOPHER_2026-11-22",
-   "name": "Christopher Brooks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Reckless Driving / Unreasonable High or Low Speed",
-   "more": 1,
-   "ts": 1795330032,
-   "photo": "photos/ALL_BROOKS_CHRISTOPHER_2026-11-22.jpg"
   }
  ]
 }
