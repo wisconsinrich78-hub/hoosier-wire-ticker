@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-25T04:47:25+00:00",
+ "updated": "2026-11-25T05:47:48+00:00",
  "items": [
+  {
+   "key": "MAD_ARMSTRONG_JAI_2026-11-24",
+   "name": "Jai Tyveise Armstrong",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 1,
+   "ts": 1795585648,
+   "photo": "photos/MAD_ARMSTRONG_JAI_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_BLACKWELL_TIMOTHY_2026-11-24",
+   "name": "Timothy Brian Blackwell",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement-Creates Substantial Risk Injury L5",
+   "more": 3,
+   "ts": 1795585644,
+   "photo": "photos/VAN_BLACKWELL_TIMOTHY_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_OBRYAN_ANTHONY_2026-11-24",
+   "name": "Anthony Obryan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1795585639,
+   "photo": "photos/ALL_OBRYAN_ANTHONY_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_BOWLING_NICHOLAS_2026-11-25",
+   "name": "Nicholas Bowling",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1795585634,
+   "photo": "photos/ALL_BOWLING_NICHOLAS_2026-11-25.jpg"
+  },
   {
    "key": "ALL_SANDLIN_FLOYD_2026-11-24",
    "name": "Floyd Sandlin",
@@ -387,17 +431,6 @@
    "photo": "photos/POR_MCKINNEY_JASON_2026-11-23.jpg"
   },
   {
-   "key": "VAN_JAGOE_KYLE_2026-11-24",
-   "name": "Kyle William Jagoe",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possess Paraphernalia",
-   "more": 1,
-   "ts": 1795538879,
-   "photo": "photos/VAN_JAGOE_KYLE_2026-11-24.jpg"
-  },
-  {
    "key": "ALL_CHAMBERS_CAMERON_2026-11-24",
    "name": "Cameron Chambers",
    "age": "",
@@ -495,42 +528,53 @@
    "more": 0,
    "ts": 1795502870,
    "photo": null
-  },
-  {
-   "key": "MAD_CRONK_KRISTA_2026-11-24",
-   "name": "Krista K Cronk",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795502864,
-   "photo": "photos/MAD_CRONK_KRISTA_2026-11-24.jpg"
-  },
-  {
-   "key": "ALL_MENDOZA_JONQUIL_2026-11-24",
-   "name": "Jonquil Mendoza",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Prior Unrelated Conviction for Battery Against\u2026",
-   "more": 0,
-   "ts": 1795502846,
-   "photo": "photos/ALL_MENDOZA_JONQUIL_2026-11-24.jpg"
-  },
-  {
-   "key": "ALL_HEMSOTH_CHAD_2026-11-24",
-   "name": "Chad Hemsoth",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 0,
-   "ts": 1795502841,
-   "photo": "photos/ALL_HEMSOTH_CHAD_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_ARMSTRONG_JAI_2026-11-24",
+   "name": "Jai Tyveise Armstrong",
+   "age": "24",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Hold for Other Jurisdiction - Jail Booking",
+   "more": 1,
+   "ts": 1795585648,
+   "photo": "photos/MAD_ARMSTRONG_JAI_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_BLACKWELL_TIMOTHY_2026-11-24",
+   "name": "Timothy Brian Blackwell",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement-Creates Substantial Risk Injury L5",
+   "more": 3,
+   "ts": 1795585644,
+   "photo": "photos/VAN_BLACKWELL_TIMOTHY_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_OBRYAN_ANTHONY_2026-11-24",
+   "name": "Anthony Obryan",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1795585639,
+   "photo": "photos/ALL_OBRYAN_ANTHONY_2026-11-24.jpg"
+  },
+  {
+   "key": "ALL_BOWLING_NICHOLAS_2026-11-25",
+   "name": "Nicholas Bowling",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated",
+   "more": 1,
+   "ts": 1795585634,
+   "photo": "photos/ALL_BOWLING_NICHOLAS_2026-11-25.jpg"
+  },
   {
    "key": "ALL_SANDLIN_FLOYD_2026-11-24",
    "name": "Floyd Sandlin",
