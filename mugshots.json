@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T07:47:38+00:00",
+ "updated": "2026-11-25T08:47:21+00:00",
  "items": [
+  {
+   "key": "VAN_BARNES_SHARON_2026-11-25",
+   "name": "Sharon Marie Barnes",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1795596435,
+   "photo": "photos/VAN_BARNES_SHARON_2026-11-25.jpg"
+  },
   {
    "key": "ALL_SMASAL_AUSTIN_2026-11-25",
    "name": "Austin Smasal",
@@ -376,17 +387,6 @@
    "photo": "photos/VAN_SINCLAIR_BLAKE_2026-11-24.jpg"
   },
   {
-   "key": "VAN_THOMAS_KEONTAY_2026-11-24",
-   "name": "Keontay Dushon Thomas",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 2,
-   "ts": 1795546040,
-   "photo": null
-  },
-  {
    "key": "MAD_SMITHSHELTON_AMBER_2026-11-24",
    "name": "Amber Nicole Smith-Shelton",
    "age": "44",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BARNES_SHARON_2026-11-25",
+   "name": "Sharon Marie Barnes",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1795596435,
+   "photo": "photos/VAN_BARNES_SHARON_2026-11-25.jpg"
+  },
   {
    "key": "ALL_SMASAL_AUSTIN_2026-11-25",
    "name": "Austin Smasal",
@@ -2587,28 +2598,6 @@
    "more": 0,
    "ts": 1795337247,
    "photo": "photos/MAD_STOHLER_DEBBIE_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_MERIWETHER_JEREMIAH_2026-11-22",
-   "name": "Jeremiah James Meriwether",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
-   "more": 0,
-   "ts": 1795337234,
-   "photo": "photos/VAN_MERIWETHER_JEREMIAH_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_WEST_REBECCA_2026-11-22",
-   "name": "Rebecca West",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1795337230,
-   "photo": "photos/ALL_WEST_REBECCA_2026-11-22.jpg"
   }
  ]
 }
