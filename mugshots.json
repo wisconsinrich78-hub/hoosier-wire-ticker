@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-25T09:47:28+00:00",
+ "updated": "2026-11-25T16:47:42+00:00",
  "items": [
+  {
+   "key": "MAD_TURNER_JACOB_2026-11-25",
+   "name": "Jacob A Turner",
+   "age": "33",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795625254,
+   "photo": "photos/MAD_TURNER_JACOB_2026-11-25.jpg"
+  },
+  {
+   "key": "MAD_SHAW_CALEB_2026-11-25",
+   "name": "Caleb Daniel Shaw",
+   "age": "23",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1795625252,
+   "photo": "photos/MAD_SHAW_CALEB_2026-11-25.jpg"
+  },
+  {
+   "key": "MAD_GARDNER_EMANI_2026-11-25",
+   "name": "Emani Monet Gardner",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1795625249,
+   "photo": "photos/MAD_GARDNER_EMANI_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_HODGES_TREVOR_2026-11-24",
+   "name": "Trevor Jay Hodges",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery Felony 6",
+   "more": 5,
+   "ts": 1795625245,
+   "photo": "photos/POR_HODGES_TREVOR_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_BROWN_STEPHEN_2026-11-25",
+   "name": "Stephen Randall Brown",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation with a Deadly Weapon",
+   "more": 0,
+   "ts": 1795625242,
+   "photo": "photos/VAN_BROWN_STEPHEN_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_NORRIS_JERMAINE_2026-11-25",
+   "name": "Jermaine Norris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing in Cocaine or Narcotic Drug",
+   "more": 2,
+   "ts": 1795625237,
+   "photo": "photos/ALL_NORRIS_JERMAINE_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_BADAOUI_AMINE_2026-11-25",
+   "name": "Amine Badaoui",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sexual Battery",
+   "more": 0,
+   "ts": 1795625232,
+   "photo": "photos/ALL_BADAOUI_AMINE_2026-11-25.jpg"
+  },
   {
    "key": "VAN_BARNES_SHARON_2026-11-25",
    "name": "Sharon Marie Barnes",
@@ -376,17 +453,6 @@
    "photo": "photos/VAN_COLE_BRAD_2026-11-24.jpg"
   },
   {
-   "key": "VAN_SINCLAIR_BLAKE_2026-11-24",
-   "name": "Blake Andrew Sinclair",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795546045,
-   "photo": "photos/VAN_SINCLAIR_BLAKE_2026-11-24.jpg"
-  },
-  {
    "key": "MAD_SMITHSHELTON_AMBER_2026-11-24",
    "name": "Amber Nicole Smith-Shelton",
    "age": "44",
@@ -462,75 +528,86 @@
    "more": 0,
    "ts": 1795538859,
    "photo": "photos/ALL_CHAMBERS_CAMERON_2026-11-24.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "ALL_FEIPEL_JACOB_2026-11-24",
-   "name": "Jacob Feipel",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > or = to .15%",
-   "more": 0,
-   "ts": 1795538852,
-   "photo": "photos/ALL_FEIPEL_JACOB_2026-11-24.jpg"
-  },
-  {
-   "key": "ALL_ADAMS_JERRIAUN_2026-11-24",
-   "name": "Jerriaun Adams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1795538846,
-   "photo": "photos/ALL_ADAMS_JERRIAUN_2026-11-24.jpg"
-  },
-  {
-   "key": "ALL_SAVAGE_MAKALA_2026-11-24",
-   "name": "Makala Savage",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 2,
-   "ts": 1795538841,
-   "photo": "photos/ALL_SAVAGE_MAKALA_2026-11-24.jpg"
-  },
-  {
-   "key": "ALL_THOMPSON_AARON_2026-11-24",
-   "name": "Aaron Thompson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1795510041,
-   "photo": "photos/ALL_THOMPSON_AARON_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_TRAVIS_NATHAN_2026-11-24",
-   "name": "Nathan Charles Travis",
-   "age": "30",
+   "key": "MAD_TURNER_JACOB_2026-11-25",
+   "name": "Jacob A Turner",
+   "age": "33",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1795506452,
-   "photo": null
+   "ts": 1795625254,
+   "photo": "photos/MAD_TURNER_JACOB_2026-11-25.jpg"
   },
   {
-   "key": "MAD_FIELDS_AMANDA_2026-11-24",
-   "name": "Amanda June Fields",
-   "age": "39",
+   "key": "MAD_SHAW_CALEB_2026-11-25",
+   "name": "Caleb Daniel Shaw",
+   "age": "23",
    "county": "Madison County",
    "region": "central",
-   "charge": "Possession paraphernalia",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1795625252,
+   "photo": "photos/MAD_SHAW_CALEB_2026-11-25.jpg"
+  },
+  {
+   "key": "MAD_GARDNER_EMANI_2026-11-25",
+   "name": "Emani Monet Gardner",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Failure To Appear - Jail Booking",
+   "more": 0,
+   "ts": 1795625249,
+   "photo": "photos/MAD_GARDNER_EMANI_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_HODGES_TREVOR_2026-11-24",
+   "name": "Trevor Jay Hodges",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Domestic Battery Felony 6",
+   "more": 5,
+   "ts": 1795625245,
+   "photo": "photos/POR_HODGES_TREVOR_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_BROWN_STEPHEN_2026-11-25",
+   "name": "Stephen Randall Brown",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation with a Deadly Weapon",
+   "more": 0,
+   "ts": 1795625242,
+   "photo": "photos/VAN_BROWN_STEPHEN_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_NORRIS_JERMAINE_2026-11-25",
+   "name": "Jermaine Norris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Dealing in Cocaine or Narcotic Drug",
    "more": 2,
-   "ts": 1795506442,
-   "photo": "photos/MAD_FIELDS_AMANDA_2026-11-24.jpg"
-  }
- ],
- "all_items": [
+   "ts": 1795625237,
+   "photo": "photos/ALL_NORRIS_JERMAINE_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_BADAOUI_AMINE_2026-11-25",
+   "name": "Amine Badaoui",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Sexual Battery",
+   "more": 0,
+   "ts": 1795625232,
+   "photo": "photos/ALL_BADAOUI_AMINE_2026-11-25.jpg"
+  },
   {
    "key": "VAN_BARNES_SHARON_2026-11-25",
    "name": "Sharon Marie Barnes",
@@ -2499,61 +2576,6 @@
    "more": 3,
    "ts": 1795366065,
    "photo": "photos/ALL_SAMPLE_JHALEASE_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_SNYDER_CHRISTINA_2026-11-22",
-   "name": "Christina Snyder",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery Enhanced with Previous Unrelated Conviction (S)",
-   "more": 1,
-   "ts": 1795366061,
-   "photo": "photos/ALL_SNYDER_CHRISTINA_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_LOPEZ_BRENDAN_2026-11-22",
-   "name": "Brendan Lopez",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% and < .15%",
-   "more": 1,
-   "ts": 1795366050,
-   "photo": null
-  },
-  {
-   "key": "ALL_MCGRADY_DESTINEE_2026-11-22",
-   "name": "Destinee Mcgrady",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Moderate Bodily Injury",
-   "more": 1,
-   "ts": 1795366042,
-   "photo": "photos/ALL_MCGRADY_DESTINEE_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_MATHEWS_SHAMYA_2026-11-22",
-   "name": "Shamya Mathews",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 1,
-   "ts": 1795366038,
-   "photo": null
-  },
-  {
-   "key": "ALL_HERRERA_VALERIE_2026-11-22",
-   "name": "Valerie Herrera",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 0,
-   "ts": 1795366033,
-   "photo": "photos/ALL_HERRERA_VALERIE_2026-11-22.jpg"
   }
  ]
 }
