@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T03:47:31+00:00",
+ "updated": "2026-11-25T04:47:25+00:00",
  "items": [
+  {
+   "key": "ALL_SANDLIN_FLOYD_2026-11-24",
+   "name": "Floyd Sandlin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Child Molesting - Statutory Rape",
+   "more": 1,
+   "ts": 1795582033,
+   "photo": "photos/ALL_SANDLIN_FLOYD_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_RADCLIFF_TAKEIA_2026-11-24",
+   "name": "Takeia Tianna Radcliff",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- False Informing/Reporting",
+   "more": 1,
+   "ts": 1795582031,
+   "photo": "photos/VAN_RADCLIFF_TAKEIA_2026-11-24.jpg"
+  },
   {
    "key": "VAN_BOWLES_WESLEY_2026-11-24",
    "name": "Wesley Owen Bowles",
@@ -376,17 +398,6 @@
    "photo": "photos/VAN_JAGOE_KYLE_2026-11-24.jpg"
   },
   {
-   "key": "VAN_HOUSTON_BRYAN_2026-11-24",
-   "name": "Bryan Michael Houston",
-   "age": "43",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Other Agencies Charges",
-   "more": 1,
-   "ts": 1795538870,
-   "photo": "photos/VAN_HOUSTON_BRYAN_2026-11-24.jpg"
-  },
-  {
    "key": "ALL_CHAMBERS_CAMERON_2026-11-24",
    "name": "Cameron Chambers",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795502841,
    "photo": "photos/ALL_HEMSOTH_CHAD_2026-11-24.jpg"
-  },
-  {
-   "key": "ALL_WICKS_JOHN_2026-11-24",
-   "name": "John Wicks",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1795502836,
-   "photo": "photos/ALL_WICKS_JOHN_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_SANDLIN_FLOYD_2026-11-24",
+   "name": "Floyd Sandlin",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Child Molesting - Statutory Rape",
+   "more": 1,
+   "ts": 1795582033,
+   "photo": "photos/ALL_SANDLIN_FLOYD_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_RADCLIFF_TAKEIA_2026-11-24",
+   "name": "Takeia Tianna Radcliff",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- False Informing/Reporting",
+   "more": 1,
+   "ts": 1795582031,
+   "photo": "photos/VAN_RADCLIFF_TAKEIA_2026-11-24.jpg"
+  },
   {
    "key": "VAN_BOWLES_WESLEY_2026-11-24",
    "name": "Wesley Owen Bowles",
