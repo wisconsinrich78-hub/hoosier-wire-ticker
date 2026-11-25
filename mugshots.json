@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:47:42+00:00",
+ "updated": "2026-11-25T16:49:41+00:00",
  "items": [
   {
    "key": "MAD_TURNER_JACOB_2026-11-25",
@@ -2510,72 +2510,6 @@
    "more": 4,
    "ts": 1795369633,
    "photo": "photos/ALL_RAGSDALE_CARLEON_2026-11-22.jpg"
-  },
-  {
-   "key": "MAD_WALLACE_SERINA_2026-11-22",
-   "name": "Serina Nicole Wallace",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Criminal Vandalism (B/M)",
-   "more": 1,
-   "ts": 1795366107,
-   "photo": "photos/MAD_WALLACE_SERINA_2026-11-22.jpg"
-  },
-  {
-   "key": "POR_SWART_ELIZABETH_2026-11-21",
-   "name": "Elizabeth Verna Swart",
-   "age": "48",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Adult Knowing Presence of Child Less Than 16 Years\u2026",
-   "more": 0,
-   "ts": 1795366085,
-   "photo": "photos/POR_SWART_ELIZABETH_2026-11-21.jpg"
-  },
-  {
-   "key": "VAN_WELBORN_CHRISTINE_2026-11-22",
-   "name": "Christine Marie Welborn",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation with a Deadly Weapon",
-   "more": 0,
-   "ts": 1795366077,
-   "photo": "photos/VAN_WELBORN_CHRISTINE_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_CALDERONDELEON_ARAM_2026-11-22",
-   "name": "Aram Ali Calderon De Leon",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery- Bodily Injury - Misdemeanor",
-   "more": 0,
-   "ts": 1795366074,
-   "photo": "photos/VAN_CALDERONDELEON_ARAM_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_HALL_MORGON_2026-11-22",
-   "name": "Morgon Kyle Marshall Hall",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
-   "more": 2,
-   "ts": 1795366073,
-   "photo": "photos/VAN_HALL_MORGON_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_SAMPLE_JHALEASE_2026-11-22",
-   "name": "Jhalease Sample",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated > .08% and < .15%",
-   "more": 3,
-   "ts": 1795366065,
-   "photo": "photos/ALL_SAMPLE_JHALEASE_2026-11-22.jpg"
   }
  ]
 }
