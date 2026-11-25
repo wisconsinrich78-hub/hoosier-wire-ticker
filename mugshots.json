@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-25T02:47:32+00:00",
+ "updated": "2026-11-25T03:47:31+00:00",
  "items": [
+  {
+   "key": "VAN_BOWLES_WESLEY_2026-11-24",
+   "name": "Wesley Owen Bowles",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 1,
+   "ts": 1795578434,
+   "photo": "photos/VAN_BOWLES_WESLEY_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_DRIESBACH_TRACY_2026-11-24",
+   "name": "Tracy Gene Driesbach",
+   "age": "61",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Value of Property at Least $750 and Less That $50,000",
+   "more": 0,
+   "ts": 1795578433,
+   "photo": "photos/VAN_DRIESBACH_TRACY_2026-11-24.jpg"
+  },
   {
    "key": "MAD_DIAZ_MICKEY_2026-11-24",
    "name": "Mickey Jean Diaz",
@@ -365,17 +387,6 @@
    "photo": "photos/VAN_HOUSTON_BRYAN_2026-11-24.jpg"
   },
   {
-   "key": "VAN_SHEPPERLY_AVA_2026-11-24",
-   "name": "Ava Paige Shepperly",
-   "age": "18",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Court Ordered Confinement",
-   "more": 0,
-   "ts": 1795538868,
-   "photo": "photos/VAN_SHEPPERLY_AVA_2026-11-24.jpg"
-  },
-  {
    "key": "ALL_CHAMBERS_CAMERON_2026-11-24",
    "name": "Cameron Chambers",
    "age": "",
@@ -418,17 +429,6 @@
    "more": 2,
    "ts": 1795538841,
    "photo": "photos/ALL_SAVAGE_MAKALA_2026-11-24.jpg"
-  },
-  {
-   "key": "VAN_MCINTYRE_RYAN_2026-11-24",
-   "name": "Ryan Patrick Mcintyre",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery - Against Public Safety Official Engaged in Official",
-   "more": 6,
-   "ts": 1795513631,
-   "photo": "photos/VAN_MCINTYRE_RYAN_2026-11-24.jpg"
   },
   {
    "key": "ALL_THOMPSON_AARON_2026-11-24",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BOWLES_WESLEY_2026-11-24",
+   "name": "Wesley Owen Bowles",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 1,
+   "ts": 1795578434,
+   "photo": "photos/VAN_BOWLES_WESLEY_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_DRIESBACH_TRACY_2026-11-24",
+   "name": "Tracy Gene Driesbach",
+   "age": "61",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Theft- Value of Property at Least $750 and Less That $50,000",
+   "more": 0,
+   "ts": 1795578433,
+   "photo": "photos/VAN_DRIESBACH_TRACY_2026-11-24.jpg"
+  },
   {
    "key": "MAD_DIAZ_MICKEY_2026-11-24",
    "name": "Mickey Jean Diaz",
