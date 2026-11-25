@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-25T19:48:33+00:00",
+ "updated": "2026-11-25T20:47:33+00:00",
  "items": [
+  {
+   "key": "MAD_MORGAN_WESLEY_2026-11-25",
+   "name": "Wesley Isaiah Morgan",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795639642,
+   "photo": "photos/MAD_MORGAN_WESLEY_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_MCLAUGHLIN_TRAVIS_2026-11-25",
+   "name": "Travis Eugene Mclaughlin",
+   "age": "51",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795639632,
+   "photo": null
+  },
+  {
+   "key": "ALL_BENNETT_MARVIN_2026-11-25",
+   "name": "Marvin Bennett",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
+   "more": 3,
+   "ts": 1795639631,
+   "photo": "photos/ALL_BENNETT_MARVIN_2026-11-25.jpg"
+  },
   {
    "key": "POR_SCHWING_COLIN_2026-11-24",
    "name": "Colin Ford Schwing",
@@ -398,17 +431,6 @@
    "photo": "photos/ALL_DAVIS_ASHLI_2026-11-24.jpg"
   },
   {
-   "key": "VAN_DANIELS_ANTWION_2026-11-24",
-   "name": "Antwion Demarco Daniels",
-   "age": "28",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795564037,
-   "photo": "photos/VAN_DANIELS_ANTWION_2026-11-24.jpg"
-  },
-  {
    "key": "MAD_SKEEN_GEORGE_2026-11-24",
    "name": "George Edward Junior Skeen",
    "age": "61",
@@ -506,31 +528,42 @@
    "more": 4,
    "ts": 1795549639,
    "photo": "photos/ALL_FIGGS_KATRINA_2026-11-24.jpg"
-  },
+  }
+ ],
+ "all_items": [
   {
-   "key": "MAD_SMITHSHELTON_AMBER_2026-11-24",
-   "name": "Amber Nicole Smith-Shelton",
-   "age": "44",
+   "key": "MAD_MORGAN_WESLEY_2026-11-25",
+   "name": "Wesley Isaiah Morgan",
+   "age": "31",
    "county": "Madison County",
    "region": "central",
    "charge": "",
    "more": 0,
-   "ts": 1795542467,
-   "photo": "photos/MAD_SMITHSHELTON_AMBER_2026-11-24.jpg"
+   "ts": 1795639642,
+   "photo": "photos/MAD_MORGAN_WESLEY_2026-11-25.jpg"
   },
   {
-   "key": "MAD_RAYFORD_ROBIN_2026-11-24",
-   "name": "Robin Darnell Rayford",
-   "age": "50",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Drug Court - Jail Booking",
-   "more": 1,
-   "ts": 1795538908,
-   "photo": "photos/MAD_RAYFORD_ROBIN_2026-11-24.jpg"
-  }
- ],
- "all_items": [
+   "key": "VAN_MCLAUGHLIN_TRAVIS_2026-11-25",
+   "name": "Travis Eugene Mclaughlin",
+   "age": "51",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795639632,
+   "photo": null
+  },
+  {
+   "key": "ALL_BENNETT_MARVIN_2026-11-25",
+   "name": "Marvin Bennett",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Resisting Law Enforcement / Fleeing Vehicle",
+   "more": 3,
+   "ts": 1795639631,
+   "photo": "photos/ALL_BENNETT_MARVIN_2026-11-25.jpg"
+  },
   {
    "key": "POR_SCHWING_COLIN_2026-11-24",
    "name": "Colin Ford Schwing",
@@ -2565,17 +2598,6 @@
    "more": 1,
    "ts": 1795387626,
    "photo": "photos/ALL_SCOTT_DESHANA_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_BONDS_RONETTE_2026-11-22",
-   "name": "Ronette Bonds",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 0,
-   "ts": 1795380435,
-   "photo": "photos/ALL_BONDS_RONETTE_2026-11-22.jpg"
   }
  ]
 }
