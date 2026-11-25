@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-25T01:48:15+00:00",
+ "updated": "2026-11-25T02:47:32+00:00",
  "items": [
+  {
+   "key": "MAD_DIAZ_MICKEY_2026-11-24",
+   "name": "Mickey Jean Diaz",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating Without Financial Responsibility- (Prior)",
+   "more": 1,
+   "ts": 1795574836,
+   "photo": "photos/MAD_DIAZ_MICKEY_2026-11-24.jpg"
+  },
   {
    "key": "POR_WATKINS_HEATHER_2026-11-24",
    "name": "Heather Mary Watkins",
@@ -517,20 +528,20 @@
    "more": 1,
    "ts": 1795502836,
    "photo": "photos/ALL_WICKS_JOHN_2026-11-24.jpg"
-  },
-  {
-   "key": "ALL_SPRINGER_SHAUN_2026-11-24",
-   "name": "Shaun Springer",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Conversion",
-   "more": 1,
-   "ts": 1795499239,
-   "photo": "photos/ALL_SPRINGER_SHAUN_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_DIAZ_MICKEY_2026-11-24",
+   "name": "Mickey Jean Diaz",
+   "age": "46",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating Without Financial Responsibility- (Prior)",
+   "more": 1,
+   "ts": 1795574836,
+   "photo": "photos/MAD_DIAZ_MICKEY_2026-11-24.jpg"
+  },
   {
    "key": "POR_WATKINS_HEATHER_2026-11-24",
    "name": "Heather Mary Watkins",
