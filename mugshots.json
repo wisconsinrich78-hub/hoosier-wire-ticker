@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:11:49+00:00",
+ "updated": "2026-11-25T09:47:28+00:00",
  "items": [
   {
    "key": "VAN_BARNES_SHARON_2026-11-25",
@@ -2554,39 +2554,6 @@
    "more": 0,
    "ts": 1795366033,
    "photo": "photos/ALL_HERRERA_VALERIE_2026-11-22.jpg"
-  },
-  {
-   "key": "MAD_INGRAM_SEANELLE_2026-11-22",
-   "name": "Seanelle Charlette Ingram",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795340842,
-   "photo": "photos/MAD_INGRAM_SEANELLE_2026-11-22.jpg"
-  },
-  {
-   "key": "POR_GREEN_TOREY_2026-11-21",
-   "name": "Torey Darnell Green",
-   "age": "48",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery-Simple Assault",
-   "more": 2,
-   "ts": 1795340835,
-   "photo": "photos/POR_GREEN_TOREY_2026-11-21.jpg"
-  },
-  {
-   "key": "ALL_HILKER_TIMOTHY_2026-11-22",
-   "name": "Timothy Hilker",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possess Marijuana/Hashish",
-   "more": 1,
-   "ts": 1795340831,
-   "photo": "photos/ALL_HILKER_TIMOTHY_2026-11-22.jpg"
   }
  ]
 }
