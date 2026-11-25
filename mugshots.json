@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-25T19:33:32+00:00",
+ "updated": "2026-11-25T19:48:33+00:00",
  "items": [
+  {
+   "key": "POR_SCHWING_COLIN_2026-11-24",
+   "name": "Colin Ford Schwing",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1795636082,
+   "photo": "photos/POR_SCHWING_COLIN_2026-11-24.jpg"
+  },
+  {
+   "key": "POR_ALLEN_EARL_2026-11-24",
+   "name": "Earl Nick Allen",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Family Offense- Invasion of Privacy",
+   "more": 0,
+   "ts": 1795636078,
+   "photo": "photos/POR_ALLEN_EARL_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_AYALABRAVO_JOSE_2026-11-25",
+   "name": "Jose Ramon Ayala Bravo",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795636065,
+   "photo": "photos/VAN_AYALABRAVO_JOSE_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_CLARK_KRISTY_2026-11-25",
+   "name": "Kristy Kae Clark",
+   "age": "61",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795636062,
+   "photo": null
+  },
   {
    "key": "MAD_SAYLOR_ROGER_2026-11-25",
    "name": "Roger Dale Third Saylor",
@@ -398,17 +442,6 @@
    "photo": null
   },
   {
-   "key": "VAN_KERNEY_KEELA_2026-11-24",
-   "name": "Keela Ann Kerney",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 1,
-   "ts": 1795556841,
-   "photo": "photos/VAN_KERNEY_KEELA_2026-11-24.jpg"
-  },
-  {
    "key": "MAD_PEARSON_MARCUS_2026-11-24",
    "name": "Marcus Antonio Pearson",
    "age": "54",
@@ -440,17 +473,6 @@
    "more": 4,
    "ts": 1795553231,
    "photo": "photos/ALL_NOLL_BRIAN_2026-11-24.jpg"
-  },
-  {
-   "key": "VAN_GRIDDINS_JARMAN_2026-11-24",
-   "name": "Jarman Anthony Griddins",
-   "age": "27",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Criminal Trespass",
-   "more": 0,
-   "ts": 1795553229,
-   "photo": "photos/VAN_GRIDDINS_JARMAN_2026-11-24.jpg"
   },
   {
    "key": "MAD_SMITH_CLINT_2026-11-24",
@@ -506,31 +528,53 @@
    "more": 1,
    "ts": 1795538908,
    "photo": "photos/MAD_RAYFORD_ROBIN_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_MAY_BRANDON_2026-11-24",
-   "name": "Brandon Lee May",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Nonsupport of dependent/prior conviction",
-   "more": 0,
-   "ts": 1795538905,
-   "photo": "photos/MAD_MAY_BRANDON_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_KING_MADELINE_2026-11-24",
-   "name": "Madeline Paige King",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Rle",
-   "more": 1,
-   "ts": 1795538904,
-   "photo": "photos/MAD_KING_MADELINE_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_SCHWING_COLIN_2026-11-24",
+   "name": "Colin Ford Schwing",
+   "age": "42",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Weekender",
+   "more": 0,
+   "ts": 1795636082,
+   "photo": "photos/POR_SCHWING_COLIN_2026-11-24.jpg"
+  },
+  {
+   "key": "POR_ALLEN_EARL_2026-11-24",
+   "name": "Earl Nick Allen",
+   "age": "26",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Family Offense- Invasion of Privacy",
+   "more": 0,
+   "ts": 1795636078,
+   "photo": "photos/POR_ALLEN_EARL_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_AYALABRAVO_JOSE_2026-11-25",
+   "name": "Jose Ramon Ayala Bravo",
+   "age": "42",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795636065,
+   "photo": "photos/VAN_AYALABRAVO_JOSE_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_CLARK_KRISTY_2026-11-25",
+   "name": "Kristy Kae Clark",
+   "age": "61",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795636062,
+   "photo": null
+  },
   {
    "key": "MAD_SAYLOR_ROGER_2026-11-25",
    "name": "Roger Dale Third Saylor",
@@ -2532,28 +2576,6 @@
    "more": 0,
    "ts": 1795380435,
    "photo": "photos/ALL_BONDS_RONETTE_2026-11-22.jpg"
-  },
-  {
-   "key": "MAD_MEZICK_LLOYD_2026-11-22",
-   "name": "Lloyd Warner Mezick",
-   "age": "61",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Probation - Jail Booking",
-   "more": 0,
-   "ts": 1795376841,
-   "photo": "photos/MAD_MEZICK_LLOYD_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_HILL_DARRAIL_2026-11-22",
-   "name": "Darrail Hill",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery - Adult Knowing Presence of Child Less Than 16\u2026",
-   "more": 1,
-   "ts": 1795376831,
-   "photo": null
   }
  ]
 }
