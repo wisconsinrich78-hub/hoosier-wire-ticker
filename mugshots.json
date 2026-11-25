@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:49:41+00:00",
+ "updated": "2026-11-25T17:47:24+00:00",
  "items": [
   {
    "key": "MAD_TURNER_JACOB_2026-11-25",
@@ -2499,17 +2499,6 @@
    "more": 1,
    "ts": 1795376831,
    "photo": null
-  },
-  {
-   "key": "ALL_RAGSDALE_CARLEON_2026-11-22",
-   "name": "Carleon Ragsdale",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 4,
-   "ts": 1795369633,
-   "photo": "photos/ALL_RAGSDALE_CARLEON_2026-11-22.jpg"
   }
  ]
 }
