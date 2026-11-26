@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T07:47:53+00:00",
+ "updated": "2026-11-26T08:47:31+00:00",
  "items": [
+  {
+   "key": "VAN_BODI_ANGELA_2026-11-26",
+   "name": "Angela Dazerrai Bodi",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 0,
+   "ts": 1795682828,
+   "photo": "photos/VAN_BODI_ANGELA_2026-11-26.jpg"
+  },
   {
    "key": "MAD_HILL_JAVION_2026-11-26",
    "name": "Javion James Hill",
@@ -508,17 +519,6 @@
    "photo": "photos/VAN_BROWN_STEPHEN_2026-11-25.jpg"
   },
   {
-   "key": "VAN_BARNES_SHARON_2026-11-25",
-   "name": "Sharon Marie Barnes",
-   "age": "38",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 1,
-   "ts": 1795596435,
-   "photo": "photos/VAN_BARNES_SHARON_2026-11-25.jpg"
-  },
-  {
    "key": "MAD_ARMSTRONG_JAI_2026-11-24",
    "name": "Jai Tyveise Armstrong",
    "age": "24",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BODI_ANGELA_2026-11-26",
+   "name": "Angela Dazerrai Bodi",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 0,
+   "ts": 1795682828,
+   "photo": "photos/VAN_BODI_ANGELA_2026-11-26.jpg"
+  },
   {
    "key": "MAD_HILL_JAVION_2026-11-26",
    "name": "Javion James Hill",
@@ -2587,17 +2598,6 @@
    "more": 2,
    "ts": 1795427234,
    "photo": null
-  },
-  {
-   "key": "MAD_THOMAS_JAYDEN_2026-11-23",
-   "name": "Jayden Christopher Thomas",
-   "age": "19",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for 10 day Probation Violation - Jail Booking",
-   "more": 2,
-   "ts": 1795423640,
-   "photo": "photos/MAD_THOMAS_JAYDEN_2026-11-23.jpg"
   }
  ]
 }
