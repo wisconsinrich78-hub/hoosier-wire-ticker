@@ -1,6 +1,171 @@
 {
- "updated": "2026-11-26T15:56:07+00:00",
+ "updated": "2026-11-26T16:48:04+00:00",
  "items": [
+  {
+   "key": "MAD_DAVIS_MELVIN_2026-11-26",
+   "name": "Melvin James Junior Davis",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle with BAC of .15 or more",
+   "more": 2,
+   "ts": 1795711675,
+   "photo": "photos/MAD_DAVIS_MELVIN_2026-11-26.jpg"
+  },
+  {
+   "key": "POR_HERNANDEZ_ROSALINA_2026-11-25",
+   "name": "Rosalina Holly Hernandez",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 1,
+   "ts": 1795711671,
+   "photo": "photos/POR_HERNANDEZ_ROSALINA_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_BARNES_IEASHAA_2026-11-25",
+   "name": "Ieashaa Denasia Barnes",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795711670,
+   "photo": "photos/POR_BARNES_IEASHAA_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_CARABELLO_FRANK_2026-11-25",
+   "name": "Frank Carabello",
+   "age": "53",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795711666,
+   "photo": "photos/POR_CARABELLO_FRANK_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_BRYANT_DESHAWN_2026-11-25",
+   "name": "Deshawn Anton Bryant",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795711665,
+   "photo": "photos/POR_BRYANT_DESHAWN_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_FINCK_MADISON_2026-11-25",
+   "name": "Madison Marie Finck",
+   "age": "20",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795711661,
+   "photo": "photos/POR_FINCK_MADISON_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_FUQUAY_AYDEN_2026-11-26",
+   "name": "Ayden Michael Fuquay",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Sex Crime- Sexual Battery",
+   "more": 1,
+   "ts": 1795711657,
+   "photo": "photos/VAN_FUQUAY_AYDEN_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_EALUM_DANILLE_2026-11-26",
+   "name": "Danille Yvonne Ealum",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
+   "more": 3,
+   "ts": 1795711655,
+   "photo": "photos/VAN_EALUM_DANILLE_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_HOWARD_JAMES_2026-11-26",
+   "name": "James Ray Howard",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
+   "more": 1,
+   "ts": 1795711655,
+   "photo": null
+  },
+  {
+   "key": "VAN_SMITH_TALEIK_2026-11-26",
+   "name": "Taleik Jamar Smith",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
+   "more": 0,
+   "ts": 1795711652,
+   "photo": "photos/VAN_SMITH_TALEIK_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_SMITH_GERALD_2026-11-26",
+   "name": "Gerald A Smith",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 0,
+   "ts": 1795711650,
+   "photo": "photos/VAN_SMITH_GERALD_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_STUBBLEFIELD_KEENAN_2026-11-26",
+   "name": "Keenan Reese Stubblefield",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Moderate Bodily Injury",
+   "more": 0,
+   "ts": 1795711647,
+   "photo": "photos/VAN_STUBBLEFIELD_KEENAN_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_ROLLINS_LARRY_2026-11-26",
+   "name": "Larry Deonta Rollins",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
+   "more": 3,
+   "ts": 1795711646,
+   "photo": "photos/VAN_ROLLINS_LARRY_2026-11-26.jpg"
+  },
+  {
+   "key": "ALL_BARTON_DESMOND_2026-11-26",
+   "name": "Desmond Barton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion of Privacy Prior Conviction",
+   "more": 0,
+   "ts": 1795711640,
+   "photo": "photos/ALL_BARTON_DESMOND_2026-11-26.jpg"
+  },
+  {
+   "key": "ALL_PACHECO_CRISTIAN_2026-11-26",
+   "name": "Cristian Pacheco",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1795711634,
+   "photo": "photos/ALL_PACHECO_CRISTIAN_2026-11-26.jpg"
+  },
   {
    "key": "VAN_BATEMAN_EMILY_2026-11-26",
    "name": "Emily Ann Bateman",
@@ -266,17 +431,6 @@
    "photo": "photos/ALL_PUTT_TIFFANY_2026-11-25.jpg"
   },
   {
-   "key": "VAN_GARRISON_CAMREN_2026-11-25",
-   "name": "Camren Joseph Garrison",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795650450,
-   "photo": null
-  },
-  {
    "key": "ALL_CARTWRIGHT_ASPEN_2026-11-25",
    "name": "Aspen Cartwright",
    "age": "",
@@ -310,17 +464,6 @@
    "photo": "photos/MAD_JORDAN_JONATHAN_2026-11-25.jpg"
   },
   {
-   "key": "ALL_RAMANATHAN_JACOB_2026-11-25",
-   "name": "Jacob Ramanathan",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 1,
-   "ts": 1795646830,
-   "photo": "photos/ALL_RAMANATHAN_JACOB_2026-11-25.jpg"
-  },
-  {
    "key": "MAD_BROWN_ISADORE_2026-11-25",
    "name": "Isadore Lonniel Brown",
    "age": "36",
@@ -343,28 +486,6 @@
    "photo": "photos/POR_FORTNER_BERNARD_2026-11-24.jpg"
   },
   {
-   "key": "VAN_WAGGONERCORNWELL_KELSEY_2026-11-25",
-   "name": "Kelsey Nicole Waggoner-Cornwell",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Ctp - Hold for Community Transition Program",
-   "more": 0,
-   "ts": 1795643241,
-   "photo": "photos/VAN_WAGGONERCORNWELL_KELSEY_2026-11-25.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_BLAIR_2026-11-25",
-   "name": "Blair Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1795643237,
-   "photo": "photos/ALL_WILLIAMS_BLAIR_2026-11-25.jpg"
-  },
-  {
    "key": "MAD_MORGAN_WESLEY_2026-11-25",
    "name": "Wesley Isaiah Morgan",
    "age": "31",
@@ -374,17 +495,6 @@
    "more": 0,
    "ts": 1795639642,
    "photo": "photos/MAD_MORGAN_WESLEY_2026-11-25.jpg"
-  },
-  {
-   "key": "VAN_MCLAUGHLIN_TRAVIS_2026-11-25",
-   "name": "Travis Eugene Mclaughlin",
-   "age": "51",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795639632,
-   "photo": null
   },
   {
    "key": "POR_SCHWING_COLIN_2026-11-24",
@@ -409,28 +519,6 @@
    "photo": "photos/POR_ALLEN_EARL_2026-11-24.jpg"
   },
   {
-   "key": "VAN_AYALABRAVO_JOSE_2026-11-25",
-   "name": "Jose Ramon Ayala Bravo",
-   "age": "42",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795636065,
-   "photo": "photos/VAN_AYALABRAVO_JOSE_2026-11-25.jpg"
-  },
-  {
-   "key": "VAN_CLARK_KRISTY_2026-11-25",
-   "name": "Kristy Kae Clark",
-   "age": "61",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795636062,
-   "photo": null
-  },
-  {
    "key": "MAD_SAYLOR_ROGER_2026-11-25",
    "name": "Roger Dale Third Saylor",
    "age": "35",
@@ -440,97 +528,174 @@
    "more": 1,
    "ts": 1795632448,
    "photo": "photos/MAD_SAYLOR_ROGER_2026-11-25.jpg"
-  },
-  {
-   "key": "POR_NORMAN_VINCENT_2026-11-24",
-   "name": "Vincent Edward Norman",
-   "age": "47",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795632440,
-   "photo": "photos/POR_NORMAN_VINCENT_2026-11-24.jpg"
-  },
-  {
-   "key": "VAN_JACKSON_ROBERT_2026-11-25",
-   "name": "Robert Lee Jackson",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795632436,
-   "photo": "photos/VAN_JACKSON_ROBERT_2026-11-25.jpg"
-  },
-  {
-   "key": "VAN_GIBSON_DARIUS_2026-11-25",
-   "name": "Darius Marques Darnell Gibson",
-   "age": "30",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795632433,
-   "photo": "photos/VAN_GIBSON_DARIUS_2026-11-25.jpg"
-  },
-  {
-   "key": "MAD_TURNER_JACOB_2026-11-25",
-   "name": "Jacob A Turner",
-   "age": "33",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795625254,
-   "photo": "photos/MAD_TURNER_JACOB_2026-11-25.jpg"
-  },
-  {
-   "key": "MAD_SHAW_CALEB_2026-11-25",
-   "name": "Caleb Daniel Shaw",
-   "age": "23",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1795625252,
-   "photo": "photos/MAD_SHAW_CALEB_2026-11-25.jpg"
-  },
-  {
-   "key": "MAD_GARDNER_EMANI_2026-11-25",
-   "name": "Emani Monet Gardner",
-   "age": "26",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Failure To Appear - Jail Booking",
-   "more": 0,
-   "ts": 1795625249,
-   "photo": "photos/MAD_GARDNER_EMANI_2026-11-25.jpg"
-  },
-  {
-   "key": "POR_HODGES_TREVOR_2026-11-24",
-   "name": "Trevor Jay Hodges",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Domestic Battery Felony 6",
-   "more": 5,
-   "ts": 1795625245,
-   "photo": "photos/POR_HODGES_TREVOR_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_ARMSTRONG_JAI_2026-11-24",
-   "name": "Jai Tyveise Armstrong",
-   "age": "24",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Other Jurisdiction - Jail Booking",
-   "more": 1,
-   "ts": 1795585648,
-   "photo": "photos/MAD_ARMSTRONG_JAI_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_DAVIS_MELVIN_2026-11-26",
+   "name": "Melvin James Junior Davis",
+   "age": "34",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle with BAC of .15 or more",
+   "more": 2,
+   "ts": 1795711675,
+   "photo": "photos/MAD_DAVIS_MELVIN_2026-11-26.jpg"
+  },
+  {
+   "key": "POR_HERNANDEZ_ROSALINA_2026-11-25",
+   "name": "Rosalina Holly Hernandez",
+   "age": "43",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 1,
+   "ts": 1795711671,
+   "photo": "photos/POR_HERNANDEZ_ROSALINA_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_BARNES_IEASHAA_2026-11-25",
+   "name": "Ieashaa Denasia Barnes",
+   "age": "33",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795711670,
+   "photo": "photos/POR_BARNES_IEASHAA_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_CARABELLO_FRANK_2026-11-25",
+   "name": "Frank Carabello",
+   "age": "53",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795711666,
+   "photo": "photos/POR_CARABELLO_FRANK_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_BRYANT_DESHAWN_2026-11-25",
+   "name": "Deshawn Anton Bryant",
+   "age": "32",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Failure to Appear",
+   "more": 0,
+   "ts": 1795711665,
+   "photo": "photos/POR_BRYANT_DESHAWN_2026-11-25.jpg"
+  },
+  {
+   "key": "POR_FINCK_MADISON_2026-11-25",
+   "name": "Madison Marie Finck",
+   "age": "20",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "",
+   "more": 0,
+   "ts": 1795711661,
+   "photo": "photos/POR_FINCK_MADISON_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_FUQUAY_AYDEN_2026-11-26",
+   "name": "Ayden Michael Fuquay",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Sex Crime- Sexual Battery",
+   "more": 1,
+   "ts": 1795711657,
+   "photo": "photos/VAN_FUQUAY_AYDEN_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_EALUM_DANILLE_2026-11-26",
+   "name": "Danille Yvonne Ealum",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
+   "more": 3,
+   "ts": 1795711655,
+   "photo": "photos/VAN_EALUM_DANILLE_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_HOWARD_JAMES_2026-11-26",
+   "name": "James Ray Howard",
+   "age": "56",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
+   "more": 1,
+   "ts": 1795711655,
+   "photo": null
+  },
+  {
+   "key": "VAN_SMITH_TALEIK_2026-11-26",
+   "name": "Taleik Jamar Smith",
+   "age": "23",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
+   "more": 0,
+   "ts": 1795711652,
+   "photo": "photos/VAN_SMITH_TALEIK_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_SMITH_GERALD_2026-11-26",
+   "name": "Gerald A Smith",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 0,
+   "ts": 1795711650,
+   "photo": "photos/VAN_SMITH_GERALD_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_STUBBLEFIELD_KEENAN_2026-11-26",
+   "name": "Keenan Reese Stubblefield",
+   "age": "34",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Moderate Bodily Injury",
+   "more": 0,
+   "ts": 1795711647,
+   "photo": "photos/VAN_STUBBLEFIELD_KEENAN_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_ROLLINS_LARRY_2026-11-26",
+   "name": "Larry Deonta Rollins",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Endang",
+   "more": 3,
+   "ts": 1795711646,
+   "photo": "photos/VAN_ROLLINS_LARRY_2026-11-26.jpg"
+  },
+  {
+   "key": "ALL_BARTON_DESMOND_2026-11-26",
+   "name": "Desmond Barton",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Invasion of Privacy Prior Conviction",
+   "more": 0,
+   "ts": 1795711640,
+   "photo": "photos/ALL_BARTON_DESMOND_2026-11-26.jpg"
+  },
+  {
+   "key": "ALL_PACHECO_CRISTIAN_2026-11-26",
+   "name": "Cristian Pacheco",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 0,
+   "ts": 1795711634,
+   "photo": "photos/ALL_PACHECO_CRISTIAN_2026-11-26.jpg"
+  },
   {
    "key": "VAN_BATEMAN_EMILY_2026-11-26",
    "name": "Emily Ann Bateman",
