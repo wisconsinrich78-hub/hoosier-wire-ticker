@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-26T16:50:27+00:00",
+ "updated": "2026-11-26T19:47:40+00:00",
  "items": [
+  {
+   "key": "VAN_BOUGH_BRIAN_2026-11-26",
+   "name": "Brian Joseph Bough",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Animal Cruelty",
+   "more": 0,
+   "ts": 1795722437,
+   "photo": null
+  },
+  {
+   "key": "ALL_BUSCHE_ANGELA_2026-11-26",
+   "name": "Angela Busche",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1795722435,
+   "photo": null
+  },
   {
    "key": "MAD_DAVIS_MELVIN_2026-11-26",
    "name": "Melvin James Junior Davis",
@@ -387,17 +409,6 @@
    "photo": "photos/VAN_WHITLOCK_VIVIAN_2026-11-25.jpg"
   },
   {
-   "key": "VAN_HERTEL_JANECE_2026-11-25",
-   "name": "Janece Rene Hertel",
-   "age": "61",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
-   "more": 0,
-   "ts": 1795657649,
-   "photo": "photos/VAN_HERTEL_JANECE_2026-11-25.jpg"
-  },
-  {
    "key": "ALL_OSMUN_TONY_2026-11-25",
    "name": "Tony Osmun",
    "age": "",
@@ -440,17 +451,6 @@
    "more": 1,
    "ts": 1795650442,
    "photo": "photos/ALL_CARTWRIGHT_ASPEN_2026-11-25.jpg"
-  },
-  {
-   "key": "ALL_POTTER_JESSICA_2026-11-25",
-   "name": "Jessica Potter",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Shoplifting",
-   "more": 0,
-   "ts": 1795650437,
-   "photo": "photos/ALL_POTTER_JESSICA_2026-11-25.jpg"
   },
   {
    "key": "MAD_JORDAN_JONATHAN_2026-11-25",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BOUGH_BRIAN_2026-11-26",
+   "name": "Brian Joseph Bough",
+   "age": "35",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Animal Cruelty",
+   "more": 0,
+   "ts": 1795722437,
+   "photo": null
+  },
+  {
+   "key": "ALL_BUSCHE_ANGELA_2026-11-26",
+   "name": "Angela Busche",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Conversion",
+   "more": 0,
+   "ts": 1795722435,
+   "photo": null
+  },
   {
    "key": "MAD_DAVIS_MELVIN_2026-11-26",
    "name": "Melvin James Junior Davis",
@@ -2369,17 +2391,6 @@
    "photo": "photos/ALL_GFELL_RENEA_2026-11-23.jpg"
   },
   {
-   "key": "MAD_PETERS_CORY_2026-11-23",
-   "name": "Cory Thomas Peters",
-   "age": "37",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795463254,
-   "photo": "photos/MAD_PETERS_CORY_2026-11-23.jpg"
-  },
-  {
    "key": "ALL_WHEATON_JANARI_2026-11-23",
    "name": "Janari Wheaton",
    "age": "",
@@ -2391,17 +2402,6 @@
    "photo": "photos/ALL_WHEATON_JANARI_2026-11-23.jpg"
   },
   {
-   "key": "MAD_HALLAM_MATTHEW_2026-11-23",
-   "name": "Matthew Roy Hallam",
-   "age": "42",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Hold for Parole Violation - Jail Booking",
-   "more": 1,
-   "ts": 1795463246,
-   "photo": "photos/MAD_HALLAM_MATTHEW_2026-11-23.jpg"
-  },
-  {
    "key": "VAN_REED_CHRISHONE_2026-11-23",
    "name": "Chrishone Tyrell Reed",
    "age": "37",
@@ -2411,17 +2411,6 @@
    "more": 0,
    "ts": 1795463245,
    "photo": "photos/VAN_REED_CHRISHONE_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_ROBINSON_KIMBERLEY_2026-11-23",
-   "name": "Kimberley Renea Robinson",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795459670,
-   "photo": "photos/MAD_ROBINSON_KIMBERLEY_2026-11-23.jpg"
   },
   {
    "key": "VAN_SMALL_BAMBI_2026-11-23",
