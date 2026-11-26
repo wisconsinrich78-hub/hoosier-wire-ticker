@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:47:22+00:00",
+ "updated": "2026-11-26T14:31:08+00:00",
  "items": [
   {
    "key": "VAN_BATEMAN_EMILY_2026-11-26",
@@ -2565,28 +2565,6 @@
    "more": 4,
    "ts": 1795452436,
    "photo": "photos/ALL_GONZALEZGONZALEZ_BRIAN_2026-11-23.jpg"
-  },
-  {
-   "key": "POR_ZINSOU_FREJUS_2026-11-22",
-   "name": "Frejus Zinsou",
-   "age": "24",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Mv/Road/Passing School Bus",
-   "more": 0,
-   "ts": 1795427248,
-   "photo": "photos/POR_ZINSOU_FREJUS_2026-11-22.jpg"
-  },
-  {
-   "key": "ALL_SIPE_ALEXIS_2026-11-23",
-   "name": "Alexis Sipe",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1795427244,
-   "photo": "photos/ALL_SIPE_ALEXIS_2026-11-23.jpg"
   }
  ]
 }
