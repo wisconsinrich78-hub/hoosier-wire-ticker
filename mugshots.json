@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:48:04+00:00",
+ "updated": "2026-11-26T16:50:27+00:00",
  "items": [
   {
    "key": "MAD_DAVIS_MELVIN_2026-11-26",
@@ -2543,61 +2543,6 @@
    "more": 1,
    "ts": 1795456033,
    "photo": null
-  },
-  {
-   "key": "MAD_STEWART_ANTHONY_2026-11-23",
-   "name": "Anthony Lee Stewart",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795452498,
-   "photo": "photos/MAD_STEWART_ANTHONY_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_NETTLETON_THOMAS_2026-11-23",
-   "name": "Thomas Trent Nettleton",
-   "age": "54",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Auto theft",
-   "more": 0,
-   "ts": 1795452497,
-   "photo": null
-  },
-  {
-   "key": "MAD_KLASSEN_BENJAMIN_2026-11-23",
-   "name": "Benjamin Klassen",
-   "age": "25",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795452495,
-   "photo": null
-  },
-  {
-   "key": "MAD_HARTWELL_ANTARIO_2026-11-23",
-   "name": "Antario Lyrone Hartwell",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of In Home Detention",
-   "more": 1,
-   "ts": 1795452493,
-   "photo": "photos/MAD_HARTWELL_ANTARIO_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_CRAM_MICHAEL_2026-11-23",
-   "name": "Michael Abram Cram",
-   "age": "44",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795452489,
-   "photo": "photos/MAD_CRAM_MICHAEL_2026-11-23.jpg"
   },
   {
    "key": "POR_SUYAK_CHERYL_2026-11-22",
