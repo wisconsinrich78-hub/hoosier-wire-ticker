@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T19:47:40+00:00",
+ "updated": "2026-11-26T20:47:26+00:00",
  "items": [
+  {
+   "key": "VAN_JOHNSON_LYDELL_2026-11-26",
+   "name": "Lydell Roy Johnson",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1795726029,
+   "photo": null
+  },
   {
    "key": "VAN_BOUGH_BRIAN_2026-11-26",
    "name": "Brian Joseph Bough",
@@ -398,17 +409,6 @@
    "photo": "photos/POR_ZULEGER_ADAM_2026-11-25.jpg"
   },
   {
-   "key": "VAN_WHITLOCK_VIVIAN_2026-11-25",
-   "name": "Vivian Leann Whitlock",
-   "age": "32",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Vccc Filed Ptr",
-   "more": 0,
-   "ts": 1795657651,
-   "photo": "photos/VAN_WHITLOCK_VIVIAN_2026-11-25.jpg"
-  },
-  {
    "key": "ALL_OSMUN_TONY_2026-11-25",
    "name": "Tony Osmun",
    "age": "",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_JOHNSON_LYDELL_2026-11-26",
+   "name": "Lydell Roy Johnson",
+   "age": "47",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1795726029,
+   "photo": null
+  },
   {
    "key": "VAN_BOUGH_BRIAN_2026-11-26",
    "name": "Brian Joseph Bough",
