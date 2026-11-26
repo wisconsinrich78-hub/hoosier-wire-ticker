@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-26T05:47:44+00:00",
+ "updated": "2026-11-26T06:48:02+00:00",
  "items": [
+  {
+   "key": "VAN_BELILES_JOSHUA_2026-11-25",
+   "name": "Joshua Damen Beliles",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1795675641,
+   "photo": "photos/VAN_BELILES_JOSHUA_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_SWIFT_TIMOTHY_2026-11-26",
+   "name": "Timothy Swift",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1795675636,
+   "photo": "photos/ALL_SWIFT_TIMOTHY_2026-11-26.jpg"
+  },
   {
    "key": "VAN_VASSAUR_JASON_2026-11-25",
    "name": "Jason David Vassaur",
@@ -464,17 +486,6 @@
    "photo": "photos/ALL_NORRIS_JERMAINE_2026-11-25.jpg"
   },
   {
-   "key": "ALL_BADAOUI_AMINE_2026-11-25",
-   "name": "Amine Badaoui",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Sexual Battery",
-   "more": 0,
-   "ts": 1795625232,
-   "photo": "photos/ALL_BADAOUI_AMINE_2026-11-25.jpg"
-  },
-  {
    "key": "VAN_BARNES_SHARON_2026-11-25",
    "name": "Sharon Marie Barnes",
    "age": "38",
@@ -508,17 +519,6 @@
    "photo": "photos/MAD_ARMSTRONG_JAI_2026-11-24.jpg"
   },
   {
-   "key": "VAN_BLACKWELL_TIMOTHY_2026-11-24",
-   "name": "Timothy Brian Blackwell",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement-Creates Substantial Risk Injury L5",
-   "more": 3,
-   "ts": 1795585644,
-   "photo": "photos/VAN_BLACKWELL_TIMOTHY_2026-11-24.jpg"
-  },
-  {
    "key": "MAD_DIAZ_MICKEY_2026-11-24",
    "name": "Mickey Jean Diaz",
    "age": "46",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BELILES_JOSHUA_2026-11-25",
+   "name": "Joshua Damen Beliles",
+   "age": "36",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Communication- Intimidation",
+   "more": 1,
+   "ts": 1795675641,
+   "photo": "photos/VAN_BELILES_JOSHUA_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_SWIFT_TIMOTHY_2026-11-26",
+   "name": "Timothy Swift",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery",
+   "more": 1,
+   "ts": 1795675636,
+   "photo": "photos/ALL_SWIFT_TIMOTHY_2026-11-26.jpg"
+  },
   {
    "key": "VAN_VASSAUR_JASON_2026-11-25",
    "name": "Jason David Vassaur",
@@ -2543,72 +2565,6 @@
    "more": 1,
    "ts": 1795420038,
    "photo": "photos/ALL_GOYTISOLO_FERMIN_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_STONE_MICHAEL_2026-11-23",
-   "name": "Michael Stone",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1795416438,
-   "photo": null
-  },
-  {
-   "key": "ALL_PHILLIPS_MONICA_2026-11-23",
-   "name": "Monica Phillips",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Mischief",
-   "more": 1,
-   "ts": 1795416434,
-   "photo": "photos/ALL_PHILLIPS_MONICA_2026-11-23.jpg"
-  },
-  {
-   "key": "VAN_SIGLER_ANDREW_2026-11-22",
-   "name": "Andrew Ryan Sigler",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Leaving the Scene of a Crash- Property Damage",
-   "more": 2,
-   "ts": 1795416433,
-   "photo": "photos/VAN_SIGLER_ANDREW_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_WILLIAMS_MADISON_2026-11-22",
-   "name": "Madison Nicole Williams",
-   "age": "20",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795416432,
-   "photo": "photos/VAN_WILLIAMS_MADISON_2026-11-22.jpg"
-  },
-  {
-   "key": "VAN_MONTGOMERY_DAVID_2026-11-22",
-   "name": "David Lee Montgomery",
-   "age": "39",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Alcoholic Beverage- Public Intoxication by Alcohol [Bm]",
-   "more": 0,
-   "ts": 1795416432,
-   "photo": null
-  },
-  {
-   "key": "MAD_HAYNES_DUSTIN_2026-11-23",
-   "name": "Dustin Allen Haynes",
-   "age": "41",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795416432,
-   "photo": "photos/MAD_HAYNES_DUSTIN_2026-11-23.jpg"
   }
  ]
 }
