@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-26T00:48:58+00:00",
+ "updated": "2026-11-26T01:48:04+00:00",
  "items": [
+  {
+   "key": "POR_ZULEGER_ADAM_2026-11-25",
+   "name": "Adam Michael Zuleger",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery - Against Public Safety Official Engaged in Official Duty",
+   "more": 4,
+   "ts": 1795657661,
+   "photo": "photos/POR_ZULEGER_ADAM_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_WHITLOCK_VIVIAN_2026-11-25",
+   "name": "Vivian Leann Whitlock",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Vccc Filed Ptr",
+   "more": 0,
+   "ts": 1795657651,
+   "photo": "photos/VAN_WHITLOCK_VIVIAN_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_HERTEL_JANECE_2026-11-25",
+   "name": "Janece Rene Hertel",
+   "age": "61",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
+   "more": 0,
+   "ts": 1795657649,
+   "photo": "photos/VAN_HERTEL_JANECE_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_OSMUN_TONY_2026-11-25",
+   "name": "Tony Osmun",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1795657641,
+   "photo": "photos/ALL_OSMUN_TONY_2026-11-25.jpg"
+  },
   {
    "key": "ALL_EDMONDSON_JERMAINE_2026-11-25",
    "name": "Jermaine Edmondson",
@@ -431,17 +475,6 @@
    "photo": "photos/ALL_BOWLING_NICHOLAS_2026-11-25.jpg"
   },
   {
-   "key": "ALL_SANDLIN_FLOYD_2026-11-24",
-   "name": "Floyd Sandlin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Child Molesting - Statutory Rape",
-   "more": 1,
-   "ts": 1795582033,
-   "photo": "photos/ALL_SANDLIN_FLOYD_2026-11-24.jpg"
-  },
-  {
    "key": "VAN_RADCLIFF_TAKEIA_2026-11-24",
    "name": "Takeia Tianna Radcliff",
    "age": "26",
@@ -495,42 +528,53 @@
    "more": 4,
    "ts": 1795571245,
    "photo": "photos/POR_WATKINS_HEATHER_2026-11-24.jpg"
-  },
-  {
-   "key": "VAN_THOMAS_PIERRE_2026-11-24",
-   "name": "Pierre Demont Thomas",
-   "age": "50",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795567642,
-   "photo": "photos/VAN_THOMAS_PIERRE_2026-11-24.jpg"
-  },
-  {
-   "key": "VAN_MARTS_MARSHA_2026-11-24",
-   "name": "Marsha Gene Marts",
-   "age": "34",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Domestic Battery-W/Prior Unrelated Conviction (S)",
-   "more": 0,
-   "ts": 1795567639,
-   "photo": "photos/VAN_MARTS_MARSHA_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_SKEEN_GEORGE_2026-11-24",
-   "name": "George Edward Junior Skeen",
-   "age": "61",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Drug Court - Jail Booking",
-   "more": 0,
-   "ts": 1795556855,
-   "photo": "photos/MAD_SKEEN_GEORGE_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_ZULEGER_ADAM_2026-11-25",
+   "name": "Adam Michael Zuleger",
+   "age": "41",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Battery - Against Public Safety Official Engaged in Official Duty",
+   "more": 4,
+   "ts": 1795657661,
+   "photo": "photos/POR_ZULEGER_ADAM_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_WHITLOCK_VIVIAN_2026-11-25",
+   "name": "Vivian Leann Whitlock",
+   "age": "32",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Vccc Filed Ptr",
+   "more": 0,
+   "ts": 1795657651,
+   "photo": "photos/VAN_WHITLOCK_VIVIAN_2026-11-25.jpg"
+  },
+  {
+   "key": "VAN_HERTEL_JANECE_2026-11-25",
+   "name": "Janece Rene Hertel",
+   "age": "61",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Adult Know Presence of Child Less Than 16",
+   "more": 0,
+   "ts": 1795657649,
+   "photo": "photos/VAN_HERTEL_JANECE_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_OSMUN_TONY_2026-11-25",
+   "name": "Tony Osmun",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1795657641,
+   "photo": "photos/ALL_OSMUN_TONY_2026-11-25.jpg"
+  },
   {
    "key": "ALL_EDMONDSON_JERMAINE_2026-11-25",
    "name": "Jermaine Edmondson",
