@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T08:47:31+00:00",
+ "updated": "2026-11-26T09:47:22+00:00",
  "items": [
+  {
+   "key": "VAN_BATEMAN_EMILY_2026-11-26",
+   "name": "Emily Ann Bateman",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 1,
+   "ts": 1795686424,
+   "photo": null
+  },
   {
    "key": "VAN_BODI_ANGELA_2026-11-26",
    "name": "Angela Dazerrai Bodi",
@@ -508,17 +519,6 @@
    "photo": "photos/POR_HODGES_TREVOR_2026-11-24.jpg"
   },
   {
-   "key": "VAN_BROWN_STEPHEN_2026-11-25",
-   "name": "Stephen Randall Brown",
-   "age": "41",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Intimidation with a Deadly Weapon",
-   "more": 0,
-   "ts": 1795625242,
-   "photo": "photos/VAN_BROWN_STEPHEN_2026-11-25.jpg"
-  },
-  {
    "key": "MAD_ARMSTRONG_JAI_2026-11-24",
    "name": "Jai Tyveise Armstrong",
    "age": "24",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BATEMAN_EMILY_2026-11-26",
+   "name": "Emily Ann Bateman",
+   "age": "22",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 1,
+   "ts": 1795686424,
+   "photo": null
+  },
   {
    "key": "VAN_BODI_ANGELA_2026-11-26",
    "name": "Angela Dazerrai Bodi",
@@ -2576,28 +2587,6 @@
    "more": 1,
    "ts": 1795427244,
    "photo": "photos/ALL_SIPE_ALEXIS_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_WILLIAMS_ANTONIO_2026-11-23",
-   "name": "Antonio Williams",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated",
-   "more": 1,
-   "ts": 1795427239,
-   "photo": "photos/ALL_WILLIAMS_ANTONIO_2026-11-23.jpg"
-  },
-  {
-   "key": "ALL_HUFFSTETLER_SARAH_2026-11-23",
-   "name": "Sarah Huffstetler",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 2,
-   "ts": 1795427234,
-   "photo": null
   }
  ]
 }
