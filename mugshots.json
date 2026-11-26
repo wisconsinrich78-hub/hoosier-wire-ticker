@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-26T00:00:03+00:00",
+ "updated": "2026-11-26T00:48:58+00:00",
  "items": [
+  {
+   "key": "ALL_EDMONDSON_JERMAINE_2026-11-25",
+   "name": "Jermaine Edmondson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795654037,
+   "photo": "photos/ALL_EDMONDSON_JERMAINE_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_PUTT_TIFFANY_2026-11-25",
+   "name": "Tiffany Putt",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1795654031,
+   "photo": "photos/ALL_PUTT_TIFFANY_2026-11-25.jpg"
+  },
   {
    "key": "VAN_GARRISON_CAMREN_2026-11-25",
    "name": "Camren Joseph Garrison",
@@ -497,28 +519,6 @@
    "photo": "photos/VAN_MARTS_MARSHA_2026-11-24.jpg"
   },
   {
-   "key": "ALL_RHOADES_DEREK_2026-11-24",
-   "name": "Derek Rhoades",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Home Detention Placement Violation",
-   "more": 0,
-   "ts": 1795567639,
-   "photo": "photos/ALL_RHOADES_DEREK_2026-11-24.jpg"
-  },
-  {
-   "key": "ALL_DAVIS_ASHLI_2026-11-24",
-   "name": "Ashli Davis",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Driving While Suspended - Prior",
-   "more": 2,
-   "ts": 1795564039,
-   "photo": "photos/ALL_DAVIS_ASHLI_2026-11-24.jpg"
-  },
-  {
    "key": "MAD_SKEEN_GEORGE_2026-11-24",
    "name": "George Edward Junior Skeen",
    "age": "61",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_EDMONDSON_JERMAINE_2026-11-25",
+   "name": "Jermaine Edmondson",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Probation Viol-Adult",
+   "more": 0,
+   "ts": 1795654037,
+   "photo": "photos/ALL_EDMONDSON_JERMAINE_2026-11-25.jpg"
+  },
+  {
+   "key": "ALL_PUTT_TIFFANY_2026-11-25",
+   "name": "Tiffany Putt",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1795654031,
+   "photo": "photos/ALL_PUTT_TIFFANY_2026-11-25.jpg"
+  },
   {
    "key": "VAN_GARRISON_CAMREN_2026-11-25",
    "name": "Camren Joseph Garrison",
