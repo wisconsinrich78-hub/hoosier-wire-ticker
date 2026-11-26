@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T20:47:26+00:00",
+ "updated": "2026-11-26T21:47:24+00:00",
  "items": [
+  {
+   "key": "MAD_ADKINS_THOMAS_2026-11-26",
+   "name": "Thomas Micheal Adkins",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795729631,
+   "photo": null
+  },
   {
    "key": "VAN_JOHNSON_LYDELL_2026-11-26",
    "name": "Lydell Roy Johnson",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795636078,
    "photo": "photos/POR_ALLEN_EARL_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_SAYLOR_ROGER_2026-11-25",
-   "name": "Roger Dale Third Saylor",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Confinement",
-   "more": 1,
-   "ts": 1795632448,
-   "photo": "photos/MAD_SAYLOR_ROGER_2026-11-25.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_ADKINS_THOMAS_2026-11-26",
+   "name": "Thomas Micheal Adkins",
+   "age": "26",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795729631,
+   "photo": null
+  },
   {
    "key": "VAN_JOHNSON_LYDELL_2026-11-26",
    "name": "Lydell Roy Johnson",
@@ -2323,28 +2334,6 @@
    "more": 0,
    "ts": 1795470433,
    "photo": "photos/ALL_LEE_STACY_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_YOUNG_JEREMIAH_2026-11-23",
-   "name": "Jeremiah Young",
-   "age": "43",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795466865,
-   "photo": null
-  },
-  {
-   "key": "MAD_WILSONJONES_NAYVIN_2026-11-23",
-   "name": "Nayvin Isaiah Wilson-Jones",
-   "age": "22",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795466864,
-   "photo": "photos/MAD_WILSONJONES_NAYVIN_2026-11-23.jpg"
   },
   {
    "key": "VAN_SCOTT_TRINITY_2026-11-23",
