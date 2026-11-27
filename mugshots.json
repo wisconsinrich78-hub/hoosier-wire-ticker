@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-27T02:47:47+00:00",
+ "updated": "2026-11-27T03:48:04+00:00",
  "items": [
+  {
+   "key": "VAN_SMITH_ZACHARY_2026-11-26",
+   "name": "Zachary Wayne Smith",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement-Causes Bodily Injury L5",
+   "more": 0,
+   "ts": 1795751264,
+   "photo": "photos/VAN_SMITH_ZACHARY_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_ALDRIDGE_DANIEL_2026-11-26",
+   "name": "Daniel Ray Aldridge",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Moderate Bodily Injury",
+   "more": 1,
+   "ts": 1795751260,
+   "photo": null
+  },
   {
    "key": "POR_CLEMENS_BARBARA_2026-11-26",
    "name": "Barbara Ann Clemens",
@@ -365,17 +387,6 @@
    "photo": "photos/ALL_SWIFT_TIMOTHY_2026-11-26.jpg"
   },
   {
-   "key": "VAN_VASSAUR_JASON_2026-11-25",
-   "name": "Jason David Vassaur",
-   "age": "21",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795672041,
-   "photo": "photos/VAN_VASSAUR_JASON_2026-11-25.jpg"
-  },
-  {
    "key": "ALL_NEWMON_JAQUILLA_2026-11-25",
    "name": "Jaquilla Newmon",
    "age": "",
@@ -407,17 +418,6 @@
    "more": 3,
    "ts": 1795668456,
    "photo": "photos/ALL_TATE_NICOLE_2026-11-25.jpg"
-  },
-  {
-   "key": "VAN_EDWARDS_DEVONIER_2026-11-25",
-   "name": "Devonier Antonio Edwards",
-   "age": "33",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795664847,
-   "photo": null
   },
   {
    "key": "ALL_GODING_JENNIFER_2026-11-25",
@@ -531,6 +531,28 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_SMITH_ZACHARY_2026-11-26",
+   "name": "Zachary Wayne Smith",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Resisting Law Enforcement-Causes Bodily Injury L5",
+   "more": 0,
+   "ts": 1795751264,
+   "photo": "photos/VAN_SMITH_ZACHARY_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_ALDRIDGE_DANIEL_2026-11-26",
+   "name": "Daniel Ray Aldridge",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Domestic Battery-Moderate Bodily Injury",
+   "more": 1,
+   "ts": 1795751260,
+   "photo": null
+  },
   {
    "key": "POR_CLEMENS_BARBARA_2026-11-26",
    "name": "Barbara Ann Clemens",
