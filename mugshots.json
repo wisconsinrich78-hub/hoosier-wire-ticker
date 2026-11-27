@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-27T06:53:53+00:00",
+ "updated": "2026-11-27T07:49:32+00:00",
  "items": [
+  {
+   "key": "POR_DOLES_MIA_2026-11-26",
+   "name": "Mia Kate Doles",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Causing Death",
+   "more": 2,
+   "ts": 1795765710,
+   "photo": "photos/POR_DOLES_MIA_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_JONES_MYKEL_2026-11-27",
+   "name": "Mykel Raekwon Jones",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795765684,
+   "photo": "photos/VAN_JONES_MYKEL_2026-11-27.jpg"
+  },
   {
    "key": "VAN_WASHINGTON_JOVOCSE_2026-11-26",
    "name": "Jovocse Alize Washington",
@@ -409,17 +431,6 @@
    "photo": null
   },
   {
-   "key": "VAN_BODI_ANGELA_2026-11-26",
-   "name": "Angela Dazerrai Bodi",
-   "age": "29",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 0,
-   "ts": 1795682828,
-   "photo": "photos/VAN_BODI_ANGELA_2026-11-26.jpg"
-  },
-  {
    "key": "MAD_HILL_JAVION_2026-11-26",
    "name": "Javion James Hill",
    "age": "19",
@@ -517,20 +528,31 @@
    "more": 3,
    "ts": 1795668456,
    "photo": "photos/ALL_TATE_NICOLE_2026-11-25.jpg"
-  },
-  {
-   "key": "ALL_GODING_JENNIFER_2026-11-25",
-   "name": "Jennifer Goding",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Theft Shoplifting",
-   "more": 2,
-   "ts": 1795661245,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "POR_DOLES_MIA_2026-11-26",
+   "name": "Mia Kate Doles",
+   "age": "22",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated- Causing Death",
+   "more": 2,
+   "ts": 1795765710,
+   "photo": "photos/POR_DOLES_MIA_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_JONES_MYKEL_2026-11-27",
+   "name": "Mykel Raekwon Jones",
+   "age": "27",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795765684,
+   "photo": "photos/VAN_JONES_MYKEL_2026-11-27.jpg"
+  },
   {
    "key": "VAN_WASHINGTON_JOVOCSE_2026-11-26",
    "name": "Jovocse Alize Washington",
@@ -2125,28 +2147,6 @@
    "more": 2,
    "ts": 1795510034,
    "photo": "photos/VAN_COATES_JUSTIN_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_TRAVIS_NATHAN_2026-11-24",
-   "name": "Nathan Charles Travis",
-   "age": "30",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795506452,
-   "photo": null
-  },
-  {
-   "key": "MAD_FIELDS_AMANDA_2026-11-24",
-   "name": "Amanda June Fields",
-   "age": "39",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Possession paraphernalia",
-   "more": 2,
-   "ts": 1795506442,
-   "photo": "photos/MAD_FIELDS_AMANDA_2026-11-24.jpg"
   },
   {
    "key": "ALL_MENDOZA_JONQUIL_2026-11-24",
