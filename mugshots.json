@@ -1,6 +1,83 @@
 {
- "updated": "2026-11-27T22:48:08+00:00",
+ "updated": "2026-11-27T23:48:05+00:00",
  "items": [
+  {
+   "key": "MAD_WILBORN_ANGELA_2026-11-27",
+   "name": "Angela Dianne Wilborn",
+   "age": "64",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795823273,
+   "photo": "photos/MAD_WILBORN_ANGELA_2026-11-27.jpg"
+  },
+  {
+   "key": "VAN_GRAY_KANDIS_2026-11-27",
+   "name": "Kandis Jean Gray",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795823243,
+   "photo": "photos/VAN_GRAY_KANDIS_2026-11-27.jpg"
+  },
+  {
+   "key": "VAN_STONE_DOUGLAS_2026-11-27",
+   "name": "Douglas Dewayne Stone",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795823242,
+   "photo": null
+  },
+  {
+   "key": "VAN_DUNCAN_BRENDAN_2026-11-27",
+   "name": "Brendan Adam Duncan",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795823242,
+   "photo": "photos/VAN_DUNCAN_BRENDAN_2026-11-27.jpg"
+  },
+  {
+   "key": "VAN_PARRISH_JAMES_2026-11-27",
+   "name": "James Robert Parrish",
+   "age": "64",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795823242,
+   "photo": null
+  },
+  {
+   "key": "ALL_GARR_TONJA_2026-11-27",
+   "name": "Tonja Garr",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Paraphernalia",
+   "more": 1,
+   "ts": 1795823235,
+   "photo": "photos/ALL_GARR_TONJA_2026-11-27.jpg"
+  },
+  {
+   "key": "ALL_SCHOCH_LUKAS_2026-11-27",
+   "name": "Lukas Schoch",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1795823234,
+   "photo": "photos/ALL_SCHOCH_LUKAS_2026-11-27.jpg"
+  },
   {
    "key": "VAN_STALLING_STEVEN_2026-11-27",
    "name": "Steven Anthony Stalling",
@@ -409,28 +486,6 @@
    "photo": null
   },
   {
-   "key": "VAN_JOHNSON_LYDELL_2026-11-26",
-   "name": "Lydell Roy Johnson",
-   "age": "47",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 1,
-   "ts": 1795726029,
-   "photo": null
-  },
-  {
-   "key": "VAN_BOUGH_BRIAN_2026-11-26",
-   "name": "Brian Joseph Bough",
-   "age": "35",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Animal Cruelty",
-   "more": 0,
-   "ts": 1795722437,
-   "photo": null
-  },
-  {
    "key": "ALL_BUSCHE_ANGELA_2026-11-26",
    "name": "Angela Busche",
    "age": "",
@@ -473,64 +528,86 @@
    "more": 0,
    "ts": 1795711670,
    "photo": "photos/POR_BARNES_IEASHAA_2026-11-25.jpg"
-  },
-  {
-   "key": "POR_CARABELLO_FRANK_2026-11-25",
-   "name": "Frank Carabello",
-   "age": "53",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1795711666,
-   "photo": "photos/POR_CARABELLO_FRANK_2026-11-25.jpg"
-  },
-  {
-   "key": "POR_BRYANT_DESHAWN_2026-11-25",
-   "name": "Deshawn Anton Bryant",
-   "age": "32",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Failure to Appear",
-   "more": 0,
-   "ts": 1795711665,
-   "photo": "photos/POR_BRYANT_DESHAWN_2026-11-25.jpg"
-  },
-  {
-   "key": "POR_FINCK_MADISON_2026-11-25",
-   "name": "Madison Marie Finck",
-   "age": "20",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "",
-   "more": 0,
-   "ts": 1795711661,
-   "photo": "photos/POR_FINCK_MADISON_2026-11-25.jpg"
-  },
-  {
-   "key": "VAN_FUQUAY_AYDEN_2026-11-26",
-   "name": "Ayden Michael Fuquay",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Sex Crime- Sexual Battery",
-   "more": 1,
-   "ts": 1795711657,
-   "photo": "photos/VAN_FUQUAY_AYDEN_2026-11-26.jpg"
-  },
-  {
-   "key": "VAN_EALUM_DANILLE_2026-11-26",
-   "name": "Danille Yvonne Ealum",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Operating A Vehicle With An Ace Of .15 Or More",
-   "more": 3,
-   "ts": 1795711655,
-   "photo": "photos/VAN_EALUM_DANILLE_2026-11-26.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_WILBORN_ANGELA_2026-11-27",
+   "name": "Angela Dianne Wilborn",
+   "age": "64",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795823273,
+   "photo": "photos/MAD_WILBORN_ANGELA_2026-11-27.jpg"
+  },
+  {
+   "key": "VAN_GRAY_KANDIS_2026-11-27",
+   "name": "Kandis Jean Gray",
+   "age": "41",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795823243,
+   "photo": "photos/VAN_GRAY_KANDIS_2026-11-27.jpg"
+  },
+  {
+   "key": "VAN_STONE_DOUGLAS_2026-11-27",
+   "name": "Douglas Dewayne Stone",
+   "age": "21",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795823242,
+   "photo": null
+  },
+  {
+   "key": "VAN_DUNCAN_BRENDAN_2026-11-27",
+   "name": "Brendan Adam Duncan",
+   "age": "28",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Petition to Revoke Probation",
+   "more": 0,
+   "ts": 1795823242,
+   "photo": "photos/VAN_DUNCAN_BRENDAN_2026-11-27.jpg"
+  },
+  {
+   "key": "VAN_PARRISH_JAMES_2026-11-27",
+   "name": "James Robert Parrish",
+   "age": "64",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Court Ordered Confinement",
+   "more": 0,
+   "ts": 1795823242,
+   "photo": null
+  },
+  {
+   "key": "ALL_GARR_TONJA_2026-11-27",
+   "name": "Tonja Garr",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Paraphernalia",
+   "more": 1,
+   "ts": 1795823235,
+   "photo": "photos/ALL_GARR_TONJA_2026-11-27.jpg"
+  },
+  {
+   "key": "ALL_SCHOCH_LUKAS_2026-11-27",
+   "name": "Lukas Schoch",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Hold for Other Jurisdiction",
+   "more": 0,
+   "ts": 1795823234,
+   "photo": "photos/ALL_SCHOCH_LUKAS_2026-11-27.jpg"
+  },
   {
    "key": "VAN_STALLING_STEVEN_2026-11-27",
    "name": "Steven Anthony Stalling",
@@ -1918,17 +1995,6 @@
    "photo": "photos/VAN_HELM_MICHAEL_2026-11-24.jpg"
   },
   {
-   "key": "VAN_THOMAS_JEFFERY_2026-11-24",
-   "name": "Jeffery Allen Thomas",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Correction- Sexual Violent Predator Duty to Notify Violation",
-   "more": 0,
-   "ts": 1795564039,
-   "photo": "photos/VAN_THOMAS_JEFFERY_2026-11-24.jpg"
-  },
-  {
    "key": "ALL_DAVIS_ASHLI_2026-11-24",
    "name": "Ashli Davis",
    "age": "",
@@ -1938,6 +2004,17 @@
    "more": 2,
    "ts": 1795564039,
    "photo": "photos/ALL_DAVIS_ASHLI_2026-11-24.jpg"
+  },
+  {
+   "key": "VAN_THOMAS_JEFFERY_2026-11-24",
+   "name": "Jeffery Allen Thomas",
+   "age": "44",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Correction- Sexual Violent Predator Duty to Notify Violation",
+   "more": 0,
+   "ts": 1795564039,
+   "photo": "photos/VAN_THOMAS_JEFFERY_2026-11-24.jpg"
   },
   {
    "key": "VAN_DANIELS_ANTWION_2026-11-24",
