@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-27T20:47:39+00:00",
+ "updated": "2026-11-27T21:48:40+00:00",
  "items": [
+  {
+   "key": "VAN_BONDS_AMY_2026-11-27",
+   "name": "Amy Lynn Bonds",
+   "age": "59",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795816055,
+   "photo": "photos/VAN_BONDS_AMY_2026-11-27.jpg"
+  },
+  {
+   "key": "ALL_HARRIS_TREY_2026-11-27",
+   "name": "Trey Harris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish - Prior Drug Offense Conviction",
+   "more": 1,
+   "ts": 1795816048,
+   "photo": "photos/ALL_HARRIS_TREY_2026-11-27.jpg"
+  },
+  {
+   "key": "ALL_OWENS_ANDRE_2026-11-27",
+   "name": "Andre Owens",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Paraphernalia",
+   "more": 0,
+   "ts": 1795816046,
+   "photo": "photos/ALL_OWENS_ANDRE_2026-11-27.jpg"
+  },
   {
    "key": "MAD_THOMPSON_COREY_2026-11-27",
    "name": "Corey Dejuan Thompson",
@@ -495,42 +528,42 @@
    "more": 1,
    "ts": 1795711655,
    "photo": null
-  },
-  {
-   "key": "VAN_SMITH_TALEIK_2026-11-26",
-   "name": "Taleik Jamar Smith",
-   "age": "23",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Battery- Bodily Injury - Misdemeanor (Simple Assault)",
-   "more": 0,
-   "ts": 1795711652,
-   "photo": "photos/VAN_SMITH_TALEIK_2026-11-26.jpg"
-  },
-  {
-   "key": "ALL_BARTON_DESMOND_2026-11-26",
-   "name": "Desmond Barton",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Invasion of Privacy Prior Conviction",
-   "more": 0,
-   "ts": 1795711640,
-   "photo": "photos/ALL_BARTON_DESMOND_2026-11-26.jpg"
-  },
-  {
-   "key": "ALL_PACHECO_CRISTIAN_2026-11-26",
-   "name": "Cristian Pacheco",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Domestic Battery",
-   "more": 0,
-   "ts": 1795711634,
-   "photo": "photos/ALL_PACHECO_CRISTIAN_2026-11-26.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BONDS_AMY_2026-11-27",
+   "name": "Amy Lynn Bonds",
+   "age": "59",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795816055,
+   "photo": "photos/VAN_BONDS_AMY_2026-11-27.jpg"
+  },
+  {
+   "key": "ALL_HARRIS_TREY_2026-11-27",
+   "name": "Trey Harris",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possess Marijuana/Hashish - Prior Drug Offense Conviction",
+   "more": 1,
+   "ts": 1795816048,
+   "photo": "photos/ALL_HARRIS_TREY_2026-11-27.jpg"
+  },
+  {
+   "key": "ALL_OWENS_ANDRE_2026-11-27",
+   "name": "Andre Owens",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Possession of Paraphernalia",
+   "more": 0,
+   "ts": 1795816046,
+   "photo": "photos/ALL_OWENS_ANDRE_2026-11-27.jpg"
+  },
   {
    "key": "MAD_THOMPSON_COREY_2026-11-27",
    "name": "Corey Dejuan Thompson",
@@ -1905,17 +1938,6 @@
    "more": 0,
    "ts": 1795564037,
    "photo": "photos/VAN_DANIELS_ANTWION_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_SKEEN_GEORGE_2026-11-24",
-   "name": "George Edward Junior Skeen",
-   "age": "61",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of Drug Court - Jail Booking",
-   "more": 0,
-   "ts": 1795556855,
-   "photo": "photos/MAD_SKEEN_GEORGE_2026-11-24.jpg"
   },
   {
    "key": "ALL_MIDDLETON_SAMUEL_2026-11-24",
