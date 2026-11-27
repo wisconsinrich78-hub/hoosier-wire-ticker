@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-27T19:48:00+00:00",
+ "updated": "2026-11-27T20:47:39+00:00",
  "items": [
+  {
+   "key": "MAD_THOMPSON_COREY_2026-11-27",
+   "name": "Corey Dejuan Thompson",
+   "age": "38",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Criminal trespass",
+   "more": 0,
+   "ts": 1795812448,
+   "photo": null
+  },
   {
    "key": "ALL_FOSS_GABRIEL_2026-11-27",
    "name": "Gabriel Foss",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795711634,
    "photo": "photos/ALL_PACHECO_CRISTIAN_2026-11-26.jpg"
-  },
-  {
-   "key": "MAD_HILL_JAVION_2026-11-26",
-   "name": "Javion James Hill",
-   "age": "19",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795679262,
-   "photo": null
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_THOMPSON_COREY_2026-11-27",
+   "name": "Corey Dejuan Thompson",
+   "age": "38",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Criminal trespass",
+   "more": 0,
+   "ts": 1795812448,
+   "photo": null
+  },
   {
    "key": "ALL_FOSS_GABRIEL_2026-11-27",
    "name": "Gabriel Foss",
@@ -1938,28 +1949,6 @@
    "more": 1,
    "ts": 1795556841,
    "photo": "photos/VAN_KERNEY_KEELA_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_PEARSON_MARCUS_2026-11-24",
-   "name": "Marcus Antonio Pearson",
-   "age": "54",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Return to County Jail Per Court Order - Jail Bookings",
-   "more": 0,
-   "ts": 1795553250,
-   "photo": "photos/MAD_PEARSON_MARCUS_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_COX_ROBIN_2026-11-24",
-   "name": "Robin Nathan Cox",
-   "age": "65",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Criminal trespass",
-   "more": 0,
-   "ts": 1795553244,
-   "photo": "photos/MAD_COX_ROBIN_2026-11-24.jpg"
   },
   {
    "key": "ALL_NOLL_BRIAN_2026-11-24",
