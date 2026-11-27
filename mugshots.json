@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-26T22:47:24+00:00",
+ "updated": "2026-11-27T00:47:46+00:00",
  "items": [
+  {
+   "key": "MAD_MALONE_JONI_2026-11-26",
+   "name": "Joni Leann Malone",
+   "age": "52",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795740452,
+   "photo": "photos/MAD_MALONE_JONI_2026-11-26.jpg"
+  },
   {
    "key": "POR_BRYANT_TIMOTHY_2026-11-25",
    "name": "Timothy Lawrence Bryant",
@@ -517,20 +528,20 @@
    "more": 0,
    "ts": 1795639642,
    "photo": "photos/MAD_MORGAN_WESLEY_2026-11-25.jpg"
-  },
-  {
-   "key": "POR_SCHWING_COLIN_2026-11-24",
-   "name": "Colin Ford Schwing",
-   "age": "42",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Weekender",
-   "more": 0,
-   "ts": 1795636082,
-   "photo": "photos/POR_SCHWING_COLIN_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_MALONE_JONI_2026-11-26",
+   "name": "Joni Leann Malone",
+   "age": "52",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795740452,
+   "photo": "photos/MAD_MALONE_JONI_2026-11-26.jpg"
+  },
   {
    "key": "POR_BRYANT_TIMOTHY_2026-11-25",
    "name": "Timothy Lawrence Bryant",
@@ -2127,28 +2138,6 @@
    "photo": "photos/ALL_HAIRSTON_YOSHZMIN_2026-11-23.jpg"
   },
   {
-   "key": "ALL_BARNFIELD_JASMINE_2026-11-23",
-   "name": "Jasmine Barnfield",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "",
-   "more": 0,
-   "ts": 1795484837,
-   "photo": "photos/ALL_BARNFIELD_JASMINE_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_SPARKMAN_KAYLIN_2026-11-23",
-   "name": "Kaylin Paige Sparkman",
-   "age": "28",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795481263,
-   "photo": "photos/MAD_SPARKMAN_KAYLIN_2026-11-23.jpg"
-  },
-  {
    "key": "VAN_ADCOCK_CHRISTIAN_2026-11-23",
    "name": "Christian Alexander Adcock",
    "age": "29",
@@ -2191,17 +2180,6 @@
    "more": 0,
    "ts": 1795481234,
    "photo": "photos/ALL_MEEKS_WILLIAM_2026-11-23.jpg"
-  },
-  {
-   "key": "MAD_DUFFY_RONALD_2026-11-23",
-   "name": "Ronald Eugene Duffy",
-   "age": "35",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795477659,
-   "photo": "photos/MAD_DUFFY_RONALD_2026-11-23.jpg"
   },
   {
    "key": "VAN_DELGADO_ALAZAY_2026-11-23",
