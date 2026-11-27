@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-27T00:47:46+00:00",
+ "updated": "2026-11-27T02:47:47+00:00",
  "items": [
+  {
+   "key": "POR_CLEMENS_BARBARA_2026-11-26",
+   "name": "Barbara Ann Clemens",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1795747649,
+   "photo": "photos/POR_CLEMENS_BARBARA_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_PULLOM_NATHANAEL_2026-11-26",
+   "name": "Nathanael Hurley Pullom",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation with a Deadly Weapon",
+   "more": 2,
+   "ts": 1795747645,
+   "photo": "photos/VAN_PULLOM_NATHANAEL_2026-11-26.jpg"
+  },
   {
    "key": "MAD_MALONE_JONI_2026-11-26",
    "name": "Joni Leann Malone",
@@ -398,17 +420,6 @@
    "photo": null
   },
   {
-   "key": "VAN_LITT_OBERA_2026-11-25",
-   "name": "Obera Laneal Litt",
-   "age": "52",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Controlled Substance- Possession Marijuana/Hash Oil/Hashish/",
-   "more": 1,
-   "ts": 1795664846,
-   "photo": "photos/VAN_LITT_OBERA_2026-11-25.jpg"
-  },
-  {
    "key": "ALL_GODING_JENNIFER_2026-11-25",
    "name": "Jennifer Goding",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795643245,
    "photo": "photos/POR_FORTNER_BERNARD_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_MORGAN_WESLEY_2026-11-25",
-   "name": "Wesley Isaiah Morgan",
-   "age": "31",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795639642,
-   "photo": "photos/MAD_MORGAN_WESLEY_2026-11-25.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "POR_CLEMENS_BARBARA_2026-11-26",
+   "name": "Barbara Ann Clemens",
+   "age": "48",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1795747649,
+   "photo": "photos/POR_CLEMENS_BARBARA_2026-11-26.jpg"
+  },
+  {
+   "key": "VAN_PULLOM_NATHANAEL_2026-11-26",
+   "name": "Nathanael Hurley Pullom",
+   "age": "43",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Intimidation with a Deadly Weapon",
+   "more": 2,
+   "ts": 1795747645,
+   "photo": "photos/VAN_PULLOM_NATHANAEL_2026-11-26.jpg"
+  },
   {
    "key": "MAD_MALONE_JONI_2026-11-26",
    "name": "Joni Leann Malone",
