@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-27T05:47:51+00:00",
+ "updated": "2026-11-27T06:53:53+00:00",
  "items": [
+  {
+   "key": "VAN_WASHINGTON_JOVOCSE_2026-11-26",
+   "name": "Jovocse Alize Washington",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 1,
+   "ts": 1795762167,
+   "photo": "photos/VAN_WASHINGTON_JOVOCSE_2026-11-26.jpg"
+  },
+  {
+   "key": "MAD_TOWNSEND_RODNEY_2026-11-27",
+   "name": "Rodney Curtis Townsend",
+   "age": "63",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "more": 0,
+   "ts": 1795762121,
+   "photo": "photos/MAD_TOWNSEND_RODNEY_2026-11-27.jpg"
+  },
+  {
+   "key": "MAD_DIAZRAMOS_SAUL_2026-11-27",
+   "name": "Saul Alexis Diaz Ramos",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795762100,
+   "photo": null
+  },
   {
    "key": "ALL_CASTILLEJO_DAVID_2026-11-26",
    "name": "David Castillejo",
@@ -398,17 +431,6 @@
    "photo": null
   },
   {
-   "key": "VAN_BROOKMAN_CHRISTOPHER_2026-11-25",
-   "name": "Christopher Stephen Brookman",
-   "age": "40",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Petition to Revoke Probation",
-   "more": 0,
-   "ts": 1795679254,
-   "photo": "photos/VAN_BROOKMAN_CHRISTOPHER_2026-11-25.jpg"
-  },
-  {
    "key": "ALL_GRIFFIN_TANQUANIC_2026-11-26",
    "name": "Tanquanic Griffin",
    "age": "",
@@ -506,31 +528,42 @@
    "more": 2,
    "ts": 1795661245,
    "photo": null
-  },
-  {
-   "key": "ALL_BRADSHAW_SHERI_2026-11-25",
-   "name": "Sheri Bradshaw",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Possession of Cocaine or Narcotic Drug",
-   "more": 1,
-   "ts": 1795661238,
-   "photo": null
-  },
-  {
-   "key": "POR_ZULEGER_ADAM_2026-11-25",
-   "name": "Adam Michael Zuleger",
-   "age": "41",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Battery - Against Public Safety Official Engaged in Official Duty",
-   "more": 4,
-   "ts": 1795657661,
-   "photo": "photos/POR_ZULEGER_ADAM_2026-11-25.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_WASHINGTON_JOVOCSE_2026-11-26",
+   "name": "Jovocse Alize Washington",
+   "age": "24",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Order- Disorderly Conduct",
+   "more": 1,
+   "ts": 1795762167,
+   "photo": "photos/VAN_WASHINGTON_JOVOCSE_2026-11-26.jpg"
+  },
+  {
+   "key": "MAD_TOWNSEND_RODNEY_2026-11-27",
+   "name": "Rodney Curtis Townsend",
+   "age": "63",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "more": 0,
+   "ts": 1795762121,
+   "photo": "photos/MAD_TOWNSEND_RODNEY_2026-11-27.jpg"
+  },
+  {
+   "key": "MAD_DIAZRAMOS_SAUL_2026-11-27",
+   "name": "Saul Alexis Diaz Ramos",
+   "age": "31",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "",
+   "more": 0,
+   "ts": 1795762100,
+   "photo": null
+  },
   {
    "key": "ALL_CASTILLEJO_DAVID_2026-11-26",
    "name": "David Castillejo",
@@ -2114,28 +2147,6 @@
    "more": 2,
    "ts": 1795506442,
    "photo": "photos/MAD_FIELDS_AMANDA_2026-11-24.jpg"
-  },
-  {
-   "key": "MAD_PIPITO_LOUIS_2026-11-24",
-   "name": "Louis Pipito",
-   "age": "",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795502870,
-   "photo": null
-  },
-  {
-   "key": "MAD_CRONK_KRISTA_2026-11-24",
-   "name": "Krista K Cronk",
-   "age": "40",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795502864,
-   "photo": "photos/MAD_CRONK_KRISTA_2026-11-24.jpg"
   },
   {
    "key": "ALL_MENDOZA_JONQUIL_2026-11-24",
