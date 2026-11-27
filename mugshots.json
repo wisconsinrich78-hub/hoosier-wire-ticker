@@ -1,6 +1,61 @@
 {
- "updated": "2026-11-27T03:48:04+00:00",
+ "updated": "2026-11-27T04:48:08+00:00",
  "items": [
+  {
+   "key": "MAD_SHANAHAN_JASMINE_2026-11-26",
+   "name": "Jasmine C Shanahan",
+   "age": "27",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Interfere in the reporting of a crime",
+   "more": 1,
+   "ts": 1795754878,
+   "photo": "photos/MAD_SHANAHAN_JASMINE_2026-11-26.jpg"
+  },
+  {
+   "key": "POR_LOPEZ_ANGELO_2026-11-26",
+   "name": "Angelo Xavier Lopez",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1795754871,
+   "photo": "photos/POR_LOPEZ_ANGELO_2026-11-26.jpg"
+  },
+  {
+   "key": "MAD_BLAYLOCK_JALEN_2026-11-26",
+   "name": "Jalen Dierre Blaylock",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1795754869,
+   "photo": null
+  },
+  {
+   "key": "ALL_HOUR_ALEXANDER_2026-11-26",
+   "name": "Alexander Hour",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 2,
+   "ts": 1795754856,
+   "photo": "photos/ALL_HOUR_ALEXANDER_2026-11-26.jpg"
+  },
+  {
+   "key": "ALL_RAMOS_ADRIAN_2026-11-26",
+   "name": "Adrian Ramos",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > .08% and < .15%",
+   "more": 4,
+   "ts": 1795754849,
+   "photo": "photos/ALL_RAMOS_ADRIAN_2026-11-26.jpg"
+  },
   {
    "key": "VAN_SMITH_ZACHARY_2026-11-26",
    "name": "Zachary Wayne Smith",
@@ -473,64 +528,64 @@
    "more": 0,
    "ts": 1795654037,
    "photo": "photos/ALL_EDMONDSON_JERMAINE_2026-11-25.jpg"
-  },
-  {
-   "key": "ALL_PUTT_TIFFANY_2026-11-25",
-   "name": "Tiffany Putt",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1795654031,
-   "photo": "photos/ALL_PUTT_TIFFANY_2026-11-25.jpg"
-  },
-  {
-   "key": "ALL_CARTWRIGHT_ASPEN_2026-11-25",
-   "name": "Aspen Cartwright",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Criminal Mischief",
-   "more": 1,
-   "ts": 1795650442,
-   "photo": "photos/ALL_CARTWRIGHT_ASPEN_2026-11-25.jpg"
-  },
-  {
-   "key": "MAD_JORDAN_JONATHAN_2026-11-25",
-   "name": "Jonathan Demetrius Jordan",
-   "age": "56",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation Continuum Sanctions",
-   "more": 0,
-   "ts": 1795646841,
-   "photo": "photos/MAD_JORDAN_JONATHAN_2026-11-25.jpg"
-  },
-  {
-   "key": "MAD_BROWN_ISADORE_2026-11-25",
-   "name": "Isadore Lonniel Brown",
-   "age": "36",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "Violation of COS",
-   "more": 0,
-   "ts": 1795643248,
-   "photo": "photos/MAD_BROWN_ISADORE_2026-11-25.jpg"
-  },
-  {
-   "key": "POR_FORTNER_BERNARD_2026-11-24",
-   "name": "Bernard Leslie Fortner",
-   "age": "49",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Family Offense- Invasion of Privacy",
-   "more": 0,
-   "ts": 1795643245,
-   "photo": "photos/POR_FORTNER_BERNARD_2026-11-24.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_SHANAHAN_JASMINE_2026-11-26",
+   "name": "Jasmine C Shanahan",
+   "age": "27",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Interfere in the reporting of a crime",
+   "more": 1,
+   "ts": 1795754878,
+   "photo": "photos/MAD_SHANAHAN_JASMINE_2026-11-26.jpg"
+  },
+  {
+   "key": "POR_LOPEZ_ANGELO_2026-11-26",
+   "name": "Angelo Xavier Lopez",
+   "age": "28",
+   "county": "Porter County",
+   "region": "northwest",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 2,
+   "ts": 1795754871,
+   "photo": "photos/POR_LOPEZ_ANGELO_2026-11-26.jpg"
+  },
+  {
+   "key": "MAD_BLAYLOCK_JALEN_2026-11-26",
+   "name": "Jalen Dierre Blaylock",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Domestic battery (A/M) Simple",
+   "more": 0,
+   "ts": 1795754869,
+   "photo": null
+  },
+  {
+   "key": "ALL_HOUR_ALEXANDER_2026-11-26",
+   "name": "Alexander Hour",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated - Prior Conviction",
+   "more": 2,
+   "ts": 1795754856,
+   "photo": "photos/ALL_HOUR_ALEXANDER_2026-11-26.jpg"
+  },
+  {
+   "key": "ALL_RAMOS_ADRIAN_2026-11-26",
+   "name": "Adrian Ramos",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Operating While Intoxicated > .08% and < .15%",
+   "more": 4,
+   "ts": 1795754849,
+   "photo": "photos/ALL_RAMOS_ADRIAN_2026-11-26.jpg"
+  },
   {
    "key": "VAN_SMITH_ZACHARY_2026-11-26",
    "name": "Zachary Wayne Smith",
