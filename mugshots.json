@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-27T17:48:18+00:00",
+ "updated": "2026-11-27T19:48:00+00:00",
  "items": [
+  {
+   "key": "ALL_FOSS_GABRIEL_2026-11-27",
+   "name": "Gabriel Foss",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation by Threats",
+   "more": 2,
+   "ts": 1795808838,
+   "photo": "photos/ALL_FOSS_GABRIEL_2026-11-27.jpg"
+  },
+  {
+   "key": "ALL_SMITH_CHANEL_2026-11-27",
+   "name": "Chanel Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795808837,
+   "photo": "photos/ALL_SMITH_CHANEL_2026-11-27.jpg"
+  },
   {
    "key": "MAD_CLARK_SHAWN_2026-11-27",
    "name": "Shawn Tyler Clark",
@@ -506,31 +528,31 @@
    "more": 0,
    "ts": 1795679262,
    "photo": null
-  },
-  {
-   "key": "ALL_GRIFFIN_TANQUANIC_2026-11-26",
-   "name": "Tanquanic Griffin",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Leaving the Scene of a Crash - Property Damage",
-   "more": 1,
-   "ts": 1795679249,
-   "photo": "photos/ALL_GRIFFIN_TANQUANIC_2026-11-26.jpg"
-  },
-  {
-   "key": "ALL_HIGGINS_MAURICE_2026-11-26",
-   "name": "Maurice Higgins",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Operating While Intoxicated - Endangerment",
-   "more": 0,
-   "ts": 1795679243,
-   "photo": "photos/ALL_HIGGINS_MAURICE_2026-11-26.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_FOSS_GABRIEL_2026-11-27",
+   "name": "Gabriel Foss",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Intimidation by Threats",
+   "more": 2,
+   "ts": 1795808838,
+   "photo": "photos/ALL_FOSS_GABRIEL_2026-11-27.jpg"
+  },
+  {
+   "key": "ALL_SMITH_CHANEL_2026-11-27",
+   "name": "Chanel Smith",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "",
+   "more": 0,
+   "ts": 1795808837,
+   "photo": "photos/ALL_SMITH_CHANEL_2026-11-27.jpg"
+  },
   {
    "key": "MAD_CLARK_SHAWN_2026-11-27",
    "name": "Shawn Tyler Clark",
@@ -1970,28 +1992,6 @@
    "charge": "Court Ordered Confinement",
    "more": 0,
    "ts": 1795553224,
-   "photo": null
-  },
-  {
-   "key": "MAD_SMITH_CLINT_2026-11-24",
-   "name": "Clint Smith",
-   "age": "45",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795549647,
-   "photo": null
-  },
-  {
-   "key": "MAD_HALEY_ANNABELL_2026-11-24",
-   "name": "Annabell Haley",
-   "age": "81",
-   "county": "Madison County",
-   "region": "central",
-   "charge": "",
-   "more": 0,
-   "ts": 1795549641,
    "photo": null
   },
   {
