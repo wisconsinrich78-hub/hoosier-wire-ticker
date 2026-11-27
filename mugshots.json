@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-27T04:48:08+00:00",
+ "updated": "2026-11-27T05:47:51+00:00",
  "items": [
+  {
+   "key": "ALL_CASTILLEJO_DAVID_2026-11-26",
+   "name": "David Castillejo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Prior Unrelated Conviction for Battery Against\u2026",
+   "more": 1,
+   "ts": 1795758445,
+   "photo": "photos/ALL_CASTILLEJO_DAVID_2026-11-26.jpg"
+  },
+  {
+   "key": "ALL_WIN_RAMESH_2026-11-27",
+   "name": "Ramesh Win",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1795758440,
+   "photo": "photos/ALL_WIN_RAMESH_2026-11-27.jpg"
+  },
+  {
+   "key": "VAN_PASCUALZARATE_INOCENTE_2026-11-26",
+   "name": "Inocente Pascual Zarate",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1795758438,
+   "photo": "photos/VAN_PASCUALZARATE_INOCENTE_2026-11-26.jpg"
+  },
   {
    "key": "MAD_SHANAHAN_JASMINE_2026-11-26",
    "name": "Jasmine C Shanahan",
@@ -420,17 +453,6 @@
    "photo": "photos/ALL_WIN_RAMESH_2026-11-26.jpg"
   },
   {
-   "key": "VAN_BELILES_JOSHUA_2026-11-25",
-   "name": "Joshua Damen Beliles",
-   "age": "36",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Communication- Intimidation",
-   "more": 1,
-   "ts": 1795675641,
-   "photo": "photos/VAN_BELILES_JOSHUA_2026-11-25.jpg"
-  },
-  {
    "key": "ALL_SWIFT_TIMOTHY_2026-11-26",
    "name": "Timothy Swift",
    "age": "",
@@ -506,31 +528,42 @@
    "more": 4,
    "ts": 1795657661,
    "photo": "photos/POR_ZULEGER_ADAM_2026-11-25.jpg"
-  },
-  {
-   "key": "ALL_OSMUN_TONY_2026-11-25",
-   "name": "Tony Osmun",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Hold for Other Jurisdiction",
-   "more": 0,
-   "ts": 1795657641,
-   "photo": "photos/ALL_OSMUN_TONY_2026-11-25.jpg"
-  },
-  {
-   "key": "ALL_EDMONDSON_JERMAINE_2026-11-25",
-   "name": "Jermaine Edmondson",
-   "age": "",
-   "county": "Allen County",
-   "region": "northeast",
-   "charge": "Probation Viol-Adult",
-   "more": 0,
-   "ts": 1795654037,
-   "photo": "photos/ALL_EDMONDSON_JERMAINE_2026-11-25.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "ALL_CASTILLEJO_DAVID_2026-11-26",
+   "name": "David Castillejo",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Domestic Battery - Prior Unrelated Conviction for Battery Against\u2026",
+   "more": 1,
+   "ts": 1795758445,
+   "photo": "photos/ALL_CASTILLEJO_DAVID_2026-11-26.jpg"
+  },
+  {
+   "key": "ALL_WIN_RAMESH_2026-11-27",
+   "name": "Ramesh Win",
+   "age": "",
+   "county": "Allen County",
+   "region": "northeast",
+   "charge": "Criminal Trespass",
+   "more": 0,
+   "ts": 1795758440,
+   "photo": "photos/ALL_WIN_RAMESH_2026-11-27.jpg"
+  },
+  {
+   "key": "VAN_PASCUALZARATE_INOCENTE_2026-11-26",
+   "name": "Inocente Pascual Zarate",
+   "age": "26",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
+   "more": 1,
+   "ts": 1795758438,
+   "photo": "photos/VAN_PASCUALZARATE_INOCENTE_2026-11-26.jpg"
+  },
   {
    "key": "MAD_SHANAHAN_JASMINE_2026-11-26",
    "name": "Jasmine C Shanahan",
