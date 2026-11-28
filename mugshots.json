@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-28T05:47:54+00:00",
+ "updated": "2026-11-28T06:47:34+00:00",
  "items": [
+  {
+   "key": "VAN_JOHNSON_TRAVIS_2026-11-27",
+   "name": "Travis Devin Johnson",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795848434,
+   "photo": "photos/VAN_JOHNSON_TRAVIS_2026-11-27.jpg"
+  },
   {
    "key": "ALL_HOPPUS_MARK_2026-11-28",
    "name": "Mark Hoppus",
@@ -420,17 +431,6 @@
    "photo": "photos/VAN_JONES_MYKEL_2026-11-27.jpg"
   },
   {
-   "key": "VAN_WASHINGTON_JOVOCSE_2026-11-26",
-   "name": "Jovocse Alize Washington",
-   "age": "24",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Order- Disorderly Conduct",
-   "more": 1,
-   "ts": 1795762167,
-   "photo": "photos/VAN_WASHINGTON_JOVOCSE_2026-11-26.jpg"
-  },
-  {
    "key": "MAD_TOWNSEND_RODNEY_2026-11-27",
    "name": "Rodney Curtis Townsend",
    "age": "63",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_JOHNSON_TRAVIS_2026-11-27",
+   "name": "Travis Devin Johnson",
+   "age": "38",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 0,
+   "ts": 1795848434,
+   "photo": "photos/VAN_JOHNSON_TRAVIS_2026-11-27.jpg"
+  },
   {
    "key": "ALL_HOPPUS_MARK_2026-11-28",
    "name": "Mark Hoppus",
