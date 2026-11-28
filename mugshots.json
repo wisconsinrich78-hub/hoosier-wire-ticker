@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-28T01:48:24+00:00",
+ "updated": "2026-11-28T02:48:47+00:00",
  "items": [
+  {
+   "key": "VAN_BILIMON_IVANJHAY_2026-11-27",
+   "name": "Ivanjhay Tarson Bilimon",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 4,
+   "ts": 1795834058,
+   "photo": "photos/VAN_BILIMON_IVANJHAY_2026-11-27.jpg"
+  },
   {
    "key": "VAN_DRAPER_JOSHUA_2026-11-27",
    "name": "Joshua Edward Draper",
@@ -486,17 +497,6 @@
    "photo": "photos/ALL_RAMOS_ADRIAN_2026-11-26.jpg"
   },
   {
-   "key": "VAN_SMITH_ZACHARY_2026-11-26",
-   "name": "Zachary Wayne Smith",
-   "age": "44",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Resisting Law Enforcement-Causes Bodily Injury L5",
-   "more": 0,
-   "ts": 1795751264,
-   "photo": "photos/VAN_SMITH_ZACHARY_2026-11-26.jpg"
-  },
-  {
    "key": "POR_CLEMENS_BARBARA_2026-11-26",
    "name": "Barbara Ann Clemens",
    "age": "48",
@@ -531,6 +531,17 @@
   }
  ],
  "all_items": [
+  {
+   "key": "VAN_BILIMON_IVANJHAY_2026-11-27",
+   "name": "Ivanjhay Tarson Bilimon",
+   "age": "25",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Public Administration- Fail to Appear",
+   "more": 4,
+   "ts": 1795834058,
+   "photo": "photos/VAN_BILIMON_IVANJHAY_2026-11-27.jpg"
+  },
   {
    "key": "VAN_DRAPER_JOSHUA_2026-11-27",
    "name": "Joshua Edward Draper",
