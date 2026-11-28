@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-28T07:47:26+00:00",
+ "updated": "2026-11-28T09:47:22+00:00",
  "items": [
+  {
+   "key": "MAD_EADS_WILLIAM_2026-11-28",
+   "name": "William Broderick Eads",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "more": 0,
+   "ts": 1795859232,
+   "photo": null
+  },
+  {
+   "key": "VAN_LIBOKMETO_ALINTON_2026-11-28",
+   "name": "Alinton Dj Libokmeto",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Burglary",
+   "more": 4,
+   "ts": 1795859226,
+   "photo": "photos/VAN_LIBOKMETO_ALINTON_2026-11-28.jpg"
+  },
   {
    "key": "MAD_LASLEY_ANDREW_2026-11-28",
    "name": "Andrew Darnell Lasley",
@@ -420,17 +442,6 @@
    "photo": "photos/VAN_MCCOY_STEVE_2026-11-27.jpg"
   },
   {
-   "key": "VAN_MONTENEGRO_SERGIO_2026-11-27",
-   "name": "Sergio Quentin Montenegro",
-   "age": "37",
-   "county": "Vanderburgh County",
-   "region": "south",
-   "charge": "Public Administration- Fail to Appear",
-   "more": 0,
-   "ts": 1795772936,
-   "photo": "photos/VAN_MONTENEGRO_SERGIO_2026-11-27.jpg"
-  },
-  {
    "key": "ALL_ANDERSON_KAVONTAE_2026-11-27",
    "name": "Kavontae Anderson",
    "age": "",
@@ -517,20 +528,31 @@
    "more": 0,
    "ts": 1795754869,
    "photo": null
-  },
-  {
-   "key": "POR_CLEMENS_BARBARA_2026-11-26",
-   "name": "Barbara Ann Clemens",
-   "age": "48",
-   "county": "Porter County",
-   "region": "northwest",
-   "charge": "Motor Vehicle- Operating a Vehicle While Intoxicated",
-   "more": 2,
-   "ts": 1795747649,
-   "photo": "photos/POR_CLEMENS_BARBARA_2026-11-26.jpg"
   }
  ],
  "all_items": [
+  {
+   "key": "MAD_EADS_WILLIAM_2026-11-28",
+   "name": "William Broderick Eads",
+   "age": "28",
+   "county": "Madison County",
+   "region": "central",
+   "charge": "Operating a vehicle while intoxicated- endangerment",
+   "more": 0,
+   "ts": 1795859232,
+   "photo": null
+  },
+  {
+   "key": "VAN_LIBOKMETO_ALINTON_2026-11-28",
+   "name": "Alinton Dj Libokmeto",
+   "age": "29",
+   "county": "Vanderburgh County",
+   "region": "south",
+   "charge": "Burglary",
+   "more": 4,
+   "ts": 1795859226,
+   "photo": "photos/VAN_LIBOKMETO_ALINTON_2026-11-28.jpg"
+  },
   {
    "key": "MAD_LASLEY_ANDREW_2026-11-28",
    "name": "Andrew Darnell Lasley",
